@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a Django Project that cann be found [here](https://www.stadiatracker.com)
+- 🔭 I’m currently working on a Django Project that can be found [here](https://www.stadiatracker.com)
 - 🌱 I’m currently learning about Django and Vim
 - 📫 How to reach me: @ryancheley on [Twitter](https://twitter.com/ryancheley)
 - 😄 Pronouns: he/him
