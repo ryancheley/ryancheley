@@ -63,6 +63,11 @@
 
 
   <blockquote>
+  <p>🏃‍♂️Today, I ran 1.00 miles ...</p>
+  - <a href="https://mastodon.social/@ryancheley/109504287197913242" target="_blank">2022-12-13</a>
+  </blockquote>
+
+  <blockquote>
   <p>🏃‍♂️Today, I ran 2.00 miles ...</p>
   - <a href="https://mastodon.social/@ryancheley/109496235200953128" target="_blank">2022-12-11</a>
   </blockquote>
@@ -70,11 +75,6 @@
   <blockquote>
   <p>🏃‍♂️Today, I ran 1.01 miles ...</p>
   - <a href="https://mastodon.social/@ryancheley/109491167853693869" target="_blank">2022-12-10</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Turns out 8 years ago today I finished my quest to run 13 half marathons in 13 calendar months. I honestly can’t believe it was that long ago 🤯 ...</p>
-  - <a href="https://mastodon.social/@ryancheley/109481735184626073" target="_blank">2022-12-09</a>
   </blockquote>
 
 
