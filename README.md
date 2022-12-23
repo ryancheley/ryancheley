@@ -63,6 +63,11 @@
 
 
   <blockquote>
+  <p>🏃‍♂️Today, I ran 1.02 miles ...</p>
+  - <a href="https://mastodon.social/@ryancheley/109561082325666360" target="_blank">2022-12-23</a>
+  </blockquote>
+
+  <blockquote>
   <p>🏃‍♂️Today, I ran 1.29 miles ...</p>
   - <a href="https://mastodon.social/@ryancheley/109553584024386632" target="_blank">2022-12-21</a>
   </blockquote>
@@ -70,11 +75,6 @@
   <blockquote>
   <p>🏃‍♂️Today, I ran 1.02 miles ...</p>
   - <a href="https://mastodon.social/@ryancheley/109548472581881353" target="_blank">2022-12-20</a>
-  </blockquote>
-
-  <blockquote>
-  <p>🏃‍♂️Today, I ran 1.38 miles ...</p>
-  - <a href="https://mastodon.social/@ryancheley/109542352990551438" target="_blank">2022-12-19</a>
   </blockquote>
 
 
