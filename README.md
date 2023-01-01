@@ -63,6 +63,11 @@
 
 
   <blockquote>
+  <p>🏃‍♂️Today, I ran 1.02 miles ...</p>
+  - <a href="https://mastodon.social/@ryancheley/109609909157408131" target="_blank">2022-12-31</a>
+  </blockquote>
+
+  <blockquote>
   <p>🏃‍♂️Today, I ran 1.31 miles ...</p>
   - <a href="https://mastodon.social/@ryancheley/109604578129896753" target="_blank">2022-12-30</a>
   </blockquote>
@@ -70,11 +75,6 @@
   <blockquote>
   <p>🏃‍♂️Today, I ran 1.03 miles ...</p>
   - <a href="https://mastodon.social/@ryancheley/109600733304864968" target="_blank">2022-12-30</a>
-  </blockquote>
-
-  <blockquote>
-  <p>The first was when I saw the Ontario Reign (tonight’s visiting team) come back from 4 goals down in the third period to win it in over time (March 2, 2019). To top it off, the winning goal was scored by the guy who’s bobble head night was happening. I’m just saying, AHL Hockey (minor leagues) is where it’s at for hockey games</p>
-  - <a href="https://mastodon.social/@ryancheley/109595445589552847" target="_blank">2022-12-29</a>
   </blockquote>
 
 
