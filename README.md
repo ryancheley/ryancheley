@@ -19,7 +19,6 @@
 <span style="color: #808080; text-decoration-color: #808080">┗━━ </span>👨‍💻 Employer
 <span style="color: #808080; text-decoration-color: #808080">    ┗━━ </span><span style="font-weight: bold"><a href="https://www.mydohc.com">Desert Oasis Healthcare</a></span> - <span style="color: #808080; text-decoration-color: #808080">Your Health. Your Life. Our Passion.</span>
 
-🐦 <span style="color: #008000; text-decoration-color: #008000">Follow me on twitter </span><span style="color: #008000; text-decoration-color: #008000; font-weight: bold"><a href="https://twitter.com/ryancheley">@ryancheley</a></span>
 🦣 <span style="color: #008000; text-decoration-color: #008000">Follow me on mastodon </span><span style="color: #008000; text-decoration-color: #008000; font-weight: bold"><a href="https://mastodon.social/@ryancheley">@ryancheley</a></span>
 </pre>
 
