@@ -100,9 +100,6 @@ employer_tree.add(
 console.print(tree)
 console.print("")
 console.print(
-    "🐦 [green]Follow me on twitter [bold link=https://twitter.com/ryancheley]@ryancheley[/]"
-)
-console.print(
     "🦣 [green]Follow me on mastodon [bold link=https://mastodon.social/@ryancheley]@ryancheley[/]"
 )
 
