@@ -16,8 +16,10 @@
 <span style="color: #808080; text-decoration-color: #808080">┃   ┗━━ </span><span style="font-weight: bold"><a href="https://doestatisjrhaveanerrortoday.com">tatis</a></span> - <span style="color: #808080; text-decoration-color: #808080">Does Tatis have an error today? You can check here</span>
 <span style="color: #808080; text-decoration-color: #808080">┣━━ </span>🎙️ Podcasts
 <span style="color: #808080; text-decoration-color: #808080">┃   ┗━━ </span><span style="font-weight: bold"><a href="https://testandcode.com/183">Test &amp; Code 183 - Managing Software Teams</a></span>
-<span style="color: #808080; text-decoration-color: #808080">┗━━ </span>👨‍💻 Employer
-<span style="color: #808080; text-decoration-color: #808080">    ┗━━ </span><span style="font-weight: bold"><a href="https://www.mydohc.com">Desert Oasis Healthcare</a></span> - <span style="color: #808080; text-decoration-color: #808080">Your Health. Your Life. Our Passion.</span>
+<span style="color: #808080; text-decoration-color: #808080">┣━━ </span>👨‍💻 Employer
+<span style="color: #808080; text-decoration-color: #808080">┃   ┗━━ </span><span style="font-weight: bold"><a href="https://www.mydohc.com">Desert Oasis Healthcare</a></span> - <span style="color: #808080; text-decoration-color: #808080">Your Health. Your Life. Our Passion.</span>
+<span style="color: #808080; text-decoration-color: #808080">┗━━ </span>📜 Certifications
+<span style="color: #808080; text-decoration-color: #808080">    ┗━━ </span>GCP Cloud Architect - Feb 2023
 
 🦣 <span style="color: #008000; text-decoration-color: #008000">Follow me on mastodon </span><span style="color: #008000; text-decoration-color: #008000; font-weight: bold"><a href="https://mastodon.social/@ryancheley">@ryancheley</a></span>
 </pre>
@@ -62,6 +64,11 @@
 
 
   <blockquote>
+  <p>Earlier today I passed the GCP Cloud Architect exam with a provisional pass. I’m pretty happy about this because all that hard work and studying paid off AND I get my nights and weekends back. I’ll be writing up a post about my experience in the next few days, but for now I’m going to celebrate by watching Superb Owls at the Super Bowl and probably taking a nap</p>
+  - <a href="https://mastodon.social/@ryancheley/109853746442410256" target="_blank">2023-02-12</a>
+  </blockquote>
+
+  <blockquote>
   <p>🏃‍♂️Today, I ran 1.52 miles ...</p>
   - <a href="https://mastodon.social/@ryancheley/109615195823619576" target="_blank">2023-01-01</a>
   </blockquote>
@@ -69,11 +76,6 @@
   <blockquote>
   <p>🏃‍♂️Today, I ran 1.02 miles ...</p>
   - <a href="https://mastodon.social/@ryancheley/109609909157408131" target="_blank">2022-12-31</a>
-  </blockquote>
-
-  <blockquote>
-  <p>🏃‍♂️Today, I ran 1.31 miles ...</p>
-  - <a href="https://mastodon.social/@ryancheley/109604578129896753" target="_blank">2022-12-30</a>
   </blockquote>
 
 
