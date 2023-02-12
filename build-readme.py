@@ -97,6 +97,11 @@ employer_tree.add(
     "[bold link=https://www.mydohc.com]Desert Oasis Healthcare[/] - [bright_black]Your Health. Your Life. Our Passion."
 )
 
+certification_tree = tree.add("📜 Certifications", guide_style="bright_black")
+certification_tree.add(
+    "[bold link=]GCP Cloud Architect[/] - Feb 2023"
+)
+
 console.print(tree)
 console.print("")
 console.print(
