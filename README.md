@@ -63,21 +63,6 @@
 ### Latest Mastodon toots
 
 
-  <blockquote>
-  <p>Listening to John Smoltz talk about imposter syndrome while calling the USA v Canada WBC game is pretty amazing.  ...</p>
-  - <a href="https://mastodon.social/@ryancheley/110019295861691704" target="_blank">2023-03-14</a>
-  </blockquote>
-
-  <blockquote>
-  <p>The best part about a hockey game is that your drink won’t get warm because you’re basically sitting in a refrigerator watching a sporting event and it’s pretty freaking awesome when you think about it</p>
-  - <a href="https://mastodon.social/@ryancheley/110012928539924662" target="_blank">2023-03-12</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Earlier today I passed the GCP Cloud Architect exam with a provisional pass. I’m pretty happy about this because all that hard work and studying paid off AND I get my nights and weekends back. I’ll be writing up a post about my experience in the next few days, but for now I’m going to celebrate by watching Superb Owls at the Super Bowl and probably taking a nap</p>
-  - <a href="https://mastodon.social/@ryancheley/109853746442410256" target="_blank">2023-02-12</a>
-  </blockquote>
-
 
 <br>
 
