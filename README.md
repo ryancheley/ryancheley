@@ -63,6 +63,21 @@
 ### Latest Mastodon toots
 
 
+  <blockquote>
+  <p>The one bright spot was that I did pick Furman so for like an hour today I had a bracket that was in the 100% of ESPN. I should have taken a screenshot though …. especially considering (waving arms around) all of this!</p>
+  - <a href="https://mastodon.social/@ryancheley/110035751387459951" target="_blank">2023-03-17</a>
+  </blockquote>
+
+  <blockquote>
+  <p>So umm … how are YOUR brackets doing? <a class="mention hashtag" href="https://mastodon.social/tags/MarchMadness" rel="tag">#<span>MarchMadness</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/110035714221492056" target="_blank">2023-03-17</a>
+  </blockquote>
+
+  <blockquote>
+  <p>Listening to John Smoltz talk about imposter syndrome while calling the USA v Canada WBC game is pretty amazing.  ...</p>
+  - <a href="https://mastodon.social/@ryancheley/110019295861691704" target="_blank">2023-03-14</a>
+  </blockquote>
+
 
 <br>
 
