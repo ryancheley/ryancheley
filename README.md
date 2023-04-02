@@ -50,9 +50,11 @@
 
 <ul>
 
-  <li><a href="tag:www.ryancheley.com,2022-11-12:/2022/11/12/contributing-to-django/" target="_blank"><p>I went to <a href="https://2022.djangocon.us">DjangoCon US</a> a few weeks ago and <a href="https://twitter.com/pauloxnet/status/1583350887375773696">hung around for the sprints</a>. I was particularly interested in working on open tickets related to the ORM. It so happened that <a href="https://github.com/charettes">Simon Charette</a> was at Django Con and was able to meet with several of us to talk through …</p></a> - 2022-11-12</li>
+  <li><a href="tag:www.ryancheley.com,2023-04-01:/2023/04/01/gcp-cloud-architect-exam-experience/" target="_blank"><p>Notes:</p>
+<p><a href="https://www.fiercehealthcare.com/health-tech/google-health-notches-another-provider-partner-care-studio">Last October it was announced</a> that Desert Oasis Healthcare (the company I work for) signed on to pilot <a href="https://health.google/caregivers/care-studio/">Google's Care Studio</a>. DOHC is the first ambulatory clinic to sign on. </p>
+<p>I had been in some of the discovery meetings before the announcement and was really excited about the opportunity …</p></a> - 2023-04-01</li>
 
-  <li><a href="tag:www.ryancheley.com,2022-08-28:/2022/08/28/upgrading-to-postgresql-14/" target="_blank"><p><a href="https://docs.djangoproject.com/en/4.1/releases/4.1/">Django 4.1 was released on August 3, 2022</a> and I was excited to upgrade to it. I did the testing locally and then pushed my changes up to GitHub to deploy. The deployment was succesful, but when I went to visit my sites ... womp womp. I got a Server …</p></a> - 2022-08-28</li>
+  <li><a href="tag:www.ryancheley.com,2022-11-12:/2022/11/12/contributing-to-django/" target="_blank"><p>I went to <a href="https://2022.djangocon.us">DjangoCon US</a> a few weeks ago and <a href="https://twitter.com/pauloxnet/status/1583350887375773696">hung around for the sprints</a>. I was particularly interested in working on open tickets related to the ORM. It so happened that <a href="https://github.com/charettes">Simon Charette</a> was at Django Con and was able to meet with several of us to talk through …</p></a> - 2022-11-12</li>
 
 </ul>
 
