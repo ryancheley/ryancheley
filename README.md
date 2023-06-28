@@ -31,15 +31,15 @@
 
 <ul>
 
+  <li><a href="https://github.com/ryancheley/til/blob/main/github/delete_branch_on_merge.md " target="_blank">Delete Branch on Merge</a> -  2023-06-27</li>
+
   <li><a href="https://github.com/ryancheley/til/blob/main/Django/setproctitle.md " target="_blank">Adding setproctitle to Django</a> -  2022-12-10</li>
 
-  <li><a href="https://github.com/ryancheley/til/blob/main/pelican/robots_and_favicon.md " target="_blank">Adding a robots.txt and favicon.ico files to my Pelican Site</a> -  2022-12-03</li>
+  <li><a href="https://github.com/ryancheley/til/blob/main/pelican/robots_and_favicon.md " target="_blank">Adding a robots.txt and favicon.ico files to my Pelican Site</a> -  2022-12-10</li>
 
   <li><a href="https://github.com/ryancheley/til/blob/main/regex/named_regex_groups.md " target="_blank">Named Regular Expression Groups</a> -  2022-11-30</li>
 
   <li><a href="https://github.com/ryancheley/til/blob/main/github/stage_partial_changes_in_git.md " target="_blank">Stage Partial Changes in Git</a> -  2021-06-05</li>
-
-  <li><a href="https://github.com/ryancheley/til/blob/main/pypi/adding_a_package_to_pypi.md " target="_blank">Adding a Package to PyPi</a> -  2021-03-07</li>
 
 </ul>
 
