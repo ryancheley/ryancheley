@@ -66,6 +66,11 @@
 
 
   <blockquote>
+  <p>Just bought my plane tickets and booked my room for <a class="mention hashtag" href="https://mastodon.social/tags/DjangoConUS" rel="tag">#<span>DjangoConUS</span></a>. Super excited to be one of this year’s speakers! ...</p>
+  - <a href="https://mastodon.social/@ryancheley/110760632352980288" target="_blank">2023-07-23</a>
+  </blockquote>
+
+  <blockquote>
   <p>My IT team has made some recent enhancements to our Intranet site. These enhancement include taking links that had previously opened files (excel, pdf, word) and instead taking you to a SPA that has the folder that the files live in. This means that I now how to find the file I’m looking for in this folder.  ...</p>
   - <a href="https://mastodon.social/@ryancheley/110708180313039054" target="_blank">2023-07-13</a>
   </blockquote>
@@ -73,11 +78,6 @@
   <blockquote>
   <p>Baseball<br />My favorite part of todays <a class="mention hashtag" href="https://mastodon.social/tags/Padres" rel="tag">#<span>Padres</span></a> game is the announcers advocating for MORE Padres to make the All Star game in what essentially sounds like and All Star Game equivalent of a participation trophy.  ...</p>
   - <a href="https://mastodon.social/@ryancheley/110686205177348147" target="_blank">2023-07-09</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Saw my first Overtime Playoff Hockey game last night. The game started at just after 7pm local and finished just before midnight local. I’ve never seen a more exciting sporting event in person. a little more than 11 minutes into TRIPLE overtime the winning goal was scored by the good guys. Needless to say, I’m pretty tired but WOW what an experience!</p>
-  - <a href="https://mastodon.social/@ryancheley/110378860585437315" target="_blank">2023-05-16</a>
   </blockquote>
 
 
