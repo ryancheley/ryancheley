@@ -66,6 +66,11 @@
 
 
   <blockquote>
+  <p>So far the amount of rain hasn’t been as much as initially feared where I live. That being said, I filled sand bags for the first time in my life to help keep the water from flowing into my front door. Also, the earthquake in California was further north so thankfully we didn’t feel it here, but honestly, this is just nuts</p>
+  - <a href="https://mastodon.social/@ryancheley/110924379014339326" target="_blank">2023-08-20</a>
+  </blockquote>
+
+  <blockquote>
   <p>Also, the city i live in is supposed to get 5-7 inches of rain on Sunday which is like 1.5 YEARS worth rain. Looks a bit like early pandemic behavior out there with people prepping for the weather smh</p>
   - <a href="https://mastodon.social/@ryancheley/110913803660213681" target="_blank">2023-08-19</a>
   </blockquote>
@@ -73,11 +78,6 @@
   <blockquote>
   <p>Not sure who had this on their bingo card, but if you did, congrats? 🤷🏼‍♂️ ...</p>
   - <a href="https://mastodon.social/@ryancheley/110913795106967902" target="_blank">2023-08-19</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Just bought my plane tickets and booked my room for <a class="mention hashtag" href="https://mastodon.social/tags/DjangoConUS" rel="tag">#<span>DjangoConUS</span></a>. Super excited to be one of this year’s speakers! ...</p>
-  - <a href="https://mastodon.social/@ryancheley/110760632352980288" target="_blank">2023-07-23</a>
   </blockquote>
 
 
