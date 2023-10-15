@@ -66,18 +66,18 @@
 
 
   <blockquote>
-  <p>The game ended up getting cancelled. Luckily it was a preseason game, but I’m still pretty bummed. But, there’s always the next one! 👍🏻</p>
-  - <a href="https://mastodon.social/@ryancheley/111191599958303887" target="_blank">2023-10-07</a>
+  <p>finally checked into hotel and settling in for the night. Looking forward to seeing what Durham has to offer first thing tomorrow morning!</p>
+  - <a href="https://mastodon.social/@ryancheley/111236988195634801" target="_blank">2023-10-15</a>
   </blockquote>
 
   <blockquote>
-  <p>At a hockey game and the power went out … so I can check that off my bingo card. 🤣</p>
-  - <a href="https://mastodon.social/@ryancheley/111191069532662730" target="_blank">2023-10-07</a>
+  <p>Just landed at RDU!</p>
+  - <a href="https://mastodon.social/@ryancheley/111236683875097955" target="_blank">2023-10-15</a>
   </blockquote>
 
   <blockquote>
-  <p>So far the amount of rain hasn’t been as much as initially feared where I live. That being said, I filled sand bags for the first time in my life to help keep the water from flowing into my front door. Also, the earthquake in California was further north so thankfully we didn’t feel it here, but honestly, this is just nuts</p>
-  - <a href="https://mastodon.social/@ryancheley/110924379014339326" target="_blank">2023-08-20</a>
+  <p>Just checked in and am getting ready to fly across the country for <a class="mention hashtag" href="https://mastodon.social/tags/DjangoConUS" rel="tag">#<span>DjangoConUS</span></a>. Super excited!!</p>
+  - <a href="https://mastodon.social/@ryancheley/111234438564858534" target="_blank">2023-10-14</a>
   </blockquote>
 
 
