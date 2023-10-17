@@ -66,6 +66,11 @@
 
 
   <blockquote>
+  <p>I just wrapped up my talk at <a class="mention hashtag" href="https://mastodon.social/tags/DjangoCon" rel="tag">#<span>DjangoCon</span></a>. It was a great time 😄</p>
+  - <a href="https://mastodon.social/@ryancheley/111245618523024212" target="_blank">2023-10-16</a>
+  </blockquote>
+
+  <blockquote>
   <p>finally checked into hotel and settling in for the night. Looking forward to seeing what Durham has to offer first thing tomorrow morning!</p>
   - <a href="https://mastodon.social/@ryancheley/111236988195634801" target="_blank">2023-10-15</a>
   </blockquote>
@@ -73,11 +78,6 @@
   <blockquote>
   <p>Just landed at RDU!</p>
   - <a href="https://mastodon.social/@ryancheley/111236683875097955" target="_blank">2023-10-15</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Just checked in and am getting ready to fly across the country for <a class="mention hashtag" href="https://mastodon.social/tags/DjangoConUS" rel="tag">#<span>DjangoConUS</span></a>. Super excited!!</p>
-  - <a href="https://mastodon.social/@ryancheley/111234438564858534" target="_blank">2023-10-14</a>
   </blockquote>
 
 
