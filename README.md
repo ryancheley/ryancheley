@@ -66,18 +66,18 @@
 
 
   <blockquote>
+  <p>Made it home after a long travel day. Can’t wait to sleep in tomorrow 😅</p>
+  - <a href="https://mastodon.social/@ryancheley/111271330114402496" target="_blank">2023-10-21</a>
+  </blockquote>
+
+  <blockquote>
+  <p>Leaving Durham after and amazing time at <a class="mention hashtag" href="https://mastodon.social/tags/DjangoconUS" rel="tag">#<span>DjangoconUS</span></a>. Thanks to everyone that made this an amazing conference. I can’t to see you all again next year!</p>
+  - <a href="https://mastodon.social/@ryancheley/111268473135058528" target="_blank">2023-10-20</a>
+  </blockquote>
+
+  <blockquote>
   <p>I just wrapped up my talk at <a class="mention hashtag" href="https://mastodon.social/tags/DjangoCon" rel="tag">#<span>DjangoCon</span></a>. It was a great time 😄</p>
   - <a href="https://mastodon.social/@ryancheley/111245618523024212" target="_blank">2023-10-16</a>
-  </blockquote>
-
-  <blockquote>
-  <p>finally checked into hotel and settling in for the night. Looking forward to seeing what Durham has to offer first thing tomorrow morning!</p>
-  - <a href="https://mastodon.social/@ryancheley/111236988195634801" target="_blank">2023-10-15</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Just landed at RDU!</p>
-  - <a href="https://mastodon.social/@ryancheley/111236683875097955" target="_blank">2023-10-15</a>
   </blockquote>
 
 
