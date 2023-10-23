@@ -66,18 +66,18 @@
 
 
   <blockquote>
-  <p>Just wrapped up the 2023 Coachella Valley Heartwalk. Such a great time for a great cause <a class="mention hashtag" href="https://mastodon.social/tags/HeartWalk" rel="tag">#<span>HeartWalk</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/111274323732540043" target="_blank">2023-10-21</a>
+  <p>SZA was pretty awesome too</p>
+  - <a href="https://mastodon.social/@ryancheley/111282961346977658" target="_blank">2023-10-23</a>
   </blockquote>
 
   <blockquote>
-  <p>Made it home after a long travel day. Can’t wait to sleep in tomorrow 😅</p>
-  - <a href="https://mastodon.social/@ryancheley/111271330114402496" target="_blank">2023-10-21</a>
+  <p>D4vd opening for SZA at Crypto.com Arena and it’s pretty awesome</p>
+  - <a href="https://mastodon.social/@ryancheley/111282253841490135" target="_blank">2023-10-23</a>
   </blockquote>
 
   <blockquote>
-  <p>Leaving Durham after and amazing time at <a class="mention hashtag" href="https://mastodon.social/tags/DjangoconUS" rel="tag">#<span>DjangoconUS</span></a>. Thanks to everyone that made this an amazing conference. I can’t to see you all again next year!</p>
-  - <a href="https://mastodon.social/@ryancheley/111268473135058528" target="_blank">2023-10-20</a>
+  <p><span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@nessita">@<span>nessita</span></a></span> my wife and I made our first cup of maté and it was very much enjoyed. Thank you for the recommendation!</p>
+  - <a href="https://mastodon.social/@ryancheley/111279667967874496" target="_blank">2023-10-22</a>
   </blockquote>
 
 
