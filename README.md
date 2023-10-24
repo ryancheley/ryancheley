@@ -66,6 +66,11 @@
 
 
   <blockquote>
+  <p>I upgraded to macOS Sonoma about an hour ago and I have … regrets. Not sure why everything in iCloud seems to have been offloaded but here we are. I guess I just need to wait for it ALL to download 🤷🏼‍♂️</p>
+  - <a href="https://mastodon.social/@ryancheley/111285950566597347" target="_blank">2023-10-23</a>
+  </blockquote>
+
+  <blockquote>
   <p>SZA was pretty awesome too</p>
   - <a href="https://mastodon.social/@ryancheley/111282961346977658" target="_blank">2023-10-23</a>
   </blockquote>
@@ -73,11 +78,6 @@
   <blockquote>
   <p>D4vd opening for SZA at Crypto.com Arena and it’s pretty awesome</p>
   - <a href="https://mastodon.social/@ryancheley/111282253841490135" target="_blank">2023-10-23</a>
-  </blockquote>
-
-  <blockquote>
-  <p><span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@nessita">@<span>nessita</span></a></span> my wife and I made our first cup of maté and it was very much enjoyed. Thank you for the recommendation!</p>
-  - <a href="https://mastodon.social/@ryancheley/111279667967874496" target="_blank">2023-10-22</a>
   </blockquote>
 
 
