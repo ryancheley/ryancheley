@@ -50,11 +50,12 @@
 
 <ul>
 
+  <li><a href="tag:www.ryancheley.com,2023-10-24:/2023/10/24/djangocon-us-2023/" target="_blank"><h1>My Experience at DjangoCon US 2023</h1>
+<p>A few days ago I returned from DjangoCon US 2023 and wow, what an amazing time. The only regret I have is that I didn't take very many pictures. This is something I will need to work on for next year.</p>
+<p>On Monday October …</p></a> - 2023-10-24</li>
+
   <li><a href="tag:www.ryancheley.com,2023-07-01:/2023/07/01/firebirds-inaugural-season/" target="_blank"><p>On Wednesday June 21, 2023 the local sports puck team (i.e. Hockey), the <a href="https://cvfirebirds.com/">Coachella Valley Firebirds</a> hosted <a href="https://theahl.com/stats/game-center/1025179">Game 7</a> of the <a href="https://en.wikipedia.org/wiki/Calder_Cup">Calder Cup</a> Finals against the <a href="https://www.hersheybears.com/">Hershey Bears</a>.</p>
 <p>There are sports writers that can write on how the series went, better than I can so I'll leave that to …</p></a> - 2023-07-01</li>
-
-  <li><a href="tag:www.ryancheley.com,2023-04-01:/2023/04/01/gcp-cloud-architect-exam-experience/" target="_blank"><p><a href="https://www.fiercehealthcare.com/health-tech/google-health-notches-another-provider-partner-care-studio">Last October it was announced</a> that Desert Oasis Healthcare (the company I work for) signed on to pilot <a href="https://health.google/caregivers/care-studio/">Google's Care Studio</a>. DOHC is the first ambulatory clinic to sign on.</p>
-<p>I had been in some of the discovery meetings before the announcement and was really excited about the opportunity. So …</p></a> - 2023-04-01</li>
 
 </ul>
 
@@ -66,18 +67,18 @@
 
 
   <blockquote>
+  <p>New Post: DjangoCon US 2023 <a href="https://ryancheley.com/2023/10/24/djangocon-us-2023/" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">ryancheley.com/2023/10/24/djan</span><span class="invisible">gocon-us-2023/</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/111292973313069362" target="_blank">2023-10-25</a>
+  </blockquote>
+
+  <blockquote>
+  <p>More than 26 hours later and it’s still doing *something* … although I’m not sure how to tell what it’s doing other than downloading and uploading files 🤷🏼‍♂️</p>
+  - <a href="https://mastodon.social/@ryancheley/111291984519546480" target="_blank">2023-10-24</a>
+  </blockquote>
+
+  <blockquote>
   <p>I upgraded to macOS Sonoma about an hour ago and I have … regrets. Not sure why everything in iCloud seems to have been offloaded but here we are. I guess I just need to wait for it ALL to download 🤷🏼‍♂️</p>
   - <a href="https://mastodon.social/@ryancheley/111285950566597347" target="_blank">2023-10-23</a>
-  </blockquote>
-
-  <blockquote>
-  <p>SZA was pretty awesome too</p>
-  - <a href="https://mastodon.social/@ryancheley/111282961346977658" target="_blank">2023-10-23</a>
-  </blockquote>
-
-  <blockquote>
-  <p>D4vd opening for SZA at Crypto.com Arena and it’s pretty awesome</p>
-  - <a href="https://mastodon.social/@ryancheley/111282253841490135" target="_blank">2023-10-23</a>
   </blockquote>
 
 
