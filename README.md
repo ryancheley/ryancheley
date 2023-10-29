@@ -67,6 +67,11 @@
 
 
   <blockquote>
+  <p>The syncing is done now. Not sure of the exact amount of time it took, but it’s somewhere between 108 and 117 hours.  So um, be careful out there friends. This upgrade has some sharp corners</p>
+  - <a href="https://mastodon.social/@ryancheley/111313387027748010" target="_blank">2023-10-28</a>
+  </blockquote>
+
+  <blockquote>
   <p>Hockey! Home game number 2</p>
   - <a href="https://mastodon.social/@ryancheley/111299074562759200" target="_blank">2023-10-26</a>
   </blockquote>
@@ -74,11 +79,6 @@
   <blockquote>
   <p>New Post: DjangoCon US 2023 <a href="https://ryancheley.com/2023/10/24/djangocon-us-2023/" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">ryancheley.com/2023/10/24/djan</span><span class="invisible">gocon-us-2023/</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/111292973313069362" target="_blank">2023-10-25</a>
-  </blockquote>
-
-  <blockquote>
-  <p>More than 26 hours later and it’s still doing *something* … although I’m not sure how to tell what it’s doing other than downloading and uploading files 🤷🏼‍♂️</p>
-  - <a href="https://mastodon.social/@ryancheley/111291984519546480" target="_blank">2023-10-24</a>
   </blockquote>
 
 
