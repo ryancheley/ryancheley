@@ -50,12 +50,12 @@
 
 <ul>
 
+  <li><a href="tag:www.ryancheley.com,2023-10-29:/2023/10/29/error-culture/" target="_blank"><h2>What is Error Culture?</h2>
+<p>It's inevitable that at some point a service <sup id="sf-error-culture-1-back"><a class="simple-footnote" href="https://ryancheley.com/feeds/all.rss.xml#sf-error-culture-1" title="When I say service here I mean very loosely anything from a micro service up to a physical server.">1</a></sup> will fail. When that service fails you can either choose to be alerted, or not. Because technology is so important to so many aspects of work, not getting an alert for a failing service isn't really an …</p></a> - 2023-10-29</li>
+
   <li><a href="tag:www.ryancheley.com,2023-10-24:/2023/10/24/djangocon-us-2023/" target="_blank"><h1>My Experience at DjangoCon US 2023</h1>
 <p>A few days ago I returned from DjangoCon US 2023 and wow, what an amazing time. The only regret I have is that I didn't take very many pictures. This is something I will need to work on for next year.</p>
 <p>On Monday October …</p></a> - 2023-10-24</li>
-
-  <li><a href="tag:www.ryancheley.com,2023-07-01:/2023/07/01/firebirds-inaugural-season/" target="_blank"><p>On Wednesday June 21, 2023 the local sports puck team (i.e. Hockey), the <a href="https://cvfirebirds.com/">Coachella Valley Firebirds</a> hosted <a href="https://theahl.com/stats/game-center/1025179">Game 7</a> of the <a href="https://en.wikipedia.org/wiki/Calder_Cup">Calder Cup</a> Finals against the <a href="https://www.hersheybears.com/">Hershey Bears</a>.</p>
-<p>There are sports writers that can write on how the series went, better than I can so I'll leave that to …</p></a> - 2023-07-01</li>
 
 </ul>
 
@@ -67,18 +67,18 @@
 
 
   <blockquote>
+  <p>New Post: Error Culture Part I <a href="https://ryancheley.com/2023/10/29/error-culture/" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">ryancheley.com/2023/10/29/erro</span><span class="invisible">r-culture/</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/111321290859621126" target="_blank">2023-10-30</a>
+  </blockquote>
+
+  <blockquote>
+  <p>TIL that Josh Brolin was in The Goonies and I’m like 🤯</p>
+  - <a href="https://mastodon.social/@ryancheley/111320196026195643" target="_blank">2023-10-29</a>
+  </blockquote>
+
+  <blockquote>
   <p>The syncing is done now. Not sure of the exact amount of time it took, but it’s somewhere between 108 and 117 hours.  So um, be careful out there friends. This upgrade has some sharp corners</p>
   - <a href="https://mastodon.social/@ryancheley/111313387027748010" target="_blank">2023-10-28</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Hockey! Home game number 2</p>
-  - <a href="https://mastodon.social/@ryancheley/111299074562759200" target="_blank">2023-10-26</a>
-  </blockquote>
-
-  <blockquote>
-  <p>New Post: DjangoCon US 2023 <a href="https://ryancheley.com/2023/10/24/djangocon-us-2023/" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">ryancheley.com/2023/10/24/djan</span><span class="invisible">gocon-us-2023/</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/111292973313069362" target="_blank">2023-10-25</a>
   </blockquote>
 
 
