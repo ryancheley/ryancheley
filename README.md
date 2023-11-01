@@ -67,18 +67,18 @@
 
 
   <blockquote>
+  <p>The goods guys won 8-3 with EIGHT different players for the <a class="mention hashtag" href="https://mastodon.social/tags/cvfirebirds" rel="tag">#<span>cvfirebirds</span></a> scoring a goal 🤯</p>
+  - <a href="https://mastodon.social/@ryancheley/111333544812042085" target="_blank">2023-11-01</a>
+  </blockquote>
+
+  <blockquote>
+  <p>Home game 3<br /><a class="mention hashtag" href="https://mastodon.social/tags/hockey" rel="tag">#<span>hockey</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/cvfirebirds" rel="tag">#<span>cvfirebirds</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/111333007607308166" target="_blank">2023-11-01</a>
+  </blockquote>
+
+  <blockquote>
   <p>New Post: Error Culture Part I <a href="https://ryancheley.com/2023/10/29/error-culture/" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">ryancheley.com/2023/10/29/erro</span><span class="invisible">r-culture/</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/111321290859621126" target="_blank">2023-10-30</a>
-  </blockquote>
-
-  <blockquote>
-  <p>TIL that Josh Brolin was in The Goonies and I’m like 🤯</p>
-  - <a href="https://mastodon.social/@ryancheley/111320196026195643" target="_blank">2023-10-29</a>
-  </blockquote>
-
-  <blockquote>
-  <p>The syncing is done now. Not sure of the exact amount of time it took, but it’s somewhere between 108 and 117 hours.  So um, be careful out there friends. This upgrade has some sharp corners</p>
-  - <a href="https://mastodon.social/@ryancheley/111313387027748010" target="_blank">2023-10-28</a>
   </blockquote>
 
 
