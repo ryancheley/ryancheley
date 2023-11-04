@@ -67,18 +67,18 @@
 
 
   <blockquote>
+  <p>Is there anyone else that works a US ‘corporate’ type job where they get an email reminding them of the upcoming time change? I’m just curious about the use case here. I have *some* ideas, but I’m not sure if they’re valid.</p>
+  - <a href="https://mastodon.social/@ryancheley/111349214751355228" target="_blank">2023-11-03</a>
+  </blockquote>
+
+  <blockquote>
+  <p>Today is my work anniversary. Fifteen years seems like a long time, but truthfully, it’s mostly just flown by. When I started my daughter was almost 3 … now she’s almost 18.  ...</p>
+  - <a href="https://mastodon.social/@ryancheley/111346879180978234" target="_blank">2023-11-03</a>
+  </blockquote>
+
+  <blockquote>
   <p>The goods guys won 8-3 with EIGHT different players for the <a class="mention hashtag" href="https://mastodon.social/tags/cvfirebirds" rel="tag">#<span>cvfirebirds</span></a> scoring a goal 🤯</p>
   - <a href="https://mastodon.social/@ryancheley/111333544812042085" target="_blank">2023-11-01</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Home game 3<br /><a class="mention hashtag" href="https://mastodon.social/tags/hockey" rel="tag">#<span>hockey</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/cvfirebirds" rel="tag">#<span>cvfirebirds</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/111333007607308166" target="_blank">2023-11-01</a>
-  </blockquote>
-
-  <blockquote>
-  <p>New Post: Error Culture Part I <a href="https://ryancheley.com/2023/10/29/error-culture/" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">ryancheley.com/2023/10/29/erro</span><span class="invisible">r-culture/</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/111321290859621126" target="_blank">2023-10-30</a>
   </blockquote>
 
 
