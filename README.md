@@ -67,6 +67,11 @@
 
 
   <blockquote>
+  <p><a class="mention hashtag" href="https://mastodon.social/tags/hockey" rel="tag">#<span>hockey</span></a> <br />Home game number four <a class="mention hashtag" href="https://mastodon.social/tags/cvfirebirds" rel="tag">#<span>cvfirebirds</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/111378595987126406" target="_blank">2023-11-09</a>
+  </blockquote>
+
+  <blockquote>
   <p>It turns out that Leigh Nash, formerly of Sixpence None the Richer, is the lead singer for the 10,000 Maniacs now and all I can say is, the band still rocks! ...</p>
   - <a href="https://mastodon.social/@ryancheley/111360843692728032" target="_blank">2023-11-06</a>
   </blockquote>
@@ -74,11 +79,6 @@
   <blockquote>
   <p>Getting ready for 10,000 Maniacs at Palm Springs <a class="mention hashtag" href="https://mastodon.social/tags/Pride" rel="tag">#<span>Pride</span></a>!  ...</p>
   - <a href="https://mastodon.social/@ryancheley/111360407711422657" target="_blank">2023-11-05</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Is there anyone else that works a US ‘corporate’ type job where they get an email reminding them of the upcoming time change? I’m just curious about the use case here. I have *some* ideas, but I’m not sure if they’re valid.</p>
-  - <a href="https://mastodon.social/@ryancheley/111349214751355228" target="_blank">2023-11-03</a>
   </blockquote>
 
 
