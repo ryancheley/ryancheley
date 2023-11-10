@@ -50,12 +50,12 @@
 
 <ul>
 
+  <li><a href="tag:www.ryancheley.com,2023-11-09:/2023/11/09/error-culture-part-ii/" target="_blank"><p>In my last post I spoke about the idea of <a href="https://www.ryancheley.com/2023/10/29/error-culture/">Error Culture</a>. In that post I define what error culture. This time I'll talk about when it starts to happen. For a recap go back and read that before diving in here.</p>
+<h1>When does error culture start?</h1>
+<p>Error culture can …</p></a> - 2023-11-09</li>
+
   <li><a href="tag:www.ryancheley.com,2023-10-29:/2023/10/29/error-culture/" target="_blank"><h2>What is Error Culture?</h2>
 <p>It's inevitable that at some point a service <sup id="sf-error-culture-1-back"><a class="simple-footnote" href="https://ryancheley.com/feeds/all.rss.xml#sf-error-culture-1" title="When I say service here I mean very loosely anything from a micro service up to a physical server.">1</a></sup> will fail. When that service fails you can either choose to be alerted, or not. Because technology is so important to so many aspects of work, not getting an alert for a failing service isn't really an …</p></a> - 2023-10-29</li>
-
-  <li><a href="tag:www.ryancheley.com,2023-10-24:/2023/10/24/djangocon-us-2023/" target="_blank"><h1>My Experience at DjangoCon US 2023</h1>
-<p>A few days ago I returned from DjangoCon US 2023 and wow, what an amazing time. The only regret I have is that I didn't take very many pictures. This is something I will need to work on for next year.</p>
-<p>On Monday October …</p></a> - 2023-10-24</li>
 
 </ul>
 
@@ -67,6 +67,11 @@
 
 
   <blockquote>
+  <p>New Post: Error Culture Part II <a href="https://ryancheley.com/2023/11/09/error-culture-part-ii/" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">ryancheley.com/2023/11/09/erro</span><span class="invisible">r-culture-part-ii/</span></a> ...</p>
+  - <a href="https://mastodon.social/@ryancheley/111384030811508579" target="_blank">2023-11-10</a>
+  </blockquote>
+
+  <blockquote>
   <p><a class="mention hashtag" href="https://mastodon.social/tags/hockey" rel="tag">#<span>hockey</span></a> <br />Home game number four <a class="mention hashtag" href="https://mastodon.social/tags/cvfirebirds" rel="tag">#<span>cvfirebirds</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/111378595987126406" target="_blank">2023-11-09</a>
   </blockquote>
@@ -74,11 +79,6 @@
   <blockquote>
   <p>It turns out that Leigh Nash, formerly of Sixpence None the Richer, is the lead singer for the 10,000 Maniacs now and all I can say is, the band still rocks! ...</p>
   - <a href="https://mastodon.social/@ryancheley/111360843692728032" target="_blank">2023-11-06</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Getting ready for 10,000 Maniacs at Palm Springs <a class="mention hashtag" href="https://mastodon.social/tags/Pride" rel="tag">#<span>Pride</span></a>!  ...</p>
-  - <a href="https://mastodon.social/@ryancheley/111360407711422657" target="_blank">2023-11-05</a>
   </blockquote>
 
 
