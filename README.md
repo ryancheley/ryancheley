@@ -67,6 +67,11 @@
 
 
   <blockquote>
+  <p><a class="mention hashtag" href="https://mastodon.social/tags/hockey" rel="tag">#<span>hockey</span></a> <br />Home game number FIVE. Go <a class="mention hashtag" href="https://mastodon.social/tags/cvfirebirds" rel="tag">#<span>cvfirebirds</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/111395066965588901" target="_blank">2023-11-12</a>
+  </blockquote>
+
+  <blockquote>
   <p>New Post: Error Culture Part II <a href="https://ryancheley.com/2023/11/09/error-culture-part-ii/" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">ryancheley.com/2023/11/09/erro</span><span class="invisible">r-culture-part-ii/</span></a> ...</p>
   - <a href="https://mastodon.social/@ryancheley/111384030811508579" target="_blank">2023-11-10</a>
   </blockquote>
@@ -74,11 +79,6 @@
   <blockquote>
   <p><a class="mention hashtag" href="https://mastodon.social/tags/hockey" rel="tag">#<span>hockey</span></a> <br />Home game number four <a class="mention hashtag" href="https://mastodon.social/tags/cvfirebirds" rel="tag">#<span>cvfirebirds</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/111378595987126406" target="_blank">2023-11-09</a>
-  </blockquote>
-
-  <blockquote>
-  <p>It turns out that Leigh Nash, formerly of Sixpence None the Richer, is the lead singer for the 10,000 Maniacs now and all I can say is, the band still rocks! ...</p>
-  - <a href="https://mastodon.social/@ryancheley/111360843692728032" target="_blank">2023-11-06</a>
   </blockquote>
 
 
