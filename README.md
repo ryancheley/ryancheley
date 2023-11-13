@@ -67,18 +67,18 @@
 
 
   <blockquote>
-  <p><a class="mention hashtag" href="https://mastodon.social/tags/hockey" rel="tag">#<span>hockey</span></a> <br />Home game number FIVE. Go <a class="mention hashtag" href="https://mastodon.social/tags/cvfirebirds" rel="tag">#<span>cvfirebirds</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/111395066965588901" target="_blank">2023-11-12</a>
+  <p><a class="mention hashtag" href="https://mastodon.social/tags/Hockey" rel="tag">#<span>Hockey</span></a> <br />Home game number six. Go <a class="mention hashtag" href="https://mastodon.social/tags/cvfirebirds" rel="tag">#<span>cvfirebirds</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/111400735996917580" target="_blank">2023-11-13</a>
   </blockquote>
 
   <blockquote>
-  <p>New Post: Error Culture Part II <a href="https://ryancheley.com/2023/11/09/error-culture-part-ii/" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">ryancheley.com/2023/11/09/erro</span><span class="invisible">r-culture-part-ii/</span></a> ...</p>
-  - <a href="https://mastodon.social/@ryancheley/111384030811508579" target="_blank">2023-11-10</a>
+  <p>A couple of fun queries I have are: ...</p>
+  - <a href="https://mastodon.social/@ryancheley/111398564789260109" target="_blank">2023-11-12</a>
   </blockquote>
 
   <blockquote>
-  <p><a class="mention hashtag" href="https://mastodon.social/tags/hockey" rel="tag">#<span>hockey</span></a> <br />Home game number four <a class="mention hashtag" href="https://mastodon.social/tags/cvfirebirds" rel="tag">#<span>cvfirebirds</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/111378595987126406" target="_blank">2023-11-09</a>
+  <p>I've posted a few times about the <a class="mention hashtag" href="https://mastodon.social/tags/Hockey" rel="tag">#<span>Hockey</span></a> games that I'm going to. Over the summer I worked on a project to collect specific data for games and finally have an automation to get and publish the data.  ...</p>
+  - <a href="https://mastodon.social/@ryancheley/111398552652447466" target="_blank">2023-11-12</a>
   </blockquote>
 
 
