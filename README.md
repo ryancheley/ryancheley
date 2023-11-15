@@ -50,12 +50,13 @@
 
 <ul>
 
+  <li><a href="tag:www.ryancheley.com,2023-11-14:/2023/11/14/error-culture-part-iii/" target="_blank"><h1>How can I tell if I'm in an error culture?</h1>
+<p>In part 1 I spoke about the idea of <a href="https://www.ryancheley.com/2023/10/29/error-culture/">Error Culture</a>. In that post I define what error culture.</p>
+<p>In part 2 I spoke when <a href="https://www.ryancheley.com/2023/11/09/error-culture-part-ii/">Error Culture</a> starts. This time I'll talk about how you can tell if you're living …</p></a> - 2023-11-14</li>
+
   <li><a href="tag:www.ryancheley.com,2023-11-09:/2023/11/09/error-culture-part-ii/" target="_blank"><p>In my last post I spoke about the idea of <a href="https://www.ryancheley.com/2023/10/29/error-culture/">Error Culture</a>. In that post I define what error culture. This time I'll talk about when it starts to happen. For a recap go back and read that before diving in here.</p>
 <h1>When does error culture start?</h1>
 <p>Error culture can …</p></a> - 2023-11-09</li>
-
-  <li><a href="tag:www.ryancheley.com,2023-10-29:/2023/10/29/error-culture/" target="_blank"><h2>What is Error Culture?</h2>
-<p>It's inevitable that at some point a service <sup id="sf-error-culture-1-back"><a class="simple-footnote" href="https://ryancheley.com/feeds/all.rss.xml#sf-error-culture-1" title="When I say service here I mean very loosely anything from a micro service up to a physical server.">1</a></sup> will fail. When that service fails you can either choose to be alerted, or not. Because technology is so important to so many aspects of work, not getting an alert for a failing service isn't really an …</p></a> - 2023-10-29</li>
 
 </ul>
 
@@ -67,18 +68,18 @@
 
 
   <blockquote>
+  <p>Part three of my mini-series on Error Culture is now up. ...</p>
+  - <a href="https://mastodon.social/@ryancheley/111412537664186928" target="_blank">2023-11-15</a>
+  </blockquote>
+
+  <blockquote>
+  <p>And just in case anyone is thinking, OMG I must have the code that generates this ... you're in luck 😄. You can find it here ...</p>
+  - <a href="https://mastodon.social/@ryancheley/111409510209388985" target="_blank">2023-11-14</a>
+  </blockquote>
+
+  <blockquote>
   <p><a class="mention hashtag" href="https://mastodon.social/tags/Hockey" rel="tag">#<span>Hockey</span></a> <br />Home game number six. Go <a class="mention hashtag" href="https://mastodon.social/tags/cvfirebirds" rel="tag">#<span>cvfirebirds</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/111400735996917580" target="_blank">2023-11-13</a>
-  </blockquote>
-
-  <blockquote>
-  <p>A couple of fun queries I have are: ...</p>
-  - <a href="https://mastodon.social/@ryancheley/111398564789260109" target="_blank">2023-11-12</a>
-  </blockquote>
-
-  <blockquote>
-  <p>I've posted a few times about the <a class="mention hashtag" href="https://mastodon.social/tags/Hockey" rel="tag">#<span>Hockey</span></a> games that I'm going to. Over the summer I worked on a project to collect specific data for games and finally have an automation to get and publish the data.  ...</p>
-  - <a href="https://mastodon.social/@ryancheley/111398552652447466" target="_blank">2023-11-12</a>
   </blockquote>
 
 
