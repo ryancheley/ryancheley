@@ -68,18 +68,18 @@
 
 
   <blockquote>
+  <p>Day 1 ...</p>
+  - <a href="https://mastodon.social/@ryancheley/111460742305702783" target="_blank">2023-11-23</a>
+  </blockquote>
+
+  <blockquote>
+  <p>I'm participating in the Thanksgiving to New Year's Running Challenge this year. More details here <a href="https://run-for-good.com/thanksgiving-new-years-day-running-challenge/" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">run-for-good.com/thanksgiving-</span><span class="invisible">new-years-day-running-challenge/</span></a> ...</p>
+  - <a href="https://mastodon.social/@ryancheley/111460739308556921" target="_blank">2023-11-23</a>
+  </blockquote>
+
+  <blockquote>
   <p>Home game number seven … it did not go well <a href="https://theahl.com/stats/game-center/1025405" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">theahl.com/stats/game-center/1</span><span class="invisible">025405</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/hockey" rel="tag">#<span>hockey</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/cvfirebirds" rel="tag">#<span>cvfirebirds</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/111452745994450355" target="_blank">2023-11-22</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Part three of my mini-series on Error Culture is now up. ...</p>
-  - <a href="https://mastodon.social/@ryancheley/111412537664186928" target="_blank">2023-11-15</a>
-  </blockquote>
-
-  <blockquote>
-  <p>And just in case anyone is thinking, OMG I must have the code that generates this ... you're in luck 😄. You can find it here ...</p>
-  - <a href="https://mastodon.social/@ryancheley/111409510209388985" target="_blank">2023-11-14</a>
   </blockquote>
 
 
