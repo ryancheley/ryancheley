@@ -68,6 +68,11 @@
 
 
   <blockquote>
+  <p>Day 2 ...</p>
+  - <a href="https://mastodon.social/@ryancheley/111466603426953381" target="_blank">2023-11-24</a>
+  </blockquote>
+
+  <blockquote>
   <p>Day 1 ...</p>
   - <a href="https://mastodon.social/@ryancheley/111460742305702783" target="_blank">2023-11-23</a>
   </blockquote>
@@ -75,11 +80,6 @@
   <blockquote>
   <p>I'm participating in the Thanksgiving to New Year's Running Challenge this year. More details here <a href="https://run-for-good.com/thanksgiving-new-years-day-running-challenge/" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">run-for-good.com/thanksgiving-</span><span class="invisible">new-years-day-running-challenge/</span></a> ...</p>
   - <a href="https://mastodon.social/@ryancheley/111460739308556921" target="_blank">2023-11-23</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Home game number seven … it did not go well <a href="https://theahl.com/stats/game-center/1025405" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">theahl.com/stats/game-center/1</span><span class="invisible">025405</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/hockey" rel="tag">#<span>hockey</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/cvfirebirds" rel="tag">#<span>cvfirebirds</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/111452745994450355" target="_blank">2023-11-22</a>
   </blockquote>
 
 
