@@ -68,6 +68,11 @@
 
 
   <blockquote>
+  <p>Day 3 ...</p>
+  - <a href="https://mastodon.social/@ryancheley/111472099008917260" target="_blank">2023-11-25</a>
+  </blockquote>
+
+  <blockquote>
   <p>Day 2 ...</p>
   - <a href="https://mastodon.social/@ryancheley/111466603426953381" target="_blank">2023-11-24</a>
   </blockquote>
@@ -75,11 +80,6 @@
   <blockquote>
   <p>Day 1 ...</p>
   - <a href="https://mastodon.social/@ryancheley/111460742305702783" target="_blank">2023-11-23</a>
-  </blockquote>
-
-  <blockquote>
-  <p>I'm participating in the Thanksgiving to New Year's Running Challenge this year. More details here <a href="https://run-for-good.com/thanksgiving-new-years-day-running-challenge/" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">run-for-good.com/thanksgiving-</span><span class="invisible">new-years-day-running-challenge/</span></a> ...</p>
-  - <a href="https://mastodon.social/@ryancheley/111460739308556921" target="_blank">2023-11-23</a>
   </blockquote>
 
 
