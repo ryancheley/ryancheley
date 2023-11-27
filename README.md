@@ -68,6 +68,11 @@
 
 
   <blockquote>
+  <p>Day 4 ...</p>
+  - <a href="https://mastodon.social/@ryancheley/111478766690333292" target="_blank">2023-11-26</a>
+  </blockquote>
+
+  <blockquote>
   <p>Day 3 ...</p>
   - <a href="https://mastodon.social/@ryancheley/111472099008917260" target="_blank">2023-11-25</a>
   </blockquote>
@@ -75,11 +80,6 @@
   <blockquote>
   <p>Day 2 ...</p>
   - <a href="https://mastodon.social/@ryancheley/111466603426953381" target="_blank">2023-11-24</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Day 1 ...</p>
-  - <a href="https://mastodon.social/@ryancheley/111460742305702783" target="_blank">2023-11-23</a>
   </blockquote>
 
 
