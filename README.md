@@ -68,18 +68,18 @@
 
 
   <blockquote>
+  <p>With Mint going EOL at the end of the year I’m looking for a replacement. I’m seeing YNAB, Monach, and Simplifi as potential solutions.  ...</p>
+  - <a href="https://mastodon.social/@ryancheley/111483924663502776" target="_blank">2023-11-27</a>
+  </blockquote>
+
+  <blockquote>
+  <p>Day 5 ...</p>
+  - <a href="https://mastodon.social/@ryancheley/111483361658850088" target="_blank">2023-11-27</a>
+  </blockquote>
+
+  <blockquote>
   <p>Day 4 ...</p>
   - <a href="https://mastodon.social/@ryancheley/111478766690333292" target="_blank">2023-11-26</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Day 3 ...</p>
-  - <a href="https://mastodon.social/@ryancheley/111472099008917260" target="_blank">2023-11-25</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Day 2 ...</p>
-  - <a href="https://mastodon.social/@ryancheley/111466603426953381" target="_blank">2023-11-24</a>
   </blockquote>
 
 
