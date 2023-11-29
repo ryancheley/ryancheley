@@ -68,6 +68,11 @@
 
 
   <blockquote>
+  <p>Day 6 ...</p>
+  - <a href="https://mastodon.social/@ryancheley/111490248828445261" target="_blank">2023-11-28</a>
+  </blockquote>
+
+  <blockquote>
   <p>With Mint going EOL at the end of the year I’m looking for a replacement. I’m seeing YNAB, Monach, and Simplifi as potential solutions.  ...</p>
   - <a href="https://mastodon.social/@ryancheley/111483924663502776" target="_blank">2023-11-27</a>
   </blockquote>
@@ -75,11 +80,6 @@
   <blockquote>
   <p>Day 5 ...</p>
   - <a href="https://mastodon.social/@ryancheley/111483361658850088" target="_blank">2023-11-27</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Day 4 ...</p>
-  - <a href="https://mastodon.social/@ryancheley/111478766690333292" target="_blank">2023-11-26</a>
   </blockquote>
 
 
