@@ -68,18 +68,18 @@
 
 
   <blockquote>
+  <p>Home game number 8 vs the San Jose Baracuda. Hoping for a win tonight!<br /><a class="mention hashtag" href="https://mastodon.social/tags/Hockey" rel="tag">#<span>Hockey</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/cvfirebirds" rel="tag">#<span>cvfirebirds</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/111497228164392614" target="_blank">2023-11-30</a>
+  </blockquote>
+
+  <blockquote>
+  <p>Day 7 ...</p>
+  - <a href="https://mastodon.social/@ryancheley/111494864135327409" target="_blank">2023-11-29</a>
+  </blockquote>
+
+  <blockquote>
   <p>Day 6 ...</p>
   - <a href="https://mastodon.social/@ryancheley/111490248828445261" target="_blank">2023-11-28</a>
-  </blockquote>
-
-  <blockquote>
-  <p>With Mint going EOL at the end of the year I’m looking for a replacement. I’m seeing YNAB, Monach, and Simplifi as potential solutions.  ...</p>
-  - <a href="https://mastodon.social/@ryancheley/111483924663502776" target="_blank">2023-11-27</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Day 5 ...</p>
-  - <a href="https://mastodon.social/@ryancheley/111483361658850088" target="_blank">2023-11-27</a>
   </blockquote>
 
 
