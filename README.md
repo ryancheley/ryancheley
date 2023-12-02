@@ -68,6 +68,11 @@
 
 
   <blockquote>
+  <p>Day 9 ...</p>
+  - <a href="https://mastodon.social/@ryancheley/111505373570002219" target="_blank">2023-12-01</a>
+  </blockquote>
+
+  <blockquote>
   <p>It’s me! ...</p>
   - <a href="https://mastodon.social/@ryancheley/111503015587624342" target="_blank">2023-12-01</a>
   </blockquote>
@@ -75,11 +80,6 @@
   <blockquote>
   <p>Day 8 ...</p>
   - <a href="https://mastodon.social/@ryancheley/111500563793993763" target="_blank">2023-11-30</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Home game number 8 vs the San Jose Baracuda. Hoping for a win tonight!<br /><a class="mention hashtag" href="https://mastodon.social/tags/Hockey" rel="tag">#<span>Hockey</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/cvfirebirds" rel="tag">#<span>cvfirebirds</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/111497228164392614" target="_blank">2023-11-30</a>
   </blockquote>
 
 
