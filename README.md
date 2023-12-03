@@ -68,18 +68,18 @@
 
 
   <blockquote>
+  <p>Home game number 9 tonight, but for the first time in 20 home games (April 30th!) I’m not at the arena 😢 ...</p>
+  - <a href="https://mastodon.social/@ryancheley/111514548992209596" target="_blank">2023-12-03</a>
+  </blockquote>
+
+  <blockquote>
+  <p>Day 10 ...</p>
+  - <a href="https://mastodon.social/@ryancheley/111512117997069281" target="_blank">2023-12-02</a>
+  </blockquote>
+
+  <blockquote>
   <p>Day 9 ...</p>
   - <a href="https://mastodon.social/@ryancheley/111505373570002219" target="_blank">2023-12-01</a>
-  </blockquote>
-
-  <blockquote>
-  <p>It’s me! ...</p>
-  - <a href="https://mastodon.social/@ryancheley/111503015587624342" target="_blank">2023-12-01</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Day 8 ...</p>
-  - <a href="https://mastodon.social/@ryancheley/111500563793993763" target="_blank">2023-11-30</a>
   </blockquote>
 
 
