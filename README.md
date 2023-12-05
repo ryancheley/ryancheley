@@ -68,6 +68,11 @@
 
 
   <blockquote>
+  <p>Day 12 ...</p>
+  - <a href="https://mastodon.social/@ryancheley/111523473292162713" target="_blank">2023-12-04</a>
+  </blockquote>
+
+  <blockquote>
   <p>I missed the <a class="mention hashtag" href="https://mastodon.social/tags/cvfirebirds" rel="tag">#<span>cvfirebirds</span></a> home game last night and so to make up for it I’m at the <a class="mention hashtag" href="https://mastodon.social/tags/LAKings" rel="tag">#<span>LAKings</span></a> game tonight!</p>
   - <a href="https://mastodon.social/@ryancheley/111519295552548954" target="_blank">2023-12-04</a>
   </blockquote>
@@ -75,11 +80,6 @@
   <blockquote>
   <p>Day 11 ...</p>
   - <a href="https://mastodon.social/@ryancheley/111517801685623212" target="_blank">2023-12-03</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Home game number 9 tonight, but for the first time in 20 home games (April 30th!) I’m not at the arena 😢 ...</p>
-  - <a href="https://mastodon.social/@ryancheley/111514548992209596" target="_blank">2023-12-03</a>
   </blockquote>
 
 
