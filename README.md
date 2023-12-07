@@ -68,18 +68,18 @@
 
 
   <blockquote>
+  <p>I just had a chance to read <span class="h-card"><a class="u-url mention" href="https://social.jacobian.org/@jacob">@<span>jacob</span></a></span> article posted here <a href="https://social.jacobian.org/@jacob/111529204972491954" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">social.jacobian.org/@jacob/111</span><span class="invisible">529204972491954</span></a> and am just 🤯.  ...</p>
+  - <a href="https://mastodon.social/@ryancheley/111536870941576588" target="_blank">2023-12-07</a>
+  </blockquote>
+
+  <blockquote>
+  <p>Day 14 ...</p>
+  - <a href="https://mastodon.social/@ryancheley/111535374760607651" target="_blank">2023-12-06</a>
+  </blockquote>
+
+  <blockquote>
   <p>Day 13 ...</p>
   - <a href="https://mastodon.social/@ryancheley/111529639696405081" target="_blank">2023-12-05</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Day 12 ...</p>
-  - <a href="https://mastodon.social/@ryancheley/111523473292162713" target="_blank">2023-12-04</a>
-  </blockquote>
-
-  <blockquote>
-  <p>I missed the <a class="mention hashtag" href="https://mastodon.social/tags/cvfirebirds" rel="tag">#<span>cvfirebirds</span></a> home game last night and so to make up for it I’m at the <a class="mention hashtag" href="https://mastodon.social/tags/LAKings" rel="tag">#<span>LAKings</span></a> game tonight!</p>
-  - <a href="https://mastodon.social/@ryancheley/111519295552548954" target="_blank">2023-12-04</a>
   </blockquote>
 
 
