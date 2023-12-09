@@ -68,18 +68,18 @@
 
 
   <blockquote>
+  <p>The <a class="mention hashtag" href="https://mastodon.social/tags/cvfirebirds" rel="tag">#<span>cvfirebirds</span></a> might be playing a game away, but that’s not stopping me from watching the game in style!</p>
+  - <a href="https://mastodon.social/@ryancheley/111548248124484369" target="_blank">2023-12-09</a>
+  </blockquote>
+
+  <blockquote>
+  <p>Day 16 ...</p>
+  - <a href="https://mastodon.social/@ryancheley/111546505295563462" target="_blank">2023-12-08</a>
+  </blockquote>
+
+  <blockquote>
   <p>Day 15 ...</p>
   - <a href="https://mastodon.social/@ryancheley/111539384613307776" target="_blank">2023-12-07</a>
-  </blockquote>
-
-  <blockquote>
-  <p>I just had a chance to read <span class="h-card"><a class="u-url mention" href="https://social.jacobian.org/@jacob">@<span>jacob</span></a></span> article posted here <a href="https://social.jacobian.org/@jacob/111529204972491954" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">social.jacobian.org/@jacob/111</span><span class="invisible">529204972491954</span></a> and am just 🤯.  ...</p>
-  - <a href="https://mastodon.social/@ryancheley/111536870941576588" target="_blank">2023-12-07</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Day 14 ...</p>
-  - <a href="https://mastodon.social/@ryancheley/111535374760607651" target="_blank">2023-12-06</a>
   </blockquote>
 
 
