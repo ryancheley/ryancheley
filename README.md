@@ -68,6 +68,11 @@
 
 
   <blockquote>
+  <p>Day 18 ...</p>
+  - <a href="https://mastodon.social/@ryancheley/111557377320866913" target="_blank">2023-12-10</a>
+  </blockquote>
+
+  <blockquote>
   <p>Day 17 ...</p>
   - <a href="https://mastodon.social/@ryancheley/111551561263809572" target="_blank">2023-12-09</a>
   </blockquote>
@@ -75,11 +80,6 @@
   <blockquote>
   <p>The <a class="mention hashtag" href="https://mastodon.social/tags/cvfirebirds" rel="tag">#<span>cvfirebirds</span></a> might be playing a game away, but that’s not stopping me from watching the game in style!</p>
   - <a href="https://mastodon.social/@ryancheley/111548248124484369" target="_blank">2023-12-09</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Day 16 ...</p>
-  - <a href="https://mastodon.social/@ryancheley/111546505295563462" target="_blank">2023-12-08</a>
   </blockquote>
 
 
