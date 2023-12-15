@@ -68,18 +68,18 @@
 
 
   <blockquote>
-  <p>Hockey ...</p>
-  - <a href="https://mastodon.social/@ryancheley/111576707241983107" target="_blank">2023-12-14</a>
+  <p>Looks like my Django Con US talk has been posted! ...</p>
+  - <a href="https://mastodon.social/@ryancheley/111582386983952131" target="_blank">2023-12-15</a>
   </blockquote>
 
   <blockquote>
-  <p>Day 21  ...</p>
-  - <a href="https://mastodon.social/@ryancheley/111573384573835662" target="_blank">2023-12-13</a>
+  <p>Day 22 ...</p>
+  - <a href="https://mastodon.social/@ryancheley/111581146580239832" target="_blank">2023-12-14</a>
   </blockquote>
 
   <blockquote>
-  <p>Day 20 ...</p>
-  - <a href="https://mastodon.social/@ryancheley/111569044033195708" target="_blank">2023-12-12</a>
+  <p>My watchOS 10 nightmare is over! ...</p>
+  - <a href="https://mastodon.social/@ryancheley/111579377245348500" target="_blank">2023-12-14</a>
   </blockquote>
 
 
