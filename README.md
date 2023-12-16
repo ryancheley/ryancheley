@@ -68,18 +68,18 @@
 
 
   <blockquote>
+  <p>Really bummed I missed this today <a href="https://mastodon.social/@webology/111579624607228631" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@webology/1115</span><span class="invisible">79624607228631</span></a> ...</p>
+  - <a href="https://mastodon.social/@ryancheley/111587609084792183" target="_blank">2023-12-16</a>
+  </blockquote>
+
+  <blockquote>
+  <p>Day 23 ...</p>
+  - <a href="https://mastodon.social/@ryancheley/111584698886005204" target="_blank">2023-12-15</a>
+  </blockquote>
+
+  <blockquote>
   <p>Looks like my Django Con US talk has been posted! ...</p>
   - <a href="https://mastodon.social/@ryancheley/111582386983952131" target="_blank">2023-12-15</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Day 22 ...</p>
-  - <a href="https://mastodon.social/@ryancheley/111581146580239832" target="_blank">2023-12-14</a>
-  </blockquote>
-
-  <blockquote>
-  <p>My watchOS 10 nightmare is over! ...</p>
-  - <a href="https://mastodon.social/@ryancheley/111579377245348500" target="_blank">2023-12-14</a>
   </blockquote>
 
 
