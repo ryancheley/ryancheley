@@ -50,13 +50,12 @@
 
 <ul>
 
+  <li><a href="tag:www.ryancheley.com,2023-12-15:/2023/12/15/so-you-want-to-give-a-talk-at-a-conference/" target="_blank"><p>Last October I gave my first honest to goodness, on my own, up on the stage by myself talk at a tech conference. It was the most stressful yet fulfilling professional experience I've had.</p>
+<p>Fulfilling in that I've wanted to get better at speaking in public and this helped in …</p></a> - 2023-12-15</li>
+
   <li><a href="tag:www.ryancheley.com,2023-11-14:/2023/11/14/error-culture-part-iii/" target="_blank"><h1>How can I tell if I'm in an error culture?</h1>
 <p>In part 1 I spoke about the idea of <a href="https://www.ryancheley.com/2023/10/29/error-culture/">Error Culture</a>. In that post I define what error culture.</p>
 <p>In part 2 I spoke when <a href="https://www.ryancheley.com/2023/11/09/error-culture-part-ii/">Error Culture</a> starts. This time I'll talk about how you can tell if you're living …</p></a> - 2023-11-14</li>
-
-  <li><a href="tag:www.ryancheley.com,2023-11-09:/2023/11/09/error-culture-part-ii/" target="_blank"><p>In my last post I spoke about the idea of <a href="https://www.ryancheley.com/2023/10/29/error-culture/">Error Culture</a>. In that post I define what error culture. This time I'll talk about when it starts to happen. For a recap go back and read that before diving in here.</p>
-<h1>When does error culture start?</h1>
-<p>Error culture can …</p></a> - 2023-11-09</li>
 
 </ul>
 
@@ -68,18 +67,18 @@
 
 
   <blockquote>
-  <p>Really bummed I missed this today <a href="https://mastodon.social/@webology/111579624607228631" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@webology/1115</span><span class="invisible">79624607228631</span></a> ...</p>
-  - <a href="https://mastodon.social/@ryancheley/111587609084792183" target="_blank">2023-12-16</a>
+  <p>Hockey ...</p>
+  - <a href="https://mastodon.social/@ryancheley/111593218140676180" target="_blank">2023-12-17</a>
   </blockquote>
 
   <blockquote>
-  <p>Day 23 ...</p>
-  - <a href="https://mastodon.social/@ryancheley/111584698886005204" target="_blank">2023-12-15</a>
+  <p>I'm also working on annotated slide based on <span class="h-card"><a class="u-url mention" href="https://fedi.simonwillison.net/@simon">@<span>simon</span></a></span> tool (<a href="https://til.simonwillison.net/tools/annotated-presentations" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">til.simonwillison.net/tools/an</span><span class="invisible">notated-presentations</span></a>), but that's still a work in progress (it's harder than it looks!)</p>
+  - <a href="https://mastodon.social/@ryancheley/111592493507590534" target="_blank">2023-12-16</a>
   </blockquote>
 
   <blockquote>
-  <p>Looks like my Django Con US talk has been posted! ...</p>
-  - <a href="https://mastodon.social/@ryancheley/111582386983952131" target="_blank">2023-12-15</a>
+  <p>New Post: So you want to give a talk at a conference? <a href="https://ryancheley.com/2023/12/15/so-you-want-to-give-a-talk-at-a-conference/" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">ryancheley.com/2023/12/15/so-y</span><span class="invisible">ou-want-to-give-a-talk-at-a-conference/</span></a> ...</p>
+  - <a href="https://mastodon.social/@ryancheley/111592487193388128" target="_blank">2023-12-16</a>
   </blockquote>
 
 
