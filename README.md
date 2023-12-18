@@ -68,17 +68,17 @@
 
   <blockquote>
   <p>Hockey ...</p>
+  - <a href="https://mastodon.social/@ryancheley/111598715341423475" target="_blank">2023-12-18</a>
+  </blockquote>
+
+  <blockquote>
+  <p>Day 25 ...</p>
+  - <a href="https://mastodon.social/@ryancheley/111596989670985554" target="_blank">2023-12-17</a>
+  </blockquote>
+
+  <blockquote>
+  <p>Hockey ...</p>
   - <a href="https://mastodon.social/@ryancheley/111593218140676180" target="_blank">2023-12-17</a>
-  </blockquote>
-
-  <blockquote>
-  <p>I'm also working on annotated slide based on <span class="h-card"><a class="u-url mention" href="https://fedi.simonwillison.net/@simon">@<span>simon</span></a></span> tool (<a href="https://til.simonwillison.net/tools/annotated-presentations" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">til.simonwillison.net/tools/an</span><span class="invisible">notated-presentations</span></a>), but that's still a work in progress (it's harder than it looks!)</p>
-  - <a href="https://mastodon.social/@ryancheley/111592493507590534" target="_blank">2023-12-16</a>
-  </blockquote>
-
-  <blockquote>
-  <p>New Post: So you want to give a talk at a conference? <a href="https://ryancheley.com/2023/12/15/so-you-want-to-give-a-talk-at-a-conference/" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">ryancheley.com/2023/12/15/so-y</span><span class="invisible">ou-want-to-give-a-talk-at-a-conference/</span></a> ...</p>
-  - <a href="https://mastodon.social/@ryancheley/111592487193388128" target="_blank">2023-12-16</a>
   </blockquote>
 
 
