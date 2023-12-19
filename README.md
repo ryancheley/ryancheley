@@ -67,6 +67,11 @@
 
 
   <blockquote>
+  <p>Day 26 ...</p>
+  - <a href="https://mastodon.social/@ryancheley/111603076791532410" target="_blank">2023-12-18</a>
+  </blockquote>
+
+  <blockquote>
   <p>Hockey ...</p>
   - <a href="https://mastodon.social/@ryancheley/111598715341423475" target="_blank">2023-12-18</a>
   </blockquote>
@@ -74,11 +79,6 @@
   <blockquote>
   <p>Day 25 ...</p>
   - <a href="https://mastodon.social/@ryancheley/111596989670985554" target="_blank">2023-12-17</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Hockey ...</p>
-  - <a href="https://mastodon.social/@ryancheley/111593218140676180" target="_blank">2023-12-17</a>
   </blockquote>
 
 
