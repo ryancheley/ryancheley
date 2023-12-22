@@ -31,6 +31,8 @@
 
 <ul>
 
+  <li><a href="https://github.com/ryancheley/til/blob/main/hockey/delay" target="_blank">Delay of Game on Failed Coaches Challenge</a> - of-game-on-failed-coaches-challenge.md) - 2023-12-21</li>
+
   <li><a href="https://github.com/ryancheley/til/blob/main/github/delete_branch_on_merge.md " target="_blank">Delete Branch on Merge</a> -  2023-06-27</li>
 
   <li><a href="https://github.com/ryancheley/til/blob/main/Django/setproctitle.md " target="_blank">Adding setproctitle to Django</a> -  2022-12-10</li>
@@ -38,8 +40,6 @@
   <li><a href="https://github.com/ryancheley/til/blob/main/pelican/robots_and_favicon.md " target="_blank">Adding a robots.txt and favicon.ico files to my Pelican Site</a> -  2022-12-10</li>
 
   <li><a href="https://github.com/ryancheley/til/blob/main/regex/named_regex_groups.md " target="_blank">Named Regular Expression Groups</a> -  2022-11-30</li>
-
-  <li><a href="https://github.com/ryancheley/til/blob/main/github/stage_partial_changes_in_git.md " target="_blank">Stage Partial Changes in Git</a> -  2021-06-05</li>
 
 </ul>
 
@@ -67,6 +67,11 @@
 
 
   <blockquote>
+  <p>I’m not sure what Toronto Maple Leafs fans have done to engender this kind of reaction but WOW!</p>
+  - <a href="https://mastodon.social/@ryancheley/111621646413521333" target="_blank">2023-12-22</a>
+  </blockquote>
+
+  <blockquote>
   <p>Day 26 ...</p>
   - <a href="https://mastodon.social/@ryancheley/111603076791532410" target="_blank">2023-12-18</a>
   </blockquote>
@@ -74,11 +79,6 @@
   <blockquote>
   <p>Hockey ...</p>
   - <a href="https://mastodon.social/@ryancheley/111598715341423475" target="_blank">2023-12-18</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Day 25 ...</p>
-  - <a href="https://mastodon.social/@ryancheley/111596989670985554" target="_blank">2023-12-17</a>
   </blockquote>
 
 
