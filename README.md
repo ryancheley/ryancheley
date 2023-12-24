@@ -31,6 +31,8 @@
 
 <ul>
 
+  <li><a href="https://github.com/ryancheley/til/blob/main/css/css" target="_blank">CSS Specificity</a> - specificity.md) - 2023-12-23</li>
+
   <li><a href="https://github.com/ryancheley/til/blob/main/hockey/delay" target="_blank">Delay of Game on Failed Coaches Challenge</a> - of-game-on-failed-coaches-challenge.md) - 2023-12-21</li>
 
   <li><a href="https://github.com/ryancheley/til/blob/main/sqlite/sqlite" target="_blank">SQLite may be OK to use in Production</a> - may-be-ok-to-use-in-production.md) - 2023-12-22</li>
@@ -38,8 +40,6 @@
   <li><a href="https://github.com/ryancheley/til/blob/main/github/delete_branch_on_merge.md " target="_blank">Delete Branch on Merge</a> -  2023-06-27</li>
 
   <li><a href="https://github.com/ryancheley/til/blob/main/Django/setproctitle.md " target="_blank">Adding setproctitle to Django</a> -  2022-12-10</li>
-
-  <li><a href="https://github.com/ryancheley/til/blob/main/pelican/robots_and_favicon.md " target="_blank">Adding a robots.txt and favicon.ico files to my Pelican Site</a> -  2022-12-10</li>
 
 </ul>
 
@@ -67,18 +67,18 @@
 
 
   <blockquote>
+  <p>Hockey ...</p>
+  - <a href="https://mastodon.social/@ryancheley/111632838679012827" target="_blank">2023-12-24</a>
+  </blockquote>
+
+  <blockquote>
+  <p>Is there anyone in my network that is using LinkedIn Premium? I’ve been thinking about getting it for a while now but not sure if it’s worth it. Wondering if there’s anyone out there that is using it and getting value from it.  ...</p>
+  - <a href="https://mastodon.social/@ryancheley/111630199190428899" target="_blank">2023-12-23</a>
+  </blockquote>
+
+  <blockquote>
   <p>I’m not sure what Toronto Maple Leafs fans have done to engender this kind of reaction but WOW!</p>
   - <a href="https://mastodon.social/@ryancheley/111621646413521333" target="_blank">2023-12-22</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Day 26 ...</p>
-  - <a href="https://mastodon.social/@ryancheley/111603076791532410" target="_blank">2023-12-18</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Hockey ...</p>
-  - <a href="https://mastodon.social/@ryancheley/111598715341423475" target="_blank">2023-12-18</a>
   </blockquote>
 
 
