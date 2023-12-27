@@ -37,9 +37,9 @@
 
   <li><a href="https://github.com/ryancheley/til/blob/main/sqlite/sqlite" target="_blank">SQLite may be OK to use in Production</a> - may-be-ok-to-use-in-production.md) - 2023-12-22</li>
 
-  <li><a href="https://github.com/ryancheley/til/blob/main/github/delete_branch_on_merge.md " target="_blank">Delete Branch on Merge</a> -  2023-06-27</li>
+  <li><a href="https://github.com/ryancheley/til/blob/main/nginx/the" target="_blank">nginx and slashes</a> - importance-of-slashes.md) - 2023-12-26</li>
 
-  <li><a href="https://github.com/ryancheley/til/blob/main/Django/setproctitle.md " target="_blank">Adding setproctitle to Django</a> -  2022-12-10</li>
+  <li><a href="https://github.com/ryancheley/til/blob/main/github/delete_branch_on_merge.md " target="_blank">Delete Branch on Merge</a> -  2023-06-27</li>
 
 </ul>
 
@@ -67,6 +67,11 @@
 
 
   <blockquote>
+  <p>I've updated my post to include a link to my annotated-notes. ...</p>
+  - <a href="https://mastodon.social/@ryancheley/111650461873542319" target="_blank">2023-12-27</a>
+  </blockquote>
+
+  <blockquote>
   <p>Hockey ...</p>
   - <a href="https://mastodon.social/@ryancheley/111632838679012827" target="_blank">2023-12-24</a>
   </blockquote>
@@ -74,11 +79,6 @@
   <blockquote>
   <p>Is there anyone in my network that is using LinkedIn Premium? I’ve been thinking about getting it for a while now but not sure if it’s worth it. Wondering if there’s anyone out there that is using it and getting value from it.  ...</p>
   - <a href="https://mastodon.social/@ryancheley/111630199190428899" target="_blank">2023-12-23</a>
-  </blockquote>
-
-  <blockquote>
-  <p>I’m not sure what Toronto Maple Leafs fans have done to engender this kind of reaction but WOW!</p>
-  - <a href="https://mastodon.social/@ryancheley/111621646413521333" target="_blank">2023-12-22</a>
   </blockquote>
 
 
