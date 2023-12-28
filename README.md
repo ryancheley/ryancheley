@@ -67,6 +67,11 @@
 
 
   <blockquote>
+  <p>Hockey ...</p>
+  - <a href="https://mastodon.social/@ryancheley/111655973237112325" target="_blank">2023-12-28</a>
+  </blockquote>
+
+  <blockquote>
   <p>I've updated my post to include a link to my annotated-notes. ...</p>
   - <a href="https://mastodon.social/@ryancheley/111650461873542319" target="_blank">2023-12-27</a>
   </blockquote>
@@ -74,11 +79,6 @@
   <blockquote>
   <p>Hockey ...</p>
   - <a href="https://mastodon.social/@ryancheley/111632838679012827" target="_blank">2023-12-24</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Is there anyone in my network that is using LinkedIn Premium? I’ve been thinking about getting it for a while now but not sure if it’s worth it. Wondering if there’s anyone out there that is using it and getting value from it.  ...</p>
-  - <a href="https://mastodon.social/@ryancheley/111630199190428899" target="_blank">2023-12-23</a>
   </blockquote>
 
 
