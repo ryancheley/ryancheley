@@ -39,7 +39,7 @@
 
   <li><a href="https://github.com/ryancheley/til/blob/main/nginx/the" target="_blank">nginx and slashes</a> - importance-of-slashes.md) - 2023-12-26</li>
 
-  <li><a href="https://github.com/ryancheley/til/blob/main/github/delete_branch_on_merge.md " target="_blank">Delete Branch on Merge</a> -  2023-06-27</li>
+  <li><a href="https://github.com/ryancheley/til/blob/main/github/kbd.md " target="_blank">kbd tag in Markdown on GitHub</a> -  2023-12-28</li>
 
 </ul>
 
