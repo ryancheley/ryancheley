@@ -39,7 +39,7 @@
 
   <li><a href="https://github.com/ryancheley/til/blob/main/nginx/the" target="_blank">nginx and slashes</a> - importance-of-slashes.md) - 2023-12-26</li>
 
-  <li><a href="https://github.com/ryancheley/til/blob/main/github/kbd.md " target="_blank">kbd tag in Markdown on GitHub</a> -  2023-12-28</li>
+  <li><a href="https://github.com/ryancheley/til/blob/main/css/css" target="_blank">css grid areas</a> - grid-areas.md) - 2023-12-30</li>
 
 </ul>
 
@@ -67,6 +67,11 @@
 
 
   <blockquote>
+  <p>“Wait … they scored again?”  ...</p>
+  - <a href="https://mastodon.social/@ryancheley/111671839479187911" target="_blank">2023-12-30</a>
+  </blockquote>
+
+  <blockquote>
   <p>Hockey ...</p>
   - <a href="https://mastodon.social/@ryancheley/111655973237112325" target="_blank">2023-12-28</a>
   </blockquote>
@@ -74,11 +79,6 @@
   <blockquote>
   <p>I've updated my post to include a link to my annotated-notes. ...</p>
   - <a href="https://mastodon.social/@ryancheley/111650461873542319" target="_blank">2023-12-27</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Hockey ...</p>
-  - <a href="https://mastodon.social/@ryancheley/111632838679012827" target="_blank">2023-12-24</a>
   </blockquote>
 
 
