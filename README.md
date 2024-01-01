@@ -50,12 +50,12 @@
 
 <ul>
 
+  <li><a href="tag:www.ryancheley.com,2023-12-31:/2023/12/31/year-in-review-2023/" target="_blank"><p>I've never done a year in review, but this seems like a good a time as any, right? I had a rough outline, but after reading the great Year in Review from <a href="https://www.better-simple.com/personal/2023/12/30/my-year-in-review/">Tim Schilliing</a>, <a href="https://www.paulox.net/2023/12/31/my-2023-in-review/">Paolo Melichore</a>, and <a href="https://dev.to/veldakiara/djangoconus-2023-a-wish-fulfilled-2mmc">Velda Kiara</a>, I was inspired to <strong>actually</strong> finish mine.</p>
+<h1>Professional</h1>
+<p>In the moment …</p></a> - 2023-12-31</li>
+
   <li><a href="tag:www.ryancheley.com,2023-12-15:/2023/12/15/so-you-want-to-give-a-talk-at-a-conference/" target="_blank"><p>Last October I gave my first honest to goodness, on my own, up on the stage by myself talk at a tech conference. It was the most stressful yet fulfilling professional experience I've had.</p>
 <p>Fulfilling in that I've wanted to get better at speaking in public and this helped in …</p></a> - 2023-12-15</li>
-
-  <li><a href="tag:www.ryancheley.com,2023-11-14:/2023/11/14/error-culture-part-iii/" target="_blank"><h1>How can I tell if I'm in an error culture?</h1>
-<p>In part 1 I spoke about the idea of <a href="https://www.ryancheley.com/2023/10/29/error-culture/">Error Culture</a>. In that post I define what error culture.</p>
-<p>In part 2 I spoke when <a href="https://www.ryancheley.com/2023/11/09/error-culture-part-ii/">Error Culture</a> starts. This time I'll talk about how you can tell if you're living …</p></a> - 2023-11-14</li>
 
 </ul>
 
@@ -67,18 +67,18 @@
 
 
   <blockquote>
+  <p>Happy new year from California!</p>
+  - <a href="https://mastodon.social/@ryancheley/111679646526596797" target="_blank">2024-01-01</a>
+  </blockquote>
+
+  <blockquote>
+  <p>With 8+ hours left to spare before the start of 2024 in California here's my Year in Review.  ...</p>
+  - <a href="https://mastodon.social/@ryancheley/111677609439824924" target="_blank">2023-12-31</a>
+  </blockquote>
+
+  <blockquote>
   <p>“Wait … they scored again?”  ...</p>
   - <a href="https://mastodon.social/@ryancheley/111671839479187911" target="_blank">2023-12-30</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Hockey ...</p>
-  - <a href="https://mastodon.social/@ryancheley/111655973237112325" target="_blank">2023-12-28</a>
-  </blockquote>
-
-  <blockquote>
-  <p>I've updated my post to include a link to my annotated-notes. ...</p>
-  - <a href="https://mastodon.social/@ryancheley/111650461873542319" target="_blank">2023-12-27</a>
   </blockquote>
 
 
