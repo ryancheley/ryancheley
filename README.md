@@ -67,6 +67,11 @@
 
 
   <blockquote>
+  <p>What do you do when the <a class="mention hashtag" href="https://mastodon.social/tags/SeattleKraken" rel="tag">#<span>SeattleKraken</span></a> and the <a class="mention hashtag" href="https://mastodon.social/tags/CVFirebirds" rel="tag">#<span>CVFirebirds</span></a> play at the same time? Obviously you set up two TVs to watch them both  ...</p>
+  - <a href="https://mastodon.social/@ryancheley/111682877093978978" target="_blank">2024-01-01</a>
+  </blockquote>
+
+  <blockquote>
   <p>Happy new year from California!</p>
   - <a href="https://mastodon.social/@ryancheley/111679646526596797" target="_blank">2024-01-01</a>
   </blockquote>
@@ -74,11 +79,6 @@
   <blockquote>
   <p>With 8+ hours left to spare before the start of 2024 in California here's my Year in Review.  ...</p>
   - <a href="https://mastodon.social/@ryancheley/111677609439824924" target="_blank">2023-12-31</a>
-  </blockquote>
-
-  <blockquote>
-  <p>“Wait … they scored again?”  ...</p>
-  - <a href="https://mastodon.social/@ryancheley/111671839479187911" target="_blank">2023-12-30</a>
   </blockquote>
 
 
