@@ -67,18 +67,18 @@
 
 
   <blockquote>
-  <p>What do you do when the <a class="mention hashtag" href="https://mastodon.social/tags/SeattleKraken" rel="tag">#<span>SeattleKraken</span></a> and the <a class="mention hashtag" href="https://mastodon.social/tags/CVFirebirds" rel="tag">#<span>CVFirebirds</span></a> play at the same time? Obviously you set up two TVs to watch them both  ...</p>
-  - <a href="https://mastodon.social/@ryancheley/111682877093978978" target="_blank">2024-01-01</a>
+  <p>Here’s hoping I still have all of my hair at the end of the weekend, and if I do it’s not gone completely gray</p>
+  - <a href="https://mastodon.social/@ryancheley/111706383071512327" target="_blank">2024-01-06</a>
   </blockquote>
 
   <blockquote>
-  <p>Happy new year from California!</p>
-  - <a href="https://mastodon.social/@ryancheley/111679646526596797" target="_blank">2024-01-01</a>
+  <p>Now that I’m registered I’m getting ready to fill it out, except that there’s a nice message saying ...</p>
+  - <a href="https://mastodon.social/@ryancheley/111706381631854919" target="_blank">2024-01-06</a>
   </blockquote>
 
   <blockquote>
-  <p>With 8+ hours left to spare before the start of 2024 in California here's my Year in Review.  ...</p>
-  - <a href="https://mastodon.social/@ryancheley/111677609439824924" target="_blank">2023-12-31</a>
+  <p>My daughter is going off to college next year, so we’re trying to fill out the FAFSA form. All I can say is that it’s been a pretty frustrating exercise so far.  ...</p>
+  - <a href="https://mastodon.social/@ryancheley/111706369749463967" target="_blank">2024-01-06</a>
   </blockquote>
 
 
