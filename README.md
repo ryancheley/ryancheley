@@ -67,6 +67,11 @@
 
 
   <blockquote>
+  <p>Hockey ...</p>
+  - <a href="https://mastodon.social/@ryancheley/111716841513902492" target="_blank">2024-01-07</a>
+  </blockquote>
+
+  <blockquote>
   <p>While at the game I found out that the <a class="mention hashtag" href="https://mastodon.social/tags/AHL" rel="tag">#<span>AHL</span></a> All-Star game will be at Acrisure Arena in 2025 and I’m so freaking pumped for that! ...</p>
   - <a href="https://mastodon.social/@ryancheley/111712630949449529" target="_blank">2024-01-07</a>
   </blockquote>
@@ -74,11 +79,6 @@
   <blockquote>
   <p>Hockey ...</p>
   - <a href="https://mastodon.social/@ryancheley/111712121952247793" target="_blank">2024-01-07</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Since there was a bit of interest in the Lemon tree I mentioned in you 2023 Year in Review, I thought I would post a picture of it ...</p>
-  - <a href="https://mastodon.social/@ryancheley/111710980960871912" target="_blank">2024-01-06</a>
   </blockquote>
 
 
