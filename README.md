@@ -33,13 +33,13 @@
 
   <li><a href="https://github.com/ryancheley/til/blob/main/css/css" target="_blank">CSS Specificity</a> - specificity.md) - 2023-12-23</li>
 
+  <li><a href="https://github.com/ryancheley/til/blob/main/Django/using" target="_blank">Using or to set a value</a> - or-to-set-a-value.md) - 2024-01-07</li>
+
   <li><a href="https://github.com/ryancheley/til/blob/main/hockey/delay" target="_blank">Delay of Game on Failed Coaches Challenge</a> - of-game-on-failed-coaches-challenge.md) - 2023-12-21</li>
 
+  <li><a href="https://github.com/ryancheley/til/blob/main/github/commit" target="_blank">commit messages</a> - messages.md) - 2024-01-08</li>
+
   <li><a href="https://github.com/ryancheley/til/blob/main/sqlite/sqlite" target="_blank">SQLite may be OK to use in Production</a> - may-be-ok-to-use-in-production.md) - 2023-12-22</li>
-
-  <li><a href="https://github.com/ryancheley/til/blob/main/nginx/the" target="_blank">nginx and slashes</a> - importance-of-slashes.md) - 2023-12-26</li>
-
-  <li><a href="https://github.com/ryancheley/til/blob/main/css/css" target="_blank">css grid areas</a> - grid-areas.md) - 2023-12-30</li>
 
 </ul>
 
@@ -67,18 +67,18 @@
 
 
   <blockquote>
+  <p>This just took a weight off my shoulders I didn’t know I was carrying. Thanks <span class="h-card"><a class="u-url mention" href="https://frankwiles.social/@frank">@<span>frank</span></a></span>  ...</p>
+  - <a href="https://mastodon.social/@ryancheley/111723630706098616" target="_blank">2024-01-09</a>
+  </blockquote>
+
+  <blockquote>
+  <p>Starting a new streak! After being a bit down for the last couple of weeks I’m starting up my running again ...</p>
+  - <a href="https://mastodon.social/@ryancheley/111722324194037107" target="_blank">2024-01-08</a>
+  </blockquote>
+
+  <blockquote>
   <p>Hockey ...</p>
   - <a href="https://mastodon.social/@ryancheley/111716841513902492" target="_blank">2024-01-07</a>
-  </blockquote>
-
-  <blockquote>
-  <p>While at the game I found out that the <a class="mention hashtag" href="https://mastodon.social/tags/AHL" rel="tag">#<span>AHL</span></a> All-Star game will be at Acrisure Arena in 2025 and I’m so freaking pumped for that! ...</p>
-  - <a href="https://mastodon.social/@ryancheley/111712630949449529" target="_blank">2024-01-07</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Hockey ...</p>
-  - <a href="https://mastodon.social/@ryancheley/111712121952247793" target="_blank">2024-01-07</a>
   </blockquote>
 
 
