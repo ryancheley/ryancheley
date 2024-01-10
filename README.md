@@ -67,6 +67,11 @@
 
 
   <blockquote>
+  <p>🏃‍♂️Today, I ran 1.00 miles ...</p>
+  - <a href="https://mastodon.social/@ryancheley/111727710625584505" target="_blank">2024-01-09</a>
+  </blockquote>
+
+  <blockquote>
   <p>This just took a weight off my shoulders I didn’t know I was carrying. Thanks <span class="h-card"><a class="u-url mention" href="https://frankwiles.social/@frank">@<span>frank</span></a></span>  ...</p>
   - <a href="https://mastodon.social/@ryancheley/111723630706098616" target="_blank">2024-01-09</a>
   </blockquote>
@@ -74,11 +79,6 @@
   <blockquote>
   <p>Starting a new streak! After being a bit down for the last couple of weeks I’m starting up my running again ...</p>
   - <a href="https://mastodon.social/@ryancheley/111722324194037107" target="_blank">2024-01-08</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Hockey ...</p>
-  - <a href="https://mastodon.social/@ryancheley/111716841513902492" target="_blank">2024-01-07</a>
   </blockquote>
 
 
