@@ -67,18 +67,18 @@
 
 
   <blockquote>
+  <p>Someone check on <span class="h-card"><a class="u-url mention" href="https://social.joshthomas.dev/@josh">@<span>josh</span></a></span>  and make sure he’s ok ...</p>
+  - <a href="https://mastodon.social/@ryancheley/111735259593875885" target="_blank">2024-01-11</a>
+  </blockquote>
+
+  <blockquote>
+  <p>🏃‍♂️Today, I ran 1.00 miles ...</p>
+  - <a href="https://mastodon.social/@ryancheley/111733664785502438" target="_blank">2024-01-10</a>
+  </blockquote>
+
+  <blockquote>
   <p>🏃‍♂️Today, I ran 1.00 miles ...</p>
   - <a href="https://mastodon.social/@ryancheley/111727710625584505" target="_blank">2024-01-09</a>
-  </blockquote>
-
-  <blockquote>
-  <p>This just took a weight off my shoulders I didn’t know I was carrying. Thanks <span class="h-card"><a class="u-url mention" href="https://frankwiles.social/@frank">@<span>frank</span></a></span>  ...</p>
-  - <a href="https://mastodon.social/@ryancheley/111723630706098616" target="_blank">2024-01-09</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Starting a new streak! After being a bit down for the last couple of weeks I’m starting up my running again ...</p>
-  - <a href="https://mastodon.social/@ryancheley/111722324194037107" target="_blank">2024-01-08</a>
   </blockquote>
 
 
