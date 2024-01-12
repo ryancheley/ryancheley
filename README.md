@@ -67,18 +67,18 @@
 
 
   <blockquote>
+  <p>FAFSA ...</p>
+  - <a href="https://mastodon.social/@ryancheley/111741003834312900" target="_blank">2024-01-12</a>
+  </blockquote>
+
+  <blockquote>
+  <p>🏃‍♂️Today, I ran 1 miles ...</p>
+  - <a href="https://mastodon.social/@ryancheley/111739269103634418" target="_blank">2024-01-11</a>
+  </blockquote>
+
+  <blockquote>
   <p>Someone check on <span class="h-card"><a class="u-url mention" href="https://social.joshthomas.dev/@josh">@<span>josh</span></a></span>  and make sure he’s ok ...</p>
   - <a href="https://mastodon.social/@ryancheley/111735259593875885" target="_blank">2024-01-11</a>
-  </blockquote>
-
-  <blockquote>
-  <p>🏃‍♂️Today, I ran 1.00 miles ...</p>
-  - <a href="https://mastodon.social/@ryancheley/111733664785502438" target="_blank">2024-01-10</a>
-  </blockquote>
-
-  <blockquote>
-  <p>🏃‍♂️Today, I ran 1.00 miles ...</p>
-  - <a href="https://mastodon.social/@ryancheley/111727710625584505" target="_blank">2024-01-09</a>
   </blockquote>
 
 
