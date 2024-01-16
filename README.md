@@ -67,18 +67,18 @@
 
 
   <blockquote>
+  <p>Hockey ...</p>
+  - <a href="https://mastodon.social/@ryancheley/111763073586121807" target="_blank">2024-01-16</a>
+  </blockquote>
+
+  <blockquote>
+  <p>🏃‍♂️Today, I ran 1.51 miles ...</p>
+  - <a href="https://mastodon.social/@ryancheley/111762019956014186" target="_blank">2024-01-15</a>
+  </blockquote>
+
+  <blockquote>
   <p>🏃‍♂️Today, I ran 1.00 miles ...</p>
   - <a href="https://mastodon.social/@ryancheley/111745539014959418" target="_blank">2024-01-12</a>
-  </blockquote>
-
-  <blockquote>
-  <p>FAFSA ...</p>
-  - <a href="https://mastodon.social/@ryancheley/111741003834312900" target="_blank">2024-01-12</a>
-  </blockquote>
-
-  <blockquote>
-  <p>🏃‍♂️Today, I ran 1 miles ...</p>
-  - <a href="https://mastodon.social/@ryancheley/111739269103634418" target="_blank">2024-01-11</a>
   </blockquote>
 
 
