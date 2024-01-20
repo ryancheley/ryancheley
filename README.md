@@ -68,17 +68,17 @@
 
   <blockquote>
   <p>Hockey ...</p>
+  - <a href="https://mastodon.social/@ryancheley/111786038869337450" target="_blank">2024-01-20</a>
+  </blockquote>
+
+  <blockquote>
+  <p>🏃‍♂️Today, I ran 1.50 miles ...</p>
+  - <a href="https://mastodon.social/@ryancheley/111784504084356533" target="_blank">2024-01-19</a>
+  </blockquote>
+
+  <blockquote>
+  <p>Hockey ...</p>
   - <a href="https://mastodon.social/@ryancheley/111774630759979216" target="_blank">2024-01-18</a>
-  </blockquote>
-
-  <blockquote>
-  <p>🏃‍♂️Today, I ran 1.52 miles ...</p>
-  - <a href="https://mastodon.social/@ryancheley/111771579625567472" target="_blank">2024-01-17</a>
-  </blockquote>
-
-  <blockquote>
-  <p>As part of my journey to get back into running I signed up for a 5K today and will be running it on Jan 27 (only 11 days).  ...</p>
-  - <a href="https://mastodon.social/@ryancheley/111768762777875528" target="_blank">2024-01-17</a>
   </blockquote>
 
 
