@@ -67,18 +67,18 @@
 
 
   <blockquote>
+  <p>🏃‍♂️Today, I ran 2.00 miles ...</p>
+  - <a href="https://mastodon.social/@ryancheley/111807205883952858" target="_blank">2024-01-23</a>
+  </blockquote>
+
+  <blockquote>
+  <p>I had my first meeting with my Djangonauts from <span class="h-card"><a class="u-url mention" href="https://indieweb.social/@djangonaut">@<span>djangonaut</span></a></span> this morning and it went really well! I’m super excited to be able to participate in this program. Go <a class="mention hashtag" href="https://mastodon.social/tags/TeamSaturn" rel="tag">#<span>TeamSaturn</span></a>!</p>
+  - <a href="https://mastodon.social/@ryancheley/111807179911463759" target="_blank">2024-01-23</a>
+  </blockquote>
+
+  <blockquote>
   <p>TIL that you CAN have an own goal in Hockey. I mean, I knew it was theoretically possible, but the <a class="mention hashtag" href="https://mastodon.social/tags/PittsburghPenguins" rel="tag">#<span>PittsburghPenguins</span></a> showed me how it can actually happen <a class="mention hashtag" href="https://mastodon.social/tags/NHL" rel="tag">#<span>NHL</span></a> ...</p>
   - <a href="https://mastodon.social/@ryancheley/111803327281401387" target="_blank">2024-01-23</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Hockey ...</p>
-  - <a href="https://mastodon.social/@ryancheley/111786038869337450" target="_blank">2024-01-20</a>
-  </blockquote>
-
-  <blockquote>
-  <p>🏃‍♂️Today, I ran 1.50 miles ...</p>
-  - <a href="https://mastodon.social/@ryancheley/111784504084356533" target="_blank">2024-01-19</a>
   </blockquote>
 
 
