@@ -67,6 +67,11 @@
 
 
   <blockquote>
+  <p>🏃‍♂️Today, I ran 3.12 miles ...</p>
+  - <a href="https://mastodon.social/@ryancheley/111834669808838769" target="_blank">2024-01-28</a>
+  </blockquote>
+
+  <blockquote>
   <p>🏃‍♂️Today, I ran 2.00 miles ...</p>
   - <a href="https://mastodon.social/@ryancheley/111829514027871549" target="_blank">2024-01-27</a>
   </blockquote>
@@ -74,11 +79,6 @@
   <blockquote>
   <p>Games that I’m particularly interested are: ...</p>
   - <a href="https://mastodon.social/@ryancheley/111829508671116336" target="_blank">2024-01-27</a>
-  </blockquote>
-
-  <blockquote>
-  <p>I post a bit about the <a class="mention hashtag" href="https://mastodon.social/tags/CVFirebirds" rel="tag">#<span>CVFirebirds</span></a> who play in the <a class="mention hashtag" href="https://mastodon.social/tags/AHL" rel="tag">#<span>AHL</span></a>. For those of you that might be interested in <a class="mention hashtag" href="https://mastodon.social/tags/Hockey" rel="tag">#<span>Hockey</span></a> but don’t neccearily want to pay for a subscription, today is your lucky day! AHLTV is showing all of their games for free today. You do need to sign up and register for an account. For any of those that might be interested, here’s the site <a href="https://www.ahltv.com/" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://www.</span><span class="">ahltv.com/</span><span class="invisible"></span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/111829491577212626" target="_blank">2024-01-27</a>
   </blockquote>
 
 
