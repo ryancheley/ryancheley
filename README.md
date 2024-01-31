@@ -67,6 +67,11 @@
 
 
   <blockquote>
+  <p>🏃‍♂️Today, I ran 2.50 miles ...</p>
+  - <a href="https://mastodon.social/@ryancheley/111846809861073766" target="_blank">2024-01-30</a>
+  </blockquote>
+
+  <blockquote>
   <p>🏃‍♂️Today, I ran 3.12 miles ...</p>
   - <a href="https://mastodon.social/@ryancheley/111834669808838769" target="_blank">2024-01-28</a>
   </blockquote>
@@ -74,11 +79,6 @@
   <blockquote>
   <p>🏃‍♂️Today, I ran 2.00 miles ...</p>
   - <a href="https://mastodon.social/@ryancheley/111829514027871549" target="_blank">2024-01-27</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Games that I’m particularly interested are: ...</p>
-  - <a href="https://mastodon.social/@ryancheley/111829508671116336" target="_blank">2024-01-27</a>
   </blockquote>
 
 
