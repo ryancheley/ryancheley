@@ -67,6 +67,11 @@
 
 
   <blockquote>
+  <p>Hockey ...</p>
+  - <a href="https://mastodon.social/@ryancheley/111870795658064956" target="_blank">2024-02-04</a>
+  </blockquote>
+
+  <blockquote>
   <p>🏃‍♂️Today, I ran 2.50 miles ...</p>
   - <a href="https://mastodon.social/@ryancheley/111863620512442345" target="_blank">2024-02-02</a>
   </blockquote>
@@ -74,11 +79,6 @@
   <blockquote>
   <p>Hockey ...</p>
   - <a href="https://mastodon.social/@ryancheley/111859578647813551" target="_blank">2024-02-02</a>
-  </blockquote>
-
-  <blockquote>
-  <p>We just made the Jumbotron!</p>
-  - <a href="https://mastodon.social/@ryancheley/111853905516815622" target="_blank">2024-02-01</a>
   </blockquote>
 
 
