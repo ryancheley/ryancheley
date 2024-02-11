@@ -67,18 +67,18 @@
 
 
   <blockquote>
-  <p>🏃‍♂️Today, I ran 3.00 miles ...</p>
-  - <a href="https://mastodon.social/@ryancheley/111903344099812832" target="_blank">2024-02-09</a>
+  <p>Firebirds win 4-0. First in the Pacific division! ...</p>
+  - <a href="https://mastodon.social/@ryancheley/111911090081060163" target="_blank">2024-02-11</a>
   </blockquote>
 
   <blockquote>
-  <p>🏃‍♂️Today, I ran 3.00 miles ...</p>
-  - <a href="https://mastodon.social/@ryancheley/111892039359073477" target="_blank">2024-02-07</a>
+  <p>Hockey ...</p>
+  - <a href="https://mastodon.social/@ryancheley/111910323514188650" target="_blank">2024-02-11</a>
   </blockquote>
 
   <blockquote>
-  <p>🏃‍♂️Today, I ran 3.00 miles ...</p>
-  - <a href="https://mastodon.social/@ryancheley/111880698588160189" target="_blank">2024-02-05</a>
+  <p>Sometimes I remember to appreciate where I live and not take it for granted. Today is one of those days 😀</p>
+  - <a href="https://mastodon.social/@ryancheley/111908744343824214" target="_blank">2024-02-10</a>
   </blockquote>
 
 
