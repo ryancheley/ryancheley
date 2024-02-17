@@ -67,18 +67,18 @@
 
 
   <blockquote>
+  <p><span class="h-card"><a class="u-url mention" href="https://mastodon.social/@kjaymiller">@<span>kjaymiller</span></a></span> 🎉 congrats on the new job!</p>
+  - <a href="https://mastodon.social/@ryancheley/111942911110871227" target="_blank">2024-02-16</a>
+  </blockquote>
+
+  <blockquote>
+  <p>🏃‍♂️Today, I ran 3.55 miles ...</p>
+  - <a href="https://mastodon.social/@ryancheley/111942871717206954" target="_blank">2024-02-16</a>
+  </blockquote>
+
+  <blockquote>
   <p>The good guys won 4-0. Two empty net goals and a ton of Penalty Minutes. I knew that the Barracuda were bad but seeing it in person was rough. Feel bad for San Jose’s fan base. Yikes!  <a class="mention hashtag" href="https://mastodon.social/tags/CVFirebirds" rel="tag">#<span>CVFirebirds</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/SanJoseBarracuda" rel="tag">#<span>SanJoseBarracuda</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/AHL" rel="tag">#<span>AHL</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/111939756125220381" target="_blank">2024-02-16</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Hockey ...</p>
-  - <a href="https://mastodon.social/@ryancheley/111938849485021016" target="_blank">2024-02-16</a>
-  </blockquote>
-
-  <blockquote>
-  <p>If you have an opportunity to attend <span class="h-card"><a class="u-url mention" href="https://mastodon.social/@webology">@<span>webology</span></a></span> office hours mentioned here you totally should!<br /><a href="https://mastodon.social/@webology/111937649342536763" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@webology/1119</span><span class="invisible">37649342536763</span></a> ...</p>
-  - <a href="https://mastodon.social/@ryancheley/111938606859939132" target="_blank">2024-02-16</a>
   </blockquote>
 
 
