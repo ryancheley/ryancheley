@@ -67,18 +67,18 @@
 
 
   <blockquote>
+  <p>Hockey ...</p>
+  - <a href="https://mastodon.social/@ryancheley/111949977972595669" target="_blank">2024-02-18</a>
+  </blockquote>
+
+  <blockquote>
+  <p>I've been working on a blog post for a while now and part of that writing has been to create a streamlit app (inpsired by some of the writing that <span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@ehmatthes">@<span>ehmatthes</span></a></span> has done) ...</p>
+  - <a href="https://mastodon.social/@ryancheley/111947556274016715" target="_blank">2024-02-17</a>
+  </blockquote>
+
+  <blockquote>
   <p><span class="h-card"><a class="u-url mention" href="https://mastodon.social/@kjaymiller">@<span>kjaymiller</span></a></span> 🎉 congrats on the new job!</p>
   - <a href="https://mastodon.social/@ryancheley/111942911110871227" target="_blank">2024-02-16</a>
-  </blockquote>
-
-  <blockquote>
-  <p>🏃‍♂️Today, I ran 3.55 miles ...</p>
-  - <a href="https://mastodon.social/@ryancheley/111942871717206954" target="_blank">2024-02-16</a>
-  </blockquote>
-
-  <blockquote>
-  <p>The good guys won 4-0. Two empty net goals and a ton of Penalty Minutes. I knew that the Barracuda were bad but seeing it in person was rough. Feel bad for San Jose’s fan base. Yikes!  <a class="mention hashtag" href="https://mastodon.social/tags/CVFirebirds" rel="tag">#<span>CVFirebirds</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/SanJoseBarracuda" rel="tag">#<span>SanJoseBarracuda</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/AHL" rel="tag">#<span>AHL</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/111939756125220381" target="_blank">2024-02-16</a>
   </blockquote>
 
 
