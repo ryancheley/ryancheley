@@ -67,6 +67,11 @@
 
 
   <blockquote>
+  <p>It’s entirely possible I’ve tried to do too much this weekend. A baseball game on Saturday, followed by the Greek Festival, followed by hockey. And then Sunday a 5+ mile hike in ladder canyon, and then ANOTHER hockey game. And today I made it out to the Date Festival … now all I want to do is take a nap. What a great weekend with friends and family!</p>
+  - <a href="https://mastodon.social/@ryancheley/111960616414622245" target="_blank">2024-02-19</a>
+  </blockquote>
+
+  <blockquote>
   <p>Hockey ...</p>
   - <a href="https://mastodon.social/@ryancheley/111955346217874999" target="_blank">2024-02-19</a>
   </blockquote>
@@ -74,11 +79,6 @@
   <blockquote>
   <p>Hockey ...</p>
   - <a href="https://mastodon.social/@ryancheley/111949977972595669" target="_blank">2024-02-18</a>
-  </blockquote>
-
-  <blockquote>
-  <p>I've been working on a blog post for a while now and part of that writing has been to create a streamlit app (inpsired by some of the writing that <span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@ehmatthes">@<span>ehmatthes</span></a></span> has done) ...</p>
-  - <a href="https://mastodon.social/@ryancheley/111947556274016715" target="_blank">2024-02-17</a>
   </blockquote>
 
 
