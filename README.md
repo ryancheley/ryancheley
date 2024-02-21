@@ -67,6 +67,11 @@
 
 
   <blockquote>
+  <p>🏃‍♂️Today, I ran 4.01 miles ...</p>
+  - <a href="https://mastodon.social/@ryancheley/111965713684350452" target="_blank">2024-02-20</a>
+  </blockquote>
+
+  <blockquote>
   <p>It’s entirely possible I’ve tried to do too much this weekend. A baseball game on Saturday, followed by the Greek Festival, followed by hockey. And then Sunday a 5+ mile hike in ladder canyon, and then ANOTHER hockey game. And today I made it out to the Date Festival … now all I want to do is take a nap. What a great weekend with friends and family!</p>
   - <a href="https://mastodon.social/@ryancheley/111960616414622245" target="_blank">2024-02-19</a>
   </blockquote>
@@ -74,11 +79,6 @@
   <blockquote>
   <p>Hockey ...</p>
   - <a href="https://mastodon.social/@ryancheley/111955346217874999" target="_blank">2024-02-19</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Hockey ...</p>
-  - <a href="https://mastodon.social/@ryancheley/111949977972595669" target="_blank">2024-02-18</a>
   </blockquote>
 
 
