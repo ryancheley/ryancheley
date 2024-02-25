@@ -50,12 +50,13 @@
 
 <ul>
 
+  <li><a href="tag:www.ryancheley.com,2024-02-24:/2024/02/24/realign-the-ahl/" target="_blank"><h1>What is the AHL</h1>
+<p><a href="https://theahl.com/">The AHL</a>, or American Hockey League, is a hockey minor league based in the US and Canada. It's widely considered to be the step right below the <a href="https://www.nhl.com/">NHL</a> which is the top Hockey League in North America.</p>
+<p>There are 32 teams in the AHL, and <a href="https://theahl.com/qualification-rules">23 …</a></p></a> - 2024-02-24</li>
+
   <li><a href="tag:www.ryancheley.com,2023-12-31:/2023/12/31/year-in-review-2023/" target="_blank"><p>I've never done a year in review, but this seems like a good a time as any, right? I had a rough outline, but after reading the great Year in Review from <a href="https://www.better-simple.com/personal/2023/12/30/my-year-in-review/">Tim Schilliing</a>, <a href="https://www.paulox.net/2023/12/31/my-2023-in-review/">Paolo Melichore</a>, and <a href="https://dev.to/veldakiara/djangoconus-2023-a-wish-fulfilled-2mmc">Velda Kiara</a>, I was inspired to <strong>actually</strong> finish mine.</p>
 <h1>Professional</h1>
 <p>In the moment …</p></a> - 2023-12-31</li>
-
-  <li><a href="tag:www.ryancheley.com,2023-12-15:/2023/12/15/so-you-want-to-give-a-talk-at-a-conference/" target="_blank"><p>Last October I gave my first honest to goodness, on my own, up on the stage by myself talk at a tech conference. It was the most stressful yet fulfilling professional experience I've had.</p>
-<p>Fulfilling in that I've wanted to get better at speaking in public and this helped in …</p></a> - 2023-12-15</li>
 
 </ul>
 
@@ -67,18 +68,18 @@
 
 
   <blockquote>
-  <p>🏃‍♂️Today, I ran 4.00 miles ...</p>
-  - <a href="https://mastodon.social/@ryancheley/111982594140064018" target="_blank">2024-02-23</a>
+  <p>It’s also fun when, late in the game, several players may be wearing the same jersey number with no last names on the jerseys. The broadcasters usually have a hard time with that 🤣 <a class="mention hashtag" href="https://mastodon.social/tags/SpringTraining" rel="tag">#<span>SpringTraining</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/111988413524664863" target="_blank">2024-02-24</a>
   </blockquote>
 
   <blockquote>
-  <p>🏃‍♂️Today, I ran 4.01 miles ...</p>
-  - <a href="https://mastodon.social/@ryancheley/111965713684350452" target="_blank">2024-02-20</a>
+  <p>One of my favorite parts of watching <a class="mention hashtag" href="https://mastodon.social/tags/SpringTraining" rel="tag">#<span>SpringTraining</span></a> games is not knowing who the players are because of the off season moves AND the players from the minors that get playing time.</p>
+  - <a href="https://mastodon.social/@ryancheley/111988407633983593" target="_blank">2024-02-24</a>
   </blockquote>
 
   <blockquote>
-  <p>It’s entirely possible I’ve tried to do too much this weekend. A baseball game on Saturday, followed by the Greek Festival, followed by hockey. And then Sunday a 5+ mile hike in ladder canyon, and then ANOTHER hockey game. And today I made it out to the Date Festival … now all I want to do is take a nap. What a great weekend with friends and family!</p>
-  - <a href="https://mastodon.social/@ryancheley/111960616414622245" target="_blank">2024-02-19</a>
+  <p>Watching my first <a class="mention hashtag" href="https://mastodon.social/tags/SpringTraining" rel="tag">#<span>SpringTraining</span></a> game of the year <a class="mention hashtag" href="https://mastodon.social/tags/Dodgers" rel="tag">#<span>Dodgers</span></a> @ <a class="mention hashtag" href="https://mastodon.social/tags/Angels" rel="tag">#<span>Angels</span></a>. So excited!</p>
+  - <a href="https://mastodon.social/@ryancheley/111988279979622641" target="_blank">2024-02-24</a>
   </blockquote>
 
 
