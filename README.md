@@ -68,6 +68,11 @@
 
 
   <blockquote>
+  <p>Home game 27! ...</p>
+  - <a href="https://mastodon.social/@ryancheley/112012534583898342" target="_blank">2024-02-29</a>
+  </blockquote>
+
+  <blockquote>
   <p>It’s also fun when, late in the game, several players may be wearing the same jersey number with no last names on the jerseys. The broadcasters usually have a hard time with that 🤣 <a class="mention hashtag" href="https://mastodon.social/tags/SpringTraining" rel="tag">#<span>SpringTraining</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/111988413524664863" target="_blank">2024-02-24</a>
   </blockquote>
@@ -75,11 +80,6 @@
   <blockquote>
   <p>One of my favorite parts of watching <a class="mention hashtag" href="https://mastodon.social/tags/SpringTraining" rel="tag">#<span>SpringTraining</span></a> games is not knowing who the players are because of the off season moves AND the players from the minors that get playing time.</p>
   - <a href="https://mastodon.social/@ryancheley/111988407633983593" target="_blank">2024-02-24</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Watching my first <a class="mention hashtag" href="https://mastodon.social/tags/SpringTraining" rel="tag">#<span>SpringTraining</span></a> game of the year <a class="mention hashtag" href="https://mastodon.social/tags/Dodgers" rel="tag">#<span>Dodgers</span></a> @ <a class="mention hashtag" href="https://mastodon.social/tags/Angels" rel="tag">#<span>Angels</span></a>. So excited!</p>
-  - <a href="https://mastodon.social/@ryancheley/111988279979622641" target="_blank">2024-02-24</a>
   </blockquote>
 
 
