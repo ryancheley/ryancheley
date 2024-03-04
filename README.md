@@ -31,6 +31,8 @@
 
 <ul>
 
+  <li><a href="https://github.com/ryancheley/til/blob/main/Python/require" target="_blank">Require a Virtual Environment to install packages</a> - virtual-enviroment.md) - 2024-03-03</li>
+
   <li><a href="https://github.com/ryancheley/til/blob/main/css/css" target="_blank">CSS Specificity</a> - specificity.md) - 2023-12-23</li>
 
   <li><a href="https://github.com/ryancheley/til/blob/main/tailscale/subnet" target="_blank">Subnet Routers</a> - routers.md) - 2024-01-18</li>
@@ -38,8 +40,6 @@
   <li><a href="https://github.com/ryancheley/til/blob/main/Django/using" target="_blank">Using or to set a value</a> - or-to-set-a-value.md) - 2024-01-07</li>
 
   <li><a href="https://github.com/ryancheley/til/blob/main/hockey/delay" target="_blank">Delay of Game on Failed Coaches Challenge</a> - of-game-on-failed-coaches-challenge.md) - 2023-12-21</li>
-
-  <li><a href="https://github.com/ryancheley/til/blob/main/Python/adding" target="_blank">Adding objects in Python</a> - objects-in-python.md) - 2024-02-04</li>
 
 </ul>
 
