@@ -68,6 +68,11 @@
 
 
   <blockquote>
+  <p>Turns out taking 10 days off from running just made it harder to run! That being said, ...</p>
+  - <a href="https://mastodon.social/@ryancheley/112039310502406888" target="_blank">2024-03-04</a>
+  </blockquote>
+
+  <blockquote>
   <p>I made the JumboTron at the  <a class="mention hashtag" href="https://mastodon.social/tags/CVFirebirds" rel="tag">#<span>CVFirebirds</span></a> game last night … only this time it seems they were (maybe) waiting for me to say my catch phrase “Cheaters go to the Box Bro!” which is what I yell at opposing players that are sent to the Penalty Box.</p>
   - <a href="https://mastodon.social/@ryancheley/112015017954059505" target="_blank">2024-02-29</a>
   </blockquote>
@@ -75,11 +80,6 @@
   <blockquote>
   <p>Home game 27! ...</p>
   - <a href="https://mastodon.social/@ryancheley/112012534583898342" target="_blank">2024-02-29</a>
-  </blockquote>
-
-  <blockquote>
-  <p>It’s also fun when, late in the game, several players may be wearing the same jersey number with no last names on the jerseys. The broadcasters usually have a hard time with that 🤣 <a class="mention hashtag" href="https://mastodon.social/tags/SpringTraining" rel="tag">#<span>SpringTraining</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/111988413524664863" target="_blank">2024-02-24</a>
   </blockquote>
 
 
