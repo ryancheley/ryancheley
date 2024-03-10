@@ -68,18 +68,18 @@
 
 
   <blockquote>
-  <p>Turns out taking 10 days off from running just made it harder to run! That being said, ...</p>
-  - <a href="https://mastodon.social/@ryancheley/112039310502406888" target="_blank">2024-03-04</a>
+  <p>AND … my nephew got one of the shirts that they throw from the ice and/or shoot from a t-shirt canon! He’s so pumped right now 😄 <a class="mention hashtag" href="https://mastodon.social/tags/CVFirebirds" rel="tag">#<span>CVFirebirds</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/TucsonRoadrunners" rel="tag">#<span>TucsonRoadrunners</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/112069365663928370" target="_blank">2024-03-10</a>
   </blockquote>
 
   <blockquote>
-  <p>I made the JumboTron at the  <a class="mention hashtag" href="https://mastodon.social/tags/CVFirebirds" rel="tag">#<span>CVFirebirds</span></a> game last night … only this time it seems they were (maybe) waiting for me to say my catch phrase “Cheaters go to the Box Bro!” which is what I yell at opposing players that are sent to the Penalty Box.</p>
-  - <a href="https://mastodon.social/@ryancheley/112015017954059505" target="_blank">2024-02-29</a>
+  <p>It’s also Fuego’s birthday!!!!! <a class="mention hashtag" href="https://mastodon.social/tags/CVFirebirds" rel="tag">#<span>CVFirebirds</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/TucsonRoadrunners" rel="tag">#<span>TucsonRoadrunners</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/112068913522647557" target="_blank">2024-03-10</a>
   </blockquote>
 
   <blockquote>
-  <p>Home game 27! ...</p>
-  - <a href="https://mastodon.social/@ryancheley/112012534583898342" target="_blank">2024-02-29</a>
+  <p>Hockey ...</p>
+  - <a href="https://mastodon.social/@ryancheley/112068832249206757" target="_blank">2024-03-10</a>
   </blockquote>
 
 
