@@ -68,6 +68,11 @@
 
 
   <blockquote>
+  <p>Hockey ...</p>
+  - <a href="https://mastodon.social/@ryancheley/112102782525958982" target="_blank">2024-03-16</a>
+  </blockquote>
+
+  <blockquote>
   <p>AND … my nephew got one of the shirts that they throw from the ice and/or shoot from a t-shirt canon! He’s so pumped right now 😄 <a class="mention hashtag" href="https://mastodon.social/tags/CVFirebirds" rel="tag">#<span>CVFirebirds</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/TucsonRoadrunners" rel="tag">#<span>TucsonRoadrunners</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/112069365663928370" target="_blank">2024-03-10</a>
   </blockquote>
@@ -75,11 +80,6 @@
   <blockquote>
   <p>It’s also Fuego’s birthday!!!!! <a class="mention hashtag" href="https://mastodon.social/tags/CVFirebirds" rel="tag">#<span>CVFirebirds</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/TucsonRoadrunners" rel="tag">#<span>TucsonRoadrunners</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/112068913522647557" target="_blank">2024-03-10</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Hockey ...</p>
-  - <a href="https://mastodon.social/@ryancheley/112068832249206757" target="_blank">2024-03-10</a>
   </blockquote>
 
 
