@@ -31,6 +31,8 @@
 
 <ul>
 
+  <li><a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiu4OSS1PmEAxWck4kEHedYCXoQwqsBegQICBAG&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DU2uwdVSfaDo&usg=AOvVaw0xGYxzDUlv6v82tY7FAAuW&opi=89978449 the other day I learned that" target="_blank">While watching a video on YouTube</a> - yer-goalie-eh.md) - 2024-03-16</li>
+
   <li><a href="https://github.com/ryancheley/til/blob/main/Python/require" target="_blank">Require a Virtual Environment to install packages</a> - virtual-enviroment.md) - 2024-03-03</li>
 
   <li><a href="https://github.com/ryancheley/til/blob/main/css/css" target="_blank">CSS Specificity</a> - specificity.md) - 2023-12-23</li>
@@ -38,8 +40,6 @@
   <li><a href="https://github.com/ryancheley/til/blob/main/tailscale/subnet" target="_blank">Subnet Routers</a> - routers.md) - 2024-01-18</li>
 
   <li><a href="https://github.com/ryancheley/til/blob/main/Django/using" target="_blank">Using or to set a value</a> - or-to-set-a-value.md) - 2024-01-07</li>
-
-  <li><a href="https://github.com/ryancheley/til/blob/main/hockey/delay" target="_blank">Delay of Game on Failed Coaches Challenge</a> - of-game-on-failed-coaches-challenge.md) - 2023-12-21</li>
 
 </ul>
 
@@ -68,6 +68,11 @@
 
 
   <blockquote>
+  <p>The good guys won last night in a Shootout 4-3 which was nice. Also, the <a class="mention hashtag" href="https://mastodon.social/tags/OntarioReign" rel="tag">#<span>OntarioReign</span></a> fans at Toyota Arena in Ontario are pretty classy and friendly ... and the food is a bit better than Acrisure. If these two teams meet in the playoffs, I'm definitely making the 90 minute drive down to watch some games! <a class="mention hashtag" href="https://mastodon.social/tags/CVFirebirds" rel="tag">#<span>CVFirebirds</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/OntarioReign" rel="tag">#<span>OntarioReign</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/112106726231126187" target="_blank">2024-03-16</a>
+  </blockquote>
+
+  <blockquote>
   <p>Hockey ...</p>
   - <a href="https://mastodon.social/@ryancheley/112102782525958982" target="_blank">2024-03-16</a>
   </blockquote>
@@ -75,11 +80,6 @@
   <blockquote>
   <p>AND … my nephew got one of the shirts that they throw from the ice and/or shoot from a t-shirt canon! He’s so pumped right now 😄 <a class="mention hashtag" href="https://mastodon.social/tags/CVFirebirds" rel="tag">#<span>CVFirebirds</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/TucsonRoadrunners" rel="tag">#<span>TucsonRoadrunners</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/112069365663928370" target="_blank">2024-03-10</a>
-  </blockquote>
-
-  <blockquote>
-  <p>It’s also Fuego’s birthday!!!!! <a class="mention hashtag" href="https://mastodon.social/tags/CVFirebirds" rel="tag">#<span>CVFirebirds</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/TucsonRoadrunners" rel="tag">#<span>TucsonRoadrunners</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/112068913522647557" target="_blank">2024-03-10</a>
   </blockquote>
 
 
