@@ -50,13 +50,12 @@
 
 <ul>
 
+  <li><a href="tag:www.ryancheley.com,2024-03-19:/2024/03/19/winter-of-learning/" target="_blank"><h2>Winter of Learning Retrospective</h2>
+<p>Have you heard the good word about themes? If you haven't, take a look at this great video by <a href="https://youtu.be/NVGuFdX5guE?si=auqXL9SMfYeftcup">CGP Grey on Themes</a> and how they can work. For the last couple of years I've been doing yearly themes ... with limited success. This lack of success …</p></a> - 2024-03-19</li>
+
   <li><a href="tag:www.ryancheley.com,2024-02-24:/2024/02/24/realign-the-ahl/" target="_blank"><h1>What is the AHL</h1>
 <p><a href="https://theahl.com/">The AHL</a>, or American Hockey League, is a hockey minor league based in the US and Canada. It's widely considered to be the step right below the <a href="https://www.nhl.com/">NHL</a> which is the top Hockey League in North America.</p>
 <p>There are 32 teams in the AHL, and <a href="https://theahl.com/qualification-rules">23 …</a></p></a> - 2024-02-24</li>
-
-  <li><a href="tag:www.ryancheley.com,2023-12-31:/2023/12/31/year-in-review-2023/" target="_blank"><p>I've never done a year in review, but this seems like a good a time as any, right? I had a rough outline, but after reading the great Year in Review from <a href="https://www.better-simple.com/personal/2023/12/30/my-year-in-review/">Tim Schilliing</a>, <a href="https://www.paulox.net/2023/12/31/my-2023-in-review/">Paolo Melichore</a>, and <a href="https://dev.to/veldakiara/djangoconus-2023-a-wish-fulfilled-2mmc">Velda Kiara</a>, I was inspired to <strong>actually</strong> finish mine.</p>
-<h1>Professional</h1>
-<p>In the moment …</p></a> - 2023-12-31</li>
 
 </ul>
 
@@ -68,6 +67,11 @@
 
 
   <blockquote>
+  <p>Have you heard the good word about themes? If you haven't, take a look at this great video by CGP Grey on Themes and how they can work ...</p>
+  - <a href="https://mastodon.social/@ryancheley/112122500244385580" target="_blank">2024-03-19</a>
+  </blockquote>
+
+  <blockquote>
   <p>The good guys won last night in a Shootout 4-3 which was nice. Also, the <a class="mention hashtag" href="https://mastodon.social/tags/OntarioReign" rel="tag">#<span>OntarioReign</span></a> fans at Toyota Arena in Ontario are pretty classy and friendly ... and the food is a bit better than Acrisure. If these two teams meet in the playoffs, I'm definitely making the 90 minute drive down to watch some games! <a class="mention hashtag" href="https://mastodon.social/tags/CVFirebirds" rel="tag">#<span>CVFirebirds</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/OntarioReign" rel="tag">#<span>OntarioReign</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/112106726231126187" target="_blank">2024-03-16</a>
   </blockquote>
@@ -75,11 +79,6 @@
   <blockquote>
   <p>Hockey ...</p>
   - <a href="https://mastodon.social/@ryancheley/112102782525958982" target="_blank">2024-03-16</a>
-  </blockquote>
-
-  <blockquote>
-  <p>AND … my nephew got one of the shirts that they throw from the ice and/or shoot from a t-shirt canon! He’s so pumped right now 😄 <a class="mention hashtag" href="https://mastodon.social/tags/CVFirebirds" rel="tag">#<span>CVFirebirds</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/TucsonRoadrunners" rel="tag">#<span>TucsonRoadrunners</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/112069365663928370" target="_blank">2024-03-10</a>
   </blockquote>
 
 
