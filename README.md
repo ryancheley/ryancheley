@@ -67,18 +67,18 @@
 
 
   <blockquote>
-  <p>Have you heard the good word about themes? If you haven't, take a look at this great video by CGP Grey on Themes and how they can work ...</p>
-  - <a href="https://mastodon.social/@ryancheley/112122500244385580" target="_blank">2024-03-19</a>
-  </blockquote>
-
-  <blockquote>
-  <p>The good guys won last night in a Shootout 4-3 which was nice. Also, the <a class="mention hashtag" href="https://mastodon.social/tags/OntarioReign" rel="tag">#<span>OntarioReign</span></a> fans at Toyota Arena in Ontario are pretty classy and friendly ... and the food is a bit better than Acrisure. If these two teams meet in the playoffs, I'm definitely making the 90 minute drive down to watch some games! <a class="mention hashtag" href="https://mastodon.social/tags/CVFirebirds" rel="tag">#<span>CVFirebirds</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/OntarioReign" rel="tag">#<span>OntarioReign</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/112106726231126187" target="_blank">2024-03-16</a>
+  <p>My wife surprised me with a belated birthday gift at the game tonight!😄 <a class="mention hashtag" href="https://mastodon.social/tags/CoachellaValleyFirebirds" rel="tag">#<span>CoachellaValleyFirebirds</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/TexasStars" rel="tag">#<span>TexasStars</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/AHL" rel="tag">#<span>AHL</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/112132020386257863" target="_blank">2024-03-21</a>
   </blockquote>
 
   <blockquote>
   <p>Hockey ...</p>
-  - <a href="https://mastodon.social/@ryancheley/112102782525958982" target="_blank">2024-03-16</a>
+  - <a href="https://mastodon.social/@ryancheley/112131237294224760" target="_blank">2024-03-21</a>
+  </blockquote>
+
+  <blockquote>
+  <p>Have you heard the good word about themes? If you haven't, take a look at this great video by CGP Grey on Themes and how they can work ...</p>
+  - <a href="https://mastodon.social/@ryancheley/112122500244385580" target="_blank">2024-03-19</a>
   </blockquote>
 
 
