@@ -67,18 +67,18 @@
 
 
   <blockquote>
+  <p>Watching the <a class="mention hashtag" href="https://mastodon.social/tags/SeattleKraken" rel="tag">#<span>SeattleKraken</span></a> game tonight and am so happy to see so many former <a class="mention hashtag" href="https://mastodon.social/tags/CVFirebirds" rel="tag">#<span>CVFirebirds</span></a> playing. It’s a great way to cap off the awesome Sparta day I’ve been able to have today!</p>
+  - <a href="https://mastodon.social/@ryancheley/112176651947481647" target="_blank">2024-03-29</a>
+  </blockquote>
+
+  <blockquote>
+  <p>It took some doing, but I have been successful in getting the <a class="mention hashtag" href="https://mastodon.social/tags/LosAngelesDodgers" rel="tag">#<span>LosAngelesDodgers</span></a> opening day game against the <a class="mention hashtag" href="https://mastodon.social/tags/StLouisCardinals" rel="tag">#<span>StLouisCardinals</span></a> on my AppleTV. But also, the blackout rules for <a class="mention hashtag" href="https://mastodon.social/tags/MLB" rel="tag">#<span>MLB</span></a> are such BS.</p>
+  - <a href="https://mastodon.social/@ryancheley/112175310331975274" target="_blank">2024-03-28</a>
+  </blockquote>
+
+  <blockquote>
   <p>Hockey ...</p>
   - <a href="https://mastodon.social/@ryancheley/112147975103682673" target="_blank">2024-03-24</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Congrats to <span class="h-card"><a class="u-url mention" href="https://mastodon.social/@sarahboyce">@<span>sarahboyce</span></a></span> 🎉<br /><a href="https://fosstodon.org/@django/112140445431480355" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">fosstodon.org/@django/11214044</span><span class="invisible">5431480355</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/112142149454036060" target="_blank">2024-03-23</a>
-  </blockquote>
-
-  <blockquote>
-  <p>My wife surprised me with a belated birthday gift at the game tonight!😄 <a class="mention hashtag" href="https://mastodon.social/tags/CoachellaValleyFirebirds" rel="tag">#<span>CoachellaValleyFirebirds</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/TexasStars" rel="tag">#<span>TexasStars</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/AHL" rel="tag">#<span>AHL</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/112132020386257863" target="_blank">2024-03-21</a>
   </blockquote>
 
 
