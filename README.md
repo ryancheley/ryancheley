@@ -50,12 +50,11 @@
 
 <ul>
 
+  <li><a href="tag:www.ryancheley.com,2024-03-29:/2024/03/29/trying-out-pyenv-again/" target="_blank"><p>I <em>think</em> I first tried <code>pyenv</code> probably sometime in late 2022. I saw some recent stuff about it on Mastadon and thought I'd give it another go.</p>
+<p>I read through the <a href="https://github.com/pyenv/pyenv/#installation">installation instructions at the ReadMe</a> at the repo and checked to see if it was already installed (spoiler alert …</p></a> - 2024-03-29</li>
+
   <li><a href="tag:www.ryancheley.com,2024-03-19:/2024/03/19/winter-of-learning/" target="_blank"><h2>Winter of Learning Retrospective</h2>
 <p>Have you heard the good word about themes? If you haven't, take a look at this great video by <a href="https://youtu.be/NVGuFdX5guE?si=auqXL9SMfYeftcup">CGP Grey on Themes</a> and how they can work. For the last couple of years I've been doing yearly themes ... with limited success. This lack of success …</p></a> - 2024-03-19</li>
-
-  <li><a href="tag:www.ryancheley.com,2024-02-24:/2024/02/24/realign-the-ahl/" target="_blank"><h1>What is the AHL</h1>
-<p><a href="https://theahl.com/">The AHL</a>, or American Hockey League, is a hockey minor league based in the US and Canada. It's widely considered to be the step right below the <a href="https://www.nhl.com/">NHL</a> which is the top Hockey League in North America.</p>
-<p>There are 32 teams in the AHL, and <a href="https://theahl.com/qualification-rules">23 …</a></p></a> - 2024-02-24</li>
 
 </ul>
 
@@ -67,18 +66,18 @@
 
 
   <blockquote>
-  <p>Watching the <a class="mention hashtag" href="https://mastodon.social/tags/SeattleKraken" rel="tag">#<span>SeattleKraken</span></a> game tonight and am so happy to see so many former <a class="mention hashtag" href="https://mastodon.social/tags/CVFirebirds" rel="tag">#<span>CVFirebirds</span></a> playing. It’s a great way to cap off the awesome Sparta day I’ve been able to have today!</p>
-  - <a href="https://mastodon.social/@ryancheley/112176651947481647" target="_blank">2024-03-29</a>
+  <p>This was fun to do, but mostly because apparently I have the hearing of a 30 year old 🤣 (I’m 46)<br /><a href="https://social.coop/@hollie/112180866924137835" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">social.coop/@hollie/1121808669</span><span class="invisible">24137835</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/112182422402896228" target="_blank">2024-03-30</a>
   </blockquote>
 
   <blockquote>
-  <p>It took some doing, but I have been successful in getting the <a class="mention hashtag" href="https://mastodon.social/tags/LosAngelesDodgers" rel="tag">#<span>LosAngelesDodgers</span></a> opening day game against the <a class="mention hashtag" href="https://mastodon.social/tags/StLouisCardinals" rel="tag">#<span>StLouisCardinals</span></a> on my AppleTV. But also, the blackout rules for <a class="mention hashtag" href="https://mastodon.social/tags/MLB" rel="tag">#<span>MLB</span></a> are such BS.</p>
-  - <a href="https://mastodon.social/@ryancheley/112175310331975274" target="_blank">2024-03-28</a>
+  <p>Today is a making <a class="mention hashtag" href="https://mastodon.social/tags/Sourdough" rel="tag">#<span>Sourdough</span></a> like it’s 2020 kind of day.</p>
+  - <a href="https://mastodon.social/@ryancheley/112182068253990052" target="_blank">2024-03-30</a>
   </blockquote>
 
   <blockquote>
-  <p>Hockey ...</p>
-  - <a href="https://mastodon.social/@ryancheley/112147975103682673" target="_blank">2024-03-24</a>
+  <p>On my way to trying pyenv again I discovered some stuff about Homebrew and Apple Silicon ...</p>
+  - <a href="https://mastodon.social/@ryancheley/112181240495321188" target="_blank">2024-03-29</a>
   </blockquote>
 
 
