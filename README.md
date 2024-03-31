@@ -66,18 +66,18 @@
 
 
   <blockquote>
-  <p>This was fun to do, but mostly because apparently I have the hearing of a 30 year old 🤣 (I’m 46)<br /><a href="https://social.coop/@hollie/112180866924137835" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">social.coop/@hollie/1121808669</span><span class="invisible">24137835</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/112182422402896228" target="_blank">2024-03-30</a>
+  <p>Friends, Jeff has some good thoughts here and I think everyone should read this. <a href="https://mastodon.social/@webology/112188015918528853" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@webology/1121</span><span class="invisible">88015918528853</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/112188058128114460" target="_blank">2024-03-31</a>
   </blockquote>
 
   <blockquote>
-  <p>Today is a making <a class="mention hashtag" href="https://mastodon.social/tags/Sourdough" rel="tag">#<span>Sourdough</span></a> like it’s 2020 kind of day.</p>
-  - <a href="https://mastodon.social/@ryancheley/112182068253990052" target="_blank">2024-03-30</a>
+  <p>I’m not watching too many sports. You’re just not watching ENOUGH sports! ...</p>
+  - <a href="https://mastodon.social/@ryancheley/112187874521025747" target="_blank">2024-03-31</a>
   </blockquote>
 
   <blockquote>
-  <p>On my way to trying pyenv again I discovered some stuff about Homebrew and Apple Silicon ...</p>
-  - <a href="https://mastodon.social/@ryancheley/112181240495321188" target="_blank">2024-03-29</a>
+  <p>Now with a fix to the mobile display issue for the long link text! Thanks to those that pointed it out<br /><a href="https://mastodon.social/@ryancheley/112181240495321188" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@ryancheley/11</span><span class="invisible">2181240495321188</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/112184788353168068" target="_blank">2024-03-30</a>
   </blockquote>
 
 
