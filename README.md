@@ -66,18 +66,18 @@
 
 
   <blockquote>
+  <p>The <a class="mention hashtag" href="https://mastodon.social/tags/CoachelleValleyFirebirds" rel="tag">#<span>CoachelleValleyFirebirds</span></a> won tonight and their magic number to win the Pacific division is down to 5. Super excited! <a class="mention hashtag" href="https://mastodon.social/tags/AHL" rel="tag">#<span>AHL</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/112216974665019854" target="_blank">2024-04-05</a>
+  </blockquote>
+
+  <blockquote>
+  <p>Hockey ...</p>
+  - <a href="https://mastodon.social/@ryancheley/112216200397055777" target="_blank">2024-04-05</a>
+  </blockquote>
+
+  <blockquote>
   <p>Friends, Jeff has some good thoughts here and I think everyone should read this. <a href="https://mastodon.social/@webology/112188015918528853" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@webology/1121</span><span class="invisible">88015918528853</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/112188058128114460" target="_blank">2024-03-31</a>
-  </blockquote>
-
-  <blockquote>
-  <p>I’m not watching too many sports. You’re just not watching ENOUGH sports! ...</p>
-  - <a href="https://mastodon.social/@ryancheley/112187874521025747" target="_blank">2024-03-31</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Now with a fix to the mobile display issue for the long link text! Thanks to those that pointed it out<br /><a href="https://mastodon.social/@ryancheley/112181240495321188" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@ryancheley/11</span><span class="invisible">2181240495321188</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/112184788353168068" target="_blank">2024-03-30</a>
   </blockquote>
 
 
