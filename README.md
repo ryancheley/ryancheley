@@ -66,6 +66,11 @@
 
 
   <blockquote>
+  <p>This hit home for me as today was one of those days where I kind of had the same feelings as <span class="h-card"><a class="u-url mention" href="https://mastodon.social/@justsnook">@<span>justsnook</span></a></span> and I **realy** needed to see/hear this! <a href="https://mastodon.social/@justsnook/112236163418394858" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@justsnook/112</span><span class="invisible">236163418394858</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/112238359918943750" target="_blank">2024-04-09</a>
+  </blockquote>
+
+  <blockquote>
   <p>Last night I was watching <a class="mention hashtag" href="https://mastodon.social/tags/CoachelleValleyFirebirds" rel="tag">#<span>CoachelleValleyFirebirds</span></a> play <a class="mention hashtag" href="https://mastodon.social/tags/AbbottsfordCanucks" rel="tag">#<span>AbbottsfordCanucks</span></a> and it was one of the hardest fought games I’ve seen in a long time. If you only watch ONE <a class="mention hashtag" href="https://mastodon.social/tags/hockey" rel="tag">#<span>hockey</span></a> highlight watch this one. <a class="mention hashtag" href="https://mastodon.social/tags/AHL" rel="tag">#<span>AHL</span></a> ...</p>
   - <a href="https://mastodon.social/@ryancheley/112231660413365804" target="_blank">2024-04-07</a>
   </blockquote>
@@ -73,11 +78,6 @@
   <blockquote>
   <p>The <a class="mention hashtag" href="https://mastodon.social/tags/CoachelleValleyFirebirds" rel="tag">#<span>CoachelleValleyFirebirds</span></a> won tonight and their magic number to win the Pacific division is down to 5. Super excited! <a class="mention hashtag" href="https://mastodon.social/tags/AHL" rel="tag">#<span>AHL</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/112216974665019854" target="_blank">2024-04-05</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Hockey ...</p>
-  - <a href="https://mastodon.social/@ryancheley/112216200397055777" target="_blank">2024-04-05</a>
   </blockquote>
 
 
