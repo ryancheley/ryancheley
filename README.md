@@ -66,18 +66,18 @@
 
 
   <blockquote>
-  <p>This hit home for me as today was one of those days where I kind of had the same feelings as <span class="h-card"><a class="u-url mention" href="https://mastodon.social/@justsnook">@<span>justsnook</span></a></span> and I **realy** needed to see/hear this! <a href="https://mastodon.social/@justsnook/112236163418394858" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@justsnook/112</span><span class="invisible">236163418394858</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/112238359918943750" target="_blank">2024-04-09</a>
+  <p>Super bummed I’m going to miss out this week, but I highly recommend attending if you’re able. Great people and a great time!<br /><a href="https://mastodon.social/@webology/112250617403348506" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@webology/1122</span><span class="invisible">50617403348506</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/112250879354558071" target="_blank">2024-04-11</a>
   </blockquote>
 
   <blockquote>
-  <p>Last night I was watching <a class="mention hashtag" href="https://mastodon.social/tags/CoachelleValleyFirebirds" rel="tag">#<span>CoachelleValleyFirebirds</span></a> play <a class="mention hashtag" href="https://mastodon.social/tags/AbbottsfordCanucks" rel="tag">#<span>AbbottsfordCanucks</span></a> and it was one of the hardest fought games I’ve seen in a long time. If you only watch ONE <a class="mention hashtag" href="https://mastodon.social/tags/hockey" rel="tag">#<span>hockey</span></a> highlight watch this one. <a class="mention hashtag" href="https://mastodon.social/tags/AHL" rel="tag">#<span>AHL</span></a> ...</p>
-  - <a href="https://mastodon.social/@ryancheley/112231660413365804" target="_blank">2024-04-07</a>
+  <p>The best part is that the  <a class="mention hashtag" href="https://mastodon.social/tags/CoachelleValleyFirebirds" rel="tag">#<span>CoachelleValleyFirebirds</span></a> have won the Pacific division and will get a first round bye</p>
+  - <a href="https://mastodon.social/@ryancheley/112250847409025101" target="_blank">2024-04-11</a>
   </blockquote>
 
   <blockquote>
-  <p>The <a class="mention hashtag" href="https://mastodon.social/tags/CoachelleValleyFirebirds" rel="tag">#<span>CoachelleValleyFirebirds</span></a> won tonight and their magic number to win the Pacific division is down to 5. Super excited! <a class="mention hashtag" href="https://mastodon.social/tags/AHL" rel="tag">#<span>AHL</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/112216974665019854" target="_blank">2024-04-05</a>
+  <p>The <a class="mention hashtag" href="https://mastodon.social/tags/CoachelleValleyFirebirds" rel="tag">#<span>CoachelleValleyFirebirds</span></a> best the <a class="mention hashtag" href="https://mastodon.social/tags/OntarioReign" rel="tag">#<span>OntarioReign</span></a> 3-1 in a very playoff like atmosphere. The first period had 30 penalty minutes, including a 10 minute misconduct. At one point there were THREE Reign players in the penalty box 🤣 ...</p>
+  - <a href="https://mastodon.social/@ryancheley/112250844639369691" target="_blank">2024-04-11</a>
   </blockquote>
 
 
