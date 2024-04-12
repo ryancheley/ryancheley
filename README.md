@@ -66,18 +66,18 @@
 
 
   <blockquote>
-  <p>Super bummed I’m going to miss out this week, but I highly recommend attending if you’re able. Great people and a great time!<br /><a href="https://mastodon.social/@webology/112250617403348506" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@webology/1122</span><span class="invisible">50617403348506</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/112250879354558071" target="_blank">2024-04-11</a>
+  <p>If you know … you know 🤣<br /><a href="https://twitter.com/SeattleKraken/status/1778603384586805685" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">twitter.com/SeattleKraken/stat</span><span class="invisible">us/1778603384586805685</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/112255883459051829" target="_blank">2024-04-12</a>
   </blockquote>
 
   <blockquote>
-  <p>The best part is that the  <a class="mention hashtag" href="https://mastodon.social/tags/CoachelleValleyFirebirds" rel="tag">#<span>CoachelleValleyFirebirds</span></a> have won the Pacific division and will get a first round bye</p>
-  - <a href="https://mastodon.social/@ryancheley/112250847409025101" target="_blank">2024-04-11</a>
+  <p>I’m watching the <a class="mention hashtag" href="https://mastodon.social/tags/SeattleKraken" rel="tag">#<span>SeattleKraken</span></a> play tonight and it’s really weird because it seems like half of the team are former <a class="mention hashtag" href="https://mastodon.social/tags/CoachelleValleyFirebirds" rel="tag">#<span>CoachelleValleyFirebirds</span></a> players. <a class="mention hashtag" href="https://mastodon.social/tags/NHL" rel="tag">#<span>NHL</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/112255875767705757" target="_blank">2024-04-12</a>
   </blockquote>
 
   <blockquote>
-  <p>The <a class="mention hashtag" href="https://mastodon.social/tags/CoachelleValleyFirebirds" rel="tag">#<span>CoachelleValleyFirebirds</span></a> best the <a class="mention hashtag" href="https://mastodon.social/tags/OntarioReign" rel="tag">#<span>OntarioReign</span></a> 3-1 in a very playoff like atmosphere. The first period had 30 penalty minutes, including a 10 minute misconduct. At one point there were THREE Reign players in the penalty box 🤣 ...</p>
-  - <a href="https://mastodon.social/@ryancheley/112250844639369691" target="_blank">2024-04-11</a>
+  <p>Can confirm … though for me it was a Steller’s Jay<br /><a href="https://mastodonapp.uk/@RSPB/112251597224851712" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">mastodonapp.uk/@RSPB/112251597</span><span class="invisible">224851712</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/112252533223075803" target="_blank">2024-04-11</a>
   </blockquote>
 
 
