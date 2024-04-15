@@ -66,18 +66,18 @@
 
 
   <blockquote>
+  <p>The good guys won 2-1 despite being outshot 30-22. Also, as a bonus I *finally* got my personalized Jersey. It took nearly 6 weeks because they didn’t have the letters needed for the name on the back. Now I have something a little more obviously Firebirds to wear to home games 😄</p>
+  - <a href="https://mastodon.social/@ryancheley/112272660400976433" target="_blank">2024-04-15</a>
+  </blockquote>
+
+  <blockquote>
+  <p>Hockey ...</p>
+  - <a href="https://mastodon.social/@ryancheley/112271731292388655" target="_blank">2024-04-14</a>
+  </blockquote>
+
+  <blockquote>
   <p>If you know … you know 🤣<br /><a href="https://twitter.com/SeattleKraken/status/1778603384586805685" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">twitter.com/SeattleKraken/stat</span><span class="invisible">us/1778603384586805685</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/112255883459051829" target="_blank">2024-04-12</a>
-  </blockquote>
-
-  <blockquote>
-  <p>I’m watching the <a class="mention hashtag" href="https://mastodon.social/tags/SeattleKraken" rel="tag">#<span>SeattleKraken</span></a> play tonight and it’s really weird because it seems like half of the team are former <a class="mention hashtag" href="https://mastodon.social/tags/CoachelleValleyFirebirds" rel="tag">#<span>CoachelleValleyFirebirds</span></a> players. <a class="mention hashtag" href="https://mastodon.social/tags/NHL" rel="tag">#<span>NHL</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/112255875767705757" target="_blank">2024-04-12</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Can confirm … though for me it was a Steller’s Jay<br /><a href="https://mastodonapp.uk/@RSPB/112251597224851712" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">mastodonapp.uk/@RSPB/112251597</span><span class="invisible">224851712</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/112252533223075803" target="_blank">2024-04-11</a>
   </blockquote>
 
 
