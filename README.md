@@ -66,6 +66,11 @@
 
 
   <blockquote>
+  <p>I don’t typically post family stuff, but tonight my daughter committed to Scripps College for the fall. I’m super proud of all the hard work she’s put in to get to this moment, and also a little misty eyed about the closing of this chapter of our family life … but also super excited about the next one. <a class="mention hashtag" href="https://mastodon.social/tags/ProudDad" rel="tag">#<span>ProudDad</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/SpringOfTransition" rel="tag">#<span>SpringOfTransition</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/112278921945786080" target="_blank">2024-04-16</a>
+  </blockquote>
+
+  <blockquote>
   <p>The good guys won 2-1 despite being outshot 30-22. Also, as a bonus I *finally* got my personalized Jersey. It took nearly 6 weeks because they didn’t have the letters needed for the name on the back. Now I have something a little more obviously Firebirds to wear to home games 😄</p>
   - <a href="https://mastodon.social/@ryancheley/112272660400976433" target="_blank">2024-04-15</a>
   </blockquote>
@@ -73,11 +78,6 @@
   <blockquote>
   <p>Hockey ...</p>
   - <a href="https://mastodon.social/@ryancheley/112271731292388655" target="_blank">2024-04-14</a>
-  </blockquote>
-
-  <blockquote>
-  <p>If you know … you know 🤣<br /><a href="https://twitter.com/SeattleKraken/status/1778603384586805685" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">twitter.com/SeattleKraken/stat</span><span class="invisible">us/1778603384586805685</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/112255883459051829" target="_blank">2024-04-12</a>
   </blockquote>
 
 
