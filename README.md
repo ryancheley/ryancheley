@@ -66,18 +66,18 @@
 
 
   <blockquote>
+  <p>No W for the <a class="mention hashtag" href="https://mastodon.social/tags/CoachelleValleyFirebirds" rel="tag">#<span>CoachelleValleyFirebirds</span></a> today as they lost in the shootout … but they were down by 3 going into the third period (again) and forced OT. Now about a week until the next game. Still don’t know when or where, but I’m pretty excited <a class="mention hashtag" href="https://mastodon.social/tags/AHL" rel="tag">#<span>AHL</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/112312334361737333" target="_blank">2024-04-22</a>
+  </blockquote>
+
+  <blockquote>
   <p>Hockey ...</p>
-  - <a href="https://mastodon.social/@ryancheley/112289917435310424" target="_blank">2024-04-18</a>
+  - <a href="https://mastodon.social/@ryancheley/112311409439242350" target="_blank">2024-04-21</a>
   </blockquote>
 
   <blockquote>
-  <p>I don’t typically post family stuff, but tonight my daughter committed to Scripps College for the fall. I’m super proud of all the hard work she’s put in to get to this moment, and also a little misty eyed about the closing of this chapter of our family life … but also super excited about the next one. <a class="mention hashtag" href="https://mastodon.social/tags/ProudDad" rel="tag">#<span>ProudDad</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/SpringOfTransition" rel="tag">#<span>SpringOfTransition</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/112278921945786080" target="_blank">2024-04-16</a>
-  </blockquote>
-
-  <blockquote>
-  <p>The good guys won 2-1 despite being outshot 30-22. Also, as a bonus I *finally* got my personalized Jersey. It took nearly 6 weeks because they didn’t have the letters needed for the name on the back. Now I have something a little more obviously Firebirds to wear to home games 😄</p>
-  - <a href="https://mastodon.social/@ryancheley/112272660400976433" target="_blank">2024-04-15</a>
+  <p>Nothing says hockey like a 97F day!</p>
+  - <a href="https://mastodon.social/@ryancheley/112311398387834241" target="_blank">2024-04-21</a>
   </blockquote>
 
 
