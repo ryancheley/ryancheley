@@ -66,18 +66,18 @@
 
 
   <blockquote>
-  <p>No W for the <a class="mention hashtag" href="https://mastodon.social/tags/CoachelleValleyFirebirds" rel="tag">#<span>CoachelleValleyFirebirds</span></a> today as they lost in the shootout … but they were down by 3 going into the third period (again) and forced OT. Now about a week until the next game. Still don’t know when or where, but I’m pretty excited <a class="mention hashtag" href="https://mastodon.social/tags/AHL" rel="tag">#<span>AHL</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/112312334361737333" target="_blank">2024-04-22</a>
+  <p>The sound for the Jets v Avalanche <a class="mention hashtag" href="https://mastodon.social/tags/NHL" rel="tag">#<span>NHL</span></a> game on ESPN is next level. I’m not sure how it’s possible, but I’m hearing things that I’ve only heard while in the arena, but never heard on a broadcast. Not sure what they’re doing over there, but bravo 👏</p>
+  - <a href="https://mastodon.social/@ryancheley/112324058898057266" target="_blank">2024-04-24</a>
   </blockquote>
 
   <blockquote>
-  <p>Hockey ...</p>
-  - <a href="https://mastodon.social/@ryancheley/112311409439242350" target="_blank">2024-04-21</a>
+  <p>The <a class="mention hashtag" href="https://mastodon.social/tags/AHL" rel="tag">#<span>AHL</span></a> playoffs start tonight with the <a class="mention hashtag" href="https://mastodon.social/tags/ManitobaMoose" rel="tag">#<span>ManitobaMoose</span></a> taking on the <a class="mention hashtag" href="https://mastodon.social/tags/TexasStars" rel="tag">#<span>TexasStars</span></a>. I still don’t like the way the AHL has its playoffs set up, but I do enjoy all the hockey I get to watch. I’m working on writing up my thoughts on this year’s playoffs and hope to post something soon(ish)</p>
+  - <a href="https://mastodon.social/@ryancheley/112323318953775994" target="_blank">2024-04-24</a>
   </blockquote>
 
   <blockquote>
-  <p>Nothing says hockey like a 97F day!</p>
-  - <a href="https://mastodon.social/@ryancheley/112311398387834241" target="_blank">2024-04-21</a>
+  <p>I think might be influenced by your age, but it’s interesting nonetheless <a href="https://mastodon.social/@nixCraft/112321499219574570" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@nixCraft/1123</span><span class="invisible">21499219574570</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/112322804020653577" target="_blank">2024-04-23</a>
   </blockquote>
 
 
