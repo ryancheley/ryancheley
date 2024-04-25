@@ -66,18 +66,18 @@
 
 
   <blockquote>
-  <p>The sound for the Jets v Avalanche <a class="mention hashtag" href="https://mastodon.social/tags/NHL" rel="tag">#<span>NHL</span></a> game on ESPN is next level. I’m not sure how it’s possible, but I’m hearing things that I’ve only heard while in the arena, but never heard on a broadcast. Not sure what they’re doing over there, but bravo 👏</p>
-  - <a href="https://mastodon.social/@ryancheley/112324058898057266" target="_blank">2024-04-24</a>
+  <p>With that empty net goal for Calgary I’m 4-0. Not too shabby ...</p>
+  - <a href="https://mastodon.social/@ryancheley/112330059276028722" target="_blank">2024-04-25</a>
   </blockquote>
 
   <blockquote>
-  <p>The <a class="mention hashtag" href="https://mastodon.social/tags/AHL" rel="tag">#<span>AHL</span></a> playoffs start tonight with the <a class="mention hashtag" href="https://mastodon.social/tags/ManitobaMoose" rel="tag">#<span>ManitobaMoose</span></a> taking on the <a class="mention hashtag" href="https://mastodon.social/tags/TexasStars" rel="tag">#<span>TexasStars</span></a>. I still don’t like the way the AHL has its playoffs set up, but I do enjoy all the hockey I get to watch. I’m working on writing up my thoughts on this year’s playoffs and hope to post something soon(ish)</p>
-  - <a href="https://mastodon.social/@ryancheley/112323318953775994" target="_blank">2024-04-24</a>
+  <p>Teams I’m rooting for are now 3-0 tonight.  ...</p>
+  - <a href="https://mastodon.social/@ryancheley/112330008170352513" target="_blank">2024-04-25</a>
   </blockquote>
 
   <blockquote>
-  <p>I think might be influenced by your age, but it’s interesting nonetheless <a href="https://mastodon.social/@nixCraft/112321499219574570" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@nixCraft/1123</span><span class="invisible">21499219574570</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/112322804020653577" target="_blank">2024-04-23</a>
+  <p>This toot storm brought to you by the <a class="mention hashtag" href="https://mastodon.social/tags/AHL" rel="tag">#<span>AHL</span></a> playoffs and no <a class="mention hashtag" href="https://mastodon.social/tags/CoachelleValleyFirebirds" rel="tag">#<span>CoachelleValleyFirebirds</span></a> hockey for the next few days at the very least 😅 ...</p>
+  - <a href="https://mastodon.social/@ryancheley/112329804749726532" target="_blank">2024-04-25</a>
   </blockquote>
 
 
