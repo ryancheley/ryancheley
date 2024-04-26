@@ -66,18 +66,18 @@
 
 
   <blockquote>
+  <p>Looks like for Day 3 of the <a class="mention hashtag" href="https://mastodon.social/tags/AHL" rel="tag">#<span>AHL</span></a> playoffs I'm 1-1, with an overall record so far 5-2. Here's hoping for another great day of AHL Hockey tomorrow</p>
+  - <a href="https://mastodon.social/@ryancheley/112335200860878787" target="_blank">2024-04-26</a>
+  </blockquote>
+
+  <blockquote>
+  <p>Only two games on the <a class="mention hashtag" href="https://mastodon.social/tags/AHL" rel="tag">#<span>AHL</span></a> docket tonight, but so far the teams I’m rooting for are 1-0. Really hoping the <a class="mention hashtag" href="https://mastodon.social/tags/ManitobaMoose" rel="tag">#<span>ManitobaMoose</span></a> can pull one out against the <a class="mention hashtag" href="https://mastodon.social/tags/TexasStars" rel="tag">#<span>TexasStars</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/112334934468991994" target="_blank">2024-04-26</a>
+  </blockquote>
+
+  <blockquote>
   <p>With that empty net goal for Calgary I’m 4-0. Not too shabby ...</p>
   - <a href="https://mastodon.social/@ryancheley/112330059276028722" target="_blank">2024-04-25</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Teams I’m rooting for are now 3-0 tonight.  ...</p>
-  - <a href="https://mastodon.social/@ryancheley/112330008170352513" target="_blank">2024-04-25</a>
-  </blockquote>
-
-  <blockquote>
-  <p>This toot storm brought to you by the <a class="mention hashtag" href="https://mastodon.social/tags/AHL" rel="tag">#<span>AHL</span></a> playoffs and no <a class="mention hashtag" href="https://mastodon.social/tags/CoachelleValleyFirebirds" rel="tag">#<span>CoachelleValleyFirebirds</span></a> hockey for the next few days at the very least 😅 ...</p>
-  - <a href="https://mastodon.social/@ryancheley/112329804749726532" target="_blank">2024-04-25</a>
   </blockquote>
 
 
