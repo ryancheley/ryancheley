@@ -66,18 +66,18 @@
 
 
   <blockquote>
-  <p>Looks like for Day 3 of the <a class="mention hashtag" href="https://mastodon.social/tags/AHL" rel="tag">#<span>AHL</span></a> playoffs I'm 1-1, with an overall record so far 5-2. Here's hoping for another great day of AHL Hockey tomorrow</p>
-  - <a href="https://mastodon.social/@ryancheley/112335200860878787" target="_blank">2024-04-26</a>
+  <p>At the end of day four for the <a class="mention hashtag" href="https://mastodon.social/tags/AHL" rel="tag">#<span>AHL</span></a> playoffs I’m 2-1 on the day for teams that I was rooting for. Looking forward to another great day of hockey tomorrow</p>
+  - <a href="https://mastodon.social/@ryancheley/112341373726013885" target="_blank">2024-04-27</a>
   </blockquote>
 
   <blockquote>
-  <p>Only two games on the <a class="mention hashtag" href="https://mastodon.social/tags/AHL" rel="tag">#<span>AHL</span></a> docket tonight, but so far the teams I’m rooting for are 1-0. Really hoping the <a class="mention hashtag" href="https://mastodon.social/tags/ManitobaMoose" rel="tag">#<span>ManitobaMoose</span></a> can pull one out against the <a class="mention hashtag" href="https://mastodon.social/tags/TexasStars" rel="tag">#<span>TexasStars</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/112334934468991994" target="_blank">2024-04-26</a>
+  <p>The <a class="mention hashtag" href="https://mastodon.social/tags/CalgaryWranglers" rel="tag">#<span>CalgaryWranglers</span></a> just beat the <a class="mention hashtag" href="https://mastodon.social/tags/TucsonRoadrunners" rel="tag">#<span>TucsonRoadrunners</span></a> and will now play the <a class="mention hashtag" href="https://mastodon.social/tags/CoachelleValleyFirebirds" rel="tag">#<span>CoachelleValleyFirebirds</span></a> in round two. What a game! ...</p>
+  - <a href="https://mastodon.social/@ryancheley/112341362458382829" target="_blank">2024-04-27</a>
   </blockquote>
 
   <blockquote>
-  <p>With that empty net goal for Calgary I’m 4-0. Not too shabby ...</p>
-  - <a href="https://mastodon.social/@ryancheley/112330059276028722" target="_blank">2024-04-25</a>
+  <p>Looks like at least one mare game in Loveland … 🤦🏻‍♂️ <a class="mention hashtag" href="https://mastodon.social/tags/AHL" rel="tag">#<span>AHL</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/112341170356728236" target="_blank">2024-04-27</a>
   </blockquote>
 
 
