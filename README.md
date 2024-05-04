@@ -66,18 +66,18 @@
 
 
   <blockquote>
+  <p>That was not the outcome I was hoping for. TWO empty net goals in the last two minutes for <a class="mention hashtag" href="https://mastodon.social/tags/CalgaryWranglers" rel="tag">#<span>CalgaryWranglers</span></a> to beat the <a class="mention hashtag" href="https://mastodon.social/tags/CoachelleValleyFirebirds" rel="tag">#<span>CoachelleValleyFirebirds</span></a> 4-1</p>
+  - <a href="https://mastodon.social/@ryancheley/112380724795219258" target="_blank">2024-05-04</a>
+  </blockquote>
+
+  <blockquote>
+  <p>First playoff game for the <a class="mention hashtag" href="https://mastodon.social/tags/CoachelleValleyFirebirds" rel="tag">#<span>CoachelleValleyFirebirds</span></a> tonight as they take on the <a class="mention hashtag" href="https://mastodon.social/tags/CalgaryWranglers" rel="tag">#<span>CalgaryWranglers</span></a> in Calgary. Hoping for a win!</p>
+  - <a href="https://mastodon.social/@ryancheley/112380120556373183" target="_blank">2024-05-04</a>
+  </blockquote>
+
+  <blockquote>
   <p>My tomato plant had NINE tomatoes that I was able to harvest tonight. I also had 7 jalapeños and 1 Bell pepper. I think i’ll be making some home made salsa tomorrow with my bounty 😁 ...</p>
   - <a href="https://mastodon.social/@ryancheley/112368981453790641" target="_blank">2024-05-02</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Achievement Unlocked! ...</p>
-  - <a href="https://mastodon.social/@ryancheley/112363510953675068" target="_blank">2024-05-01</a>
-  </blockquote>
-
-  <blockquote>
-  <p>A little more than three months later and my lemon tree is still going strong. It’s hard to see in this picture BUT there are more than 30 green fruits that will, I’m assured, turn into yellow lemons in the next few months!</p>
-  - <a href="https://mastodon.social/@ryancheley/112344996612321271" target="_blank">2024-04-27</a>
   </blockquote>
 
 
