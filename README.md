@@ -35,11 +35,11 @@
 
   <li><a href="https://github.com/ryancheley/til/blob/main/Python/require" target="_blank">Require a Virtual Environment to install packages</a> - virtual-enviroment.md) - 2024-03-03</li>
 
+  <li><a href="https://github.com/ryancheley/til/blob/main/Django/include" target="_blank">Include and the with argument</a> - template-with.md) - 2024-05-04</li>
+
   <li><a href="https://github.com/ryancheley/til/blob/main/css/css" target="_blank">CSS Specificity</a> - specificity.md) - 2023-12-23</li>
 
   <li><a href="https://github.com/ryancheley/til/blob/main/tailscale/subnet" target="_blank">Subnet Routers</a> - routers.md) - 2024-01-18</li>
-
-  <li><a href="https://github.com/ryancheley/til/blob/main/Django/using" target="_blank">Using or to set a value</a> - or-to-set-a-value.md) - 2024-01-07</li>
 
 </ul>
 
