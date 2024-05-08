@@ -66,6 +66,11 @@
 
 
   <blockquote>
+  <p>I heard about a tool called justpath (I can't remember where though) and it's nice, but for the life of me I can't figure out how to now CLEAN up the PATH on my mac. I mean, I now *know* that it's got bad links, and duplicates, but what is the best way to now clean these up? Has anyone used justpath and the been able to successfully clean up their PATH variable?</p>
+  - <a href="https://mastodon.social/@ryancheley/112403210476869822" target="_blank">2024-05-08</a>
+  </blockquote>
+
+  <blockquote>
   <p>After a stressful game the <a class="mention hashtag" href="https://mastodon.social/tags/CoachelleValleyFirebirds" rel="tag">#<span>CoachelleValleyFirebirds</span></a> beat the <a class="mention hashtag" href="https://mastodon.social/tags/CalgaryWranglers" rel="tag">#<span>CalgaryWranglers</span></a> in OT 4-3 <a class="mention hashtag" href="https://mastodon.social/tags/AHL" rel="tag">#<span>AHL</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/112391469058499749" target="_blank">2024-05-06</a>
   </blockquote>
@@ -73,11 +78,6 @@
   <blockquote>
   <p>And now it’s salsa! ...</p>
   - <a href="https://mastodon.social/@ryancheley/112390363202518800" target="_blank">2024-05-05</a>
-  </blockquote>
-
-  <blockquote>
-  <p>That was not the outcome I was hoping for. TWO empty net goals in the last two minutes for <a class="mention hashtag" href="https://mastodon.social/tags/CalgaryWranglers" rel="tag">#<span>CalgaryWranglers</span></a> to beat the <a class="mention hashtag" href="https://mastodon.social/tags/CoachelleValleyFirebirds" rel="tag">#<span>CoachelleValleyFirebirds</span></a> 4-1</p>
-  - <a href="https://mastodon.social/@ryancheley/112380724795219258" target="_blank">2024-05-04</a>
   </blockquote>
 
 
