@@ -66,18 +66,18 @@
 
 
   <blockquote>
+  <p>I just got home from the game and WOW!! I’d forgotten how INTENSE playoff games are. Not sure I’ll be able to fall asleep for a while. But the <a class="mention hashtag" href="https://mastodon.social/tags/CoachelleValleyFirebirds" rel="tag">#<span>CoachelleValleyFirebirds</span></a> did end up winning 7-5 so that was a good end to the night 😄</p>
+  - <a href="https://mastodon.social/@ryancheley/112409444956578249" target="_blank">2024-05-09</a>
+  </blockquote>
+
+  <blockquote>
+  <p>Hockey ...</p>
+  - <a href="https://mastodon.social/@ryancheley/112408565515552672" target="_blank">2024-05-09</a>
+  </blockquote>
+
+  <blockquote>
   <p>I heard about a tool called justpath (I can't remember where though) and it's nice, but for the life of me I can't figure out how to now CLEAN up the PATH on my mac. I mean, I now *know* that it's got bad links, and duplicates, but what is the best way to now clean these up? Has anyone used justpath and the been able to successfully clean up their PATH variable?</p>
   - <a href="https://mastodon.social/@ryancheley/112403210476869822" target="_blank">2024-05-08</a>
-  </blockquote>
-
-  <blockquote>
-  <p>After a stressful game the <a class="mention hashtag" href="https://mastodon.social/tags/CoachelleValleyFirebirds" rel="tag">#<span>CoachelleValleyFirebirds</span></a> beat the <a class="mention hashtag" href="https://mastodon.social/tags/CalgaryWranglers" rel="tag">#<span>CalgaryWranglers</span></a> in OT 4-3 <a class="mention hashtag" href="https://mastodon.social/tags/AHL" rel="tag">#<span>AHL</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/112391469058499749" target="_blank">2024-05-06</a>
-  </blockquote>
-
-  <blockquote>
-  <p>And now it’s salsa! ...</p>
-  - <a href="https://mastodon.social/@ryancheley/112390363202518800" target="_blank">2024-05-05</a>
   </blockquote>
 
 
