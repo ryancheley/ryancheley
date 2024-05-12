@@ -66,6 +66,11 @@
 
 
   <blockquote>
+  <p>Sometimes the officiating in the <a class="mention hashtag" href="https://mastodon.social/tags/AHL" rel="tag">#<span>AHL</span></a> is the worst. An icing call that wasn’t an actual icing call. Ugh.</p>
+  - <a href="https://mastodon.social/@ryancheley/112425267936265961" target="_blank">2024-05-12</a>
+  </blockquote>
+
+  <blockquote>
   <p>The <a class="mention hashtag" href="https://mastodon.social/tags/CoachelleValleyFirebirds" rel="tag">#<span>CoachelleValleyFirebirds</span></a> beat the <a class="mention hashtag" href="https://mastodon.social/tags/CalgaryWranglers" rel="tag">#<span>CalgaryWranglers</span></a> 3-0 to win the series 3-1. Next game on Wednesday!</p>
   - <a href="https://mastodon.social/@ryancheley/112420862780948792" target="_blank">2024-05-11</a>
   </blockquote>
@@ -73,11 +78,6 @@
   <blockquote>
   <p>Hockey ...</p>
   - <a href="https://mastodon.social/@ryancheley/112419880669892185" target="_blank">2024-05-11</a>
-  </blockquote>
-
-  <blockquote>
-  <p>I just got home from the game and WOW!! I’d forgotten how INTENSE playoff games are. Not sure I’ll be able to fall asleep for a while. But the <a class="mention hashtag" href="https://mastodon.social/tags/CoachelleValleyFirebirds" rel="tag">#<span>CoachelleValleyFirebirds</span></a> did end up winning 7-5 so that was a good end to the night 😄</p>
-  - <a href="https://mastodon.social/@ryancheley/112409444956578249" target="_blank">2024-05-09</a>
   </blockquote>
 
 
