@@ -66,6 +66,11 @@
 
 
   <blockquote>
+  <p>First 100F/38C day of the year. Hooray?</p>
+  - <a href="https://mastodon.social/@ryancheley/112430794224778069" target="_blank">2024-05-12</a>
+  </blockquote>
+
+  <blockquote>
   <p>Sometimes the officiating in the <a class="mention hashtag" href="https://mastodon.social/tags/AHL" rel="tag">#<span>AHL</span></a> is the worst. An icing call that wasn’t an actual icing call. Ugh.</p>
   - <a href="https://mastodon.social/@ryancheley/112425267936265961" target="_blank">2024-05-12</a>
   </blockquote>
@@ -73,11 +78,6 @@
   <blockquote>
   <p>The <a class="mention hashtag" href="https://mastodon.social/tags/CoachelleValleyFirebirds" rel="tag">#<span>CoachelleValleyFirebirds</span></a> beat the <a class="mention hashtag" href="https://mastodon.social/tags/CalgaryWranglers" rel="tag">#<span>CalgaryWranglers</span></a> 3-0 to win the series 3-1. Next game on Wednesday!</p>
   - <a href="https://mastodon.social/@ryancheley/112420862780948792" target="_blank">2024-05-11</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Hockey ...</p>
-  - <a href="https://mastodon.social/@ryancheley/112419880669892185" target="_blank">2024-05-11</a>
   </blockquote>
 
 
