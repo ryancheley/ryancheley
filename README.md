@@ -66,6 +66,11 @@
 
 
   <blockquote>
+  <p>Hockey ...</p>
+  - <a href="https://mastodon.social/@ryancheley/112459540554063669" target="_blank">2024-05-18</a>
+  </blockquote>
+
+  <blockquote>
   <p>The good guys won tonight 3-2 despite being outshot 15-31. The last few minutes of the game were INTENSE. Game 2 at Acrisure Arena on Friday night! ...</p>
   - <a href="https://mastodon.social/@ryancheley/112449028696700459" target="_blank">2024-05-16</a>
   </blockquote>
@@ -73,11 +78,6 @@
   <blockquote>
   <p>Hockey ...</p>
   - <a href="https://mastodon.social/@ryancheley/112448234809959605" target="_blank">2024-05-16</a>
-  </blockquote>
-
-  <blockquote>
-  <p>First 100F/38C day of the year. Hooray?</p>
-  - <a href="https://mastodon.social/@ryancheley/112430794224778069" target="_blank">2024-05-12</a>
   </blockquote>
 
 
