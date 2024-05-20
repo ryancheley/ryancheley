@@ -66,18 +66,18 @@
 
 
   <blockquote>
+  <p>Nothing like a sweep 🧹 <a class="mention hashtag" href="https://mastodon.social/tags/CalderCupPlayoffs" rel="tag">#<span>CalderCupPlayoffs</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/CoachelleValleyFirebirds" rel="tag">#<span>CoachelleValleyFirebirds</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/OntarioReign" rel="tag">#<span>OntarioReign</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/112471599254124524" target="_blank">2024-05-20</a>
+  </blockquote>
+
+  <blockquote>
+  <p>Hockey ...</p>
+  - <a href="https://mastodon.social/@ryancheley/112470837269069538" target="_blank">2024-05-20</a>
+  </blockquote>
+
+  <blockquote>
   <p>Hockey ...</p>
   - <a href="https://mastodon.social/@ryancheley/112459540554063669" target="_blank">2024-05-18</a>
-  </blockquote>
-
-  <blockquote>
-  <p>The good guys won tonight 3-2 despite being outshot 15-31. The last few minutes of the game were INTENSE. Game 2 at Acrisure Arena on Friday night! ...</p>
-  - <a href="https://mastodon.social/@ryancheley/112449028696700459" target="_blank">2024-05-16</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Hockey ...</p>
-  - <a href="https://mastodon.social/@ryancheley/112448234809959605" target="_blank">2024-05-16</a>
   </blockquote>
 
 
