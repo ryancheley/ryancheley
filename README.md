@@ -50,11 +50,11 @@
 
 <ul>
 
+  <li><a href="tag:www.ryancheley.com,2024-05-24:/2024/05/24/using-justpath-to-go-on-a-pyrrhic-adventure-to-clean-up-my-path/" target="_blank"><p>A while ago I heard about a project called <a href="https://github.com/epogrebnyak/justpath">justpath</a> from <a href="https://mastodon.social/@webology">Jeff Tripplet</a> on <a href="https://mastodon.social/@webology/112403455881574563">Mastodon</a>. It seemed like a neat project to try and clean up my path and I figured, what the heck, let me give it a try.</p>
+<p>I installed it and when I ran it for the …</p></a> - 2024-05-24</li>
+
   <li><a href="tag:www.ryancheley.com,2024-03-29:/2024/03/29/trying-out-pyenv-again/" target="_blank"><p>I <em>think</em> I first tried <code>pyenv</code> probably sometime in late 2022. I saw some recent stuff about it on Mastadon and thought I'd give it another go.</p>
 <p>I read through the <a href="https://github.com/pyenv/pyenv/#installation">installation instructions at the ReadMe</a> at the repo and checked to see if it was already installed (spoiler alert …</p></a> - 2024-03-29</li>
-
-  <li><a href="tag:www.ryancheley.com,2024-03-19:/2024/03/19/winter-of-learning/" target="_blank"><h2>Winter of Learning Retrospective</h2>
-<p>Have you heard the good word about themes? If you haven't, take a look at this great video by <a href="https://youtu.be/NVGuFdX5guE?si=auqXL9SMfYeftcup">CGP Grey on Themes</a> and how they can work. For the last couple of years I've been doing yearly themes ... with limited success. This lack of success …</p></a> - 2024-03-19</li>
 
 </ul>
 
@@ -66,18 +66,18 @@
 
 
   <blockquote>
+  <p>416591 … the fact that I remember this number 28 years later is mind boggling to me ...</p>
+  - <a href="https://mastodon.social/@ryancheley/112499437325690894" target="_blank">2024-05-25</a>
+  </blockquote>
+
+  <blockquote>
+  <p>Based on a conversation I had here with <span class="h-card"><a class="u-url mention" href="https://mastodon.social/@webology">@<span>webology</span></a></span>  ...</p>
+  - <a href="https://mastodon.social/@ryancheley/112497905963376364" target="_blank">2024-05-24</a>
+  </blockquote>
+
+  <blockquote>
   <p>Nothing like a sweep 🧹 <a class="mention hashtag" href="https://mastodon.social/tags/CalderCupPlayoffs" rel="tag">#<span>CalderCupPlayoffs</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/CoachelleValleyFirebirds" rel="tag">#<span>CoachelleValleyFirebirds</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/OntarioReign" rel="tag">#<span>OntarioReign</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/112471599254124524" target="_blank">2024-05-20</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Hockey ...</p>
-  - <a href="https://mastodon.social/@ryancheley/112470837269069538" target="_blank">2024-05-20</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Hockey ...</p>
-  - <a href="https://mastodon.social/@ryancheley/112459540554063669" target="_blank">2024-05-18</a>
   </blockquote>
 
 
