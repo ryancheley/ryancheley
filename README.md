@@ -66,18 +66,18 @@
 
 
   <blockquote>
-  <p>416591 … the fact that I remember this number 28 years later is mind boggling to me ...</p>
-  - <a href="https://mastodon.social/@ryancheley/112499437325690894" target="_blank">2024-05-25</a>
+  <p>Or, is this just not something that is considered best practice for security?  ...</p>
+  - <a href="https://mastodon.social/@ryancheley/112527470112078296" target="_blank">2024-05-30</a>
   </blockquote>
 
   <blockquote>
-  <p>Based on a conversation I had here with <span class="h-card"><a class="u-url mention" href="https://mastodon.social/@webology">@<span>webology</span></a></span>  ...</p>
-  - <a href="https://mastodon.social/@ryancheley/112497905963376364" target="_blank">2024-05-24</a>
+  <p>Let's say I'm in an organization that is looking to see how many of my employees will &quot;fall&quot; for an &quot;obvious&quot; phishing email. If I construct this hypothetical &quot;obvious&quot; phishing email and send it to my entire company to see &quot;who falls for it&quot;, who would I send it from? The CFO, CEO, some high level IT person? ...</p>
+  - <a href="https://mastodon.social/@ryancheley/112527467861993814" target="_blank">2024-05-30</a>
   </blockquote>
 
   <blockquote>
-  <p>Nothing like a sweep 🧹 <a class="mention hashtag" href="https://mastodon.social/tags/CalderCupPlayoffs" rel="tag">#<span>CalderCupPlayoffs</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/CoachelleValleyFirebirds" rel="tag">#<span>CoachelleValleyFirebirds</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/OntarioReign" rel="tag">#<span>OntarioReign</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/112471599254124524" target="_blank">2024-05-20</a>
+  <p>I liked <span class="h-card"><a class="u-url mention" href="https://social.jacobian.org/@jacob">@<span>jacob</span></a></span>’s article about Penetration testing, but I'm not sure that's what I'm looking for here (although I'm not security expert so maybe it is and I just don't know it 🤷🏼‍♂️). And I'm seeing some good responses here also, but I think I'm not explaining myself well for what I'm looking for.  ...</p>
+  - <a href="https://mastodon.social/@ryancheley/112527465715838046" target="_blank">2024-05-30</a>
   </blockquote>
 
 
