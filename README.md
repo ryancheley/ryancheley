@@ -66,18 +66,18 @@
 
 
   <blockquote>
-  <p>Or, is this just not something that is considered best practice for security?  ...</p>
-  - <a href="https://mastodon.social/@ryancheley/112527470112078296" target="_blank">2024-05-30</a>
+  <p>But at least I’m not facing the sun 😄. This is the other side of the stadium</p>
+  - <a href="https://mastodon.social/@ryancheley/112533323786560076" target="_blank">2024-05-31</a>
   </blockquote>
 
   <blockquote>
-  <p>Let's say I'm in an organization that is looking to see how many of my employees will &quot;fall&quot; for an &quot;obvious&quot; phishing email. If I construct this hypothetical &quot;obvious&quot; phishing email and send it to my entire company to see &quot;who falls for it&quot;, who would I send it from? The CFO, CEO, some high level IT person? ...</p>
-  - <a href="https://mastodon.social/@ryancheley/112527467861993814" target="_blank">2024-05-30</a>
+  <p>I got my haircut because my daughter is graduating high school tonight and I was a bit scruffier than I wanted to be. Fun fact, if you’ve never been to a high school graduation in the desert, they’re like other graduations. Held outside in the football stadium, blah, blah, blah. The best thing though is that it’s currently 97 degrees. Hopefully by the end of the graduation at 10pm it will have cooled down to about 85. Oh, and it’s windy. Anyway, happy graduation season 🎉</p>
+  - <a href="https://mastodon.social/@ryancheley/112533302333539515" target="_blank">2024-05-31</a>
   </blockquote>
 
   <blockquote>
-  <p>I liked <span class="h-card"><a class="u-url mention" href="https://social.jacobian.org/@jacob">@<span>jacob</span></a></span>’s article about Penetration testing, but I'm not sure that's what I'm looking for here (although I'm not security expert so maybe it is and I just don't know it 🤷🏼‍♂️). And I'm seeing some good responses here also, but I think I'm not explaining myself well for what I'm looking for.  ...</p>
-  - <a href="https://mastodon.social/@ryancheley/112527465715838046" target="_blank">2024-05-30</a>
+  <p>I got a haircut today. I also got the senior discount. I’m only 46. Not sure how I feel about this state of affairs 🤣</p>
+  - <a href="https://mastodon.social/@ryancheley/112532963169581072" target="_blank">2024-05-31</a>
   </blockquote>
 
 
