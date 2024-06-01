@@ -66,18 +66,18 @@
 
 
   <blockquote>
+  <p>Hockey ...</p>
+  - <a href="https://mastodon.social/@ryancheley/112538801388116205" target="_blank">2024-06-01</a>
+  </blockquote>
+
+  <blockquote>
+  <p>Graduation went really well. My wife and I are very proud of our daughter. She’ll be starting college in August. She’s our only child so we’ll be empty nesters and are looking forward to what the next chapter brings 🎉</p>
+  - <a href="https://mastodon.social/@ryancheley/112535819710826390" target="_blank">2024-05-31</a>
+  </blockquote>
+
+  <blockquote>
   <p>But at least I’m not facing the sun 😄. This is the other side of the stadium</p>
   - <a href="https://mastodon.social/@ryancheley/112533323786560076" target="_blank">2024-05-31</a>
-  </blockquote>
-
-  <blockquote>
-  <p>I got my haircut because my daughter is graduating high school tonight and I was a bit scruffier than I wanted to be. Fun fact, if you’ve never been to a high school graduation in the desert, they’re like other graduations. Held outside in the football stadium, blah, blah, blah. The best thing though is that it’s currently 97 degrees. Hopefully by the end of the graduation at 10pm it will have cooled down to about 85. Oh, and it’s windy. Anyway, happy graduation season 🎉</p>
-  - <a href="https://mastodon.social/@ryancheley/112533302333539515" target="_blank">2024-05-31</a>
-  </blockquote>
-
-  <blockquote>
-  <p>I got a haircut today. I also got the senior discount. I’m only 46. Not sure how I feel about this state of affairs 🤣</p>
-  - <a href="https://mastodon.social/@ryancheley/112532963169581072" target="_blank">2024-05-31</a>
   </blockquote>
 
 
