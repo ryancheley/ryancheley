@@ -66,6 +66,11 @@
 
 
   <blockquote>
+  <p>I would read this book!<br /><a href="https://mastodon.social/@gvwilson/112542201512431832" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@gvwilson/1125</span><span class="invisible">42201512431832</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/112542509225705319" target="_blank">2024-06-01</a>
+  </blockquote>
+
+  <blockquote>
   <p>Hockey ...</p>
   - <a href="https://mastodon.social/@ryancheley/112538801388116205" target="_blank">2024-06-01</a>
   </blockquote>
@@ -73,11 +78,6 @@
   <blockquote>
   <p>Graduation went really well. My wife and I are very proud of our daughter. She’ll be starting college in August. She’s our only child so we’ll be empty nesters and are looking forward to what the next chapter brings 🎉</p>
   - <a href="https://mastodon.social/@ryancheley/112535819710826390" target="_blank">2024-05-31</a>
-  </blockquote>
-
-  <blockquote>
-  <p>But at least I’m not facing the sun 😄. This is the other side of the stadium</p>
-  - <a href="https://mastodon.social/@ryancheley/112533323786560076" target="_blank">2024-05-31</a>
   </blockquote>
 
 
