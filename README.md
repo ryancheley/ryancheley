@@ -50,12 +50,6 @@
 
 <ul>
 
-  <li><a href="tag:www.ryancheley.com,2024-05-24:/2024/05/24/using-justpath-to-go-on-a-pyrrhic-adventure-to-clean-up-my-path/" target="_blank"><p>A while ago I heard about a project called <a href="https://github.com/epogrebnyak/justpath">justpath</a> from <a href="https://mastodon.social/@webology">Jeff Tripplet</a> on <a href="https://mastodon.social/@webology/112403455881574563">Mastodon</a>. It seemed like a neat project to try and clean up my path and I figured, what the heck, let me give it a try.</p>
-<p>I installed it and when I ran it for the …</p></a> - 2024-05-24</li>
-
-  <li><a href="tag:www.ryancheley.com,2024-03-29:/2024/03/29/trying-out-pyenv-again/" target="_blank"><p>I <em>think</em> I first tried <code>pyenv</code> probably sometime in late 2022. I saw some recent stuff about it on Mastadon and thought I'd give it another go.</p>
-<p>I read through the <a href="https://github.com/pyenv/pyenv/#installation">installation instructions at the ReadMe</a> at the repo and checked to see if it was already installed (spoiler alert …</p></a> - 2024-03-29</li>
-
 </ul>
 
 > <a href="https://ryancheley.com/" target="_blank">More articles</a>
