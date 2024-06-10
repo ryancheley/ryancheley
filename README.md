@@ -66,6 +66,11 @@
 
 
   <blockquote>
+  <p>A bit of funny stuff over on Twitter … the <a class="mention hashtag" href="https://mastodon.social/tags/MilwaukeeAdmirals" rel="tag">#<span>MilwaukeeAdmirals</span></a> blocked the <a class="mention hashtag" href="https://mastodon.social/tags/CoachelleValleyFirebirds" rel="tag">#<span>CoachelleValleyFirebirds</span></a> mascot account 🤣🤣🤣 ...</p>
+  - <a href="https://mastodon.social/@ryancheley/112587671788991652" target="_blank">2024-06-09</a>
+  </blockquote>
+
+  <blockquote>
   <p><a class="mention hashtag" href="https://mastodon.social/tags/CoachelleValleyFirebirds" rel="tag">#<span>CoachelleValleyFirebirds</span></a> win! 🥄🥄🥄🥄</p>
   - <a href="https://mastodon.social/@ryancheley/112584157464359848" target="_blank">2024-06-09</a>
   </blockquote>
@@ -73,11 +78,6 @@
   <blockquote>
   <p>Every time I watch Charlie Morton pitch I’m reminded of this School House Rocks song and it makes me smile 😁 ...</p>
   - <a href="https://mastodon.social/@ryancheley/112548518435364267" target="_blank">2024-06-02</a>
-  </blockquote>
-
-  <blockquote>
-  <p>I would read this book!<br /><a href="https://mastodon.social/@gvwilson/112542201512431832" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@gvwilson/1125</span><span class="invisible">42201512431832</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/112542509225705319" target="_blank">2024-06-01</a>
   </blockquote>
 
 
