@@ -66,6 +66,11 @@
 
 
   <blockquote>
+  <p>Days since I’ve had to restart my Windows work computer because renaming a file in Windows Explorer caused my system to freeze: 0 ...</p>
+  - <a href="https://mastodon.social/@ryancheley/112598808165666775" target="_blank">2024-06-11</a>
+  </blockquote>
+
+  <blockquote>
   <p>This is funny, because the code name of the <a class="mention hashtag" href="https://mastodon.social/tags/Django" rel="tag">#<span>Django</span></a> project I have at my $dayJob is Sequoia<br /><a href="https://mastodon.social/@macrumors/112593631167658780" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@macrumors/112</span><span class="invisible">593631167658780</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/112594141963196408" target="_blank">2024-06-10</a>
   </blockquote>
@@ -73,11 +78,6 @@
   <blockquote>
   <p>A bit of funny stuff over on Twitter … the <a class="mention hashtag" href="https://mastodon.social/tags/MilwaukeeAdmirals" rel="tag">#<span>MilwaukeeAdmirals</span></a> blocked the <a class="mention hashtag" href="https://mastodon.social/tags/CoachelleValleyFirebirds" rel="tag">#<span>CoachelleValleyFirebirds</span></a> mascot account 🤣🤣🤣 ...</p>
   - <a href="https://mastodon.social/@ryancheley/112587671788991652" target="_blank">2024-06-09</a>
-  </blockquote>
-
-  <blockquote>
-  <p><a class="mention hashtag" href="https://mastodon.social/tags/CoachelleValleyFirebirds" rel="tag">#<span>CoachelleValleyFirebirds</span></a> win! 🥄🥄🥄🥄</p>
-  - <a href="https://mastodon.social/@ryancheley/112584157464359848" target="_blank">2024-06-09</a>
   </blockquote>
 
 
