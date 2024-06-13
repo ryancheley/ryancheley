@@ -66,18 +66,18 @@
 
 
   <blockquote>
-  <p>Days since I’ve had to restart my Windows work computer because renaming a file in Windows Explorer caused my system to freeze: 0 ...</p>
-  - <a href="https://mastodon.social/@ryancheley/112598808165666775" target="_blank">2024-06-11</a>
+  <p>That was an exciting, but heart breaking, game for the <a class="mention hashtag" href="https://mastodon.social/tags/ClevelandMonsters" rel="tag">#<span>ClevelandMonsters</span></a>  ...</p>
+  - <a href="https://mastodon.social/@ryancheley/112607113026291291" target="_blank">2024-06-13</a>
   </blockquote>
 
   <blockquote>
-  <p>This is funny, because the code name of the <a class="mention hashtag" href="https://mastodon.social/tags/Django" rel="tag">#<span>Django</span></a> project I have at my $dayJob is Sequoia<br /><a href="https://mastodon.social/@macrumors/112593631167658780" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@macrumors/112</span><span class="invisible">593631167658780</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/112594141963196408" target="_blank">2024-06-10</a>
+  <p>Ummm … so there is something more intense than a game seven in the playoffs … OT in game 7. Holy moly this game. I just can’t even with it right now!  ...</p>
+  - <a href="https://mastodon.social/@ryancheley/112606759781749834" target="_blank">2024-06-13</a>
   </blockquote>
 
   <blockquote>
-  <p>A bit of funny stuff over on Twitter … the <a class="mention hashtag" href="https://mastodon.social/tags/MilwaukeeAdmirals" rel="tag">#<span>MilwaukeeAdmirals</span></a> blocked the <a class="mention hashtag" href="https://mastodon.social/tags/CoachelleValleyFirebirds" rel="tag">#<span>CoachelleValleyFirebirds</span></a> mascot account 🤣🤣🤣 ...</p>
-  - <a href="https://mastodon.social/@ryancheley/112587671788991652" target="_blank">2024-06-09</a>
+  <p>Sports ...</p>
+  - <a href="https://mastodon.social/@ryancheley/112606694539884914" target="_blank">2024-06-13</a>
   </blockquote>
 
 
