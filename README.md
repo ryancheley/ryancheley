@@ -66,6 +66,11 @@
 
 
   <blockquote>
+  <p>Game 1 for the <a class="mention hashtag" href="https://mastodon.social/tags/CalderCupFinals" rel="tag">#<span>CalderCupFinals</span></a> wrapped up about an hour ago with the <a class="mention hashtag" href="https://mastodon.social/tags/CoachelleValleyFirebirds" rel="tag">#<span>CoachelleValleyFirebirds</span></a> beating the <a class="mention hashtag" href="https://mastodon.social/tags/HersheyBears" rel="tag">#<span>HersheyBears</span></a> 4-3. The final score makes it seem like it was much closer than it maybe really was. Glad to see the boys pull this one out, but it was waaaaay closer than it needed to be. Looking forward to game 2 on Sunday!  ...</p>
+  - <a href="https://mastodon.social/@ryancheley/112618386566682775" target="_blank">2024-06-15</a>
+  </blockquote>
+
+  <blockquote>
   <p>That was an exciting, but heart breaking, game for the <a class="mention hashtag" href="https://mastodon.social/tags/ClevelandMonsters" rel="tag">#<span>ClevelandMonsters</span></a>  ...</p>
   - <a href="https://mastodon.social/@ryancheley/112607113026291291" target="_blank">2024-06-13</a>
   </blockquote>
@@ -73,11 +78,6 @@
   <blockquote>
   <p>Ummm … so there is something more intense than a game seven in the playoffs … OT in game 7. Holy moly this game. I just can’t even with it right now!  ...</p>
   - <a href="https://mastodon.social/@ryancheley/112606759781749834" target="_blank">2024-06-13</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Sports ...</p>
-  - <a href="https://mastodon.social/@ryancheley/112606694539884914" target="_blank">2024-06-13</a>
   </blockquote>
 
 
