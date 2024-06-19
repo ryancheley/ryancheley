@@ -67,17 +67,17 @@
 
   <blockquote>
   <p>Hockey ...</p>
-  - <a href="https://mastodon.social/@ryancheley/112629042653411556" target="_blank">2024-06-17</a>
+  - <a href="https://mastodon.social/@ryancheley/112641594096712536" target="_blank">2024-06-19</a>
   </blockquote>
 
   <blockquote>
-  <p>Game 1 for the <a class="mention hashtag" href="https://mastodon.social/tags/CalderCupFinals" rel="tag">#<span>CalderCupFinals</span></a> wrapped up about an hour ago with the <a class="mention hashtag" href="https://mastodon.social/tags/CoachelleValleyFirebirds" rel="tag">#<span>CoachelleValleyFirebirds</span></a> beating the <a class="mention hashtag" href="https://mastodon.social/tags/HersheyBears" rel="tag">#<span>HersheyBears</span></a> 4-3. The final score makes it seem like it was much closer than it maybe really was. Glad to see the boys pull this one out, but it was waaaaay closer than it needed to be. Looking forward to game 2 on Sunday!  ...</p>
-  - <a href="https://mastodon.social/@ryancheley/112618386566682775" target="_blank">2024-06-15</a>
+  <p>TIL that there is a penalty for starting the incorrect starting line up when the <a class="mention hashtag" href="https://mastodon.social/tags/HersheyBears" rel="tag">#<span>HersheyBears</span></a> were called for the penalty “Incorrect Starting Lineup” 30 seconds into the first period</p>
+  - <a href="https://mastodon.social/@ryancheley/112640989815152362" target="_blank">2024-06-19</a>
   </blockquote>
 
   <blockquote>
-  <p>That was an exciting, but heart breaking, game for the <a class="mention hashtag" href="https://mastodon.social/tags/ClevelandMonsters" rel="tag">#<span>ClevelandMonsters</span></a>  ...</p>
-  - <a href="https://mastodon.social/@ryancheley/112607113026291291" target="_blank">2024-06-13</a>
+  <p>We’re back in <a class="mention hashtag" href="https://mastodon.social/tags/CoachelleValleyFirebirds" rel="tag">#<span>CoachelleValleyFirebirds</span></a> country!!!!</p>
+  - <a href="https://mastodon.social/@ryancheley/112640811031104919" target="_blank">2024-06-19</a>
   </blockquote>
 
 
