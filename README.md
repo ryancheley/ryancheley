@@ -50,11 +50,11 @@
 
 <ul>
 
+  <li><a href="tag:www.ryancheley.com,2024-06-20:/2024/06/20/spring-of-transition/" target="_blank"><p>I've written before about the <a href="https://youtu.be/NVGuFdX5guE?si=-9zFaB0xjmxOEh26">Theme's that CGP Grey</a> has discussed and I think they're great! I've just recently completed my 'Spring of Transition'.</p>
+<p>So what is the Spring of Transition? For me it meant focusing on that last bit of time that my daughter will be living with me …</p></a> - 2024-06-20</li>
+
   <li><a href="tag:www.ryancheley.com,2024-05-24:/2024/05/24/using-justpath-to-go-on-a-pyrrhic-adventure-to-clean-up-my-path/" target="_blank"><p>A while ago I heard about a project called <a href="https://github.com/epogrebnyak/justpath">justpath</a> from <a href="https://mastodon.social/@webology">Jeff Tripplet</a> on <a href="https://mastodon.social/@webology/112403455881574563">Mastodon</a>. It seemed like a neat project to try and clean up my path and I figured, what the heck, let me give it a try.</p>
 <p>I installed it and when I ran it for the …</p></a> - 2024-05-24</li>
-
-  <li><a href="tag:www.ryancheley.com,2024-03-29:/2024/03/29/trying-out-pyenv-again/" target="_blank"><p>I <em>think</em> I first tried <code>pyenv</code> probably sometime in late 2022. I saw some recent stuff about it on Mastadon and thought I'd give it another go.</p>
-<p>I read through the <a href="https://github.com/pyenv/pyenv/#installation">installation instructions at the ReadMe</a> at the repo and checked to see if it was already installed (spoiler alert …</p></a> - 2024-03-29</li>
 
 </ul>
 
@@ -67,17 +67,17 @@
 
   <blockquote>
   <p>Hockey ...</p>
+  - <a href="https://mastodon.social/@ryancheley/112652027672782235" target="_blank">2024-06-21</a>
+  </blockquote>
+
+  <blockquote>
+  <p>Spring of Transition <a href="https://www.ryancheley.com/2024/06/20/spring-of-transition/" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">ryancheley.com/2024/06/20/spri</span><span class="invisible">ng-of-transition/</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/112649209721702379" target="_blank">2024-06-20</a>
+  </blockquote>
+
+  <blockquote>
+  <p>Hockey ...</p>
   - <a href="https://mastodon.social/@ryancheley/112641594096712536" target="_blank">2024-06-19</a>
-  </blockquote>
-
-  <blockquote>
-  <p>TIL that there is a penalty for starting the incorrect starting line up when the <a class="mention hashtag" href="https://mastodon.social/tags/HersheyBears" rel="tag">#<span>HersheyBears</span></a> were called for the penalty “Incorrect Starting Lineup” 30 seconds into the first period</p>
-  - <a href="https://mastodon.social/@ryancheley/112640989815152362" target="_blank">2024-06-19</a>
-  </blockquote>
-
-  <blockquote>
-  <p>We’re back in <a class="mention hashtag" href="https://mastodon.social/tags/CoachelleValleyFirebirds" rel="tag">#<span>CoachelleValleyFirebirds</span></a> country!!!!</p>
-  - <a href="https://mastodon.social/@ryancheley/112640811031104919" target="_blank">2024-06-19</a>
   </blockquote>
 
 
