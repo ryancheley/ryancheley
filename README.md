@@ -66,18 +66,18 @@
 
 
   <blockquote>
+  <p>For the second year in a row the <a class="mention hashtag" href="https://mastodon.social/tags/CoachelleValleyFirebirds" rel="tag">#<span>CoachelleValleyFirebirds</span></a> lost their last home game to the <a class="mention hashtag" href="https://mastodon.social/tags/HersheyBears" rel="tag">#<span>HersheyBears</span></a> 3-2. The only upside this time is that there are still TWO games left in the series. Tonight’s loss was hard, but I’m hopeful for Monday’s night’s game in Hershey.</p>
+  - <a href="https://mastodon.social/@ryancheley/112664083746322162" target="_blank">2024-06-23</a>
+  </blockquote>
+
+  <blockquote>
+  <p>Hockey ...</p>
+  - <a href="https://mastodon.social/@ryancheley/112663150715910596" target="_blank">2024-06-23</a>
+  </blockquote>
+
+  <blockquote>
   <p>Hockey ...</p>
   - <a href="https://mastodon.social/@ryancheley/112652027672782235" target="_blank">2024-06-21</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Spring of Transition <a href="https://www.ryancheley.com/2024/06/20/spring-of-transition/" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">ryancheley.com/2024/06/20/spri</span><span class="invisible">ng-of-transition/</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/112649209721702379" target="_blank">2024-06-20</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Hockey ...</p>
-  - <a href="https://mastodon.social/@ryancheley/112641594096712536" target="_blank">2024-06-19</a>
   </blockquote>
 
 
