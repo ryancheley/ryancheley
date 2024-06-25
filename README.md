@@ -66,6 +66,11 @@
 
 
   <blockquote>
+  <p>Hockey ...</p>
+  - <a href="https://mastodon.social/@ryancheley/112674887632603609" target="_blank">2024-06-25</a>
+  </blockquote>
+
+  <blockquote>
   <p>For the second year in a row the <a class="mention hashtag" href="https://mastodon.social/tags/CoachelleValleyFirebirds" rel="tag">#<span>CoachelleValleyFirebirds</span></a> lost their last home game to the <a class="mention hashtag" href="https://mastodon.social/tags/HersheyBears" rel="tag">#<span>HersheyBears</span></a> 3-2. The only upside this time is that there are still TWO games left in the series. Tonight’s loss was hard, but I’m hopeful for Monday’s night’s game in Hershey.</p>
   - <a href="https://mastodon.social/@ryancheley/112664083746322162" target="_blank">2024-06-23</a>
   </blockquote>
@@ -73,11 +78,6 @@
   <blockquote>
   <p>Hockey ...</p>
   - <a href="https://mastodon.social/@ryancheley/112663150715910596" target="_blank">2024-06-23</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Hockey ...</p>
-  - <a href="https://mastodon.social/@ryancheley/112652027672782235" target="_blank">2024-06-21</a>
   </blockquote>
 
 
