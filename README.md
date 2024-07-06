@@ -66,6 +66,11 @@
 
 
   <blockquote>
+  <p>It’s always a nice feeling when you wake up in the morning and see the high for today is supposed to be 117F (47C) … and then 2 hours later 119F (48C) … and then 2 hours later 122F (50C).  ...</p>
+  - <a href="https://mastodon.social/@ryancheley/112735590854328087" target="_blank">2024-07-05</a>
+  </blockquote>
+
+  <blockquote>
   <p>I see things like this and then think about how my $dayJob requires our passwords to be changed every 90 F*!&lt;ing days and that I fear it might get worse because we’re going through  HITRUST Certification and per a HITRUST blog post I read <a href="https://blog.rsisecurity.com/a-guide-to-hitrust-password-requirements-and-best-practices/amp/" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">blog.rsisecurity.com/a-guide-t</span><span class="invisible">o-hitrust-password-requirements-and-best-practices/amp/</span></a> ...</p>
   - <a href="https://mastodon.social/@ryancheley/112685278283400036" target="_blank">2024-06-26</a>
   </blockquote>
@@ -73,11 +78,6 @@
   <blockquote>
   <p>Hockey ...</p>
   - <a href="https://mastodon.social/@ryancheley/112674887632603609" target="_blank">2024-06-25</a>
-  </blockquote>
-
-  <blockquote>
-  <p>For the second year in a row the <a class="mention hashtag" href="https://mastodon.social/tags/CoachelleValleyFirebirds" rel="tag">#<span>CoachelleValleyFirebirds</span></a> lost their last home game to the <a class="mention hashtag" href="https://mastodon.social/tags/HersheyBears" rel="tag">#<span>HersheyBears</span></a> 3-2. The only upside this time is that there are still TWO games left in the series. Tonight’s loss was hard, but I’m hopeful for Monday’s night’s game in Hershey.</p>
-  - <a href="https://mastodon.social/@ryancheley/112664083746322162" target="_blank">2024-06-23</a>
   </blockquote>
 
 
