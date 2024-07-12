@@ -66,6 +66,11 @@
 
 
   <blockquote>
+  <p>After depositing funds into my daughter’s 529 Account for the last 18+ years, I have, for the first time, made a withdrawal to pay for the fall semester.  ...</p>
+  - <a href="https://mastodon.social/@ryancheley/112771089375504641" target="_blank">2024-07-12</a>
+  </blockquote>
+
+  <blockquote>
   <p>I’m super honored and excited that I’ll be one of the speakers at DjangoCon US this year. Also, this line up is 💯 and I’m not entirely sure how I slipped through but sure am glad I did. Really looking forward to this! ...</p>
   - <a href="https://mastodon.social/@ryancheley/112759860158654518" target="_blank">2024-07-10</a>
   </blockquote>
@@ -73,11 +78,6 @@
   <blockquote>
   <p>It’s always a nice feeling when you wake up in the morning and see the high for today is supposed to be 117F (47C) … and then 2 hours later 119F (48C) … and then 2 hours later 122F (50C).  ...</p>
   - <a href="https://mastodon.social/@ryancheley/112735590854328087" target="_blank">2024-07-05</a>
-  </blockquote>
-
-  <blockquote>
-  <p>I see things like this and then think about how my $dayJob requires our passwords to be changed every 90 F*!&lt;ing days and that I fear it might get worse because we’re going through  HITRUST Certification and per a HITRUST blog post I read <a href="https://blog.rsisecurity.com/a-guide-to-hitrust-password-requirements-and-best-practices/amp/" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">blog.rsisecurity.com/a-guide-t</span><span class="invisible">o-hitrust-password-requirements-and-best-practices/amp/</span></a> ...</p>
-  - <a href="https://mastodon.social/@ryancheley/112685278283400036" target="_blank">2024-06-26</a>
   </blockquote>
 
 
