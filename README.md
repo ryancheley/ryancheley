@@ -50,11 +50,12 @@
 
 <ul>
 
+  <li><a href="tag:www.ryancheley.com,2024-07-13:/2024/07/13/ssh-keys/" target="_blank"><p>If you want to access a server in a 'passwordless' way, the best approach I know is to use SSH Keys. This is great, but what does that mean and how do you set it up?</p>
+<p>I'm going to attempt to write out the steps for getting this done.</p>
+<p>Let's …</p></a> - 2024-07-13</li>
+
   <li><a href="tag:www.ryancheley.com,2024-06-20:/2024/06/20/spring-of-transition/" target="_blank"><p>I've written before about the <a href="https://youtu.be/NVGuFdX5guE?si=-9zFaB0xjmxOEh26">Theme's that CGP Grey</a> has discussed and I think they're great! I've just recently completed my 'Spring of Transition'.</p>
 <p>So what is the Spring of Transition? For me it meant focusing on that last bit of time that my daughter will be living with me …</p></a> - 2024-06-20</li>
-
-  <li><a href="tag:www.ryancheley.com,2024-05-24:/2024/05/24/using-justpath-to-go-on-a-pyrrhic-adventure-to-clean-up-my-path/" target="_blank"><p>A while ago I heard about a project called <a href="https://github.com/epogrebnyak/justpath">justpath</a> from <a href="https://mastodon.social/@webology">Jeff Tripplet</a> on <a href="https://mastodon.social/@webology/112403455881574563">Mastodon</a>. It seemed like a neat project to try and clean up my path and I figured, what the heck, let me give it a try.</p>
-<p>I installed it and when I ran it for the …</p></a> - 2024-05-24</li>
 
 </ul>
 
@@ -66,18 +67,18 @@
 
 
   <blockquote>
+  <p>I just wanted to give a shout out to <span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@pythonbynight">@<span>pythonbynight</span></a></span> and <span class="h-card"><a class="u-url mention" href="https://mastodon.social/@treyhunner">@<span>treyhunner</span></a></span> who encouraged me to write and publish this. I honestly wouldn’t have hit the publish button without your enouragement! <a href="https://mastodon.social/@ryancheley/112780036365084907" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@ryancheley/11</span><span class="invisible">2780036365084907</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/112781636365991033" target="_blank">2024-07-13</a>
+  </blockquote>
+
+  <blockquote>
+  <p>SSH Keys <a href="https://www.ryancheley.com/2024/07/13/ssh-keys/" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">ryancheley.com/2024/07/13/ssh-</span><span class="invisible">keys/</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/112780036365084907" target="_blank">2024-07-13</a>
+  </blockquote>
+
+  <blockquote>
   <p>After depositing funds into my daughter’s 529 Account for the last 18+ years, I have, for the first time, made a withdrawal to pay for the fall semester.  ...</p>
   - <a href="https://mastodon.social/@ryancheley/112771089375504641" target="_blank">2024-07-12</a>
-  </blockquote>
-
-  <blockquote>
-  <p>I’m super honored and excited that I’ll be one of the speakers at DjangoCon US this year. Also, this line up is 💯 and I’m not entirely sure how I slipped through but sure am glad I did. Really looking forward to this! ...</p>
-  - <a href="https://mastodon.social/@ryancheley/112759860158654518" target="_blank">2024-07-10</a>
-  </blockquote>
-
-  <blockquote>
-  <p>It’s always a nice feeling when you wake up in the morning and see the high for today is supposed to be 117F (47C) … and then 2 hours later 119F (48C) … and then 2 hours later 122F (50C).  ...</p>
-  - <a href="https://mastodon.social/@ryancheley/112735590854328087" target="_blank">2024-07-05</a>
   </blockquote>
 
 
