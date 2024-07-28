@@ -67,6 +67,11 @@
 
 
   <blockquote>
+  <p>The lemon tree still doesn’t have yellow lemons, but there is a ton of fruit on the tree and I’m hoping in another 3 months I’ll actually be able to harvest it 😄</p>
+  - <a href="https://mastodon.social/@ryancheley/112859087127393075" target="_blank">2024-07-27</a>
+  </blockquote>
+
+  <blockquote>
   <p>I just wanted to give a shout out to <span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@pythonbynight">@<span>pythonbynight</span></a></span> and <span class="h-card"><a class="u-url mention" href="https://mastodon.social/@treyhunner">@<span>treyhunner</span></a></span> who encouraged me to write and publish this. I honestly wouldn’t have hit the publish button without your enouragement! <a href="https://mastodon.social/@ryancheley/112780036365084907" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@ryancheley/11</span><span class="invisible">2780036365084907</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/112781636365991033" target="_blank">2024-07-13</a>
   </blockquote>
@@ -74,11 +79,6 @@
   <blockquote>
   <p>SSH Keys <a href="https://www.ryancheley.com/2024/07/13/ssh-keys/" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">ryancheley.com/2024/07/13/ssh-</span><span class="invisible">keys/</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/112780036365084907" target="_blank">2024-07-13</a>
-  </blockquote>
-
-  <blockquote>
-  <p>After depositing funds into my daughter’s 529 Account for the last 18+ years, I have, for the first time, made a withdrawal to pay for the fall semester.  ...</p>
-  - <a href="https://mastodon.social/@ryancheley/112771089375504641" target="_blank">2024-07-12</a>
   </blockquote>
 
 
