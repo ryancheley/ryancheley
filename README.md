@@ -67,18 +67,18 @@
 
 
   <blockquote>
+  <p>I got my Djangonaut Space shirt today and I’m SUPER pumped about it. 🚀 <span class="h-card"><a class="u-url mention" href="https://indieweb.social/@djangonaut">@<span>djangonaut</span></a></span></p>
+  - <a href="https://mastodon.social/@ryancheley/112980309415415881" target="_blank">2024-08-18</a>
+  </blockquote>
+
+  <blockquote>
+  <p>I know I've seen others say this, but if you haven't had a chance to watch the Keynote that  <span class="h-card"><a class="u-url mention" href="https://mastodon.social/@treyhunner">@<span>treyhunner</span></a></span> did at PyOhio you should take the time to do so.  ...</p>
+  - <a href="https://mastodon.social/@ryancheley/112978153900036587" target="_blank">2024-08-17</a>
+  </blockquote>
+
+  <blockquote>
   <p>They’re plotting .. or trying to stay cool. I’m not sure which it is.</p>
   - <a href="https://mastodon.social/@ryancheley/112906132413973690" target="_blank">2024-08-04</a>
-  </blockquote>
-
-  <blockquote>
-  <p>I just discovered handball in the Olympics and this might be my new favorite sport! It’s like basketball, soccer/football and hockey all rolled into one!</p>
-  - <a href="https://mastodon.social/@ryancheley/112895616630776493" target="_blank">2024-08-03</a>
-  </blockquote>
-
-  <blockquote>
-  <p>The lemon tree still doesn’t have yellow lemons, but there is a ton of fruit on the tree and I’m hoping in another 3 months I’ll actually be able to harvest it 😄</p>
-  - <a href="https://mastodon.social/@ryancheley/112859087127393075" target="_blank">2024-07-27</a>
   </blockquote>
 
 
