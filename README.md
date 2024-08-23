@@ -50,12 +50,11 @@
 
 <ul>
 
+  <li><a href="tag:www.ryancheley.com,2024-08-22:/2024/08/22/how-to-ask-why-without-sounding-like-a-jerk/" target="_blank"><p>As technical folks working with non-technical folks sometimes the asks that come through are unclear. In order to get clarity on these we want to ask questions to get clarification on the ask, but it can be challenging to not sound like a jerk when we ask. This can happen …</p></a> - 2024-08-22</li>
+
   <li><a href="tag:www.ryancheley.com,2024-07-13:/2024/07/13/ssh-keys/" target="_blank"><p>If you want to access a server in a 'passwordless' way, the best approach I know is to use SSH Keys. This is great, but what does that mean and how do you set it up?</p>
 <p>I'm going to attempt to write out the steps for getting this done.</p>
 <p>Let's …</p></a> - 2024-07-13</li>
-
-  <li><a href="tag:www.ryancheley.com,2024-06-20:/2024/06/20/spring-of-transition/" target="_blank"><p>I've written before about the <a href="https://youtu.be/NVGuFdX5guE?si=-9zFaB0xjmxOEh26">Theme's that CGP Grey</a> has discussed and I think they're great! I've just recently completed my 'Spring of Transition'.</p>
-<p>So what is the Spring of Transition? For me it meant focusing on that last bit of time that my daughter will be living with me …</p></a> - 2024-06-20</li>
 
 </ul>
 
@@ -67,6 +66,11 @@
 
 
   <blockquote>
+  <p>How to ask why without sounding like a jerk <a href="https://www.ryancheley.com/2024/08/22/how-to-ask-why-without-sounding-like-a-jerk/" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">ryancheley.com/2024/08/22/how-</span><span class="invisible">to-ask-why-without-sounding-like-a-jerk/</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/113006138901952134" target="_blank">2024-08-22</a>
+  </blockquote>
+
+  <blockquote>
   <p>This Hawk landed in my front yard this morning … scaring away all of the non predatory birds. It just kind of hung out there for a while. I did my best to try and get a good picture, but in order to get a *really* good picture I’d have to be outside, which would have scared it away. Anyway, here’s a hawk for your Sunday 😁</p>
   - <a href="https://mastodon.social/@ryancheley/112984421846764982" target="_blank">2024-08-18</a>
   </blockquote>
@@ -74,11 +78,6 @@
   <blockquote>
   <p>I got my Djangonaut Space shirt today and I’m SUPER pumped about it. 🚀 <span class="h-card"><a class="u-url mention" href="https://indieweb.social/@djangonaut">@<span>djangonaut</span></a></span></p>
   - <a href="https://mastodon.social/@ryancheley/112980309415415881" target="_blank">2024-08-18</a>
-  </blockquote>
-
-  <blockquote>
-  <p>I know I've seen others say this, but if you haven't had a chance to watch the Keynote that  <span class="h-card"><a class="u-url mention" href="https://mastodon.social/@treyhunner">@<span>treyhunner</span></a></span> did at PyOhio you should take the time to do so.  ...</p>
-  - <a href="https://mastodon.social/@ryancheley/112978153900036587" target="_blank">2024-08-17</a>
   </blockquote>
 
 
