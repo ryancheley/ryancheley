@@ -50,11 +50,10 @@
 
 <ul>
 
-  <li><a href="tag:www.ryancheley.com,2024-08-22:/2024/08/22/how-to-ask-why-without-sounding-like-a-jerk/" target="_blank"><p>As technical folks working with non-technical folks sometimes the asks that come through are unclear. In order to get clarity on these we want to ask questions to get clarification on the ask, but it can be challenging to not sound like a jerk when we ask. This can happen …</p></a> - 2024-08-22</li>
+  <li><a href="tag:www.ryancheley.com,2024-08-29:/2024/08/29/reflections-on-djangonaut-space-session-2/" target="_blank"><p>A few weeks ago I completed my second session as a <a href="https://djangonaut.space/">Djangonaut.Space</a> <a href="https://github.com/djangonaut-space/program/blob/main/navigators.md">Navigator</a>. The Djangonaut.Space program is an opportunity for people to be introduced to contributing to Django and Django adjacent projects.</p>
+<p>In this most recent session I was a Navigator for Team Mars with a fantastic Captain …</p></a> - 2024-08-29</li>
 
-  <li><a href="tag:www.ryancheley.com,2024-07-13:/2024/07/13/ssh-keys/" target="_blank"><p>If you want to access a server in a 'passwordless' way, the best approach I know is to use SSH Keys. This is great, but what does that mean and how do you set it up?</p>
-<p>I'm going to attempt to write out the steps for getting this done.</p>
-<p>Let's …</p></a> - 2024-07-13</li>
+  <li><a href="tag:www.ryancheley.com,2024-08-22:/2024/08/22/how-to-ask-why-without-sounding-like-a-jerk/" target="_blank"><p>As technical folks working with non-technical folks sometimes the asks that come through are unclear. In order to get clarity on these we want to ask questions to get clarification on the ask, but it can be challenging to not sound like a jerk when we ask. This can happen …</p></a> - 2024-08-22</li>
 
 </ul>
 
@@ -66,6 +65,11 @@
 
 
   <blockquote>
+  <p>Reflections on Djangonaut Space Session 2 <a href="https://www.ryancheley.com/2024/08/29/reflections-on-djangonaut-space-session-2/" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">ryancheley.com/2024/08/29/refl</span><span class="invisible">ections-on-djangonaut-space-session-2/</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/113044831659253804" target="_blank">2024-08-29</a>
+  </blockquote>
+
+  <blockquote>
   <p>How to ask why without sounding like a jerk <a href="https://www.ryancheley.com/2024/08/22/how-to-ask-why-without-sounding-like-a-jerk/" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">ryancheley.com/2024/08/22/how-</span><span class="invisible">to-ask-why-without-sounding-like-a-jerk/</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/113006138901952134" target="_blank">2024-08-22</a>
   </blockquote>
@@ -73,11 +77,6 @@
   <blockquote>
   <p>This Hawk landed in my front yard this morning … scaring away all of the non predatory birds. It just kind of hung out there for a while. I did my best to try and get a good picture, but in order to get a *really* good picture I’d have to be outside, which would have scared it away. Anyway, here’s a hawk for your Sunday 😁</p>
   - <a href="https://mastodon.social/@ryancheley/112984421846764982" target="_blank">2024-08-18</a>
-  </blockquote>
-
-  <blockquote>
-  <p>I got my Djangonaut Space shirt today and I’m SUPER pumped about it. 🚀 <span class="h-card"><a class="u-url mention" href="https://indieweb.social/@djangonaut">@<span>djangonaut</span></a></span></p>
-  - <a href="https://mastodon.social/@ryancheley/112980309415415881" target="_blank">2024-08-18</a>
   </blockquote>
 
 
