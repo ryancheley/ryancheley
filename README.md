@@ -65,6 +65,11 @@
 
 
   <blockquote>
+  <p>Welp … there’s goes my weekend 🤣<br /><a href="https://social.data.coop/@valberg/113132606403889544" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">social.data.coop/@valberg/1131</span><span class="invisible">32606403889544</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/113132638573867627" target="_blank">2024-09-13</a>
+  </blockquote>
+
+  <blockquote>
   <p>Reflections on Djangonaut Space Session 2 <a href="https://www.ryancheley.com/2024/08/29/reflections-on-djangonaut-space-session-2/" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">ryancheley.com/2024/08/29/refl</span><span class="invisible">ections-on-djangonaut-space-session-2/</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/113044831659253804" target="_blank">2024-08-29</a>
   </blockquote>
@@ -72,11 +77,6 @@
   <blockquote>
   <p>How to ask why without sounding like a jerk <a href="https://www.ryancheley.com/2024/08/22/how-to-ask-why-without-sounding-like-a-jerk/" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">ryancheley.com/2024/08/22/how-</span><span class="invisible">to-ask-why-without-sounding-like-a-jerk/</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/113006138901952134" target="_blank">2024-08-22</a>
-  </blockquote>
-
-  <blockquote>
-  <p>This Hawk landed in my front yard this morning … scaring away all of the non predatory birds. It just kind of hung out there for a while. I did my best to try and get a good picture, but in order to get a *really* good picture I’d have to be outside, which would have scared it away. Anyway, here’s a hawk for your Sunday 😁</p>
-  - <a href="https://mastodon.social/@ryancheley/112984421846764982" target="_blank">2024-08-18</a>
   </blockquote>
 
 
