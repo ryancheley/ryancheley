@@ -50,10 +50,12 @@
 
 <ul>
 
+  <li><a href="tag:www.ryancheley.com,2024-09-16:/2024/09/16/mentors/" target="_blank"><p>Having just finished up my second round of Djangonaut.Space (which I wrote about <a href="https://www.ryancheley.com/2024/08/29/reflections-on-djangonaut-space-session-2/">here</a>) I wanted to write a bit about mentors ... how to find one, how to work with one, and how to be one.</p>
+<h2>Finding a Mentor</h2>
+<p>One of the best ways to find a mentor is …</p></a> - 2024-09-16</li>
+
   <li><a href="tag:www.ryancheley.com,2024-08-29:/2024/08/29/reflections-on-djangonaut-space-session-2/" target="_blank"><p>A few weeks ago I completed my second session as a <a href="https://djangonaut.space/">Djangonaut.Space</a> <a href="https://github.com/djangonaut-space/program/blob/main/navigators.md">Navigator</a>. The Djangonaut.Space program is an opportunity for people to be introduced to contributing to Django and Django adjacent projects.</p>
 <p>In this most recent session I was a Navigator for Team Mars with a fantastic Captain …</p></a> - 2024-08-29</li>
-
-  <li><a href="tag:www.ryancheley.com,2024-08-22:/2024/08/22/how-to-ask-why-without-sounding-like-a-jerk/" target="_blank"><p>As technical folks working with non-technical folks sometimes the asks that come through are unclear. In order to get clarity on these we want to ask questions to get clarification on the ask, but it can be challenging to not sound like a jerk when we ask. This can happen …</p></a> - 2024-08-22</li>
 
 </ul>
 
@@ -65,6 +67,11 @@
 
 
   <blockquote>
+  <p>Mentors <a href="https://www.ryancheley.com/2024/09/16/mentors/" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">ryancheley.com/2024/09/16/ment</span><span class="invisible">ors/</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/113146954282930238" target="_blank">2024-09-16</a>
+  </blockquote>
+
+  <blockquote>
   <p>Welp … there’s goes my weekend 🤣<br /><a href="https://social.data.coop/@valberg/113132606403889544" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">social.data.coop/@valberg/1131</span><span class="invisible">32606403889544</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/113132638573867627" target="_blank">2024-09-13</a>
   </blockquote>
@@ -72,11 +79,6 @@
   <blockquote>
   <p>Reflections on Djangonaut Space Session 2 <a href="https://www.ryancheley.com/2024/08/29/reflections-on-djangonaut-space-session-2/" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">ryancheley.com/2024/08/29/refl</span><span class="invisible">ections-on-djangonaut-space-session-2/</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/113044831659253804" target="_blank">2024-08-29</a>
-  </blockquote>
-
-  <blockquote>
-  <p>How to ask why without sounding like a jerk <a href="https://www.ryancheley.com/2024/08/22/how-to-ask-why-without-sounding-like-a-jerk/" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">ryancheley.com/2024/08/22/how-</span><span class="invisible">to-ask-why-without-sounding-like-a-jerk/</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/113006138901952134" target="_blank">2024-08-22</a>
   </blockquote>
 
 
