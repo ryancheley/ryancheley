@@ -67,6 +67,11 @@
 
 
   <blockquote>
+  <p>Achievement unlocked! Tonight I helped my daughter fill out an employement application form for her work study at University. Not having applied for a job in almost 16 years, this was much more challenging that I thought it was going to be!</p>
+  - <a href="https://mastodon.social/@ryancheley/113167532844909728" target="_blank">2024-09-20</a>
+  </blockquote>
+
+  <blockquote>
   <p>Mentors <a href="https://www.ryancheley.com/2024/09/16/mentors/" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">ryancheley.com/2024/09/16/ment</span><span class="invisible">ors/</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/113146954282930238" target="_blank">2024-09-16</a>
   </blockquote>
@@ -74,11 +79,6 @@
   <blockquote>
   <p>Welp … there’s goes my weekend 🤣<br /><a href="https://social.data.coop/@valberg/113132606403889544" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">social.data.coop/@valberg/1131</span><span class="invisible">32606403889544</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/113132638573867627" target="_blank">2024-09-13</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Reflections on Djangonaut Space Session 2 <a href="https://www.ryancheley.com/2024/08/29/reflections-on-djangonaut-space-session-2/" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">ryancheley.com/2024/08/29/refl</span><span class="invisible">ections-on-djangonaut-space-session-2/</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/113044831659253804" target="_blank">2024-08-29</a>
   </blockquote>
 
 
