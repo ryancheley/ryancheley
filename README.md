@@ -67,18 +67,18 @@
 
 
   <blockquote>
-  <p>Achievement unlocked! Tonight I helped my daughter fill out an employement application form for her work study at University. Not having applied for a job in almost 16 years, this was much more challenging that I thought it was going to be!</p>
-  - <a href="https://mastodon.social/@ryancheley/113167532844909728" target="_blank">2024-09-20</a>
+  <p>The most unrealistic part about The Orville was the fact that the non piloting crew in the shuttles would stand as they descended to planets and even with turbulence they wouldn’t get tossed around like rag dolls. Otherwise it's just about the most perfect show.  ...</p>
+  - <a href="https://mastodon.social/@ryancheley/113172050144920620" target="_blank">2024-09-20</a>
   </blockquote>
 
   <blockquote>
-  <p>Mentors <a href="https://www.ryancheley.com/2024/09/16/mentors/" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">ryancheley.com/2024/09/16/ment</span><span class="invisible">ors/</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/113146954282930238" target="_blank">2024-09-16</a>
+  <p>And of course the first day of rain in MONTHS would be today 🤣🤣🤣 <a class="mention hashtag" href="https://mastodon.social/tags/DjangoCon" rel="tag">#<span>DjangoCon</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/113171564290887930" target="_blank">2024-09-20</a>
   </blockquote>
 
   <blockquote>
-  <p>Welp … there’s goes my weekend 🤣<br /><a href="https://social.data.coop/@valberg/113132606403889544" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">social.data.coop/@valberg/1131</span><span class="invisible">32606403889544</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/113132638573867627" target="_blank">2024-09-13</a>
+  <p>Sitting at the Palm Springs airport getting ready to fly to Durham for <a class="mention hashtag" href="https://mastodon.social/tags/DjangoCon" rel="tag">#<span>DjangoCon</span></a> … super excited to see everyone! ...</p>
+  - <a href="https://mastodon.social/@ryancheley/113171219799119985" target="_blank">2024-09-20</a>
   </blockquote>
 
 
