@@ -67,18 +67,18 @@
 
 
   <blockquote>
-  <p>The most unrealistic part about The Orville was the fact that the non piloting crew in the shuttles would stand as they descended to planets and even with turbulence they wouldn’t get tossed around like rag dolls. Otherwise it's just about the most perfect show.  ...</p>
-  - <a href="https://mastodon.social/@ryancheley/113172050144920620" target="_blank">2024-09-20</a>
+  <p>Just finished listening to  <span class="h-card"><a class="u-url mention" href="https://hachyderm.io/@wesley83">@<span>wesley83</span></a></span> keynote on leadership at the <span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@blackpythondevs">@<span>blackpythondevs</span></a></span> Leadership Summit and heard some great advice! He gave actionable advice on developing leadership.  ...</p>
+  - <a href="https://mastodon.social/@ryancheley/113176871100646578" target="_blank">2024-09-21</a>
   </blockquote>
 
   <blockquote>
-  <p>And of course the first day of rain in MONTHS would be today 🤣🤣🤣 <a class="mention hashtag" href="https://mastodon.social/tags/DjangoCon" rel="tag">#<span>DjangoCon</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/113171564290887930" target="_blank">2024-09-20</a>
+  <p>The morning session of the <span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@blackpythondevs">@<span>blackpythondevs</span></a></span> Leadership Summit was capped off with <span class="h-card"><a class="u-url mention" href="https://mastodon.social/@kjaymiller">@<span>kjaymiller</span></a></span> giving the state of BPD.  ...</p>
+  - <a href="https://mastodon.social/@ryancheley/113176635850264568" target="_blank">2024-09-21</a>
   </blockquote>
 
   <blockquote>
-  <p>Sitting at the Palm Springs airport getting ready to fly to Durham for <a class="mention hashtag" href="https://mastodon.social/tags/DjangoCon" rel="tag">#<span>DjangoCon</span></a> … super excited to see everyone! ...</p>
-  - <a href="https://mastodon.social/@ryancheley/113171219799119985" target="_blank">2024-09-20</a>
+  <p>Just had a great Chop It Up Session at the <span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@blackpythondevs">@<span>blackpythondevs</span></a></span> Leadership Summit. Some great conversation. I’m really looking forward to the rest of the day!</p>
+  - <a href="https://mastodon.social/@ryancheley/113175949362620949" target="_blank">2024-09-21</a>
   </blockquote>
 
 
