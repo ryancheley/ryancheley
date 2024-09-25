@@ -67,6 +67,11 @@
 
 
   <blockquote>
+  <p><span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@pythonbynight">@<span>pythonbynight</span></a></span> gave a great, moving, heart warming keynote today on how to be a better developer. ...</p>
+  - <a href="https://mastodon.social/@ryancheley/113192884124714653" target="_blank">2024-09-24</a>
+  </blockquote>
+
+  <blockquote>
   <p>Just finished listening to  <span class="h-card"><a class="u-url mention" href="https://hachyderm.io/@wesley83">@<span>wesley83</span></a></span> keynote on leadership at the <span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@blackpythondevs">@<span>blackpythondevs</span></a></span> Leadership Summit and heard some great advice! He gave actionable advice on developing leadership.  ...</p>
   - <a href="https://mastodon.social/@ryancheley/113176871100646578" target="_blank">2024-09-21</a>
   </blockquote>
@@ -74,11 +79,6 @@
   <blockquote>
   <p>The morning session of the <span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@blackpythondevs">@<span>blackpythondevs</span></a></span> Leadership Summit was capped off with <span class="h-card"><a class="u-url mention" href="https://mastodon.social/@kjaymiller">@<span>kjaymiller</span></a></span> giving the state of BPD.  ...</p>
   - <a href="https://mastodon.social/@ryancheley/113176635850264568" target="_blank">2024-09-21</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Just had a great Chop It Up Session at the <span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@blackpythondevs">@<span>blackpythondevs</span></a></span> Leadership Summit. Some great conversation. I’m really looking forward to the rest of the day!</p>
-  - <a href="https://mastodon.social/@ryancheley/113175949362620949" target="_blank">2024-09-21</a>
   </blockquote>
 
 
