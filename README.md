@@ -67,18 +67,18 @@
 
 
   <blockquote>
+  <p>Feeling the post conference blues pretty hard, and it’s only been like 3 hours! Luckily, <span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@kojoidrissa">@<span>kojoidrissa</span></a></span> has me (and you!) covered. Essential reading for me right now ...</p>
+  - <a href="https://mastodon.social/@ryancheley/113212114309739036" target="_blank">2024-09-27</a>
+  </blockquote>
+
+  <blockquote>
+  <p>Every time I leave <a class="mention hashtag" href="https://mastodon.social/tags/DjangoCon" rel="tag">#<span>DjangoCon</span></a> I am both so very happy for the time I got to spend with everyone, and so very sad that the time is over. Thanks to everyone that makes this the most amazing conference I get to go to each year. I’m looking forward to ‘seeing’ you all on Mastodon, but really looking forward to the next time we get to meet in person. Safe travels to everyone!</p>
+  - <a href="https://mastodon.social/@ryancheley/113211463695882916" target="_blank">2024-09-27</a>
+  </blockquote>
+
+  <blockquote>
   <p><span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@pythonbynight">@<span>pythonbynight</span></a></span> gave a great, moving, heart warming keynote today on how to be a better developer. ...</p>
   - <a href="https://mastodon.social/@ryancheley/113192884124714653" target="_blank">2024-09-24</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Just finished listening to  <span class="h-card"><a class="u-url mention" href="https://hachyderm.io/@wesley83">@<span>wesley83</span></a></span> keynote on leadership at the <span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@blackpythondevs">@<span>blackpythondevs</span></a></span> Leadership Summit and heard some great advice! He gave actionable advice on developing leadership.  ...</p>
-  - <a href="https://mastodon.social/@ryancheley/113176871100646578" target="_blank">2024-09-21</a>
-  </blockquote>
-
-  <blockquote>
-  <p>The morning session of the <span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@blackpythondevs">@<span>blackpythondevs</span></a></span> Leadership Summit was capped off with <span class="h-card"><a class="u-url mention" href="https://mastodon.social/@kjaymiller">@<span>kjaymiller</span></a></span> giving the state of BPD.  ...</p>
-  - <a href="https://mastodon.social/@ryancheley/113176635850264568" target="_blank">2024-09-21</a>
   </blockquote>
 
 
