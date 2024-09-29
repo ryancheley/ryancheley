@@ -67,18 +67,18 @@
 
 
   <blockquote>
-  <p>Feeling the post conference blues pretty hard, and it’s only been like 3 hours! Luckily, <span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@kojoidrissa">@<span>kojoidrissa</span></a></span> has me (and you!) covered. Essential reading for me right now ...</p>
-  - <a href="https://mastodon.social/@ryancheley/113212114309739036" target="_blank">2024-09-27</a>
+  <p>Back home where it’s a brisk 107F / 42C 🥵. Glad to be home, but can’t wait for the next <a class="mention hashtag" href="https://mastodon.social/tags/DjangoCon" rel="tag">#<span>DjangoCon</span></a> … wherever it might be</p>
+  - <a href="https://mastodon.social/@ryancheley/113216744086136000" target="_blank">2024-09-28</a>
   </blockquote>
 
   <blockquote>
-  <p>Every time I leave <a class="mention hashtag" href="https://mastodon.social/tags/DjangoCon" rel="tag">#<span>DjangoCon</span></a> I am both so very happy for the time I got to spend with everyone, and so very sad that the time is over. Thanks to everyone that makes this the most amazing conference I get to go to each year. I’m looking forward to ‘seeing’ you all on Mastodon, but really looking forward to the next time we get to meet in person. Safe travels to everyone!</p>
-  - <a href="https://mastodon.social/@ryancheley/113211463695882916" target="_blank">2024-09-27</a>
+  <p>First leg down, now a short(ish) layover in Phoenix until I’m home in Palm Springs after an amazing <a class="mention hashtag" href="https://mastodon.social/tags/DjangoCon" rel="tag">#<span>DjangoCon</span></a> .  ...</p>
+  - <a href="https://mastodon.social/@ryancheley/113215987446209873" target="_blank">2024-09-28</a>
   </blockquote>
 
   <blockquote>
-  <p><span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@pythonbynight">@<span>pythonbynight</span></a></span> gave a great, moving, heart warming keynote today on how to be a better developer. ...</p>
-  - <a href="https://mastodon.social/@ryancheley/113192884124714653" target="_blank">2024-09-24</a>
+  <p>Sitting on the runway, waiting for the plane to board back home after <a class="mention hashtag" href="https://mastodon.social/tags/DjangoCon" rel="tag">#<span>DjangoCon</span></a> and adding my thoughts on <span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@wsvincent">@<span>wsvincent</span></a></span> post about “Updating startproject with default login/signup/logout options” early on a Saturday morning as one does.  ...</p>
+  - <a href="https://mastodon.social/@ryancheley/113214843425466333" target="_blank">2024-09-28</a>
   </blockquote>
 
 
