@@ -67,6 +67,11 @@
 
 
   <blockquote>
+  <p>I had a great time last night hanging out with <span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@Stormheg">@<span>Stormheg</span></a></span> <span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@thibaudcolas">@<span>thibaudcolas</span></a></span> and <span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@laymonage">@<span>laymonage</span></a></span> in downtown Palm Springs last night. Great food and even better company.  Safe travels my friends!</p>
+  - <a href="https://mastodon.social/@ryancheley/113237643354514479" target="_blank">2024-10-02</a>
+  </blockquote>
+
+  <blockquote>
   <p>Back home where it’s a brisk 107F / 42C 🥵. Glad to be home, but can’t wait for the next <a class="mention hashtag" href="https://mastodon.social/tags/DjangoCon" rel="tag">#<span>DjangoCon</span></a> … wherever it might be</p>
   - <a href="https://mastodon.social/@ryancheley/113216744086136000" target="_blank">2024-09-28</a>
   </blockquote>
@@ -74,11 +79,6 @@
   <blockquote>
   <p>First leg down, now a short(ish) layover in Phoenix until I’m home in Palm Springs after an amazing <a class="mention hashtag" href="https://mastodon.social/tags/DjangoCon" rel="tag">#<span>DjangoCon</span></a> .  ...</p>
   - <a href="https://mastodon.social/@ryancheley/113215987446209873" target="_blank">2024-09-28</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Sitting on the runway, waiting for the plane to board back home after <a class="mention hashtag" href="https://mastodon.social/tags/DjangoCon" rel="tag">#<span>DjangoCon</span></a> and adding my thoughts on <span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@wsvincent">@<span>wsvincent</span></a></span> post about “Updating startproject with default login/signup/logout options” early on a Saturday morning as one does.  ...</p>
-  - <a href="https://mastodon.social/@ryancheley/113214843425466333" target="_blank">2024-09-28</a>
   </blockquote>
 
 
