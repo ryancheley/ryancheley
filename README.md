@@ -50,12 +50,13 @@
 
 <ul>
 
+  <li><a href="tag:www.ryancheley.com,2024-10-03:/2024/10/03/summer-of-writing/" target="_blank"><p>In keeping with my themes for 2024 this summer was to be 'The Summer of Writing'.</p>
+<p>This theme didn't have a specific post or word count, but I knew I wanted to write <strong>more</strong><sup id="sf-summer-of-writing-1-back"><a class="simple-footnote" href="https://ryancheley.com/feeds/all.rss.xml#sf-summer-of-writing-1" title="How much more? I don't really know ... just more">1</a></sup>.</p>
+<p>I had a few things I needed to do to get this started. One of …</p></a> - 2024-10-03</li>
+
   <li><a href="tag:www.ryancheley.com,2024-09-16:/2024/09/16/mentors/" target="_blank"><p>Having just finished up my second round of Djangonaut.Space (which I wrote about <a href="https://www.ryancheley.com/2024/08/29/reflections-on-djangonaut-space-session-2/">here</a>) I wanted to write a bit about mentors ... how to find one, how to work with one, and how to be one.</p>
 <h2>Finding a Mentor</h2>
 <p>One of the best ways to find a mentor is …</p></a> - 2024-09-16</li>
-
-  <li><a href="tag:www.ryancheley.com,2024-08-29:/2024/08/29/reflections-on-djangonaut-space-session-2/" target="_blank"><p>A few weeks ago I completed my second session as a <a href="https://djangonaut.space/">Djangonaut.Space</a> <a href="https://github.com/djangonaut-space/program/blob/main/navigators.md">Navigator</a>. The Djangonaut.Space program is an opportunity for people to be introduced to contributing to Django and Django adjacent projects.</p>
-<p>In this most recent session I was a Navigator for Team Mars with a fantastic Captain …</p></a> - 2024-08-29</li>
 
 </ul>
 
@@ -67,18 +68,18 @@
 
 
   <blockquote>
-  <p>I had a great time last night hanging out with <span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@Stormheg">@<span>Stormheg</span></a></span> <span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@thibaudcolas">@<span>thibaudcolas</span></a></span> and <span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@laymonage">@<span>laymonage</span></a></span> in downtown Palm Springs last night. Great food and even better company.  Safe travels my friends!</p>
-  - <a href="https://mastodon.social/@ryancheley/113237643354514479" target="_blank">2024-10-02</a>
+  <p>In other news, when I went to go get lunch today at my favorite sandwich shop, a few players from the the local Hockey team <a class="mention hashtag" href="https://mastodon.social/tags/cvfirebirds" rel="tag">#<span>cvfirebirds</span></a> walked in and ordered sandwiches too.  ...</p>
+  - <a href="https://mastodon.social/@ryancheley/113246494202589764" target="_blank">2024-10-04</a>
   </blockquote>
 
   <blockquote>
-  <p>Back home where it’s a brisk 107F / 42C 🥵. Glad to be home, but can’t wait for the next <a class="mention hashtag" href="https://mastodon.social/tags/DjangoCon" rel="tag">#<span>DjangoCon</span></a> … wherever it might be</p>
-  - <a href="https://mastodon.social/@ryancheley/113216744086136000" target="_blank">2024-09-28</a>
+  <p>While driving into the office today I was listening to <span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@djangochat">@<span>djangochat</span></a></span> and nearly spit out my coffee when <span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@CodenameTim">@<span>CodenameTim</span></a></span> mentioned my <a class="mention hashtag" href="https://mastodon.social/tags/DjangoCon" rel="tag">#<span>DjangoCon</span></a> talk and was happy to hear that <span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@carlton">@<span>carlton</span></a></span> has started to implement some of the advice from it. Like, holy moly what a surreal moment! Thank you for the kind words ...</p>
+  - <a href="https://mastodon.social/@ryancheley/113246365450448324" target="_blank">2024-10-04</a>
   </blockquote>
 
   <blockquote>
-  <p>First leg down, now a short(ish) layover in Phoenix until I’m home in Palm Springs after an amazing <a class="mention hashtag" href="https://mastodon.social/tags/DjangoCon" rel="tag">#<span>DjangoCon</span></a> .  ...</p>
-  - <a href="https://mastodon.social/@ryancheley/113215987446209873" target="_blank">2024-09-28</a>
+  <p>Summer of Writing <a href="https://www.ryancheley.com/2024/10/03/summer-of-writing/" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">ryancheley.com/2024/10/03/summ</span><span class="invisible">er-of-writing/</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/113243028882170313" target="_blank">2024-10-03</a>
   </blockquote>
 
 
