@@ -68,18 +68,18 @@
 
 
   <blockquote>
+  <p>I just had a chance to watch <span class="h-card"><a class="u-url mention" href="https://social.jacklinke.com/@jack">@<span>jack</span></a></span> talk “Troubleshooting is a Lifestyle 😎” from <a class="mention hashtag" href="https://mastodon.social/tags/DjangoCon" rel="tag">#<span>DjangoCon</span></a> and I just love this line ...</p>
+  - <a href="https://mastodon.social/@ryancheley/113257408315768039" target="_blank">2024-10-05</a>
+  </blockquote>
+
+  <blockquote>
+  <p>TFW you finally have a chance to catch up on some blog posts for the last few weeks and start reading a post by <span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@adamchainz">@<span>adamchainz</span></a></span> on his new project Djade and see your name in the article and it takes you a second to realize he’s talking about you.  ...</p>
+  - <a href="https://mastodon.social/@ryancheley/113256579926595513" target="_blank">2024-10-05</a>
+  </blockquote>
+
+  <blockquote>
   <p>In other news, when I went to go get lunch today at my favorite sandwich shop, a few players from the the local Hockey team <a class="mention hashtag" href="https://mastodon.social/tags/cvfirebirds" rel="tag">#<span>cvfirebirds</span></a> walked in and ordered sandwiches too.  ...</p>
   - <a href="https://mastodon.social/@ryancheley/113246494202589764" target="_blank">2024-10-04</a>
-  </blockquote>
-
-  <blockquote>
-  <p>While driving into the office today I was listening to <span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@djangochat">@<span>djangochat</span></a></span> and nearly spit out my coffee when <span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@CodenameTim">@<span>CodenameTim</span></a></span> mentioned my <a class="mention hashtag" href="https://mastodon.social/tags/DjangoCon" rel="tag">#<span>DjangoCon</span></a> talk and was happy to hear that <span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@carlton">@<span>carlton</span></a></span> has started to implement some of the advice from it. Like, holy moly what a surreal moment! Thank you for the kind words ...</p>
-  - <a href="https://mastodon.social/@ryancheley/113246365450448324" target="_blank">2024-10-04</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Summer of Writing <a href="https://www.ryancheley.com/2024/10/03/summer-of-writing/" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">ryancheley.com/2024/10/03/summ</span><span class="invisible">er-of-writing/</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/113243028882170313" target="_blank">2024-10-03</a>
   </blockquote>
 
 
