@@ -68,18 +68,18 @@
 
 
   <blockquote>
-  <p>I just had a chance to watch <span class="h-card"><a class="u-url mention" href="https://social.jacklinke.com/@jack">@<span>jack</span></a></span> talk “Troubleshooting is a Lifestyle 😎” from <a class="mention hashtag" href="https://mastodon.social/tags/DjangoCon" rel="tag">#<span>DjangoCon</span></a> and I just love this line ...</p>
-  - <a href="https://mastodon.social/@ryancheley/113257408315768039" target="_blank">2024-10-05</a>
+  <p>But also, while I was working on this I was able to discover something new, which I wrote up in a TIL ...</p>
+  - <a href="https://mastodon.social/@ryancheley/113262430895501745" target="_blank">2024-10-06</a>
   </blockquote>
 
   <blockquote>
-  <p>TFW you finally have a chance to catch up on some blog posts for the last few weeks and start reading a post by <span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@adamchainz">@<span>adamchainz</span></a></span> on his new project Djade and see your name in the article and it takes you a second to realize he’s talking about you.  ...</p>
-  - <a href="https://mastodon.social/@ryancheley/113256579926595513" target="_blank">2024-10-05</a>
+  <p>This is fine I’m sure 🥵</p>
+  - <a href="https://mastodon.social/@ryancheley/113262147217827694" target="_blank">2024-10-06</a>
   </blockquote>
 
   <blockquote>
-  <p>In other news, when I went to go get lunch today at my favorite sandwich shop, a few players from the the local Hockey team <a class="mention hashtag" href="https://mastodon.social/tags/cvfirebirds" rel="tag">#<span>cvfirebirds</span></a> walked in and ordered sandwiches too.  ...</p>
-  - <a href="https://mastodon.social/@ryancheley/113246494202589764" target="_blank">2024-10-04</a>
+  <p>This is a great article. This line resonated with me a lot ...</p>
+  - <a href="https://mastodon.social/@ryancheley/113261939722925094" target="_blank">2024-10-06</a>
   </blockquote>
 
 
