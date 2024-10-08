@@ -68,6 +68,11 @@
 
 
   <blockquote>
+  <p>Because summer doesn’t seem like it’s ever going to end, I’ve picked up swimming and a new Hash Tag! At some point I’m hoping to get back into running, but that day is not today! ...</p>
+  - <a href="https://mastodon.social/@ryancheley/113266727260563251" target="_blank">2024-10-07</a>
+  </blockquote>
+
+  <blockquote>
   <p>But also, while I was working on this I was able to discover something new, which I wrote up in a TIL ...</p>
   - <a href="https://mastodon.social/@ryancheley/113262430895501745" target="_blank">2024-10-06</a>
   </blockquote>
@@ -75,11 +80,6 @@
   <blockquote>
   <p>This is fine I’m sure 🥵</p>
   - <a href="https://mastodon.social/@ryancheley/113262147217827694" target="_blank">2024-10-06</a>
-  </blockquote>
-
-  <blockquote>
-  <p>This is a great article. This line resonated with me a lot ...</p>
-  - <a href="https://mastodon.social/@ryancheley/113261939722925094" target="_blank">2024-10-06</a>
   </blockquote>
 
 
