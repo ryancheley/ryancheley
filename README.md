@@ -68,18 +68,18 @@
 
 
   <blockquote>
-  <p>I meant to post this earlier today! ...</p>
-  - <a href="https://mastodon.social/@ryancheley/113280319151930764" target="_blank">2024-10-10</a>
+  <p>One of the best parts of <a class="mention hashtag" href="https://mastodon.social/tags/CoachelleValleyFirebirds" rel="tag">#<span>CoachelleValleyFirebirds</span></a> hockey is that there is an actual Code Of Conduct at the arena and it’s enforced!</p>
+  - <a href="https://mastodon.social/@ryancheley/113292030412817206" target="_blank">2024-10-12</a>
   </blockquote>
 
   <blockquote>
-  <p>Because summer doesn’t seem like it’s ever going to end, I’ve picked up swimming and a new Hash Tag! At some point I’m hoping to get back into running, but that day is not today! ...</p>
-  - <a href="https://mastodon.social/@ryancheley/113266727260563251" target="_blank">2024-10-07</a>
+  <p>Hockey ...</p>
+  - <a href="https://mastodon.social/@ryancheley/113291898342974130" target="_blank">2024-10-12</a>
   </blockquote>
 
   <blockquote>
-  <p>But also, while I was working on this I was able to discover something new, which I wrote up in a TIL ...</p>
-  - <a href="https://mastodon.social/@ryancheley/113262430895501745" target="_blank">2024-10-06</a>
+  <p>🏊🏻 Today, I swam 1250 yards ...</p>
+  - <a href="https://mastodon.social/@ryancheley/113291271325077308" target="_blank">2024-10-11</a>
   </blockquote>
 
 
