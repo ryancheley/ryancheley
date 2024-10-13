@@ -68,18 +68,18 @@
 
 
   <blockquote>
-  <p>One of the best parts of <a class="mention hashtag" href="https://mastodon.social/tags/CoachelleValleyFirebirds" rel="tag">#<span>CoachelleValleyFirebirds</span></a> hockey is that there is an actual Code Of Conduct at the arena and it’s enforced!</p>
-  - <a href="https://mastodon.social/@ryancheley/113292030412817206" target="_blank">2024-10-12</a>
+  <p>The opening acts for  <a class="mention hashtag" href="https://mastodon.social/tags/Weezer" rel="tag">#<span>Weezer</span></a> are Dinosaur Jr and The Flaming Lips and I knew that but I guess I forgot it and now I’m I just like 🤯</p>
+  - <a href="https://mastodon.social/@ryancheley/113297790659833794" target="_blank">2024-10-13</a>
   </blockquote>
 
   <blockquote>
-  <p>Hockey ...</p>
-  - <a href="https://mastodon.social/@ryancheley/113291898342974130" target="_blank">2024-10-12</a>
+  <p>Seeing <a class="mention hashtag" href="https://mastodon.social/tags/Weezer" rel="tag">#<span>Weezer</span></a> live for the first time in 23 years ... because they're old, but so am I! ...</p>
+  - <a href="https://mastodon.social/@ryancheley/113297598460058663" target="_blank">2024-10-13</a>
   </blockquote>
 
   <blockquote>
-  <p>🏊🏻 Today, I swam 1250 yards ...</p>
-  - <a href="https://mastodon.social/@ryancheley/113291271325077308" target="_blank">2024-10-11</a>
+  <p>And here’s the video!  ...</p>
+  - <a href="https://mastodon.social/@ryancheley/113297212085677352" target="_blank">2024-10-13</a>
   </blockquote>
 
 
