@@ -68,18 +68,18 @@
 
 
   <blockquote>
+  <p>Hockey ...</p>
+  - <a href="https://mastodon.social/@ryancheley/113320184964703428" target="_blank">2024-10-17</a>
+  </blockquote>
+
+  <blockquote>
+  <p>🏊🏻 Today, I swam 1800 yards ...</p>
+  - <a href="https://mastodon.social/@ryancheley/113319000224873006" target="_blank">2024-10-16</a>
+  </blockquote>
+
+  <blockquote>
   <p>The universe (or whatever) tried *really* hard to keep me from swimming today. I woke up to a car with a dead battery, and then what I can only call a pretty shitty morning at work so by the time I was able to go out swimming (at lunch time), I swam really hard and fast. The 2’47 / 100yd below is faster by about 13 seconds than my average up to this point. ...</p>
   - <a href="https://mastodon.social/@ryancheley/113308729396849465" target="_blank">2024-10-15</a>
-  </blockquote>
-
-  <blockquote>
-  <p>I did the same earlier today and it was much easier than I thought. Turns out Wordpress powers 43% of websites in 2024, but this Wordpress artifact had exactly 0% impact on my digital life. <a href="https://mastodon.social/@webology/113301625891166902" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@webology/1133</span><span class="invisible">01625891166902</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/113302053269255634" target="_blank">2024-10-13</a>
-  </blockquote>
-
-  <blockquote>
-  <p>The opening acts for  <a class="mention hashtag" href="https://mastodon.social/tags/Weezer" rel="tag">#<span>Weezer</span></a> are Dinosaur Jr and The Flaming Lips and I knew that but I guess I forgot it and now I’m I just like 🤯</p>
-  - <a href="https://mastodon.social/@ryancheley/113297790659833794" target="_blank">2024-10-13</a>
   </blockquote>
 
 
