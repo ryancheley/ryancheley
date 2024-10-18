@@ -50,13 +50,13 @@
 
 <ul>
 
+  <li><a href="tag:www.ryancheley.com,2024-10-17:/2024/10/17/djangocon-us-2024-talk/" target="_blank"><p>At DjangoCon US 2023 I gave a talk, and wrote about my experience <a href="https://www.ryancheley.com/2023/12/15/so-you-want-to-give-a-talk-at-a-conference/">preparing for that talk</a></p>
+<p>Well, I spoke again at DjangoCon US this year (2024) and had a similar, but wildly different experience in preparing for my talk.</p>
+<p>Last year I lamented that I didn't really track my …</p></a> - 2024-10-17</li>
+
   <li><a href="tag:www.ryancheley.com,2024-10-03:/2024/10/03/summer-of-writing/" target="_blank"><p>In keeping with my themes for 2024 this summer was to be 'The Summer of Writing'.</p>
 <p>This theme didn't have a specific post or word count, but I knew I wanted to write <strong>more</strong><sup id="sf-summer-of-writing-1-back"><a class="simple-footnote" href="https://ryancheley.com/feeds/all.rss.xml#sf-summer-of-writing-1" title="How much more? I don't really know ... just more">1</a></sup>.</p>
 <p>I had a few things I needed to do to get this started. One of …</p></a> - 2024-10-03</li>
-
-  <li><a href="tag:www.ryancheley.com,2024-09-16:/2024/09/16/mentors/" target="_blank"><p>Having just finished up my second round of Djangonaut.Space (which I wrote about <a href="https://www.ryancheley.com/2024/08/29/reflections-on-djangonaut-space-session-2/">here</a>) I wanted to write a bit about mentors ... how to find one, how to work with one, and how to be one.</p>
-<h2>Finding a Mentor</h2>
-<p>One of the best ways to find a mentor is …</p></a> - 2024-09-16</li>
 
 </ul>
 
@@ -68,6 +68,11 @@
 
 
   <blockquote>
+  <p>DjangoCon US 2024 Talk <a href="https://www.ryancheley.com/2024/10/17/djangocon-us-2024-talk/" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">ryancheley.com/2024/10/17/djan</span><span class="invisible">gocon-us-2024-talk/</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/113322300978801936" target="_blank">2024-10-17</a>
+  </blockquote>
+
+  <blockquote>
   <p>Hockey ...</p>
   - <a href="https://mastodon.social/@ryancheley/113320184964703428" target="_blank">2024-10-17</a>
   </blockquote>
@@ -75,11 +80,6 @@
   <blockquote>
   <p>🏊🏻 Today, I swam 1800 yards ...</p>
   - <a href="https://mastodon.social/@ryancheley/113319000224873006" target="_blank">2024-10-16</a>
-  </blockquote>
-
-  <blockquote>
-  <p>The universe (or whatever) tried *really* hard to keep me from swimming today. I woke up to a car with a dead battery, and then what I can only call a pretty shitty morning at work so by the time I was able to go out swimming (at lunch time), I swam really hard and fast. The 2’47 / 100yd below is faster by about 13 seconds than my average up to this point. ...</p>
-  - <a href="https://mastodon.social/@ryancheley/113308729396849465" target="_blank">2024-10-15</a>
   </blockquote>
 
 
