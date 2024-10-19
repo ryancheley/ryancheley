@@ -68,6 +68,11 @@
 
 
   <blockquote>
+  <p>🏊🏻 Today, I swam 1500 yards /  1371.6 meters ...</p>
+  - <a href="https://mastodon.social/@ryancheley/113328882625367509" target="_blank">2024-10-18</a>
+  </blockquote>
+
+  <blockquote>
   <p>DjangoCon US 2024 Talk <a href="https://www.ryancheley.com/2024/10/17/djangocon-us-2024-talk/" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">ryancheley.com/2024/10/17/djan</span><span class="invisible">gocon-us-2024-talk/</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/113322300978801936" target="_blank">2024-10-17</a>
   </blockquote>
@@ -75,11 +80,6 @@
   <blockquote>
   <p>Hockey ...</p>
   - <a href="https://mastodon.social/@ryancheley/113320184964703428" target="_blank">2024-10-17</a>
-  </blockquote>
-
-  <blockquote>
-  <p>🏊🏻 Today, I swam 1800 yards ...</p>
-  - <a href="https://mastodon.social/@ryancheley/113319000224873006" target="_blank">2024-10-16</a>
   </blockquote>
 
 
