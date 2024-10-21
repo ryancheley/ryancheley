@@ -68,6 +68,11 @@
 
 
   <blockquote>
+  <p>Super stressful <a class="mention hashtag" href="https://mastodon.social/tags/NLCS" rel="tag">#<span>NLCS</span></a> but the <a class="mention hashtag" href="https://mastodon.social/tags/Dodgers" rel="tag">#<span>Dodgers</span></a> are headed to the <a class="mention hashtag" href="https://mastodon.social/tags/WorldSeries" rel="tag">#<span>WorldSeries</span></a> against the <a class="mention hashtag" href="https://mastodon.social/tags/Yankees" rel="tag">#<span>Yankees</span></a>. Let’s Go <a class="mention hashtag" href="https://mastodon.social/tags/Dodgers" rel="tag">#<span>Dodgers</span></a>!!!!</p>
+  - <a href="https://mastodon.social/@ryancheley/113343290461217350" target="_blank">2024-10-21</a>
+  </blockquote>
+
+  <blockquote>
   <p>Sitting outside watching game 5 of the ALCS. This is the first time I’ve been able to sit outside on my patio in like 6 months and it is amazing!</p>
   - <a href="https://mastodon.social/@ryancheley/113337405373758117" target="_blank">2024-10-20</a>
   </blockquote>
@@ -75,11 +80,6 @@
   <blockquote>
   <p>🏊🏻 Today, I swam 1500 yards /  1371.6 meters ...</p>
   - <a href="https://mastodon.social/@ryancheley/113328882625367509" target="_blank">2024-10-18</a>
-  </blockquote>
-
-  <blockquote>
-  <p>DjangoCon US 2024 Talk <a href="https://www.ryancheley.com/2024/10/17/djangocon-us-2024-talk/" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">ryancheley.com/2024/10/17/djan</span><span class="invisible">gocon-us-2024-talk/</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/113322300978801936" target="_blank">2024-10-17</a>
   </blockquote>
 
 
