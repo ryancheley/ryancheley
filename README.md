@@ -50,13 +50,11 @@
 
 <ul>
 
+  <li><a href="tag:www.ryancheley.com,2024-10-23:/2024/10/23/django-commons/" target="_blank"><p>First, what are "the commons"? The concept of "the commons" refers to resources that are shared and managed collectively by a community, rather than being owned privately or by the state. This idea has been applied to natural resources like air, water, and grazing land, but it has also expanded …</p></a> - 2024-10-23</li>
+
   <li><a href="tag:www.ryancheley.com,2024-10-17:/2024/10/17/djangocon-us-2024-talk/" target="_blank"><p>At DjangoCon US 2023 I gave a talk, and wrote about my experience <a href="https://www.ryancheley.com/2023/12/15/so-you-want-to-give-a-talk-at-a-conference/">preparing for that talk</a></p>
 <p>Well, I spoke again at DjangoCon US this year (2024) and had a similar, but wildly different experience in preparing for my talk.</p>
 <p>Last year I lamented that I didn't really track my …</p></a> - 2024-10-17</li>
-
-  <li><a href="tag:www.ryancheley.com,2024-10-03:/2024/10/03/summer-of-writing/" target="_blank"><p>In keeping with my themes for 2024 this summer was to be 'The Summer of Writing'.</p>
-<p>This theme didn't have a specific post or word count, but I knew I wanted to write <strong>more</strong><sup id="sf-summer-of-writing-1-back"><a class="simple-footnote" href="https://ryancheley.com/feeds/all.rss.xml#sf-summer-of-writing-1" title="How much more? I don't really know ... just more">1</a></sup>.</p>
-<p>I had a few things I needed to do to get this started. One of …</p></a> - 2024-10-03</li>
 
 </ul>
 
@@ -68,18 +66,18 @@
 
 
   <blockquote>
-  <p>🏊🏻 Today, I swam 1750 yards /  1600.2 meters ...</p>
-  - <a href="https://mastodon.social/@ryancheley/113346799080131244" target="_blank">2024-10-21</a>
+  <p>A BIG thank you to <span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@CodenameTim">@<span>CodenameTim</span></a></span> for read through my first draft and providing some great feedback that helped he with writing this post!<br /><a href="https://mastodon.social/@ryancheley/113356706254889730" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@ryancheley/11</span><span class="invisible">3356706254889730</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/113358404334009714" target="_blank">2024-10-23</a>
   </blockquote>
 
   <blockquote>
-  <p>Super stressful <a class="mention hashtag" href="https://mastodon.social/tags/NLCS" rel="tag">#<span>NLCS</span></a> but the <a class="mention hashtag" href="https://mastodon.social/tags/Dodgers" rel="tag">#<span>Dodgers</span></a> are headed to the <a class="mention hashtag" href="https://mastodon.social/tags/WorldSeries" rel="tag">#<span>WorldSeries</span></a> against the <a class="mention hashtag" href="https://mastodon.social/tags/Yankees" rel="tag">#<span>Yankees</span></a>. Let’s Go <a class="mention hashtag" href="https://mastodon.social/tags/Dodgers" rel="tag">#<span>Dodgers</span></a>!!!!</p>
-  - <a href="https://mastodon.social/@ryancheley/113343290461217350" target="_blank">2024-10-21</a>
+  <p>🏊🏻 Today, I swam 2000 yards /  1828.8 meters ...</p>
+  - <a href="https://mastodon.social/@ryancheley/113357245911456399" target="_blank">2024-10-23</a>
   </blockquote>
 
   <blockquote>
-  <p>Sitting outside watching game 5 of the ALCS. This is the first time I’ve been able to sit outside on my patio in like 6 months and it is amazing!</p>
-  - <a href="https://mastodon.social/@ryancheley/113337405373758117" target="_blank">2024-10-20</a>
+  <p>Django Commons <a href="https://www.ryancheley.com/2024/10/23/django-commons/" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">ryancheley.com/2024/10/23/djan</span><span class="invisible">go-commons/</span></a> ...</p>
+  - <a href="https://mastodon.social/@ryancheley/113356706254889730" target="_blank">2024-10-23</a>
   </blockquote>
 
 
