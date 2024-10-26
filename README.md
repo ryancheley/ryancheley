@@ -66,18 +66,18 @@
 
 
   <blockquote>
+  <p>I caught one of the shirts that they shoot into the crowd!  <a class="mention hashtag" href="https://mastodon.social/tags/CoachelleValleyFirebirds" rel="tag">#<span>CoachelleValleyFirebirds</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/OntarioReign" rel="tag">#<span>OntarioReign</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/AHL" rel="tag">#<span>AHL</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/113371446228996702" target="_blank">2024-10-26</a>
+  </blockquote>
+
+  <blockquote>
+  <p>Hockey<br />Celebrating dia de los muertos <a class="mention hashtag" href="https://mastodon.social/tags/CoachelleValleyFirebirds" rel="tag">#<span>CoachelleValleyFirebirds</span></a> style as they take in the <a class="mention hashtag" href="https://mastodon.social/tags/OntarioReign" rel="tag">#<span>OntarioReign</span></a> in home game 3 of the <a class="mention hashtag" href="https://mastodon.social/tags/AHL" rel="tag">#<span>AHL</span></a> 2024-25 season</p>
+  - <a href="https://mastodon.social/@ryancheley/113371145940858807" target="_blank">2024-10-26</a>
+  </blockquote>
+
+  <blockquote>
   <p>A BIG thank you to <span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@CodenameTim">@<span>CodenameTim</span></a></span> for read through my first draft and providing some great feedback that helped he with writing this post!<br /><a href="https://mastodon.social/@ryancheley/113356706254889730" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@ryancheley/11</span><span class="invisible">3356706254889730</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/113358404334009714" target="_blank">2024-10-23</a>
-  </blockquote>
-
-  <blockquote>
-  <p>🏊🏻 Today, I swam 2000 yards /  1828.8 meters ...</p>
-  - <a href="https://mastodon.social/@ryancheley/113357245911456399" target="_blank">2024-10-23</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Django Commons <a href="https://www.ryancheley.com/2024/10/23/django-commons/" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">ryancheley.com/2024/10/23/djan</span><span class="invisible">go-commons/</span></a> ...</p>
-  - <a href="https://mastodon.social/@ryancheley/113356706254889730" target="_blank">2024-10-23</a>
   </blockquote>
 
 
