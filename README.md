@@ -66,18 +66,18 @@
 
 
   <blockquote>
+  <p>Watching Aaron Rodgers lose football games is my favorite Sunday pastime 🍿</p>
+  - <a href="https://mastodon.social/@ryancheley/113381197939580317" target="_blank">2024-10-27</a>
+  </blockquote>
+
+  <blockquote>
+  <p>The lemons are getting yellower, but still not time to harvest them and make lemonade just yet! For anyone wondering why my lawn looks dead, it kind of is. It was scalped yesterday which is the step BEFORE the winter grass grows</p>
+  - <a href="https://mastodon.social/@ryancheley/113380702630025459" target="_blank">2024-10-27</a>
+  </blockquote>
+
+  <blockquote>
   <p>I caught one of the shirts that they shoot into the crowd!  <a class="mention hashtag" href="https://mastodon.social/tags/CoachelleValleyFirebirds" rel="tag">#<span>CoachelleValleyFirebirds</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/OntarioReign" rel="tag">#<span>OntarioReign</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/AHL" rel="tag">#<span>AHL</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/113371446228996702" target="_blank">2024-10-26</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Hockey<br />Celebrating dia de los muertos <a class="mention hashtag" href="https://mastodon.social/tags/CoachelleValleyFirebirds" rel="tag">#<span>CoachelleValleyFirebirds</span></a> style as they take in the <a class="mention hashtag" href="https://mastodon.social/tags/OntarioReign" rel="tag">#<span>OntarioReign</span></a> in home game 3 of the <a class="mention hashtag" href="https://mastodon.social/tags/AHL" rel="tag">#<span>AHL</span></a> 2024-25 season</p>
-  - <a href="https://mastodon.social/@ryancheley/113371145940858807" target="_blank">2024-10-26</a>
-  </blockquote>
-
-  <blockquote>
-  <p>A BIG thank you to <span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@CodenameTim">@<span>CodenameTim</span></a></span> for read through my first draft and providing some great feedback that helped he with writing this post!<br /><a href="https://mastodon.social/@ryancheley/113356706254889730" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@ryancheley/11</span><span class="invisible">3356706254889730</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/113358404334009714" target="_blank">2024-10-23</a>
   </blockquote>
 
 
