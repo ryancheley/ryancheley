@@ -66,6 +66,11 @@
 
 
   <blockquote>
+  <p>🏃‍♂️Today, I ran 3.05 miles ...</p>
+  - <a href="https://mastodon.social/@ryancheley/113388467009342965" target="_blank">2024-10-29</a>
+  </blockquote>
+
+  <blockquote>
   <p>Watching Aaron Rodgers lose football games is my favorite Sunday pastime 🍿</p>
   - <a href="https://mastodon.social/@ryancheley/113381197939580317" target="_blank">2024-10-27</a>
   </blockquote>
@@ -73,11 +78,6 @@
   <blockquote>
   <p>The lemons are getting yellower, but still not time to harvest them and make lemonade just yet! For anyone wondering why my lawn looks dead, it kind of is. It was scalped yesterday which is the step BEFORE the winter grass grows</p>
   - <a href="https://mastodon.social/@ryancheley/113380702630025459" target="_blank">2024-10-27</a>
-  </blockquote>
-
-  <blockquote>
-  <p>I caught one of the shirts that they shoot into the crowd!  <a class="mention hashtag" href="https://mastodon.social/tags/CoachelleValleyFirebirds" rel="tag">#<span>CoachelleValleyFirebirds</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/OntarioReign" rel="tag">#<span>OntarioReign</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/AHL" rel="tag">#<span>AHL</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/113371446228996702" target="_blank">2024-10-26</a>
   </blockquote>
 
 
