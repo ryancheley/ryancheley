@@ -66,18 +66,18 @@
 
 
   <blockquote>
-  <p>🏃‍♂️Today, I ran 3.05 miles ...</p>
-  - <a href="https://mastodon.social/@ryancheley/113388467009342965" target="_blank">2024-10-29</a>
+  <p>So um … yeah. I would have never guessed this game would have gone the way it did. Wow! <a class="mention hashtag" href="https://mastodon.social/tags/Dodgers" rel="tag">#<span>Dodgers</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/WorldSeries2024" rel="tag">#<span>WorldSeries2024</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/113400016473766064" target="_blank">2024-10-31</a>
   </blockquote>
 
   <blockquote>
-  <p>Watching Aaron Rodgers lose football games is my favorite Sunday pastime 🍿</p>
-  - <a href="https://mastodon.social/@ryancheley/113381197939580317" target="_blank">2024-10-27</a>
+  <p>I didn’t realize that Game 5 was ALSO going to be a bullpen game for the <a class="mention hashtag" href="https://mastodon.social/tags/Dodgers" rel="tag">#<span>Dodgers</span></a> 🤦🏻‍♂️ ...</p>
+  - <a href="https://mastodon.social/@ryancheley/113399414883712328" target="_blank">2024-10-31</a>
   </blockquote>
 
   <blockquote>
-  <p>The lemons are getting yellower, but still not time to harvest them and make lemonade just yet! For anyone wondering why my lawn looks dead, it kind of is. It was scalped yesterday which is the step BEFORE the winter grass grows</p>
-  - <a href="https://mastodon.social/@ryancheley/113380702630025459" target="_blank">2024-10-27</a>
+  <p>🏃‍♂️Today, I ran 3 miles ...</p>
+  - <a href="https://mastodon.social/@ryancheley/113396553467142914" target="_blank">2024-10-30</a>
   </blockquote>
 
 
