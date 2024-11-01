@@ -66,6 +66,11 @@
 
 
   <blockquote>
+  <p>We don’t get a lot (any) Trick or Treaters at my house (like EVER) so this year my wife and I are at a concert in the park listening to an Oingo Boingo tribute band. It’s pretty awesome and a bit cold 🥶 … you know for the desert 🤣</p>
+  - <a href="https://mastodon.social/@ryancheley/113405058138761990" target="_blank">2024-11-01</a>
+  </blockquote>
+
+  <blockquote>
   <p>So um … yeah. I would have never guessed this game would have gone the way it did. Wow! <a class="mention hashtag" href="https://mastodon.social/tags/Dodgers" rel="tag">#<span>Dodgers</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/WorldSeries2024" rel="tag">#<span>WorldSeries2024</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/113400016473766064" target="_blank">2024-10-31</a>
   </blockquote>
@@ -73,11 +78,6 @@
   <blockquote>
   <p>I didn’t realize that Game 5 was ALSO going to be a bullpen game for the <a class="mention hashtag" href="https://mastodon.social/tags/Dodgers" rel="tag">#<span>Dodgers</span></a> 🤦🏻‍♂️ ...</p>
   - <a href="https://mastodon.social/@ryancheley/113399414883712328" target="_blank">2024-10-31</a>
-  </blockquote>
-
-  <blockquote>
-  <p>🏃‍♂️Today, I ran 3 miles ...</p>
-  - <a href="https://mastodon.social/@ryancheley/113396553467142914" target="_blank">2024-10-30</a>
   </blockquote>
 
 
