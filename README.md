@@ -35,11 +35,11 @@
 
   <li><a href="https://github.com/ryancheley/til/blob/main/Python/require" target="_blank">Require a Virtual Environment to install packages</a> - virtual-enviroment.md) - 2024-03-03</li>
 
+  <li><a href="https://github.com/ryancheley/til/blob/main/uv/uv" target="_blank">uv venv and missing pip</a> - venv.md) - 2024-11-03</li>
+
   <li><a href="https://github.com/ryancheley/til/blob/main/Django/include" target="_blank">Include and the with argument</a> - template-with.md) - 2024-05-04</li>
 
   <li><a href="https://github.com/ryancheley/til/blob/main/css/css" target="_blank">CSS Specificity</a> - specificity.md) - 2023-12-23</li>
-
-  <li><a href="https://github.com/ryancheley/til/blob/main/tailscale/subnet" target="_blank">Subnet Routers</a> - routers.md) - 2024-01-18</li>
 
 </ul>
 
@@ -66,18 +66,18 @@
 
 
   <blockquote>
-  <p>My wife and I are having people over tonight and every time we do I get super anxious about making sure the house is Clean for Company™ ...</p>
-  - <a href="https://mastodon.social/@ryancheley/113414525745976832" target="_blank">2024-11-02</a>
+  <p>A new TIL -  The Curious Case of the Missing Pip: A Virtual Environment Mystery ...</p>
+  - <a href="https://mastodon.social/@ryancheley/113421765258043464" target="_blank">2024-11-04</a>
   </blockquote>
 
   <blockquote>
-  <p>To that end … TIL about HTML Text Fragments and they are 🤯 ...</p>
-  - <a href="https://mastodon.social/@ryancheley/113413755892818618" target="_blank">2024-11-02</a>
+  <p>OK, I think I’ve been able to (with the help of many others) get this figured out. There are a few things that happened to get me where I’m at, but mostly it was me ...</p>
+  - <a href="https://mastodon.social/@ryancheley/113420924268770473" target="_blank">2024-11-03</a>
   </blockquote>
 
   <blockquote>
-  <p>This was the advice I’ve heard a lot, and really need to hear multiple times to better internalize it: ...</p>
-  - <a href="https://mastodon.social/@ryancheley/113413752593439318" target="_blank">2024-11-02</a>
+  <p>I've somehow managed to get Python on my macbook to not install packages into the virtual environment I've activated and I'm honestly not sure how to fix this.  ...</p>
+  - <a href="https://mastodon.social/@ryancheley/113420509533590631" target="_blank">2024-11-03</a>
   </blockquote>
 
 
