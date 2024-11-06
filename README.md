@@ -66,6 +66,11 @@
 
 
   <blockquote>
+  <p>🗳️ ...</p>
+  - <a href="https://mastodon.social/@ryancheley/113431433919953111" target="_blank">2024-11-05</a>
+  </blockquote>
+
+  <blockquote>
   <p>🏃‍♂️Today, I ran 3.15 miles ...</p>
   - <a href="https://mastodon.social/@ryancheley/113426813819846179" target="_blank">2024-11-04</a>
   </blockquote>
@@ -73,11 +78,6 @@
   <blockquote>
   <p>A new TIL -  The Curious Case of the Missing Pip: A Virtual Environment Mystery ...</p>
   - <a href="https://mastodon.social/@ryancheley/113421765258043464" target="_blank">2024-11-04</a>
-  </blockquote>
-
-  <blockquote>
-  <p>OK, I think I’ve been able to (with the help of many others) get this figured out. There are a few things that happened to get me where I’m at, but mostly it was me ...</p>
-  - <a href="https://mastodon.social/@ryancheley/113420924268770473" target="_blank">2024-11-03</a>
   </blockquote>
 
 
