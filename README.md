@@ -66,6 +66,11 @@
 
 
   <blockquote>
+  <p>🏊🏻 Today, I swam 1500 yards /  1371.6 meters ...</p>
+  - <a href="https://mastodon.social/@ryancheley/113467399360229391" target="_blank">2024-11-12</a>
+  </blockquote>
+
+  <blockquote>
   <p>Hockey ...</p>
   - <a href="https://mastodon.social/@ryancheley/113461103766909321" target="_blank">2024-11-10</a>
   </blockquote>
@@ -73,11 +78,6 @@
   <blockquote>
   <p>First lemon from my tree!</p>
   - <a href="https://mastodon.social/@ryancheley/113459918034337610" target="_blank">2024-11-10</a>
-  </blockquote>
-
-  <blockquote>
-  <p>After a 2 week hiatus because of issues with the pool that I swim at ...  ...</p>
-  - <a href="https://mastodon.social/@ryancheley/113448266388113572" target="_blank">2024-11-08</a>
   </blockquote>
 
 
