@@ -66,6 +66,11 @@
 
 
   <blockquote>
+  <p>🏊🏻 Today, I swam 1750 yards /  1600.2 meters ...</p>
+  - <a href="https://mastodon.social/@ryancheley/113476708130074784" target="_blank">2024-11-13</a>
+  </blockquote>
+
+  <blockquote>
   <p>My video on Error Culture that I gave at <a class="mention hashtag" href="https://mastodon.social/tags/DjangoCon" rel="tag">#<span>DjangoCon</span></a> US 2024 is up!  ...</p>
   - <a href="https://mastodon.social/@ryancheley/113470674049723173" target="_blank">2024-11-12</a>
   </blockquote>
@@ -73,11 +78,6 @@
   <blockquote>
   <p>🏊🏻 Today, I swam 1500 yards /  1371.6 meters ...</p>
   - <a href="https://mastodon.social/@ryancheley/113467399360229391" target="_blank">2024-11-12</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Hockey ...</p>
-  - <a href="https://mastodon.social/@ryancheley/113461103766909321" target="_blank">2024-11-10</a>
   </blockquote>
 
 
