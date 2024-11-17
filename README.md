@@ -66,6 +66,11 @@
 
 
   <blockquote>
+  <p>I don’t usually post about <a class="mention hashtag" href="https://mastodon.social/tags/CoachelleValleyFirebirds" rel="tag">#<span>CoachelleValleyFirebirds</span></a> away games, but at the end of the first period they have 2 shots on goal while the <a class="mention hashtag" href="https://mastodon.social/tags/AbbotsfordCanucks" rel="tag">#<span>AbbotsfordCanucks</span></a> have 8 shots on goal. But in some weird twist of fate, the Firebirds are up 2-1, which means that the Canucks goalie currently has a 0% save percentage in this game ...</p>
+  - <a href="https://mastodon.social/@ryancheley/113495514917276468" target="_blank">2024-11-17</a>
+  </blockquote>
+
+  <blockquote>
   <p>🏊🏻 Today, I swam 1500 yards /  1371.6 meters ...</p>
   - <a href="https://mastodon.social/@ryancheley/113487838768803544" target="_blank">2024-11-15</a>
   </blockquote>
@@ -73,11 +78,6 @@
   <blockquote>
   <p>🏊🏻 Today, I swam 1750 yards /  1600.2 meters ...</p>
   - <a href="https://mastodon.social/@ryancheley/113476708130074784" target="_blank">2024-11-13</a>
-  </blockquote>
-
-  <blockquote>
-  <p>My video on Error Culture that I gave at <a class="mention hashtag" href="https://mastodon.social/tags/DjangoCon" rel="tag">#<span>DjangoCon</span></a> US 2024 is up!  ...</p>
-  - <a href="https://mastodon.social/@ryancheley/113470674049723173" target="_blank">2024-11-12</a>
   </blockquote>
 
 
