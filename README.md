@@ -66,6 +66,11 @@
 
 
   <blockquote>
+  <p>🏊🏻 Today, I swam 1750 yards /  1600.2 meters ...</p>
+  - <a href="https://mastodon.social/@ryancheley/113505664906954979" target="_blank">2024-11-18</a>
+  </blockquote>
+
+  <blockquote>
   <p>Another weekend, another lemon from my tree! No picture this time, but we used the lemon to help make this recipe for dinner later tonight! ...</p>
   - <a href="https://mastodon.social/@ryancheley/113500657150503655" target="_blank">2024-11-17</a>
   </blockquote>
@@ -73,11 +78,6 @@
   <blockquote>
   <p>DjangoCon US 2024 <a href="https://www.ryancheley.com/2024/11/17/djangocon-us-2024/" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">ryancheley.com/2024/11/17/djan</span><span class="invisible">gocon-us-2024/</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/113497859555202927" target="_blank">2024-11-17</a>
-  </blockquote>
-
-  <blockquote>
-  <p>I don’t usually post about <a class="mention hashtag" href="https://mastodon.social/tags/CoachelleValleyFirebirds" rel="tag">#<span>CoachelleValleyFirebirds</span></a> away games, but at the end of the first period they have 2 shots on goal while the <a class="mention hashtag" href="https://mastodon.social/tags/AbbotsfordCanucks" rel="tag">#<span>AbbotsfordCanucks</span></a> have 8 shots on goal. But in some weird twist of fate, the Firebirds are up 2-1, which means that the Canucks goalie currently has a 0% save percentage in this game ...</p>
-  - <a href="https://mastodon.social/@ryancheley/113495514917276468" target="_blank">2024-11-17</a>
   </blockquote>
 
 
