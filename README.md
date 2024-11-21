@@ -50,11 +50,12 @@
 
 <ul>
 
+  <li><a href="tag:www.ryancheley.com,2024-11-20:/2024/11/20/migrating-django-tailwind-cli-to-django-commons/" target="_blank"><p>On Tuesday October 29 I worked with <a href="https://github.com/oliverandrich/">Oliver Andrich</a>, <a href="https://github.com/cunla/">Daniel Moran</a> and <a href="https://github.com/Stormheg">Storm Heg</a> to migrate Oliver's project <a href="https://github.com/django-commons/django-tailwind-cli">django-tailwind-cli</a> from Oliver's GitHub project to Django Commons.</p>
+<p>This was the 5th library that has been migrated over, but the first one that I 'lead'. I was a bit nervous. The Django …</p></a> - 2024-11-20</li>
+
   <li><a href="tag:www.ryancheley.com,2024-11-17:/2024/11/17/djangocon-us-2024/" target="_blank"><h1>DjangoCon US 2024</h1>
 <p>I was able to attend <a href="https://2024.djangocon.us">DCUS 2024</a> this year in Durham from September 22 - September 27, and just like in 2023, it was an amazing experience.</p>
 <p>I gave another <a href="https://www.youtube.com/watch?v=JLYaAYY4JPc">talk</a> (hooray!) and got to hang out with some truly amazing people, many of whom I call my …</p></a> - 2024-11-17</li>
-
-  <li><a href="tag:www.ryancheley.com,2024-10-23:/2024/10/23/django-commons/" target="_blank"><p>First, what are "the commons"? The concept of "the commons" refers to resources that are shared and managed collectively by a community, rather than being owned privately or by the state. This idea has been applied to natural resources like air, water, and grazing land, but it has also expanded …</p></a> - 2024-10-23</li>
 
 </ul>
 
@@ -66,18 +67,18 @@
 
 
   <blockquote>
-  <p>🏊🏻 Today, I swam 1750 yards /  1600.2 meters ...</p>
-  - <a href="https://mastodon.social/@ryancheley/113505664906954979" target="_blank">2024-11-18</a>
+  <p>NARRATOR: they were not discussing golf or the weather. It’s getting <a class="mention hashtag" href="https://mastodon.social/tags/chippy" rel="tag">#<span>chippy</span></a> out there! ...</p>
+  - <a href="https://mastodon.social/@ryancheley/113518915247642684" target="_blank">2024-11-21</a>
   </blockquote>
 
   <blockquote>
-  <p>Another weekend, another lemon from my tree! No picture this time, but we used the lemon to help make this recipe for dinner later tonight! ...</p>
-  - <a href="https://mastodon.social/@ryancheley/113500657150503655" target="_blank">2024-11-17</a>
+  <p>Hockey ...</p>
+  - <a href="https://mastodon.social/@ryancheley/113518642883660654" target="_blank">2024-11-21</a>
   </blockquote>
 
   <blockquote>
-  <p>DjangoCon US 2024 <a href="https://www.ryancheley.com/2024/11/17/djangocon-us-2024/" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">ryancheley.com/2024/11/17/djan</span><span class="invisible">gocon-us-2024/</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/113497859555202927" target="_blank">2024-11-17</a>
+  <p>🏊🏻 Today, I swam 2000 yards /  1828.8 meters ...</p>
+  - <a href="https://mastodon.social/@ryancheley/113516166154242809" target="_blank">2024-11-20</a>
   </blockquote>
 
 
