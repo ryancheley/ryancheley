@@ -67,6 +67,11 @@
 
 
   <blockquote>
+  <p>I usually wake up 15 - 45 minutes before my alarm (which is already set pretty early). But after staying up waaay too late last night watching hockey, I totally felt this today <a href="https://mastodon.social/@MrLovenstein/113521437374757052" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@MrLovenstein/</span><span class="invisible">113521437374757052</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/113522665410882414" target="_blank">2024-11-21</a>
+  </blockquote>
+
+  <blockquote>
   <p>NARRATOR: they were not discussing golf or the weather. It’s getting <a class="mention hashtag" href="https://mastodon.social/tags/chippy" rel="tag">#<span>chippy</span></a> out there! ...</p>
   - <a href="https://mastodon.social/@ryancheley/113518915247642684" target="_blank">2024-11-21</a>
   </blockquote>
@@ -74,11 +79,6 @@
   <blockquote>
   <p>Hockey ...</p>
   - <a href="https://mastodon.social/@ryancheley/113518642883660654" target="_blank">2024-11-21</a>
-  </blockquote>
-
-  <blockquote>
-  <p>🏊🏻 Today, I swam 2000 yards /  1828.8 meters ...</p>
-  - <a href="https://mastodon.social/@ryancheley/113516166154242809" target="_blank">2024-11-20</a>
   </blockquote>
 
 
