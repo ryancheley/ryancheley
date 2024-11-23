@@ -67,18 +67,18 @@
 
 
   <blockquote>
-  <p>I usually wake up 15 - 45 minutes before my alarm (which is already set pretty early). But after staying up waaay too late last night watching hockey, I totally felt this today <a href="https://mastodon.social/@MrLovenstein/113521437374757052" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@MrLovenstein/</span><span class="invisible">113521437374757052</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/113522665410882414" target="_blank">2024-11-21</a>
-  </blockquote>
-
-  <blockquote>
-  <p>NARRATOR: they were not discussing golf or the weather. It’s getting <a class="mention hashtag" href="https://mastodon.social/tags/chippy" rel="tag">#<span>chippy</span></a> out there! ...</p>
-  - <a href="https://mastodon.social/@ryancheley/113518915247642684" target="_blank">2024-11-21</a>
-  </blockquote>
-
-  <blockquote>
   <p>Hockey ...</p>
-  - <a href="https://mastodon.social/@ryancheley/113518642883660654" target="_blank">2024-11-21</a>
+  - <a href="https://mastodon.social/@ryancheley/113529929858241113" target="_blank">2024-11-23</a>
+  </blockquote>
+
+  <blockquote>
+  <p>I was really looking forward to <span class="h-card"><a class="u-url mention" href="https://mastodon.social/@webology">@<span>webology</span></a></span> office hours today, and the little bit I was able to be there for was great … but my internet connection has decided to take an early Thanksgiving break and it keeps dropping every few minutes. Techs scheduled to be here on Monday between 1 and 5. 🤞🏻this is an ‘easy’ fix</p>
+  - <a href="https://mastodon.social/@ryancheley/113528930783024850" target="_blank">2024-11-22</a>
+  </blockquote>
+
+  <blockquote>
+  <p>🏊🏻 Today, I swam 1750 yards /  1600.2 meters ...</p>
+  - <a href="https://mastodon.social/@ryancheley/113528581873900606" target="_blank">2024-11-22</a>
   </blockquote>
 
 
