@@ -50,12 +50,13 @@
 
 <ul>
 
+  <li><a href="tag:www.ryancheley.com,2024-11-23:/2024/11/23/uv-and-pip/" target="_blank"><p>On Sunday November 3 I posted <a href="https://mastodon.social/@ryancheley/113420509533590631">this</a> to Mastodon:</p>
+<blockquote>
+<p>I've somehow managed to get Python on my macbook to not install packages into the virtual environment I've activated and I'm honestly not sure how to fix this.</p>
+<p>Has anyone else ever run into this problem? If so, any pointers on …</p></blockquote></a> - 2024-11-23</li>
+
   <li><a href="tag:www.ryancheley.com,2024-11-20:/2024/11/20/migrating-django-tailwind-cli-to-django-commons/" target="_blank"><p>On Tuesday October 29 I worked with <a href="https://github.com/oliverandrich/">Oliver Andrich</a>, <a href="https://github.com/cunla/">Daniel Moran</a> and <a href="https://github.com/Stormheg">Storm Heg</a> to migrate Oliver's project <a href="https://github.com/django-commons/django-tailwind-cli">django-tailwind-cli</a> from Oliver's GitHub project to Django Commons.</p>
 <p>This was the 5th library that has been migrated over, but the first one that I 'lead'. I was a bit nervous. The Django …</p></a> - 2024-11-20</li>
-
-  <li><a href="tag:www.ryancheley.com,2024-11-17:/2024/11/17/djangocon-us-2024/" target="_blank"><h1>DjangoCon US 2024</h1>
-<p>I was able to attend <a href="https://2024.djangocon.us">DCUS 2024</a> this year in Durham from September 22 - September 27, and just like in 2023, it was an amazing experience.</p>
-<p>I gave another <a href="https://www.youtube.com/watch?v=JLYaAYY4JPc">talk</a> (hooray!) and got to hang out with some truly amazing people, many of whom I call my …</p></a> - 2024-11-17</li>
 
 </ul>
 
@@ -67,18 +68,18 @@
 
 
   <blockquote>
-  <p>Hockey ...</p>
-  - <a href="https://mastodon.social/@ryancheley/113529929858241113" target="_blank">2024-11-23</a>
+  <p>My first in-person <a class="mention hashtag" href="https://mastodon.social/tags/SeattleKraken" rel="tag">#<span>SeattleKraken</span></a> game didn’t go according to plan with them losing 2-1 to the <a class="mention hashtag" href="https://mastodon.social/tags/LAKings" rel="tag">#<span>LAKings</span></a> but it was still a super fun time. 10/10 would do again!</p>
+  - <a href="https://mastodon.social/@ryancheley/113535139863281013" target="_blank">2024-11-24</a>
   </blockquote>
 
   <blockquote>
-  <p>I was really looking forward to <span class="h-card"><a class="u-url mention" href="https://mastodon.social/@webology">@<span>webology</span></a></span> office hours today, and the little bit I was able to be there for was great … but my internet connection has decided to take an early Thanksgiving break and it keeps dropping every few minutes. Techs scheduled to be here on Monday between 1 and 5. 🤞🏻this is an ‘easy’ fix</p>
-  - <a href="https://mastodon.social/@ryancheley/113528930783024850" target="_blank">2024-11-22</a>
+  <p>Moar hockey! ...</p>
+  - <a href="https://mastodon.social/@ryancheley/113534188950325323" target="_blank">2024-11-23</a>
   </blockquote>
 
   <blockquote>
-  <p>🏊🏻 Today, I swam 1750 yards /  1600.2 meters ...</p>
-  - <a href="https://mastodon.social/@ryancheley/113528581873900606" target="_blank">2024-11-22</a>
+  <p>uv and pip <a href="https://www.ryancheley.com/2024/11/23/uv-and-pip/" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">ryancheley.com/2024/11/23/uv-a</span><span class="invisible">nd-pip/</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/113531794828820713" target="_blank">2024-11-23</a>
   </blockquote>
 
 
