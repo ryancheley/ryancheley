@@ -68,6 +68,11 @@
 
 
   <blockquote>
+  <p>Congratulations to <span class="h-card"><a class="u-url mention" href="https://mastodon.social/@Rachell">@<span>Rachell</span></a></span> and well deserved! <a href="https://fosstodon.org/@django/113539688240411634" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">fosstodon.org/@django/11353968</span><span class="invisible">8240411634</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/113539743151868148" target="_blank">2024-11-24</a>
+  </blockquote>
+
+  <blockquote>
   <p>My first in-person <a class="mention hashtag" href="https://mastodon.social/tags/SeattleKraken" rel="tag">#<span>SeattleKraken</span></a> game didn’t go according to plan with them losing 2-1 to the <a class="mention hashtag" href="https://mastodon.social/tags/LAKings" rel="tag">#<span>LAKings</span></a> but it was still a super fun time. 10/10 would do again!</p>
   - <a href="https://mastodon.social/@ryancheley/113535139863281013" target="_blank">2024-11-24</a>
   </blockquote>
@@ -75,11 +80,6 @@
   <blockquote>
   <p>Moar hockey! ...</p>
   - <a href="https://mastodon.social/@ryancheley/113534188950325323" target="_blank">2024-11-23</a>
-  </blockquote>
-
-  <blockquote>
-  <p>uv and pip <a href="https://www.ryancheley.com/2024/11/23/uv-and-pip/" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">ryancheley.com/2024/11/23/uv-a</span><span class="invisible">nd-pip/</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/113531794828820713" target="_blank">2024-11-23</a>
   </blockquote>
 
 
