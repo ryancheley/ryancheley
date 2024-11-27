@@ -50,13 +50,15 @@
 
 <ul>
 
+  <li><a href="tag:www.ryancheley.com,2024-11-26:/2024/11/26/weezer-live/" target="_blank"><p>I started college in 1996. In 1997 one of the most influential albums of my early adulthood was introduced to me ... <a href="https://en.wikipedia.org/wiki/Pinkerton_(album)">Weezer's Pinkerton</a>.</p>
+<p>I hated it.</p>
+<p>I wanted the <a href="https://en.wikipedia.org/wiki/Weezer_(Blue_Album)">Blue Album</a> again but different somehow, and Pinkerton was NOT it.</p>
+<p>However, a weird thing happened. Once I moved into my …</p></a> - 2024-11-26</li>
+
   <li><a href="tag:www.ryancheley.com,2024-11-23:/2024/11/23/uv-and-pip/" target="_blank"><p>On Sunday November 3 I posted <a href="https://mastodon.social/@ryancheley/113420509533590631">this</a> to Mastodon:</p>
 <blockquote>
 <p>I've somehow managed to get Python on my macbook to not install packages into the virtual environment I've activated and I'm honestly not sure how to fix this.</p>
 <p>Has anyone else ever run into this problem? If so, any pointers on …</p></blockquote></a> - 2024-11-23</li>
-
-  <li><a href="tag:www.ryancheley.com,2024-11-20:/2024/11/20/migrating-django-tailwind-cli-to-django-commons/" target="_blank"><p>On Tuesday October 29 I worked with <a href="https://github.com/oliverandrich/">Oliver Andrich</a>, <a href="https://github.com/cunla/">Daniel Moran</a> and <a href="https://github.com/Stormheg">Storm Heg</a> to migrate Oliver's project <a href="https://github.com/django-commons/django-tailwind-cli">django-tailwind-cli</a> from Oliver's GitHub project to Django Commons.</p>
-<p>This was the 5th library that has been migrated over, but the first one that I 'lead'. I was a bit nervous. The Django …</p></a> - 2024-11-20</li>
 
 </ul>
 
@@ -68,6 +70,11 @@
 
 
   <blockquote>
+  <p>Weezer Live <a href="https://www.ryancheley.com/2024/11/26/weezer-live/" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">ryancheley.com/2024/11/26/weez</span><span class="invisible">er-live/</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/113548781341407943" target="_blank">2024-11-26</a>
+  </blockquote>
+
+  <blockquote>
   <p>🏊🏻 Today, I swam 2000 yards /  1828.8 meters ...</p>
   - <a href="https://mastodon.social/@ryancheley/113545464153630441" target="_blank">2024-11-25</a>
   </blockquote>
@@ -75,11 +82,6 @@
   <blockquote>
   <p>Congratulations to <span class="h-card"><a class="u-url mention" href="https://mastodon.social/@Rachell">@<span>Rachell</span></a></span> and well deserved! <a href="https://fosstodon.org/@django/113539688240411634" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">fosstodon.org/@django/11353968</span><span class="invisible">8240411634</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/113539743151868148" target="_blank">2024-11-24</a>
-  </blockquote>
-
-  <blockquote>
-  <p>My first in-person <a class="mention hashtag" href="https://mastodon.social/tags/SeattleKraken" rel="tag">#<span>SeattleKraken</span></a> game didn’t go according to plan with them losing 2-1 to the <a class="mention hashtag" href="https://mastodon.social/tags/LAKings" rel="tag">#<span>LAKings</span></a> but it was still a super fun time. 10/10 would do again!</p>
-  - <a href="https://mastodon.social/@ryancheley/113535139863281013" target="_blank">2024-11-24</a>
   </blockquote>
 
 
