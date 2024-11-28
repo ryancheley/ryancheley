@@ -70,18 +70,18 @@
 
 
   <blockquote>
-  <p>Weezer Live <a href="https://www.ryancheley.com/2024/11/26/weezer-live/" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">ryancheley.com/2024/11/26/weez</span><span class="invisible">er-live/</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/113548781341407943" target="_blank">2024-11-26</a>
+  <p>Watching “It’s Thanksgiving Charlie Brown” outside with a fire making s’mores with my family as one does</p>
+  - <a href="https://mastodon.social/@ryancheley/113558395550365288" target="_blank">2024-11-28</a>
   </blockquote>
 
   <blockquote>
-  <p>🏊🏻 Today, I swam 2000 yards /  1828.8 meters ...</p>
-  - <a href="https://mastodon.social/@ryancheley/113545464153630441" target="_blank">2024-11-25</a>
+  <p>A little pre-Thanksgiving lemon tree update. I have sooo many lemons now. Such a joy to see when I look out my window each day 😄</p>
+  - <a href="https://mastodon.social/@ryancheley/113557183813506655" target="_blank">2024-11-27</a>
   </blockquote>
 
   <blockquote>
-  <p>Congratulations to <span class="h-card"><a class="u-url mention" href="https://mastodon.social/@Rachell">@<span>Rachell</span></a></span> and well deserved! <a href="https://fosstodon.org/@django/113539688240411634" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">fosstodon.org/@django/11353968</span><span class="invisible">8240411634</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/113539743151868148" target="_blank">2024-11-24</a>
+  <p>🏊🏻 Today, I swam 2250 yards /  2057.4 meters ( personal best!) ...</p>
+  - <a href="https://mastodon.social/@ryancheley/113555727145960023" target="_blank">2024-11-27</a>
   </blockquote>
 
 
