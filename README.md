@@ -70,6 +70,11 @@
 
 
   <blockquote>
+  <p>🏊🏻 Today, I swam 2000 yards /  1828.8 meters ...</p>
+  - <a href="https://mastodon.social/@ryancheley/113561367302388980" target="_blank">2024-11-28</a>
+  </blockquote>
+
+  <blockquote>
   <p>Watching “It’s Thanksgiving Charlie Brown” outside with a fire making s’mores with my family as one does</p>
   - <a href="https://mastodon.social/@ryancheley/113558395550365288" target="_blank">2024-11-28</a>
   </blockquote>
@@ -77,11 +82,6 @@
   <blockquote>
   <p>A little pre-Thanksgiving lemon tree update. I have sooo many lemons now. Such a joy to see when I look out my window each day 😄</p>
   - <a href="https://mastodon.social/@ryancheley/113557183813506655" target="_blank">2024-11-27</a>
-  </blockquote>
-
-  <blockquote>
-  <p>🏊🏻 Today, I swam 2250 yards /  2057.4 meters ( personal best!) ...</p>
-  - <a href="https://mastodon.social/@ryancheley/113555727145960023" target="_blank">2024-11-27</a>
   </blockquote>
 
 
