@@ -70,18 +70,18 @@
 
 
   <blockquote>
-  <p>🏊🏻 Today, I swam 2000 yards /  1828.8 meters ...</p>
-  - <a href="https://mastodon.social/@ryancheley/113561367302388980" target="_blank">2024-11-28</a>
+  <p>Sadness as the good guys lose in the shootout 😢 <a class="mention hashtag" href="https://mastodon.social/tags/AHL" rel="tag">#<span>AHL</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/CoachellaValleyFirebirds" rel="tag">#<span>CoachellaValleyFirebirds</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/TexasStars" rel="tag">#<span>TexasStars</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/CoachellaValleyFirebirds" rel="tag">#<span>CoachellaValleyFirebirds</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/113575866290122380" target="_blank">2024-12-01</a>
   </blockquote>
 
   <blockquote>
-  <p>Watching “It’s Thanksgiving Charlie Brown” outside with a fire making s’mores with my family as one does</p>
-  - <a href="https://mastodon.social/@ryancheley/113558395550365288" target="_blank">2024-11-28</a>
+  <p>Time for some free hockey! Tied 3-3 at the end of regulation! <a class="mention hashtag" href="https://mastodon.social/tags/AHL" rel="tag">#<span>AHL</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/CoachellaValleyFirebirds" rel="tag">#<span>CoachellaValleyFirebirds</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/TexasStars" rel="tag">#<span>TexasStars</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/CoachellaValleyFirebirds" rel="tag">#<span>CoachellaValleyFirebirds</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/113575714082018979" target="_blank">2024-12-01</a>
   </blockquote>
 
   <blockquote>
-  <p>A little pre-Thanksgiving lemon tree update. I have sooo many lemons now. Such a joy to see when I look out my window each day 😄</p>
-  - <a href="https://mastodon.social/@ryancheley/113557183813506655" target="_blank">2024-11-27</a>
+  <p>Hockey ...</p>
+  - <a href="https://mastodon.social/@ryancheley/113575182686886922" target="_blank">2024-12-01</a>
   </blockquote>
 
 
