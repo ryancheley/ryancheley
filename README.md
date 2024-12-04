@@ -70,18 +70,18 @@
 
 
   <blockquote>
+  <p>Hockey ...</p>
+  - <a href="https://mastodon.social/@ryancheley/113592220650928458" target="_blank">2024-12-04</a>
+  </blockquote>
+
+  <blockquote>
+  <p>🏊🏻 Today, I swam 2250 yards /  2057.4 meters ...</p>
+  - <a href="https://mastodon.social/@ryancheley/113590724400607428" target="_blank">2024-12-03</a>
+  </blockquote>
+
+  <blockquote>
   <p>Today's adventure in Lemon &quot;farming&quot; brings us a couple of things: ...</p>
   - <a href="https://mastodon.social/@ryancheley/113580121231076190" target="_blank">2024-12-01</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Sadness as the good guys lose in the shootout 😢 <a class="mention hashtag" href="https://mastodon.social/tags/AHL" rel="tag">#<span>AHL</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/CoachellaValleyFirebirds" rel="tag">#<span>CoachellaValleyFirebirds</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/TexasStars" rel="tag">#<span>TexasStars</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/CoachellaValleyFirebirds" rel="tag">#<span>CoachellaValleyFirebirds</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/113575866290122380" target="_blank">2024-12-01</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Time for some free hockey! Tied 3-3 at the end of regulation! <a class="mention hashtag" href="https://mastodon.social/tags/AHL" rel="tag">#<span>AHL</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/CoachellaValleyFirebirds" rel="tag">#<span>CoachellaValleyFirebirds</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/TexasStars" rel="tag">#<span>TexasStars</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/CoachellaValleyFirebirds" rel="tag">#<span>CoachellaValleyFirebirds</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/113575714082018979" target="_blank">2024-12-01</a>
   </blockquote>
 
 
