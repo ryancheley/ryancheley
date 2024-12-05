@@ -70,6 +70,11 @@
 
 
   <blockquote>
+  <p>🏊🏻 Today, I swam 2500 yards /  2286 meters ...</p>
+  - <a href="https://mastodon.social/@ryancheley/113597715148278757" target="_blank">2024-12-05</a>
+  </blockquote>
+
+  <blockquote>
   <p>Hockey ...</p>
   - <a href="https://mastodon.social/@ryancheley/113592220650928458" target="_blank">2024-12-04</a>
   </blockquote>
@@ -77,11 +82,6 @@
   <blockquote>
   <p>🏊🏻 Today, I swam 2250 yards /  2057.4 meters ...</p>
   - <a href="https://mastodon.social/@ryancheley/113590724400607428" target="_blank">2024-12-03</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Today's adventure in Lemon &quot;farming&quot; brings us a couple of things: ...</p>
-  - <a href="https://mastodon.social/@ryancheley/113580121231076190" target="_blank">2024-12-01</a>
   </blockquote>
 
 
