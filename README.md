@@ -70,18 +70,18 @@
 
 
   <blockquote>
-  <p>🏊🏻 Today, I swam 2500 yards /  2286 meters ...</p>
-  - <a href="https://mastodon.social/@ryancheley/113597715148278757" target="_blank">2024-12-05</a>
+  <p>A great end to the game. Firebirds scoring 3 goals on 13 shots and won 6-4. Got to see a 🧢 trick from Ben Meyers which was pretty awesome. Gonna a need a new hat 🤣 <a class="mention hashtag" href="https://mastodon.social/tags/AHL" rel="tag">#<span>AHL</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/CoachellaValleyFirebirds" rel="tag">#<span>CoachellaValleyFirebirds</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/TexasStars" rel="tag">#<span>TexasStars</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/113604348463769356" target="_blank">2024-12-06</a>
   </blockquote>
 
   <blockquote>
-  <p>Hockey ...</p>
-  - <a href="https://mastodon.social/@ryancheley/113592220650928458" target="_blank">2024-12-04</a>
+  <p>A better second period. Firebirds with 16 shots and 2 goals. Still down by 1 goal though heading into the third. <br /> <a class="mention hashtag" href="https://mastodon.social/tags/AHL" rel="tag">#<span>AHL</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/CoachellaValleyFirebirds" rel="tag">#<span>CoachellaValleyFirebirds</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/TexasStars" rel="tag">#<span>TexasStars</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/113604093864457095" target="_blank">2024-12-06</a>
   </blockquote>
 
   <blockquote>
-  <p>🏊🏻 Today, I swam 2250 yards /  2057.4 meters ...</p>
-  - <a href="https://mastodon.social/@ryancheley/113590724400607428" target="_blank">2024-12-03</a>
+  <p>The good news: the Firebirds are shooting 50% through the first period ...</p>
+  - <a href="https://mastodon.social/@ryancheley/113603888809687854" target="_blank">2024-12-06</a>
   </blockquote>
 
 
