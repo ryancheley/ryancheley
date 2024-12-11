@@ -36,15 +36,21 @@ ContentPieces = list[ContentPiece]
 # TODO: Implement function to read for TILs
 
 
-def get_tils(num_items: int = 5) -> ContentPieces:
+def get_text_inside(text: str, opening_char: str, ending_char: str) -> str:
+    initial_position = text.find(opening_char) + 1
+    ending_position = text.find(ending_char)
+    return text[initial_position:ending_position]
+
+
+def get_tils(num_items: int = 5):
     readme_list = httpx.get(TIL_INDEX).text.split('\n')
     start_position = [(ind, x) for ind, x in enumerate(readme_list) if x =='<!-- index starts -->'][0][0]
     tils = [x.replace('* ', '') for x in readme_list[start_position+1: ] if x != '' and not x.startswith('##')][:-1]
     data = []
     for til in tils:
-        title = til.split('-', 1)[0].split('](')[0].replace('[', '')
-        url = til.split('-', 1)[0].split('](')[1].replace(')', '')
-        post_date = til.split('-', 1)[1]
+        title = get_text_inside(til, "[", "]")
+        url = get_text_inside(til, "(", ")")
+        post_date = til[-10:]
         data.append(ContentPiece(url=url, title=title, date=post_date))
 
     data = sorted(data, key=lambda a: a.date, reverse=True)
@@ -178,9 +184,9 @@ def generate_readme(content: dict[str, list[ContentPiece]]) -> None:
 
 if __name__ == "__main__":
     content = dict(
-        articles=get_latest_articles(), 
-        toots=get_latest_toots(), 
+        articles=get_latest_articles(),
+        toots=get_latest_toots(),
         lede=get_lede(),
-        tils = get_tils(),
+        tils=get_tils(),
     )
     generate_readme(content)
