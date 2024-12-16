@@ -70,18 +70,18 @@
 
 
   <blockquote>
-  <p>Also on the drive to the arena the moon looked pretty amazing. This pictures doesn’t really do justice to what I could see though</p>
-  - <a href="https://mastodon.social/@ryancheley/113654349103482812" target="_blank">2024-12-15</a>
+  <p>Also, the C on the front of Clark Bishop’s sweater is so big you could advertise on it. Yes, this is a reference to <a class="mention hashtag" href="https://mastodon.social/tags/Shorsey" rel="tag">#<span>Shorsey</span></a> IYKYK 🤣 <a class="mention hashtag" href="https://mastodon.social/tags/AHL" rel="tag">#<span>AHL</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/CoachellaValleyFirebirds" rel="tag">#<span>CoachellaValleyFirebirds</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/CalgaryWranglers" rel="tag">#<span>CalgaryWranglers</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/113659549531305522" target="_blank">2024-12-15</a>
   </blockquote>
 
   <blockquote>
   <p>Hockey ...</p>
-  - <a href="https://mastodon.social/@ryancheley/113654298015002939" target="_blank">2024-12-15</a>
+  - <a href="https://mastodon.social/@ryancheley/113659526375069696" target="_blank">2024-12-15</a>
   </blockquote>
 
   <blockquote>
-  <p>🏊🏻 Today, I swam 2000 yards /  1828.8 meters ...</p>
-  - <a href="https://mastodon.social/@ryancheley/113647422122835972" target="_blank">2024-12-13</a>
+  <p>Also on the drive to the arena the moon looked pretty amazing. This pictures doesn’t really do justice to what I could see though</p>
+  - <a href="https://mastodon.social/@ryancheley/113654349103482812" target="_blank">2024-12-15</a>
   </blockquote>
 
 
