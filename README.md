@@ -70,6 +70,11 @@
 
 
   <blockquote>
+  <p>Because I kept seeing lots of my friends join the codeberg revolution, I thought I’d give it a try as well! ...</p>
+  - <a href="https://mastodon.social/@ryancheley/113709722096741761" target="_blank">2024-12-24</a>
+  </blockquote>
+
+  <blockquote>
   <p>Hockey ...</p>
   - <a href="https://mastodon.social/@ryancheley/113688685865613784" target="_blank">2024-12-21</a>
   </blockquote>
@@ -77,11 +82,6 @@
   <blockquote>
   <p>🏊🏻 Today, I swam 2000 yards /  1828.8 meters ...</p>
   - <a href="https://mastodon.social/@ryancheley/113687530047323567" target="_blank">2024-12-20</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Saw this and it reminded me of something <span class="h-card"><a class="u-url mention" href="https://mastodon.social/@kjaymiller">@<span>kjaymiller</span></a></span> said:  ...</p>
-  - <a href="https://mastodon.social/@ryancheley/113681261610664650" target="_blank">2024-12-19</a>
   </blockquote>
 
 
