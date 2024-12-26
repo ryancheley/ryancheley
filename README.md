@@ -70,6 +70,11 @@
 
 
   <blockquote>
+  <p>Lighting the candles on the menorah whilst watching “A Christmas Story” as one does this time of year. Happy Hanukkah and Merry Christmas to all!</p>
+  - <a href="https://mastodon.social/@ryancheley/113716564064672786" target="_blank">2024-12-26</a>
+  </blockquote>
+
+  <blockquote>
   <p>Because I kept seeing lots of my friends join the codeberg revolution, I thought I’d give it a try as well! ...</p>
   - <a href="https://mastodon.social/@ryancheley/113709722096741761" target="_blank">2024-12-24</a>
   </blockquote>
@@ -77,11 +82,6 @@
   <blockquote>
   <p>Hockey ...</p>
   - <a href="https://mastodon.social/@ryancheley/113688685865613784" target="_blank">2024-12-21</a>
-  </blockquote>
-
-  <blockquote>
-  <p>🏊🏻 Today, I swam 2000 yards /  1828.8 meters ...</p>
-  - <a href="https://mastodon.social/@ryancheley/113687530047323567" target="_blank">2024-12-20</a>
   </blockquote>
 
 
