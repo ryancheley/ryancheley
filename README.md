@@ -70,18 +70,18 @@
 
 
   <blockquote>
+  <p>And it’s teddy bear toss night!  <a class="mention hashtag" href="https://mastodon.social/tags/AHL" rel="tag">#<span>AHL</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/CoachellaValleyFirebirds" rel="tag">#<span>CoachellaValleyFirebirds</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/OntarioReign" rel="tag">#<span>OntarioReign</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/113734100136890391" target="_blank">2024-12-29</a>
+  </blockquote>
+
+  <blockquote>
+  <p>Hockey ...</p>
+  - <a href="https://mastodon.social/@ryancheley/113733668205651587" target="_blank">2024-12-29</a>
+  </blockquote>
+
+  <blockquote>
   <p>Celebrating all the major holidays. Christmas with a poinsettia, the menorah for Hanukkah, and hockey!</p>
   - <a href="https://mastodon.social/@ryancheley/113728292310716890" target="_blank">2024-12-28</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Lighting the candles on the menorah whilst watching “A Christmas Story” as one does this time of year. Happy Hanukkah and Merry Christmas to all!</p>
-  - <a href="https://mastodon.social/@ryancheley/113716564064672786" target="_blank">2024-12-26</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Because I kept seeing lots of my friends join the codeberg revolution, I thought I’d give it a try as well! ...</p>
-  - <a href="https://mastodon.social/@ryancheley/113709722096741761" target="_blank">2024-12-24</a>
   </blockquote>
 
 
