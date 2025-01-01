@@ -70,18 +70,18 @@
 
 
   <blockquote>
+  <p>Hockey ...</p>
+  - <a href="https://mastodon.social/@ryancheley/113750324588457009" target="_blank">2025-01-01</a>
+  </blockquote>
+
+  <blockquote>
+  <p>🏊🏻 This month I swam 24000 yards /  21945.6 meters ...</p>
+  - <a href="https://mastodon.social/@ryancheley/113749024529636200" target="_blank">2024-12-31</a>
+  </blockquote>
+
+  <blockquote>
   <p>And it’s teddy bear toss night!  <a class="mention hashtag" href="https://mastodon.social/tags/AHL" rel="tag">#<span>AHL</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/CoachellaValleyFirebirds" rel="tag">#<span>CoachellaValleyFirebirds</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/OntarioReign" rel="tag">#<span>OntarioReign</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/113734100136890391" target="_blank">2024-12-29</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Hockey ...</p>
-  - <a href="https://mastodon.social/@ryancheley/113733668205651587" target="_blank">2024-12-29</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Celebrating all the major holidays. Christmas with a poinsettia, the menorah for Hanukkah, and hockey!</p>
-  - <a href="https://mastodon.social/@ryancheley/113728292310716890" target="_blank">2024-12-28</a>
   </blockquote>
 
 
