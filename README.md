@@ -70,6 +70,11 @@
 
 
   <blockquote>
+  <p>Hockey ...</p>
+  - <a href="https://mastodon.social/@ryancheley/113796084425394735" target="_blank">2025-01-09</a>
+  </blockquote>
+
+  <blockquote>
   <p>Just learned about a new to me <a class="mention hashtag" href="https://mastodon.social/tags/linux" rel="tag">#<span>linux</span></a> command called `column` and wrote about it in my TIL repo ...</p>
   - <a href="https://mastodon.social/@ryancheley/113779661646770462" target="_blank">2025-01-06</a>
   </blockquote>
@@ -77,11 +82,6 @@
   <blockquote>
   <p>Hockey ...</p>
   - <a href="https://mastodon.social/@ryancheley/113778625365247088" target="_blank">2025-01-06</a>
-  </blockquote>
-
-  <blockquote>
-  <p>More hockey! My fourth game in two days with one more tomorrow!</p>
-  - <a href="https://mastodon.social/@ryancheley/113773653808314233" target="_blank">2025-01-05</a>
   </blockquote>
 
 
