@@ -70,18 +70,18 @@
 
 
   <blockquote>
+  <p>Proof that I’m wearing my Pride Night jersey. It’s so cool .. and warm  <a class="mention hashtag" href="https://mastodon.social/tags/AHL" rel="tag">#<span>AHL</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/CoachellaValleyFirebirds" rel="tag">#<span>CoachellaValleyFirebirds</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/ChicagoWolves" rel="tag">#<span>ChicagoWolves</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/PrideNight" rel="tag">#<span>PrideNight</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/113818055680169650" target="_blank">2025-01-12</a>
+  </blockquote>
+
+  <blockquote>
+  <p>Hockey ...</p>
+  - <a href="https://mastodon.social/@ryancheley/113817826072206230" target="_blank">2025-01-12</a>
+  </blockquote>
+
+  <blockquote>
   <p>Hockey ...</p>
   - <a href="https://mastodon.social/@ryancheley/113813110528061001" target="_blank">2025-01-12</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Oh look! It’s me 😁 ...</p>
-  - <a href="https://mastodon.social/@ryancheley/113805911752175769" target="_blank">2025-01-10</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Hockey ...</p>
-  - <a href="https://mastodon.social/@ryancheley/113796084425394735" target="_blank">2025-01-09</a>
   </blockquote>
 
 
