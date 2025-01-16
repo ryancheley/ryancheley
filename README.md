@@ -31,15 +31,15 @@
 
 <ul>
 
-  <li><a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiu4OSS1PmEAxWck4kEHedYCXoQwqsBegQICBAG&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DU2uwdVSfaDo&usg=AOvVaw0xGYxzDUlv6v82tY7FAAuW&opi=89978449 the other day I learned that" target="_blank">While watching a video on YouTube</a> - yer-goalie-eh.md) - 2024-03-16</li>
+  <li><a href="https://github.com/ryancheley/til/blob/main/computing/column-command.md" target="_blank">column command</a> - 2025-01-05</li>
 
-  <li><a href="https://github.com/ryancheley/til/blob/main/Python/require" target="_blank">Require a Virtual Environment to install packages</a> - virtual-enviroment.md) - 2024-03-03</li>
+  <li><a href="https://github.com/ryancheley/til/blob/main/Synology/Synology-OS-ISO-Location-for-VMs.md" target="_blank">Synology OS iso Location for VMs</a> - 2025-01-02</li>
 
-  <li><a href="https://github.com/ryancheley/til/blob/main/uv/uv" target="_blank">uv venv and missing pip</a> - venv.md) - 2024-11-03</li>
+  <li><a href="https://github.com/ryancheley/til/blob/main/iOS/Fantastical-create-event.md" target="_blank">Fantastical Create Event</a> - 2025-01-01</li>
 
-  <li><a href="https://github.com/ryancheley/til/blob/main/Django/include" target="_blank">Include and the with argument</a> - template-with.md) - 2024-05-04</li>
+  <li><a href="https://github.com/ryancheley/til/blob/main/uv/uv-venv.md" target="_blank">uv venv and missing pip</a> - 2024-11-03</li>
 
-  <li><a href="https://github.com/ryancheley/til/blob/main/css/css" target="_blank">CSS Specificity</a> - specificity.md) - 2023-12-23</li>
+  <li><a href="https://github.com/ryancheley/til/blob/main/html/text-fragments.md" target="_blank">Text Fragments</a> - 2024-11-02</li>
 
 </ul>
 
@@ -70,6 +70,11 @@
 
 
   <blockquote>
+  <p>This hit me pretty hard this morning as I read it. Working in Healthcare IT for 16 years … I still care, but it’s getting harder and harder every day<br /><a href="https://mastodon.social/@hynek/113837266280589493" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@hynek/1138372</span><span class="invisible">66280589493</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/113837854233384645" target="_blank">2025-01-16</a>
+  </blockquote>
+
+  <blockquote>
   <p>Proof that I’m wearing my Pride Night jersey. It’s so cool .. and warm  <a class="mention hashtag" href="https://mastodon.social/tags/AHL" rel="tag">#<span>AHL</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/CoachellaValleyFirebirds" rel="tag">#<span>CoachellaValleyFirebirds</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/ChicagoWolves" rel="tag">#<span>ChicagoWolves</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/PrideNight" rel="tag">#<span>PrideNight</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/113818055680169650" target="_blank">2025-01-12</a>
   </blockquote>
@@ -77,11 +82,6 @@
   <blockquote>
   <p>Hockey ...</p>
   - <a href="https://mastodon.social/@ryancheley/113817826072206230" target="_blank">2025-01-12</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Hockey ...</p>
-  - <a href="https://mastodon.social/@ryancheley/113813110528061001" target="_blank">2025-01-12</a>
   </blockquote>
 
 
