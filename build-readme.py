@@ -86,6 +86,7 @@ for repo in r:
 
 oss_maintainer = tree.add("🧰 OSS Maintainer", guide_style="bright_black")
 oss_maintainer.add("[bold link=https://djangopackages.org]Django Packages[/]")
+oss_maintainer.add("[bold link=https://github.com/django-commons/]Django Commons[/]")
 
 online_tree = tree.add("⭐ Online Projects", guide_style="bright_black")
 for repo in r:
