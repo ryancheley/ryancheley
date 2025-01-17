@@ -71,18 +71,18 @@
 
 
   <blockquote>
-  <p>This hit me pretty hard this morning as I read it. Working in Healthcare IT for 16 years … I still care, but it’s getting harder and harder every day<br /><a href="https://mastodon.social/@hynek/113837266280589493" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@hynek/1138372</span><span class="invisible">66280589493</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/113837854233384645" target="_blank">2025-01-16</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Proof that I’m wearing my Pride Night jersey. It’s so cool .. and warm  <a class="mention hashtag" href="https://mastodon.social/tags/AHL" rel="tag">#<span>AHL</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/CoachellaValleyFirebirds" rel="tag">#<span>CoachellaValleyFirebirds</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/ChicagoWolves" rel="tag">#<span>ChicagoWolves</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/PrideNight" rel="tag">#<span>PrideNight</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/113818055680169650" target="_blank">2025-01-12</a>
+  <p>A “little” past 10pm and finally in bed. The game was totally worth how tired I’m going to be tomorrow🥱</p>
+  - <a href="https://mastodon.social/@ryancheley/113842322610501666" target="_blank">2025-01-17</a>
   </blockquote>
 
   <blockquote>
   <p>Hockey ...</p>
-  - <a href="https://mastodon.social/@ryancheley/113817826072206230" target="_blank">2025-01-12</a>
+  - <a href="https://mastodon.social/@ryancheley/113841661951346442" target="_blank">2025-01-17</a>
+  </blockquote>
+
+  <blockquote>
+  <p>Snark warning ahead ...</p>
+  - <a href="https://mastodon.social/@ryancheley/113839998067167944" target="_blank">2025-01-16</a>
   </blockquote>
 
 
