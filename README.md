@@ -51,15 +51,14 @@
 
 <ul>
 
+  <li><a href="tag:www.ryancheley.com,2025-01-17:/2025/01/17/looking-back-at-the-half-marathon-streak/" target="_blank"><h1>Looking Back at the Half Marathon Streak</h1>
+<h2>How It Started</h2>
+<p>In February 2012, a half marathon was being held in Palm Springs, and one of my walking friends asked if I wanted to do it... about 5 days before it was set to happen. I said I wasn't interested, and …</p></a> - 2025-01-17</li>
+
   <li><a href="tag:www.ryancheley.com,2025-01-02:/2025/01/02/year-in-review-2024/" target="_blank"><p>I did my first <a href="https://www.ryancheley.com/2023/12/31/year-in-review-2023/">Year in Review</a> last year and have decided to carry on the tradition to make sure I know what I did!</p>
 <p>I've written about themes before, so I won't go over it again here. Below is a high level of what my 2024 themes were</p>
 <ul>
 <li><a href="https://www.ryancheley.com/2024/03/19/winter-of-learning/">Winter …</a></li></ul></a> - 2025-01-02</li>
-
-  <li><a href="tag:www.ryancheley.com,2024-11-26:/2024/11/26/weezer-live/" target="_blank"><p>I started college in 1996. In 1997 one of the most influential albums of my early adulthood was introduced to me ... <a href="https://en.wikipedia.org/wiki/Pinkerton_(album)">Weezer's Pinkerton</a>.</p>
-<p>I hated it.</p>
-<p>I wanted the <a href="https://en.wikipedia.org/wiki/Weezer_(Blue_Album)">Blue Album</a> again but different somehow, and Pinkerton was NOT it.</p>
-<p>However, a weird thing happened. Once I moved into my …</p></a> - 2024-11-26</li>
 
 </ul>
 
@@ -71,18 +70,18 @@
 
 
   <blockquote>
+  <p>TFW you finally have a chance to catch your breath from “A Week” TM and realize you missed Office Hours AGAIN! I’m really hoping I’m able to make it again soon! <a href="https://mastodon.social/@webology/113844594052034898" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@webology/1138</span><span class="invisible">44594052034898</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/113846618117153158" target="_blank">2025-01-18</a>
+  </blockquote>
+
+  <blockquote>
+  <p>Looking Back at the Half Marathon Streak <a href="https://www.ryancheley.com/2025/01/17/looking-back-at-the-half-marathon-streak/" rel="nofollow noopener" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">ryancheley.com/2025/01/17/look</span><span class="invisible">ing-back-at-the-half-marathon-streak/</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/113843236721934128" target="_blank">2025-01-17</a>
+  </blockquote>
+
+  <blockquote>
   <p>A “little” past 10pm and finally in bed. The game was totally worth how tired I’m going to be tomorrow🥱</p>
   - <a href="https://mastodon.social/@ryancheley/113842322610501666" target="_blank">2025-01-17</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Hockey ...</p>
-  - <a href="https://mastodon.social/@ryancheley/113841661951346442" target="_blank">2025-01-17</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Snark warning ahead ...</p>
-  - <a href="https://mastodon.social/@ryancheley/113839998067167944" target="_blank">2025-01-16</a>
   </blockquote>
 
 
