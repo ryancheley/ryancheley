@@ -32,15 +32,15 @@
 
 <ul>
 
-  <li><a href="https://github.com/ryancheley/til/blob/main/computing/column-command.md" target="_blank">column command</a> - 2025-01-05</li>
+  <li><a href="https://github.com/ryancheley/til/blob/main/Django/sqlmigrate.md" target="_blank">sqlitemigrate Django command</a> - 2025-01-19</li>
+
+  <li><a href="https://github.com/ryancheley/til/blob/main/computing/column-command.md" target="_blank">Column Command</a> - 2025-01-05</li>
 
   <li><a href="https://github.com/ryancheley/til/blob/main/Synology/Synology-OS-ISO-Location-for-VMs.md" target="_blank">Synology OS iso Location for VMs</a> - 2025-01-02</li>
 
   <li><a href="https://github.com/ryancheley/til/blob/main/iOS/Fantastical-create-event.md" target="_blank">Fantastical Create Event</a> - 2025-01-01</li>
 
   <li><a href="https://github.com/ryancheley/til/blob/main/uv/uv-venv.md" target="_blank">uv venv and missing pip</a> - 2024-11-03</li>
-
-  <li><a href="https://github.com/ryancheley/til/blob/main/html/text-fragments.md" target="_blank">Text Fragments</a> - 2024-11-02</li>
 
 </ul>
 
