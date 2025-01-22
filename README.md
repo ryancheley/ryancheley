@@ -32,6 +32,8 @@
 
 <ul>
 
+  <li><a href="https://github.com/ryancheley/til/blob/main/git/e-flag.md" target="_blank">e flag</a> - 2025-01-21</li>
+
   <li><a href="https://github.com/ryancheley/til/blob/main/Django/doc-prs.md" target="_blank">Documentation Update PRs</a> - 2025-01-20</li>
 
   <li><a href="https://github.com/ryancheley/til/blob/main/Django/sqlmigrate.md" target="_blank">sqlitemigrate Django command</a> - 2025-01-19</li>
@@ -39,8 +41,6 @@
   <li><a href="https://github.com/ryancheley/til/blob/main/computing/column-command.md" target="_blank">Column Command</a> - 2025-01-05</li>
 
   <li><a href="https://github.com/ryancheley/til/blob/main/Synology/Synology-OS-ISO-Location-for-VMs.md" target="_blank">Synology OS iso Location for VMs</a> - 2025-01-02</li>
-
-  <li><a href="https://github.com/ryancheley/til/blob/main/iOS/Fantastical-create-event.md" target="_blank">Fantastical Create Event</a> - 2025-01-01</li>
 
 </ul>
 
@@ -51,14 +51,12 @@
 
 <ul>
 
+  <li><a href="tag:www.ryancheley.com,2025-01-21:/2025/01/21/remember-the-colosseum/" target="_blank"><h2>The Roman Colosseum</h2>
+<p>After the fall of the Western Roman Empire in 497 CE the Colosseum fell into disrepair. Rightfully so! Who can worry about keeping up a giant megalith made by people centuries ago while you're just trying to figure out where your next meal may come from, or …</p></a> - 2025-01-21</li>
+
   <li><a href="tag:www.ryancheley.com,2025-01-17:/2025/01/17/looking-back-at-the-half-marathon-streak/" target="_blank"><h1>Looking Back at the Half Marathon Streak</h1>
 <h2>How It Started</h2>
 <p>In February 2012, a half marathon was being held in Palm Springs, and one of my walking friends asked if I wanted to do it... about 5 days before it was set to happen. I said I wasn't interested, and …</p></a> - 2025-01-17</li>
-
-  <li><a href="tag:www.ryancheley.com,2025-01-02:/2025/01/02/year-in-review-2024/" target="_blank"><p>I did my first <a href="https://www.ryancheley.com/2023/12/31/year-in-review-2023/">Year in Review</a> last year and have decided to carry on the tradition to make sure I know what I did!</p>
-<p>I've written about themes before, so I won't go over it again here. Below is a high level of what my 2024 themes were</p>
-<ul>
-<li><a href="https://www.ryancheley.com/2024/03/19/winter-of-learning/">Winter …</a></li></ul></a> - 2025-01-02</li>
 
 </ul>
 
@@ -70,6 +68,11 @@
 
 
   <blockquote>
+  <p>Remember the Colosseum! <a href="https://www.ryancheley.com/2025/01/21/remember-the-colosseum/" rel="nofollow noopener" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">ryancheley.com/2025/01/21/reme</span><span class="invisible">mber-the-colosseum/</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/113865887327364571" target="_blank">2025-01-21</a>
+  </blockquote>
+
+  <blockquote>
   <p>TFW you finally have a chance to catch your breath from “A Week” TM and realize you missed Office Hours AGAIN! I’m really hoping I’m able to make it again soon! <a href="https://mastodon.social/@webology/113844594052034898" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@webology/1138</span><span class="invisible">44594052034898</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/113846618117153158" target="_blank">2025-01-18</a>
   </blockquote>
@@ -77,11 +80,6 @@
   <blockquote>
   <p>Looking Back at the Half Marathon Streak <a href="https://www.ryancheley.com/2025/01/17/looking-back-at-the-half-marathon-streak/" rel="nofollow noopener" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">ryancheley.com/2025/01/17/look</span><span class="invisible">ing-back-at-the-half-marathon-streak/</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/113843236721934128" target="_blank">2025-01-17</a>
-  </blockquote>
-
-  <blockquote>
-  <p>A “little” past 10pm and finally in bed. The game was totally worth how tired I’m going to be tomorrow🥱</p>
-  - <a href="https://mastodon.social/@ryancheley/113842322610501666" target="_blank">2025-01-17</a>
   </blockquote>
 
 
