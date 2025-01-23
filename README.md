@@ -32,6 +32,8 @@
 
 <ul>
 
+  <li><a href="https://github.com/ryancheley/til/blob/main/just/global-justfile.md" target="_blank">Global justfile</a> - 2025-01-22</li>
+
   <li><a href="https://github.com/ryancheley/til/blob/main/git/e-flag.md" target="_blank">e flag</a> - 2025-01-21</li>
 
   <li><a href="https://github.com/ryancheley/til/blob/main/Django/doc-prs.md" target="_blank">Documentation Update PRs</a> - 2025-01-20</li>
@@ -39,8 +41,6 @@
   <li><a href="https://github.com/ryancheley/til/blob/main/Django/sqlmigrate.md" target="_blank">sqlitemigrate Django command</a> - 2025-01-19</li>
 
   <li><a href="https://github.com/ryancheley/til/blob/main/computing/column-command.md" target="_blank">Column Command</a> - 2025-01-05</li>
-
-  <li><a href="https://github.com/ryancheley/til/blob/main/Synology/Synology-OS-ISO-Location-for-VMs.md" target="_blank">Synology OS iso Location for VMs</a> - 2025-01-02</li>
 
 </ul>
 
