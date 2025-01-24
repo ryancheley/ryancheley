@@ -32,6 +32,8 @@
 
 <ul>
 
+  <li><a href="https://github.com/ryancheley/til/blob/main/just/remote-justfiles.md" target="_blank">Remote justfile</a> - 2025-01-23</li>
+
   <li><a href="https://github.com/ryancheley/til/blob/main/just/global-justfile.md" target="_blank">Global justfile</a> - 2025-01-22</li>
 
   <li><a href="https://github.com/ryancheley/til/blob/main/git/e-flag.md" target="_blank">e flag</a> - 2025-01-21</li>
@@ -39,8 +41,6 @@
   <li><a href="https://github.com/ryancheley/til/blob/main/Django/doc-prs.md" target="_blank">Documentation Update PRs</a> - 2025-01-20</li>
 
   <li><a href="https://github.com/ryancheley/til/blob/main/Django/sqlmigrate.md" target="_blank">sqlitemigrate Django command</a> - 2025-01-19</li>
-
-  <li><a href="https://github.com/ryancheley/til/blob/main/computing/column-command.md" target="_blank">Column Command</a> - 2025-01-05</li>
 
 </ul>
 
@@ -68,18 +68,18 @@
 
 
   <blockquote>
-  <p>Remember the Colosseum! <a href="https://www.ryancheley.com/2025/01/21/remember-the-colosseum/" rel="nofollow noopener" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">ryancheley.com/2025/01/21/reme</span><span class="invisible">mber-the-colosseum/</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/113865887327364571" target="_blank">2025-01-21</a>
+  <p>OK … now I think I *really* got them all. Sheesh, what a day.</p>
+  - <a href="https://mastodon.social/@ryancheley/113881132610585886" target="_blank">2025-01-24</a>
   </blockquote>
 
   <blockquote>
-  <p>TFW you finally have a chance to catch your breath from “A Week” TM and realize you missed Office Hours AGAIN! I’m really hoping I’m able to make it again soon! <a href="https://mastodon.social/@webology/113844594052034898" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@webology/1138</span><span class="invisible">44594052034898</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/113846618117153158" target="_blank">2025-01-18</a>
+  <p>This is all made more challenging because there seems to be something wrong with the mastadon server I’m on</p>
+  - <a href="https://mastodon.social/@ryancheley/113881076593072654" target="_blank">2025-01-24</a>
   </blockquote>
 
   <blockquote>
-  <p>Looking Back at the Half Marathon Streak <a href="https://www.ryancheley.com/2025/01/17/looking-back-at-the-half-marathon-streak/" rel="nofollow noopener" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">ryancheley.com/2025/01/17/look</span><span class="invisible">ing-back-at-the-half-marathon-streak/</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/113843236721934128" target="_blank">2025-01-17</a>
+  <p>TIL that unposted toots still show up in my timeline. I was testing something with echofeed (<a href="https://echofeed.app/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">echofeed.app/</span><span class="invisible"></span></a>)  from the test version of my blog, went and cooked dinner, and well, 10+ old posts showed up in my timeline. They’ve since been deleted (at least I think I’ve deleted all the bad stuff) but it’s been one of those years so … yeah. It might just be time for bed and I’ll try again tomorrow 🤦🏻‍♂️</p>
+  - <a href="https://mastodon.social/@ryancheley/113881069934845357" target="_blank">2025-01-24</a>
   </blockquote>
 
 
