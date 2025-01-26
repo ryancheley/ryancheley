@@ -32,6 +32,8 @@
 
 <ul>
 
+  <li><a href="https://github.com/ryancheley/til/blob/main/github/gha-dependabot.md" target="_blank">Dependabot to update GitHub Actions</a> - 2025-01-25</li>
+
   <li><a href="https://github.com/ryancheley/til/blob/main/just/interactive-chooser.md" target="_blank">Interactive Chooser</a> - 2025-01-24</li>
 
   <li><a href="https://github.com/ryancheley/til/blob/main/just/remote-justfiles.md" target="_blank">Remote justfile</a> - 2025-01-23</li>
@@ -39,8 +41,6 @@
   <li><a href="https://github.com/ryancheley/til/blob/main/just/global-justfile.md" target="_blank">Global justfile</a> - 2025-01-22</li>
 
   <li><a href="https://github.com/ryancheley/til/blob/main/git/e-flag.md" target="_blank">e flag</a> - 2025-01-21</li>
-
-  <li><a href="https://github.com/ryancheley/til/blob/main/Django/doc-prs.md" target="_blank">Documentation Update PRs</a> - 2025-01-20</li>
 
 </ul>
 
@@ -68,18 +68,18 @@
 
 
   <blockquote>
+  <p>Outside hockey with a warm fire and friends</p>
+  - <a href="https://mastodon.social/@ryancheley/113892490408313390" target="_blank">2025-01-26</a>
+  </blockquote>
+
+  <blockquote>
+  <p>A brutal winter day in Palm Springs 🥶Sunny and 57F so I’ve got my jacket on while watching baseball</p>
+  - <a href="https://mastodon.social/@ryancheley/113890320057784749" target="_blank">2025-01-25</a>
+  </blockquote>
+
+  <blockquote>
   <p>OK … now I think I *really* got them all. Sheesh, what a day.</p>
   - <a href="https://mastodon.social/@ryancheley/113881132610585886" target="_blank">2025-01-24</a>
-  </blockquote>
-
-  <blockquote>
-  <p>This is all made more challenging because there seems to be something wrong with the mastadon server I’m on</p>
-  - <a href="https://mastodon.social/@ryancheley/113881076593072654" target="_blank">2025-01-24</a>
-  </blockquote>
-
-  <blockquote>
-  <p>TIL that unposted toots still show up in my timeline. I was testing something with echofeed (<a href="https://echofeed.app/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">echofeed.app/</span><span class="invisible"></span></a>)  from the test version of my blog, went and cooked dinner, and well, 10+ old posts showed up in my timeline. They’ve since been deleted (at least I think I’ve deleted all the bad stuff) but it’s been one of those years so … yeah. It might just be time for bed and I’ll try again tomorrow 🤦🏻‍♂️</p>
-  - <a href="https://mastodon.social/@ryancheley/113881069934845357" target="_blank">2025-01-24</a>
   </blockquote>
 
 
