@@ -68,18 +68,18 @@
 
 
   <blockquote>
+  <p>Little kid hockey is like little kid soccer. All of the kids are around the puck 🤣 <a class="mention hashtag" href="https://mastodon.social/tags/AHL" rel="tag">#<span>AHL</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/CoachellaValleyFirebirds" rel="tag">#<span>CoachellaValleyFirebirds</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/BakersfieldCondors" rel="tag">#<span>BakersfieldCondors</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/113898107860812448" target="_blank">2025-01-27</a>
+  </blockquote>
+
+  <blockquote>
+  <p>Hockey ...</p>
+  - <a href="https://mastodon.social/@ryancheley/113897536209021490" target="_blank">2025-01-27</a>
+  </blockquote>
+
+  <blockquote>
   <p>Outside hockey with a warm fire and friends</p>
   - <a href="https://mastodon.social/@ryancheley/113892490408313390" target="_blank">2025-01-26</a>
-  </blockquote>
-
-  <blockquote>
-  <p>A brutal winter day in Palm Springs 🥶Sunny and 57F so I’ve got my jacket on while watching baseball</p>
-  - <a href="https://mastodon.social/@ryancheley/113890320057784749" target="_blank">2025-01-25</a>
-  </blockquote>
-
-  <blockquote>
-  <p>OK … now I think I *really* got them all. Sheesh, what a day.</p>
-  - <a href="https://mastodon.social/@ryancheley/113881132610585886" target="_blank">2025-01-24</a>
   </blockquote>
 
 
