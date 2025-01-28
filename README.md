@@ -51,12 +51,11 @@
 
 <ul>
 
+  <li><a href="tag:www.ryancheley.com,2025-01-27:/2025/01/27/how-to-watch-a-hockey-game-three-rules/" target="_blank"><p>I've written a few times before about hockey. I love watching my local sports puck team<sup id="sf-how-to-watch-a-hockey-game-three-rules-1-back"><a class="simple-footnote" href="https://ryancheley.com/feeds/all.rss.xml#sf-how-to-watch-a-hockey-game-three-rules-1" title="The Coachella Valley Firebirds">1</a></sup> and really wish more people watched it. So, I'm going to write a beginners guide to watching hockey so that you too, dear reader, can become an avid fan.</p>
+<p>Hockey is a pretty …</p></a> - 2025-01-27</li>
+
   <li><a href="tag:www.ryancheley.com,2025-01-21:/2025/01/21/remember-the-colosseum/" target="_blank"><h2>The Roman Colosseum</h2>
 <p>After the fall of the Western Roman Empire in 497 CE the Colosseum fell into disrepair. Rightfully so! Who can worry about keeping up a giant megalith made by people centuries ago while you're just trying to figure out where your next meal may come from, or …</p></a> - 2025-01-21</li>
-
-  <li><a href="tag:www.ryancheley.com,2025-01-17:/2025/01/17/looking-back-at-the-half-marathon-streak/" target="_blank"><h1>Looking Back at the Half Marathon Streak</h1>
-<h2>How It Started</h2>
-<p>In February 2012, a half marathon was being held in Palm Springs, and one of my walking friends asked if I wanted to do it... about 5 days before it was set to happen. I said I wasn't interested, and …</p></a> - 2025-01-17</li>
 
 </ul>
 
@@ -68,18 +67,18 @@
 
 
   <blockquote>
+  <p><span class="h-card"><a class="u-url mention" href="https://mastodon.social/@webology">@<span>webology</span></a></span> got me into using just a while ago. Just recently I found out about a flag you can pass to it `--choose` which allows you to search through your justfile with `fzf` which can make large `justfile`s easier to search through. I wrote it up in a TIL here ...</p>
+  - <a href="https://mastodon.social/@ryancheley/113903955692846787" target="_blank">2025-01-28</a>
+  </blockquote>
+
+  <blockquote>
+  <p>How to Watch a Hockey Game - Three Rules <a href="https://www.ryancheley.com/2025/01/27/how-to-watch-a-hockey-game-three-rules/" rel="nofollow noopener" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">ryancheley.com/2025/01/27/how-</span><span class="invisible">to-watch-a-hockey-game-three-rules/</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/113899825621776595" target="_blank">2025-01-27</a>
+  </blockquote>
+
+  <blockquote>
   <p>Little kid hockey is like little kid soccer. All of the kids are around the puck 🤣 <a class="mention hashtag" href="https://mastodon.social/tags/AHL" rel="tag">#<span>AHL</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/CoachellaValleyFirebirds" rel="tag">#<span>CoachellaValleyFirebirds</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/BakersfieldCondors" rel="tag">#<span>BakersfieldCondors</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/113898107860812448" target="_blank">2025-01-27</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Hockey ...</p>
-  - <a href="https://mastodon.social/@ryancheley/113897536209021490" target="_blank">2025-01-27</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Outside hockey with a warm fire and friends</p>
-  - <a href="https://mastodon.social/@ryancheley/113892490408313390" target="_blank">2025-01-26</a>
   </blockquote>
 
 
