@@ -67,6 +67,11 @@
 
 
   <blockquote>
+  <p>There aren’t a lot of lemons on my tree, but there are a LOT of flower buds coming through. Can’t wait for the second harvest of lemons to come around!</p>
+  - <a href="https://mastodon.social/@ryancheley/113907947794433253" target="_blank">2025-01-28</a>
+  </blockquote>
+
+  <blockquote>
   <p><span class="h-card"><a class="u-url mention" href="https://mastodon.social/@webology">@<span>webology</span></a></span> got me into using just a while ago. Just recently I found out about a flag you can pass to it `--choose` which allows you to search through your justfile with `fzf` which can make large `justfile`s easier to search through. I wrote it up in a TIL here ...</p>
   - <a href="https://mastodon.social/@ryancheley/113903955692846787" target="_blank">2025-01-28</a>
   </blockquote>
@@ -74,11 +79,6 @@
   <blockquote>
   <p>How to Watch a Hockey Game - Three Rules <a href="https://www.ryancheley.com/2025/01/27/how-to-watch-a-hockey-game-three-rules/" rel="nofollow noopener" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">ryancheley.com/2025/01/27/how-</span><span class="invisible">to-watch-a-hockey-game-three-rules/</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/113899825621776595" target="_blank">2025-01-27</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Little kid hockey is like little kid soccer. All of the kids are around the puck 🤣 <a class="mention hashtag" href="https://mastodon.social/tags/AHL" rel="tag">#<span>AHL</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/CoachellaValleyFirebirds" rel="tag">#<span>CoachellaValleyFirebirds</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/BakersfieldCondors" rel="tag">#<span>BakersfieldCondors</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/113898107860812448" target="_blank">2025-01-27</a>
   </blockquote>
 
 
