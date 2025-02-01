@@ -51,13 +51,14 @@
 
 <ul>
 
+  <li><a href="tag:www.ryancheley.com,2025-01-31:/2025/01/31/how-to-watch-a-hockey-game-what-to-watch/" target="_blank"><p>In <a href="https://www.ryancheley.com/2025/01/27/how-to-watch-a-hockey-game-three-rules/">a previous post of this series</a> I laid out some basic rules of hockey. In this post I'll hopefully provide some tips on what to watch during your first few hockey games.</p>
+<h2>What should I 'watch' though?</h2>
+<p>This is a tough question and depends on if you're watching on …</p></a> - 2025-01-31</li>
+
   <li><a href="tag:www.ryancheley.com,2025-01-29:/2025/01/29/how-to-watch-a-hockey-game-game-play/" target="_blank"><h2>Game Structure</h2>
 <p>Hockey has some stuff in common with live theater. No ... really! 😁</p>
 <p>They both have dressing rooms and they both have intermission ... but that is probably where the similarities end.</p>
 <p>Each hockey game is split into three 20 minute periods. There is an intermission between each period that lasts …</p></a> - 2025-01-29</li>
-
-  <li><a href="tag:www.ryancheley.com,2025-01-27:/2025/01/27/how-to-watch-a-hockey-game-three-rules/" target="_blank"><p>I've written a few times before about hockey. I love watching my local sports puck team<sup id="sf-how-to-watch-a-hockey-game-three-rules-1-back"><a class="simple-footnote" href="https://ryancheley.com/feeds/all.rss.xml#sf-how-to-watch-a-hockey-game-three-rules-1" title="The Coachella Valley Firebirds">1</a></sup> and really wish more people watched it. So, I'm going to write a beginners guide to watching hockey so that you too, dear reader, can become an avid fan.</p>
-<p>Hockey is a pretty …</p></a> - 2025-01-27</li>
 
 </ul>
 
@@ -69,6 +70,11 @@
 
 
   <blockquote>
+  <p>How to Watch a Hockey Game - What to Watch <a href="https://www.ryancheley.com/2025/01/31/how-to-watch-a-hockey-game-what-to-watch/" rel="nofollow noopener" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">ryancheley.com/2025/01/31/how-</span><span class="invisible">to-watch-a-hockey-game-what-to-watch/</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/113922474947522504" target="_blank">2025-01-31</a>
+  </blockquote>
+
+  <blockquote>
   <p>Hockey ...</p>
   - <a href="https://mastodon.social/@ryancheley/113915001432077909" target="_blank">2025-01-30</a>
   </blockquote>
@@ -76,11 +82,6 @@
   <blockquote>
   <p>How to Watch a Hockey Game - Game Play <a href="https://www.ryancheley.com/2025/01/29/how-to-watch-a-hockey-game-game-play/" rel="nofollow noopener" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">ryancheley.com/2025/01/29/how-</span><span class="invisible">to-watch-a-hockey-game-game-play/</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/113911146567131341" target="_blank">2025-01-29</a>
-  </blockquote>
-
-  <blockquote>
-  <p>There aren’t a lot of lemons on my tree, but there are a LOT of flower buds coming through. Can’t wait for the second harvest of lemons to come around!</p>
-  - <a href="https://mastodon.social/@ryancheley/113907947794433253" target="_blank">2025-01-28</a>
   </blockquote>
 
 
