@@ -70,18 +70,18 @@
 
 
   <blockquote>
+  <p>I got a picture of Roscoe, the <a class="mention hashtag" href="https://mastodon.social/tags/MilwaukeeAdmirals" rel="tag">#<span>MilwaukeeAdmirals</span></a> mascot!</p>
+  - <a href="https://mastodon.social/@ryancheley/113937627385619602" target="_blank">2025-02-03</a>
+  </blockquote>
+
+  <blockquote>
+  <p>Hockey ...</p>
+  - <a href="https://mastodon.social/@ryancheley/113937413454858468" target="_blank">2025-02-03</a>
+  </blockquote>
+
+  <blockquote>
   <p>I went out after dark tonight! What is even happening?!?!?</p>
   - <a href="https://mastodon.social/@ryancheley/113932772362310387" target="_blank">2025-02-02</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Another beautiful day for <a class="mention hashtag" href="https://mastodon.social/tags/Baseball" rel="tag">#<span>Baseball</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/CaliforniaWinterLeague" rel="tag">#<span>CaliforniaWinterLeague</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/113930344354125710" target="_blank">2025-02-01</a>
-  </blockquote>
-
-  <blockquote>
-  <p>How to Watch a Hockey Game - What to Watch <a href="https://www.ryancheley.com/2025/01/31/how-to-watch-a-hockey-game-what-to-watch/" rel="nofollow noopener" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">ryancheley.com/2025/01/31/how-</span><span class="invisible">to-watch-a-hockey-game-what-to-watch/</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/113922474947522504" target="_blank">2025-01-31</a>
   </blockquote>
 
 
