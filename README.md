@@ -51,14 +51,14 @@
 
 <ul>
 
+  <li><a href="tag:www.ryancheley.com,2025-02-03:/2025/02/03/how-to-watch-a-hockey-game-reading-the-standings/" target="_blank"><p>This is the fourth part of my How to Watch a Hockey Game Series. You can catch up on previous articles <a href="https://www.ryancheley.com/2025/01/27/how-to-watch-a-hockey-game-three-rules/">here</a></p>
+<h2>Game Outcomes</h2>
+<p>In many North American sports when reading the standings there are typically just Wins (W), and Losses (L).<sup id="sf-how-to-watch-a-hockey-game-reading-the-standings-1-back"><a class="simple-footnote" href="https://ryancheley.com/feeds/all.rss.xml#sf-how-to-watch-a-hockey-game-reading-the-standings-1" title="Football also has Ties (T) but they are exceedingly rare and are only ever displayed when the first Tie of the season occurs">1</a></sup></p>
+<p>Hockey is a bit different. When you …</p></a> - 2025-02-03</li>
+
   <li><a href="tag:www.ryancheley.com,2025-01-31:/2025/01/31/how-to-watch-a-hockey-game-what-to-watch/" target="_blank"><p>In <a href="https://www.ryancheley.com/2025/01/27/how-to-watch-a-hockey-game-three-rules/">a previous post of this series</a> I laid out some basic rules of hockey. In this post I'll hopefully provide some tips on what to watch during your first few hockey games.</p>
 <h2>What should I 'watch' though?</h2>
 <p>This is a tough question and depends on if you're watching on …</p></a> - 2025-01-31</li>
-
-  <li><a href="tag:www.ryancheley.com,2025-01-29:/2025/01/29/how-to-watch-a-hockey-game-game-play/" target="_blank"><h2>Game Structure</h2>
-<p>Hockey has some stuff in common with live theater. No ... really! 😁</p>
-<p>They both have dressing rooms and they both have intermission ... but that is probably where the similarities end.</p>
-<p>Each hockey game is split into three 20 minute periods. There is an intermission between each period that lasts …</p></a> - 2025-01-29</li>
 
 </ul>
 
@@ -70,18 +70,18 @@
 
 
   <blockquote>
+  <p><a class="mention hashtag" href="https://mastodon.social/tags/AHLAllStar" rel="tag">#<span>AHLAllStar</span></a> Challebeg tonight starting off well with the Pacific beating the North 3-2!</p>
+  - <a href="https://mastodon.social/@ryancheley/113943320839272558" target="_blank">2025-02-04</a>
+  </blockquote>
+
+  <blockquote>
+  <p>How to Watch a Hockey Game - Reading the Standings <a href="https://www.ryancheley.com/2025/02/03/how-to-watch-a-hockey-game-reading-the-standings/" rel="nofollow noopener" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">ryancheley.com/2025/02/03/how-</span><span class="invisible">to-watch-a-hockey-game-reading-the-standings/</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/113939457703810217" target="_blank">2025-02-03</a>
+  </blockquote>
+
+  <blockquote>
   <p>I got a picture of Roscoe, the <a class="mention hashtag" href="https://mastodon.social/tags/MilwaukeeAdmirals" rel="tag">#<span>MilwaukeeAdmirals</span></a> mascot!</p>
   - <a href="https://mastodon.social/@ryancheley/113937627385619602" target="_blank">2025-02-03</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Hockey ...</p>
-  - <a href="https://mastodon.social/@ryancheley/113937413454858468" target="_blank">2025-02-03</a>
-  </blockquote>
-
-  <blockquote>
-  <p>I went out after dark tonight! What is even happening?!?!?</p>
-  - <a href="https://mastodon.social/@ryancheley/113932772362310387" target="_blank">2025-02-02</a>
   </blockquote>
 
 
