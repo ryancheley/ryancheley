@@ -51,14 +51,17 @@
 
 <ul>
 
+  <li><a href="tag:www.ryancheley.com,2025-02-06:/2025/02/06/technical-solutions-to-people-problems/" target="_blank"><blockquote>
+<p>"If you think technology will solve your problems, you don't understand technology and you don't understand your problems"</p>
+<p>~ attrib. Laurie Anderson</p>
+</blockquote>
+<p>From a <a href="https://mas.to/@natureworks/113917094844091858">Toot</a> by <a href="https://mas.to/@natureworks">Jake Rayson</a></p>
+<p>In a previous post, I wrote about how to <a href="https://www.ryancheley.com/2024/08/22/how-to-ask-why-without-sounding-like-a-jerk/">ask why without sounding like a jerk</a>. This is a slightly related concept (at …</p></a> - 2025-02-06</li>
+
   <li><a href="tag:www.ryancheley.com,2025-02-03:/2025/02/03/how-to-watch-a-hockey-game-reading-the-standings/" target="_blank"><p>This is the fourth part of my How to Watch a Hockey Game Series. You can catch up on previous articles <a href="https://www.ryancheley.com/2025/01/27/how-to-watch-a-hockey-game-three-rules/">here</a></p>
 <h2>Game Outcomes</h2>
 <p>In many North American sports when reading the standings there are typically just Wins (W), and Losses (L).<sup id="sf-how-to-watch-a-hockey-game-reading-the-standings-1-back"><a class="simple-footnote" href="https://ryancheley.com/feeds/all.rss.xml#sf-how-to-watch-a-hockey-game-reading-the-standings-1" title="Football also has Ties (T) but they are exceedingly rare and are only ever displayed when the first Tie of the season occurs">1</a></sup></p>
 <p>Hockey is a bit different. When you …</p></a> - 2025-02-03</li>
-
-  <li><a href="tag:www.ryancheley.com,2025-01-31:/2025/01/31/how-to-watch-a-hockey-game-what-to-watch/" target="_blank"><p>In <a href="https://www.ryancheley.com/2025/01/27/how-to-watch-a-hockey-game-three-rules/">a previous post of this series</a> I laid out some basic rules of hockey. In this post I'll hopefully provide some tips on what to watch during your first few hockey games.</p>
-<h2>What should I 'watch' though?</h2>
-<p>This is a tough question and depends on if you're watching on …</p></a> - 2025-01-31</li>
 
 </ul>
 
@@ -70,6 +73,11 @@
 
 
   <blockquote>
+  <p>Technical Solutions to People Problems <a href="https://www.ryancheley.com/2025/02/06/technical-solutions-to-people-problems/" rel="nofollow noopener" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">ryancheley.com/2025/02/06/tech</span><span class="invisible">nical-solutions-to-people-problems/</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/113957061388536759" target="_blank">2025-02-06</a>
+  </blockquote>
+
+  <blockquote>
   <p><a class="mention hashtag" href="https://mastodon.social/tags/AHLAllStar" rel="tag">#<span>AHLAllStar</span></a> Challebeg tonight starting off well with the Pacific beating the North 3-2!</p>
   - <a href="https://mastodon.social/@ryancheley/113943320839272558" target="_blank">2025-02-04</a>
   </blockquote>
@@ -77,11 +85,6 @@
   <blockquote>
   <p>How to Watch a Hockey Game - Reading the Standings <a href="https://www.ryancheley.com/2025/02/03/how-to-watch-a-hockey-game-reading-the-standings/" rel="nofollow noopener" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">ryancheley.com/2025/02/03/how-</span><span class="invisible">to-watch-a-hockey-game-reading-the-standings/</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/113939457703810217" target="_blank">2025-02-03</a>
-  </blockquote>
-
-  <blockquote>
-  <p>I got a picture of Roscoe, the <a class="mention hashtag" href="https://mastodon.social/tags/MilwaukeeAdmirals" rel="tag">#<span>MilwaukeeAdmirals</span></a> mascot!</p>
-  - <a href="https://mastodon.social/@ryancheley/113937627385619602" target="_blank">2025-02-03</a>
   </blockquote>
 
 
