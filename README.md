@@ -73,6 +73,11 @@
 
 
   <blockquote>
+  <p>Landed in Portland getting ready for <a class="mention hashtag" href="https://mastodon.social/tags/PyCascades2025" rel="tag">#<span>PyCascades2025</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/113964996988420187" target="_blank">2025-02-07</a>
+  </blockquote>
+
+  <blockquote>
   <p>Technical Solutions to People Problems <a href="https://www.ryancheley.com/2025/02/06/technical-solutions-to-people-problems/" rel="nofollow noopener" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">ryancheley.com/2025/02/06/tech</span><span class="invisible">nical-solutions-to-people-problems/</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/113957061388536759" target="_blank">2025-02-06</a>
   </blockquote>
@@ -80,11 +85,6 @@
   <blockquote>
   <p><a class="mention hashtag" href="https://mastodon.social/tags/AHLAllStar" rel="tag">#<span>AHLAllStar</span></a> Challebeg tonight starting off well with the Pacific beating the North 3-2!</p>
   - <a href="https://mastodon.social/@ryancheley/113943320839272558" target="_blank">2025-02-04</a>
-  </blockquote>
-
-  <blockquote>
-  <p>How to Watch a Hockey Game - Reading the Standings <a href="https://www.ryancheley.com/2025/02/03/how-to-watch-a-hockey-game-reading-the-standings/" rel="nofollow noopener" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">ryancheley.com/2025/02/03/how-</span><span class="invisible">to-watch-a-hockey-game-reading-the-standings/</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/113939457703810217" target="_blank">2025-02-03</a>
   </blockquote>
 
 
