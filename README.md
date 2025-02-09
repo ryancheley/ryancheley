@@ -73,18 +73,18 @@
 
 
   <blockquote>
+  <p>And then I get to watch them win in OT! <a class="mention hashtag" href="https://mastodon.social/tags/seattleKraken" rel="tag">#<span>seattleKraken</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/CoachelleValleyFirebirds" rel="tag">#<span>CoachelleValleyFirebirds</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/113972327516923765" target="_blank">2025-02-09</a>
+  </blockquote>
+
+  <blockquote>
+  <p>TFW you remember that since you’re in Portland you can watch the <a class="mention hashtag" href="https://mastodon.social/tags/seattleKraken" rel="tag">#<span>seattleKraken</span></a> on Prime and you’re super excited to see some old <a class="mention hashtag" href="https://mastodon.social/tags/CoachelleValleyFirebirds" rel="tag">#<span>CoachelleValleyFirebirds</span></a> on the ice!</p>
+  - <a href="https://mastodon.social/@ryancheley/113972317211845456" target="_blank">2025-02-09</a>
+  </blockquote>
+
+  <blockquote>
   <p>Landed in Portland getting ready for <a class="mention hashtag" href="https://mastodon.social/tags/PyCascades2025" rel="tag">#<span>PyCascades2025</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/113964996988420187" target="_blank">2025-02-07</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Technical Solutions to People Problems <a href="https://www.ryancheley.com/2025/02/06/technical-solutions-to-people-problems/" rel="nofollow noopener" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">ryancheley.com/2025/02/06/tech</span><span class="invisible">nical-solutions-to-people-problems/</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/113957061388536759" target="_blank">2025-02-06</a>
-  </blockquote>
-
-  <blockquote>
-  <p><a class="mention hashtag" href="https://mastodon.social/tags/AHLAllStar" rel="tag">#<span>AHLAllStar</span></a> Challebeg tonight starting off well with the Pacific beating the North 3-2!</p>
-  - <a href="https://mastodon.social/@ryancheley/113943320839272558" target="_blank">2025-02-04</a>
   </blockquote>
 
 
