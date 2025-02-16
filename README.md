@@ -73,18 +73,18 @@
 
 
   <blockquote>
+  <p>Missing my first <a class="mention hashtag" href="https://mastodon.social/tags/CoachellaValleyFirebirds" rel="tag">#<span>CoachellaValleyFirebirds</span></a> home game in forever 😢 ...</p>
+  - <a href="https://mastodon.social/@ryancheley/114011288254990161" target="_blank">2025-02-16</a>
+  </blockquote>
+
+  <blockquote>
+  <p>My wife and I are visiting our daughter at college for parents weekend this weekend. The school she goes to is just so cool. Lots of trees and Squirrels!!</p>
+  - <a href="https://mastodon.social/@ryancheley/114010057767771565" target="_blank">2025-02-15</a>
+  </blockquote>
+
+  <blockquote>
   <p><span class="h-card"><a class="u-url mention" href="https://mastodon.social/@veldakiara">@<span>veldakiara</span></a></span> gave her talk “Optimal Performance over Basic as a Perfectionist with Deadlines” and it was AWESOME!<br />at <a class="mention hashtag" href="https://mastodon.social/tags/PyCascades2025" rel="tag">#<span>PyCascades2025</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/pycascades" rel="tag">#<span>pycascades</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/113976212278218711" target="_blank">2025-02-09</a>
-  </blockquote>
-
-  <blockquote>
-  <p>And then I get to watch them win in OT! <a class="mention hashtag" href="https://mastodon.social/tags/seattleKraken" rel="tag">#<span>seattleKraken</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/CoachelleValleyFirebirds" rel="tag">#<span>CoachelleValleyFirebirds</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/113972327516923765" target="_blank">2025-02-09</a>
-  </blockquote>
-
-  <blockquote>
-  <p>TFW you remember that since you’re in Portland you can watch the <a class="mention hashtag" href="https://mastodon.social/tags/seattleKraken" rel="tag">#<span>seattleKraken</span></a> on Prime and you’re super excited to see some old <a class="mention hashtag" href="https://mastodon.social/tags/CoachelleValleyFirebirds" rel="tag">#<span>CoachelleValleyFirebirds</span></a> on the ice!</p>
-  - <a href="https://mastodon.social/@ryancheley/113972317211845456" target="_blank">2025-02-09</a>
   </blockquote>
 
 
