@@ -73,18 +73,18 @@
 
 
   <blockquote>
-  <p>Missing my first <a class="mention hashtag" href="https://mastodon.social/tags/CoachellaValleyFirebirds" rel="tag">#<span>CoachellaValleyFirebirds</span></a> home game in forever 😢 ...</p>
-  - <a href="https://mastodon.social/@ryancheley/114011288254990161" target="_blank">2025-02-16</a>
+  <p>Darren Pang is in Palm Springs visiting and decided to come to a Firebirds game and now he’s in the booth doing the game with Grant Fuhr and Evan Pivnek and I’m not sure if this is real or not, and if it’s not I don’t want to wake up. Holy crap! <a class="mention hashtag" href="https://mastodon.social/tags/CoachellaValleyFirebirds" rel="tag">#<span>CoachellaValleyFirebirds</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/AHL" rel="tag">#<span>AHL</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/114016823026940214" target="_blank">2025-02-17</a>
   </blockquote>
 
   <blockquote>
-  <p>My wife and I are visiting our daughter at college for parents weekend this weekend. The school she goes to is just so cool. Lots of trees and Squirrels!!</p>
-  - <a href="https://mastodon.social/@ryancheley/114010057767771565" target="_blank">2025-02-15</a>
+  <p>I’m missing another <a class="mention hashtag" href="https://mastodon.social/tags/CoachellaValleyFirebirds" rel="tag">#<span>CoachellaValleyFirebirds</span></a> home game tonight. Since the Firebirds opened at Acrisure in Dec 2022 I’ve never missed 2 home games in a row. Kind of a weird feeling, but couldn’t be helped.  ...</p>
+  - <a href="https://mastodon.social/@ryancheley/114016571716752339" target="_blank">2025-02-17</a>
   </blockquote>
 
   <blockquote>
-  <p><span class="h-card"><a class="u-url mention" href="https://mastodon.social/@veldakiara">@<span>veldakiara</span></a></span> gave her talk “Optimal Performance over Basic as a Perfectionist with Deadlines” and it was AWESOME!<br />at <a class="mention hashtag" href="https://mastodon.social/tags/PyCascades2025" rel="tag">#<span>PyCascades2025</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/pycascades" rel="tag">#<span>pycascades</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/113976212278218711" target="_blank">2025-02-09</a>
+  <p>I've posted my slides (<a href="https://github.com/ryancheley/PyCascades2025/blob/main/Presentation.pdf" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="ellipsis">github.com/ryancheley/PyCascad</span><span class="invisible">es2025/blob/main/Presentation.pdf</span></a>) and an annotated version of my presentation(<a href="https://annotated-notes.ryancheley.com/pycascades-2025/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="ellipsis">annotated-notes.ryancheley.com</span><span class="invisible">/pycascades-2025/</span></a>) from <a class="mention hashtag" href="https://mastodon.social/tags/PyCascades" rel="tag">#<span>PyCascades</span></a> for anyone that might be interested. This is roughly the same talk I gave at <a class="mention hashtag" href="https://mastodon.social/tags/DjangoConUS" rel="tag">#<span>DjangoConUS</span></a> 2024.  ...</p>
+  - <a href="https://mastodon.social/@ryancheley/114016480923817118" target="_blank">2025-02-17</a>
   </blockquote>
 
 
