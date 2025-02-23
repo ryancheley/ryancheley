@@ -73,6 +73,11 @@
 
 
   <blockquote>
+  <p>Hockey ...</p>
+  - <a href="https://mastodon.social/@ryancheley/114050680623731527" target="_blank">2025-02-23</a>
+  </blockquote>
+
+  <blockquote>
   <p>Making s’mores and watching hockey outside because I can 😄 <a class="mention hashtag" href="https://mastodon.social/tags/AHL" rel="tag">#<span>AHL</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/114045481855906042" target="_blank">2025-02-22</a>
   </blockquote>
@@ -80,11 +85,6 @@
   <blockquote>
   <p>Hockey ...</p>
   - <a href="https://mastodon.social/@ryancheley/114034195634221514" target="_blank">2025-02-20</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Darren Pang is in Palm Springs visiting and decided to come to a Firebirds game and now he’s in the booth doing the game with Grant Fuhr and Evan Pivnek and I’m not sure if this is real or not, and if it’s not I don’t want to wake up. Holy crap! <a class="mention hashtag" href="https://mastodon.social/tags/CoachellaValleyFirebirds" rel="tag">#<span>CoachellaValleyFirebirds</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/AHL" rel="tag">#<span>AHL</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/114016823026940214" target="_blank">2025-02-17</a>
   </blockquote>
 
 
