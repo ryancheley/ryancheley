@@ -73,18 +73,18 @@
 
 
   <blockquote>
-  <p>Hockey ...</p>
-  - <a href="https://mastodon.social/@ryancheley/114084871946554746" target="_blank">2025-03-01</a>
+  <p>But the best part of today was when my daughter surprised me by coming home for the weekend for my birthday. Kind of a perfect day honestly</p>
+  - <a href="https://mastodon.social/@ryancheley/114124141569394710" target="_blank">2025-03-08</a>
   </blockquote>
 
   <blockquote>
-  <p>Hockey ...</p>
-  - <a href="https://mastodon.social/@ryancheley/114055646135473529" target="_blank">2025-02-23</a>
+  <p>I also got to attend <span class="h-card"><a class="u-url mention" href="https://mastodon.social/@webology">@<span>webology</span></a></span> office hours today which I always enjoy</p>
+  - <a href="https://mastodon.social/@ryancheley/114124138972810182" target="_blank">2025-03-08</a>
   </blockquote>
 
   <blockquote>
-  <p>I was looking back at the details of last night’s games and after reading them 🤯 ...</p>
-  - <a href="https://mastodon.social/@ryancheley/114054512148406398" target="_blank">2025-02-23</a>
+  <p>The picture doesn’t really do it justice, but this was my view while swimming this morning. It was a pretty good day for a swim</p>
+  - <a href="https://mastodon.social/@ryancheley/114124099716734973" target="_blank">2025-03-08</a>
   </blockquote>
 
 
