@@ -51,17 +51,15 @@
 
 <ul>
 
+  <li><a href="tag:www.ryancheley.com,2025-03-09:/2025/03/09/Process-People-and-Priorities/" target="_blank"><p>In every organization, three critical elements determine success: People, Processes, and Priorities. While all are essential, their ranking matters profoundly. Based on my experience across several organizations, I've found that Processes must come first, followed by People, with Priorities anchored firmly at the foundation.</p>
+<p>This deliberate ordering—Processes at the …</p></a> - 2025-03-09</li>
+
   <li><a href="tag:www.ryancheley.com,2025-02-06:/2025/02/06/technical-solutions-to-people-problems/" target="_blank"><blockquote>
 <p>"If you think technology will solve your problems, you don't understand technology and you don't understand your problems"</p>
 <p>~ attrib. Laurie Anderson</p>
 </blockquote>
 <p>From a <a href="https://mas.to/@natureworks/113917094844091858">Toot</a> by <a href="https://mas.to/@natureworks">Jake Rayson</a></p>
 <p>In a previous post, I wrote about how to <a href="https://www.ryancheley.com/2024/08/22/how-to-ask-why-without-sounding-like-a-jerk/">ask why without sounding like a jerk</a>. This is a slightly related concept (at …</p></a> - 2025-02-06</li>
-
-  <li><a href="tag:www.ryancheley.com,2025-02-03:/2025/02/03/how-to-watch-a-hockey-game-reading-the-standings/" target="_blank"><p>This is the fourth part of my How to Watch a Hockey Game Series. You can catch up on previous articles <a href="https://www.ryancheley.com/2025/01/27/how-to-watch-a-hockey-game-three-rules/">here</a></p>
-<h2>Game Outcomes</h2>
-<p>In many North American sports when reading the standings there are typically just Wins (W), and Losses (L).<sup id="sf-how-to-watch-a-hockey-game-reading-the-standings-1-back"><a class="simple-footnote" href="https://ryancheley.com/feeds/all.rss.xml#sf-how-to-watch-a-hockey-game-reading-the-standings-1" title="Football also has Ties (T) but they are exceedingly rare and are only ever displayed when the first Tie of the season occurs">1</a></sup></p>
-<p>Hockey is a bit different. When you …</p></a> - 2025-02-03</li>
 
 </ul>
 
@@ -73,6 +71,11 @@
 
 
   <blockquote>
+  <p>Process, People, and Priorities <a href="https://www.ryancheley.com/2025/03/09/Process-People-and-Priorities/" rel="nofollow noopener" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">ryancheley.com/2025/03/09/Proc</span><span class="invisible">ess-People-and-Priorities/</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/114133632278743889" target="_blank">2025-03-09</a>
+  </blockquote>
+
+  <blockquote>
   <p>But the best part of today was when my daughter surprised me by coming home for the weekend for my birthday. Kind of a perfect day honestly</p>
   - <a href="https://mastodon.social/@ryancheley/114124141569394710" target="_blank">2025-03-08</a>
   </blockquote>
@@ -80,11 +83,6 @@
   <blockquote>
   <p>I also got to attend <span class="h-card"><a class="u-url mention" href="https://mastodon.social/@webology">@<span>webology</span></a></span> office hours today which I always enjoy</p>
   - <a href="https://mastodon.social/@ryancheley/114124138972810182" target="_blank">2025-03-08</a>
-  </blockquote>
-
-  <blockquote>
-  <p>The picture doesn’t really do it justice, but this was my view while swimming this morning. It was a pretty good day for a swim</p>
-  - <a href="https://mastodon.social/@ryancheley/114124099716734973" target="_blank">2025-03-08</a>
   </blockquote>
 
 
