@@ -71,6 +71,11 @@
 
 
   <blockquote>
+  <p>Hockey ...</p>
+  - <a href="https://mastodon.social/@ryancheley/114152572171055332" target="_blank">2025-03-13</a>
+  </blockquote>
+
+  <blockquote>
   <p>Process, People, and Priorities <a href="https://www.ryancheley.com/2025/03/09/Process-People-and-Priorities/" rel="nofollow noopener" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">ryancheley.com/2025/03/09/Proc</span><span class="invisible">ess-People-and-Priorities/</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/114133632278743889" target="_blank">2025-03-09</a>
   </blockquote>
@@ -78,11 +83,6 @@
   <blockquote>
   <p>But the best part of today was when my daughter surprised me by coming home for the weekend for my birthday. Kind of a perfect day honestly</p>
   - <a href="https://mastodon.social/@ryancheley/114124141569394710" target="_blank">2025-03-08</a>
-  </blockquote>
-
-  <blockquote>
-  <p>I also got to attend <span class="h-card"><a class="u-url mention" href="https://mastodon.social/@webology">@<span>webology</span></a></span> office hours today which I always enjoy</p>
-  - <a href="https://mastodon.social/@ryancheley/114124138972810182" target="_blank">2025-03-08</a>
   </blockquote>
 
 
