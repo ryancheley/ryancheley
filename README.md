@@ -72,17 +72,17 @@
 
   <blockquote>
   <p>Hockey ...</p>
+  - <a href="https://mastodon.social/@ryancheley/114192464296226043" target="_blank">2025-03-20</a>
+  </blockquote>
+
+  <blockquote>
+  <p>Hockey ...</p>
   - <a href="https://mastodon.social/@ryancheley/114169341314815823" target="_blank">2025-03-16</a>
   </blockquote>
 
   <blockquote>
   <p>Hockey ...</p>
   - <a href="https://mastodon.social/@ryancheley/114152572171055332" target="_blank">2025-03-13</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Process, People, and Priorities <a href="https://www.ryancheley.com/2025/03/09/Process-People-and-Priorities/" rel="nofollow noopener" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">ryancheley.com/2025/03/09/Proc</span><span class="invisible">ess-People-and-Priorities/</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/114133632278743889" target="_blank">2025-03-09</a>
   </blockquote>
 
 
