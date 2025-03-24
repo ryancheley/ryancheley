@@ -70,21 +70,6 @@
 ### Latest Mastodon toots
 
 
-  <blockquote>
-  <p>Am I up past my bed time? Yes. <br />Am I at a Kelsea Ballerini concert? Yes. Do I have any idea who she is? Not really, but my daughter just had a birthday and she’s a huge fan so here I am 🤷🏼‍♂️</p>
-  - <a href="https://mastodon.social/@ryancheley/114204232423902676" target="_blank">2025-03-22</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Hockey ...</p>
-  - <a href="https://mastodon.social/@ryancheley/114192464296226043" target="_blank">2025-03-20</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Hockey ...</p>
-  - <a href="https://mastodon.social/@ryancheley/114169341314815823" target="_blank">2025-03-16</a>
-  </blockquote>
-
 
 <br>
 
