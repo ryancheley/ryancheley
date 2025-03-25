@@ -70,6 +70,21 @@
 ### Latest Mastodon toots
 
 
+  <blockquote>
+  <p>I’m watching the <a class="mention hashtag" href="https://mastodon.social/tags/OntarioReign" rel="tag">#<span>OntarioReign</span></a> play the <a class="mention hashtag" href="https://mastodon.social/tags/IowaWild" rel="tag">#<span>IowaWild</span></a> on the Iowa feed and I’m seeing LOTS of commercials about Kwik Star and I have so many questions. Like, is it a gas station that sells chicken, or a chicken restaurant / grocery store that also sells gas? ...</p>
+  - <a href="https://mastodon.social/@ryancheley/114214018691899536" target="_blank">2025-03-23</a>
+  </blockquote>
+
+  <blockquote>
+  <p>Am I up past my bed time? Yes. <br />Am I at a Kelsea Ballerini concert? Yes. Do I have any idea who she is? Not really, but my daughter just had a birthday and she’s a huge fan so here I am 🤷🏼‍♂️</p>
+  - <a href="https://mastodon.social/@ryancheley/114204232423902676" target="_blank">2025-03-22</a>
+  </blockquote>
+
+  <blockquote>
+  <p>Hockey ...</p>
+  - <a href="https://mastodon.social/@ryancheley/114192464296226043" target="_blank">2025-03-20</a>
+  </blockquote>
+
 
 <br>
 
