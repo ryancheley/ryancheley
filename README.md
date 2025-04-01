@@ -51,15 +51,11 @@
 
 <ul>
 
+  <li><a href="tag:www.ryancheley.com,2025-03-31:/2025/03/31/the-invisible-decision-makers-why-systems-ignore-their-users/" target="_blank"><h2>The Origin of Systems</h2>
+<p>When thinking about systems it's easy to think that they have always been there, or been that way. This isn't true of course. The systems that are in place were put there, by people. People that made decisions. Decisions are what  I want to focus on …</p></a> - 2025-03-31</li>
+
   <li><a href="tag:www.ryancheley.com,2025-03-09:/2025/03/09/Process-People-and-Priorities/" target="_blank"><p>In every organization, three critical elements determine success: People, Processes, and Priorities. While all are essential, their ranking matters profoundly. Based on my experience across several organizations, I've found that Processes must come first, followed by People, with Priorities anchored firmly at the foundation.</p>
 <p>This deliberate ordering—Processes at the …</p></a> - 2025-03-09</li>
-
-  <li><a href="tag:www.ryancheley.com,2025-02-06:/2025/02/06/technical-solutions-to-people-problems/" target="_blank"><blockquote>
-<p>"If you think technology will solve your problems, you don't understand technology and you don't understand your problems"</p>
-<p>~ attrib. Laurie Anderson</p>
-</blockquote>
-<p>From a <a href="https://mas.to/@natureworks/113917094844091858">Toot</a> by <a href="https://mas.to/@natureworks">Jake Rayson</a></p>
-<p>In a previous post, I wrote about how to <a href="https://www.ryancheley.com/2024/08/22/how-to-ask-why-without-sounding-like-a-jerk/">ask why without sounding like a jerk</a>. This is a slightly related concept (at …</p></a> - 2025-02-06</li>
 
 </ul>
 
@@ -71,6 +67,11 @@
 
 
   <blockquote>
+  <p>The Invisible Decision-Makers: Why Systems Ignore Their Users <a href="https://www.ryancheley.com/2025/03/31/the-invisible-decision-makers-why-systems-ignore-their-users/" rel="nofollow noopener" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">ryancheley.com/2025/03/31/the-</span><span class="invisible">invisible-decision-makers-why-systems-ignore-their-users/</span></a> ...</p>
+  - <a href="https://mastodon.social/@ryancheley/114257254935617973" target="_blank">2025-03-31</a>
+  </blockquote>
+
+  <blockquote>
   <p>I’m watching the <a class="mention hashtag" href="https://mastodon.social/tags/OntarioReign" rel="tag">#<span>OntarioReign</span></a> play the <a class="mention hashtag" href="https://mastodon.social/tags/IowaWild" rel="tag">#<span>IowaWild</span></a> on the Iowa feed and I’m seeing LOTS of commercials about Kwik Star and I have so many questions. Like, is it a gas station that sells chicken, or a chicken restaurant / grocery store that also sells gas? ...</p>
   - <a href="https://mastodon.social/@ryancheley/114214018691899536" target="_blank">2025-03-23</a>
   </blockquote>
@@ -78,11 +79,6 @@
   <blockquote>
   <p>Am I up past my bed time? Yes. <br />Am I at a Kelsea Ballerini concert? Yes. Do I have any idea who she is? Not really, but my daughter just had a birthday and she’s a huge fan so here I am 🤷🏼‍♂️</p>
   - <a href="https://mastodon.social/@ryancheley/114204232423902676" target="_blank">2025-03-22</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Hockey ...</p>
-  - <a href="https://mastodon.social/@ryancheley/114192464296226043" target="_blank">2025-03-20</a>
   </blockquote>
 
 
