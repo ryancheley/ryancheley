@@ -67,6 +67,11 @@
 
 
   <blockquote>
+  <p>Hockey ...</p>
+  - <a href="https://mastodon.social/@ryancheley/114271480043886110" target="_blank">2025-04-03</a>
+  </blockquote>
+
+  <blockquote>
   <p>For those of you that haven’t heard (of) The Tragically Hip, take a few minutes and listen. One of my favorite bands from when I was in college / grad school that I hadn’t listened to “in a while”.  ...</p>
   - <a href="https://mastodon.social/@ryancheley/114265564119121977" target="_blank">2025-04-02</a>
   </blockquote>
@@ -74,11 +79,6 @@
   <blockquote>
   <p>The Invisible Decision-Makers: Why Systems Ignore Their Users <a href="https://www.ryancheley.com/2025/03/31/the-invisible-decision-makers-why-systems-ignore-their-users/" rel="nofollow noopener" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">ryancheley.com/2025/03/31/the-</span><span class="invisible">invisible-decision-makers-why-systems-ignore-their-users/</span></a> ...</p>
   - <a href="https://mastodon.social/@ryancheley/114257254935617973" target="_blank">2025-03-31</a>
-  </blockquote>
-
-  <blockquote>
-  <p>I’m watching the <a class="mention hashtag" href="https://mastodon.social/tags/OntarioReign" rel="tag">#<span>OntarioReign</span></a> play the <a class="mention hashtag" href="https://mastodon.social/tags/IowaWild" rel="tag">#<span>IowaWild</span></a> on the Iowa feed and I’m seeing LOTS of commercials about Kwik Star and I have so many questions. Like, is it a gas station that sells chicken, or a chicken restaurant / grocery store that also sells gas? ...</p>
-  - <a href="https://mastodon.social/@ryancheley/114214018691899536" target="_blank">2025-03-23</a>
   </blockquote>
 
 
