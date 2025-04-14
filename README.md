@@ -68,17 +68,17 @@
 
   <blockquote>
   <p>Hockey ...</p>
+  - <a href="https://mastodon.social/@ryancheley/114333323593575807" target="_blank">2025-04-13</a>
+  </blockquote>
+
+  <blockquote>
+  <p>Hockey ...</p>
   - <a href="https://mastodon.social/@ryancheley/114327899823304640" target="_blank">2025-04-13</a>
   </blockquote>
 
   <blockquote>
   <p>Hockey ...</p>
   - <a href="https://mastodon.social/@ryancheley/114311180758184249" target="_blank">2025-04-10</a>
-  </blockquote>
-
-  <blockquote>
-  <p>It’s 88F so I decided to run through the sprinklers like a little kid. 10 out of 10 would do again!</p>
-  - <a href="https://mastodon.social/@ryancheley/114293349320164062" target="_blank">2025-04-06</a>
   </blockquote>
 
 
