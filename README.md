@@ -67,18 +67,18 @@
 
 
   <blockquote>
-  <p>Ack .. lost to the freaking <a class="mention hashtag" href="https://mastodon.social/tags/SanDiegoGulls" rel="tag">#<span>SanDiegoGulls</span></a> in OT! <a class="mention hashtag" href="https://mastodon.social/tags/CoachellaValleyFirebirds" rel="tag">#<span>CoachellaValleyFirebirds</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/114368352035855114" target="_blank">2025-04-20</a>
+  <p>End of free hockey. The good guys won <a class="mention hashtag" href="https://mastodon.social/tags/AHL" rel="tag">#<span>AHL</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/CoachellaValleyFirebirds" rel="tag">#<span>CoachellaValleyFirebirds</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/CalgaryWranglers" rel="tag">#<span>CalgaryWranglers</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/114385893432261117" target="_blank">2025-04-23</a>
   </blockquote>
 
   <blockquote>
-  <p>Free Hockey! <a class="mention hashtag" href="https://mastodon.social/tags/CoachellaValleyFirebirds" rel="tag">#<span>CoachellaValleyFirebirds</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/SanDiegoGulls" rel="tag">#<span>SanDiegoGulls</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/114368181506689125" target="_blank">2025-04-20</a>
+  <p>Now it’s going into Triple free hockey <a class="mention hashtag" href="https://mastodon.social/tags/AHL" rel="tag">#<span>AHL</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/CoachellaValleyFirebirds" rel="tag">#<span>CoachellaValleyFirebirds</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/CalgaryWranglers" rel="tag">#<span>CalgaryWranglers</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/114385842696495167" target="_blank">2025-04-23</a>
   </blockquote>
 
   <blockquote>
-  <p>Hockey ...</p>
-  - <a href="https://mastodon.social/@ryancheley/114367818756570206" target="_blank">2025-04-20</a>
+  <p>Time for double free hockey <a class="mention hashtag" href="https://mastodon.social/tags/AHL" rel="tag">#<span>AHL</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/CoachellaValleyFirebirds" rel="tag">#<span>CoachellaValleyFirebirds</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/CalgaryWranglers" rel="tag">#<span>CalgaryWranglers</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/114385630232240978" target="_blank">2025-04-23</a>
   </blockquote>
 
 
