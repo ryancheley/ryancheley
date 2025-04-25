@@ -67,6 +67,11 @@
 
 
   <blockquote>
+  <p>I went to my favorite spot for lunch today and saw 8 players from my local sports puck team the <a class="mention hashtag" href="https://mastodon.social/tags/CoachellaValleyFirebirds" rel="tag">#<span>CoachellaValleyFirebirds</span></a> … it was pretty surreal.</p>
+  - <a href="https://mastodon.social/@ryancheley/114394695646381969" target="_blank">2025-04-24</a>
+  </blockquote>
+
+  <blockquote>
   <p>End of free hockey. The good guys won <a class="mention hashtag" href="https://mastodon.social/tags/AHL" rel="tag">#<span>AHL</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/CoachellaValleyFirebirds" rel="tag">#<span>CoachellaValleyFirebirds</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/CalgaryWranglers" rel="tag">#<span>CalgaryWranglers</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/114385893432261117" target="_blank">2025-04-23</a>
   </blockquote>
@@ -74,11 +79,6 @@
   <blockquote>
   <p>Now it’s going into Triple free hockey <a class="mention hashtag" href="https://mastodon.social/tags/AHL" rel="tag">#<span>AHL</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/CoachellaValleyFirebirds" rel="tag">#<span>CoachellaValleyFirebirds</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/CalgaryWranglers" rel="tag">#<span>CalgaryWranglers</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/114385842696495167" target="_blank">2025-04-23</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Time for double free hockey <a class="mention hashtag" href="https://mastodon.social/tags/AHL" rel="tag">#<span>AHL</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/CoachellaValleyFirebirds" rel="tag">#<span>CoachellaValleyFirebirds</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/CalgaryWranglers" rel="tag">#<span>CalgaryWranglers</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/114385630232240978" target="_blank">2025-04-23</a>
   </blockquote>
 
 
