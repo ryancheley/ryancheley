@@ -32,6 +32,8 @@
 
 <ul>
 
+  <li><a href="https://github.com/ryancheley/til/blob/main/computing/authorized-keys-can-restrict-actions.md" target="_blank">Authorized Keys Can Restrict Actions</a> - 2025-04-28</li>
+
   <li><a href="https://github.com/ryancheley/til/blob/main/github/gfm.md" target="_blank">GitHub Flavored Markdown via the gh cli</a> - 2025-04-18</li>
 
   <li><a href="https://github.com/ryancheley/til/blob/main/github/gha-dependabot.md" target="_blank">Dependabot to update GitHub Actions</a> - 2025-01-25</li>
@@ -39,8 +41,6 @@
   <li><a href="https://github.com/ryancheley/til/blob/main/just/interactive-chooser.md" target="_blank">Interactive Chooser</a> - 2025-01-24</li>
 
   <li><a href="https://github.com/ryancheley/til/blob/main/just/remote-justfiles.md" target="_blank">Remote justfile</a> - 2025-01-23</li>
-
-  <li><a href="https://github.com/ryancheley/til/blob/main/just/global-justfile.md" target="_blank">Global justfile</a> - 2025-01-22</li>
 
 </ul>
 
@@ -67,6 +67,11 @@
 
 
   <blockquote>
+  <p>There are a lot of 🍋 on my tree this spring. I kind of stopped counting at about 40. Really looking forward to when they turn yellow and I can start to harvest them</p>
+  - <a href="https://mastodon.social/@ryancheley/114417209762625604" target="_blank">2025-04-28</a>
+  </blockquote>
+
+  <blockquote>
   <p>Happy third annual <a class="mention hashtag" href="https://mastodon.social/tags/CalgaryWranglers" rel="tag">#<span>CalgaryWranglers</span></a> elimination from the playoffs day to all who celebrate. The <a class="mention hashtag" href="https://mastodon.social/tags/CoachellaValleyFirebirds" rel="tag">#<span>CoachellaValleyFirebirds</span></a> are moving on to the second round to play ???</p>
   - <a href="https://mastodon.social/@ryancheley/114407959951510958" target="_blank">2025-04-27</a>
   </blockquote>
@@ -74,11 +79,6 @@
   <blockquote>
   <p>Hockey ...</p>
   - <a href="https://mastodon.social/@ryancheley/114407162659199774" target="_blank">2025-04-27</a>
-  </blockquote>
-
-  <blockquote>
-  <p>I went to my favorite spot for lunch today and saw 8 players from my local sports puck team the <a class="mention hashtag" href="https://mastodon.social/tags/CoachellaValleyFirebirds" rel="tag">#<span>CoachellaValleyFirebirds</span></a> … it was pretty surreal.</p>
-  - <a href="https://mastodon.social/@ryancheley/114394695646381969" target="_blank">2025-04-24</a>
   </blockquote>
 
 
