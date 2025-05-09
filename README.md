@@ -51,11 +51,10 @@
 
 <ul>
 
+  <li><a href="tag:www.ryancheley.com,2025-05-08:/2025/05/08/uptime-kuma-and-claude/" target="_blank"><p>While talking to a colleague of mine he had mentioned something called <a href="https://uptime.kuma.pet/">Uptime Kuma</a>, which is an open source alternative to Uptime Robot. This was interesting for me because I have Uptime Robot checking a couple of my websites and I thought, "Hey, maybe I can use Uptime Kuma as …</p></a> - 2025-05-08</li>
+
   <li><a href="tag:www.ryancheley.com,2025-03-31:/2025/03/31/the-invisible-decision-makers-why-systems-ignore-their-users/" target="_blank"><h2>The Origin of Systems</h2>
 <p>When thinking about systems it's easy to think that they have always been there, or been that way. This isn't true of course. The systems that are in place were put there, by people. People that made decisions. Decisions are what  I want to focus on …</p></a> - 2025-03-31</li>
-
-  <li><a href="tag:www.ryancheley.com,2025-03-09:/2025/03/09/Process-People-and-Priorities/" target="_blank"><p>In every organization, three critical elements determine success: People, Processes, and Priorities. While all are essential, their ranking matters profoundly. Based on my experience across several organizations, I've found that Processes must come first, followed by People, with Priorities anchored firmly at the foundation.</p>
-<p>This deliberate ordering—Processes at the …</p></a> - 2025-03-09</li>
 
 </ul>
 
@@ -67,6 +66,11 @@
 
 
   <blockquote>
+  <p>Uptime Kuma and Claude <a href="https://www.ryancheley.com/2025/05/08/uptime-kuma-and-claude/" rel="nofollow noopener" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">ryancheley.com/2025/05/08/upti</span><span class="invisible">me-kuma-and-claude/</span></a> ...</p>
+  - <a href="https://mastodon.social/@ryancheley/114472427080973388" target="_blank">2025-05-08</a>
+  </blockquote>
+
+  <blockquote>
   <p>Good guys win 5-4. Series tied 1-1 😅<br />Oh … and the game winning goal and celebration afterward. Priceless ...</p>
   - <a href="https://mastodon.social/@ryancheley/114447780144216372" target="_blank">2025-05-04</a>
   </blockquote>
@@ -74,11 +78,6 @@
   <blockquote>
   <p>It’s time for free hockey! Tied at 4 at the end of regulation <a class="mention hashtag" href="https://mastodon.social/tags/AHL" rel="tag">#<span>AHL</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/CoachellaValleyFirebirds" rel="tag">#<span>CoachellaValleyFirebirds</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/AbbotsfordCanucks" rel="tag">#<span>AbbotsfordCanucks</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/114447510183101399" target="_blank">2025-05-04</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Hockey ...</p>
-  - <a href="https://mastodon.social/@ryancheley/114446806293420557" target="_blank">2025-05-04</a>
   </blockquote>
 
 
