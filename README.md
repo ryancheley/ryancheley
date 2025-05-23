@@ -51,10 +51,16 @@
 
 <ul>
 
-  <li><a href="tag:www.ryancheley.com,2025-05-08:/2025/05/08/uptime-kuma-and-claude/" target="_blank"><p>While talking to a colleague of mine he had mentioned something called <a href="https://uptime.kuma.pet/">Uptime Kuma</a>, which is an open source alternative to Uptime Robot. This was interesting for me because I have Uptime Robot checking a couple of my websites and I thought, "Hey, maybe I can use Uptime Kuma as …</p></a> - 2025-05-08</li>
+  <li><a href="tag:www.ryancheley.com,2025-05-21:/2025/05/21/firebirds-2024-25-season/" target="_blank"><p>The 2024-25 season for the <a href="https://cvfirebirds.com/">Coachella Valley Firebirds</a> ended on <a href="https://theahl.com/stats/game-summary/1027712">May 9th with a 2-0</a> loss to the <a href="https://abbotsford.canucks.com/">Abbotsford Canucks</a>. Overall, that series saw the Firebirds score</p>
+<ul>
+<li>one goal in <a href="https://theahl.com/stats/game-summary/1027709">Game 1</a></li>
+<li>one goal in <a href="https://theahl.com/stats/game-summary/1027710">Game 2</a></li>
+<li>five goals in <a href="https://theahl.com/stats/game-summary/1027711">Game 3</a></li>
+<li>no goals in <a href="https://theahl.com/stats/game-summary/1027712">Game 4</a></li>
+</ul>
+<p>This isn't surprising …</p></a> - 2025-05-21</li>
 
-  <li><a href="tag:www.ryancheley.com,2025-03-31:/2025/03/31/the-invisible-decision-makers-why-systems-ignore-their-users/" target="_blank"><h2>The Origin of Systems</h2>
-<p>When thinking about systems it's easy to think that they have always been there, or been that way. This isn't true of course. The systems that are in place were put there, by people. People that made decisions. Decisions are what  I want to focus on …</p></a> - 2025-03-31</li>
+  <li><a href="tag:www.ryancheley.com,2025-05-08:/2025/05/08/uptime-kuma-and-claude/" target="_blank"><p>While talking to a colleague of mine he had mentioned something called <a href="https://uptime.kuma.pet/">Uptime Kuma</a>, which is an open source alternative to Uptime Robot. This was interesting for me because I have Uptime Robot checking a couple of my websites and I thought, "Hey, maybe I can use Uptime Kuma as …</p></a> - 2025-05-08</li>
 
 </ul>
 
@@ -66,6 +72,11 @@
 
 
   <blockquote>
+  <p>Firebirds 2024-25 Season <a href="https://www.ryancheley.com/2025/05/21/firebirds-2024-25-season/" rel="nofollow noopener" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">ryancheley.com/2025/05/21/fire</span><span class="invisible">birds-2024-25-season/</span></a> ...</p>
+  - <a href="https://mastodon.social/@ryancheley/114551701616835360" target="_blank">2025-05-22</a>
+  </blockquote>
+
+  <blockquote>
   <p>I hate everything right now <a class="mention hashtag" href="https://mastodon.social/tags/AHL" rel="tag">#<span>AHL</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/CoachelleValleyFirebirds" rel="tag">#<span>CoachelleValleyFirebirds</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/114481711892577663" target="_blank">2025-05-10</a>
   </blockquote>
@@ -73,11 +84,6 @@
   <blockquote>
   <p>Uptime Kuma and Claude <a href="https://www.ryancheley.com/2025/05/08/uptime-kuma-and-claude/" rel="nofollow noopener" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">ryancheley.com/2025/05/08/upti</span><span class="invisible">me-kuma-and-claude/</span></a> ...</p>
   - <a href="https://mastodon.social/@ryancheley/114472427080973388" target="_blank">2025-05-08</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Good guys win 5-4. Series tied 1-1 😅<br />Oh … and the game winning goal and celebration afterward. Priceless ...</p>
-  - <a href="https://mastodon.social/@ryancheley/114447780144216372" target="_blank">2025-05-04</a>
   </blockquote>
 
 
