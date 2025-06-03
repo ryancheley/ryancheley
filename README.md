@@ -51,6 +51,9 @@
 
 <ul>
 
+  <li><a href="tag:www.ryancheley.com,2025-06-02:/2025/06/02/fun-with-mcps/" target="_blank"><p>Special Thanks to <a href="https://mastodon.social/@webology">Jeff Triplett</a> who provided an example that really got me started on better understanding of how this all works.</p>
+<p>In trying to wrap my head around MCPs over the long Memorial weekend I had a breakthrough. I'm not really sure why this was so hard for me …</p></a> - 2025-06-02</li>
+
   <li><a href="tag:www.ryancheley.com,2025-05-21:/2025/05/21/firebirds-2024-25-season/" target="_blank"><p>The 2024-25 season for the <a href="https://cvfirebirds.com/">Coachella Valley Firebirds</a> ended on <a href="https://theahl.com/stats/game-summary/1027712">May 9th with a 2-0</a> loss to the <a href="https://abbotsford.canucks.com/">Abbotsford Canucks</a>. Overall, that series saw the Firebirds score</p>
 <ul>
 <li>one goal in <a href="https://theahl.com/stats/game-summary/1027709">Game 1</a></li>
@@ -59,8 +62,6 @@
 <li>no goals in <a href="https://theahl.com/stats/game-summary/1027712">Game 4</a></li>
 </ul>
 <p>This isn't surprising …</p></a> - 2025-05-21</li>
-
-  <li><a href="tag:www.ryancheley.com,2025-05-08:/2025/05/08/uptime-kuma-and-claude/" target="_blank"><p>While talking to a colleague of mine he had mentioned something called <a href="https://uptime.kuma.pet/">Uptime Kuma</a>, which is an open source alternative to Uptime Robot. This was interesting for me because I have Uptime Robot checking a couple of my websites and I thought, "Hey, maybe I can use Uptime Kuma as …</p></a> - 2025-05-08</li>
 
 </ul>
 
@@ -72,18 +73,18 @@
 
 
   <blockquote>
+  <p>Sorry everyone ... I think I broke Claude</p>
+  - <a href="https://mastodon.social/@ryancheley/114617401074190548" target="_blank">2025-06-03</a>
+  </blockquote>
+
+  <blockquote>
+  <p>Fun with MCPs <a href="https://www.ryancheley.com/2025/06/02/fun-with-mcps/" rel="nofollow noopener" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">ryancheley.com/2025/06/02/fun-</span><span class="invisible">with-mcps/</span></a> ...</p>
+  - <a href="https://mastodon.social/@ryancheley/114613989006482195" target="_blank">2025-06-02</a>
+  </blockquote>
+
+  <blockquote>
   <p>Firebirds 2024-25 Season <a href="https://www.ryancheley.com/2025/05/21/firebirds-2024-25-season/" rel="nofollow noopener" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">ryancheley.com/2025/05/21/fire</span><span class="invisible">birds-2024-25-season/</span></a> ...</p>
   - <a href="https://mastodon.social/@ryancheley/114551701616835360" target="_blank">2025-05-22</a>
-  </blockquote>
-
-  <blockquote>
-  <p>I hate everything right now <a class="mention hashtag" href="https://mastodon.social/tags/AHL" rel="tag">#<span>AHL</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/CoachelleValleyFirebirds" rel="tag">#<span>CoachelleValleyFirebirds</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/114481711892577663" target="_blank">2025-05-10</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Uptime Kuma and Claude <a href="https://www.ryancheley.com/2025/05/08/uptime-kuma-and-claude/" rel="nofollow noopener" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">ryancheley.com/2025/05/08/upti</span><span class="invisible">me-kuma-and-claude/</span></a> ...</p>
-  - <a href="https://mastodon.social/@ryancheley/114472427080973388" target="_blank">2025-05-08</a>
   </blockquote>
 
 
