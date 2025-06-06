@@ -51,17 +51,11 @@
 
 <ul>
 
+  <li><a href="tag:www.ryancheley.com,2025-06-05:/2025/06/05/updated-til/" target="_blank"><p>While browsing Mastodon the other day I came across a toot that linked to this <a href="https://immich.app/cursed-knowledge/">Cursed Knowledge</a> page. I thought it was a great page, but it occurred to me that it could be helpful to apply the same sort of styling to my TIL Repo. </p>
+<p>My <a href="https://github.com/ryancheley/til">TIL</a> (Today I …</p></a> - 2025-06-05</li>
+
   <li><a href="tag:www.ryancheley.com,2025-06-02:/2025/06/02/fun-with-mcps/" target="_blank"><p>Special Thanks to <a href="https://mastodon.social/@webology">Jeff Triplett</a> who provided an example that really got me started on better understanding of how this all works.</p>
 <p>In trying to wrap my head around MCPs over the long Memorial weekend I had a breakthrough. I'm not really sure why this was so hard for me …</p></a> - 2025-06-02</li>
-
-  <li><a href="tag:www.ryancheley.com,2025-05-21:/2025/05/21/firebirds-2024-25-season/" target="_blank"><p>The 2024-25 season for the <a href="https://cvfirebirds.com/">Coachella Valley Firebirds</a> ended on <a href="https://theahl.com/stats/game-summary/1027712">May 9th with a 2-0</a> loss to the <a href="https://abbotsford.canucks.com/">Abbotsford Canucks</a>. Overall, that series saw the Firebirds score</p>
-<ul>
-<li>one goal in <a href="https://theahl.com/stats/game-summary/1027709">Game 1</a></li>
-<li>one goal in <a href="https://theahl.com/stats/game-summary/1027710">Game 2</a></li>
-<li>five goals in <a href="https://theahl.com/stats/game-summary/1027711">Game 3</a></li>
-<li>no goals in <a href="https://theahl.com/stats/game-summary/1027712">Game 4</a></li>
-</ul>
-<p>This isn't surprising …</p></a> - 2025-05-21</li>
 
 </ul>
 
@@ -73,6 +67,11 @@
 
 
   <blockquote>
+  <p>Updated TIL<br /><a href="https://www.ryancheley.com/2025/06/05/updated-til/" rel="nofollow noopener" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">ryancheley.com/2025/06/05/upda</span><span class="invisible">ted-til/</span></a> ...</p>
+  - <a href="https://mastodon.social/@ryancheley/114630971660253154" target="_blank">2025-06-05</a>
+  </blockquote>
+
+  <blockquote>
   <p>Sorry everyone ... I think I broke Claude</p>
   - <a href="https://mastodon.social/@ryancheley/114617401074190548" target="_blank">2025-06-03</a>
   </blockquote>
@@ -80,11 +79,6 @@
   <blockquote>
   <p>Fun with MCPs <a href="https://www.ryancheley.com/2025/06/02/fun-with-mcps/" rel="nofollow noopener" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">ryancheley.com/2025/06/02/fun-</span><span class="invisible">with-mcps/</span></a> ...</p>
   - <a href="https://mastodon.social/@ryancheley/114613989006482195" target="_blank">2025-06-02</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Firebirds 2024-25 Season <a href="https://www.ryancheley.com/2025/05/21/firebirds-2024-25-season/" rel="nofollow noopener" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">ryancheley.com/2025/05/21/fire</span><span class="invisible">birds-2024-25-season/</span></a> ...</p>
-  - <a href="https://mastodon.social/@ryancheley/114551701616835360" target="_blank">2025-05-22</a>
   </blockquote>
 
 
