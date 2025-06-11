@@ -67,6 +67,11 @@
 
 
   <blockquote>
+  <p>I was on a call for work today and someone indicated they were with the “Enablement” team. I was on this call for 45 minutes and I’m still not sure what the enablement team does.</p>
+  - <a href="https://mastodon.social/@ryancheley/114660399645114726" target="_blank">2025-06-10</a>
+  </blockquote>
+
+  <blockquote>
   <p>Updated TIL<br /><a href="https://www.ryancheley.com/2025/06/05/updated-til/" rel="nofollow noopener" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">ryancheley.com/2025/06/05/upda</span><span class="invisible">ted-til/</span></a> ...</p>
   - <a href="https://mastodon.social/@ryancheley/114630971660253154" target="_blank">2025-06-05</a>
   </blockquote>
@@ -74,11 +79,6 @@
   <blockquote>
   <p>Sorry everyone ... I think I broke Claude</p>
   - <a href="https://mastodon.social/@ryancheley/114617401074190548" target="_blank">2025-06-03</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Fun with MCPs <a href="https://www.ryancheley.com/2025/06/02/fun-with-mcps/" rel="nofollow noopener" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">ryancheley.com/2025/06/02/fun-</span><span class="invisible">with-mcps/</span></a> ...</p>
-  - <a href="https://mastodon.social/@ryancheley/114613989006482195" target="_blank">2025-06-02</a>
   </blockquote>
 
 
