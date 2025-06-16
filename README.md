@@ -51,11 +51,10 @@
 
 <ul>
 
+  <li><a href="tag:www.ryancheley.com,2025-06-15:/2025/06/15/a-new-project-at-work/" target="_blank"><p>I was added to a work email that was requesting a not-so-small new project that was going to need to be completed. The problem that needed to be solved was a bit squishy, but it had been well thought out, and it had an importance to it that was easy …</p></a> - 2025-06-15</li>
+
   <li><a href="tag:www.ryancheley.com,2025-06-05:/2025/06/05/updated-til/" target="_blank"><p>While browsing Mastodon the other day I came across a toot that linked to this <a href="https://immich.app/cursed-knowledge/">Cursed Knowledge</a> page. I thought it was a great page, but it occurred to me that it could be helpful to apply the same sort of styling to my TIL Repo. </p>
 <p>My <a href="https://github.com/ryancheley/til">TIL</a> (Today I …</p></a> - 2025-06-05</li>
-
-  <li><a href="tag:www.ryancheley.com,2025-06-02:/2025/06/02/fun-with-mcps/" target="_blank"><p>Special Thanks to <a href="https://mastodon.social/@webology">Jeff Triplett</a> who provided an example that really got me started on better understanding of how this all works.</p>
-<p>In trying to wrap my head around MCPs over the long Memorial weekend I had a breakthrough. I'm not really sure why this was so hard for me …</p></a> - 2025-06-02</li>
 
 </ul>
 
@@ -67,18 +66,18 @@
 
 
   <blockquote>
-  <p>I was on a call for work today and someone indicated they were with the “Enablement” team. I was on this call for 45 minutes and I’m still not sure what the enablement team does.</p>
-  - <a href="https://mastodon.social/@ryancheley/114660399645114726" target="_blank">2025-06-10</a>
+  <p>The scariest phrase for a <a class="mention hashtag" href="https://mastodon.social/tags/Dodger" rel="tag">#<span>Dodger</span></a> fan this year, “Tanner Scott is coming in to close out the 9th” 🙈</p>
+  - <a href="https://mastodon.social/@ryancheley/114690450763667557" target="_blank">2025-06-16</a>
   </blockquote>
 
   <blockquote>
-  <p>Updated TIL<br /><a href="https://www.ryancheley.com/2025/06/05/updated-til/" rel="nofollow noopener" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">ryancheley.com/2025/06/05/upda</span><span class="invisible">ted-til/</span></a> ...</p>
-  - <a href="https://mastodon.social/@ryancheley/114630971660253154" target="_blank">2025-06-05</a>
+  <p>Also, the <a class="mention hashtag" href="https://mastodon.social/tags/ESPN" rel="tag">#<span>ESPN</span></a> contract with <a class="mention hashtag" href="https://mastodon.social/tags/MLB" rel="tag">#<span>MLB</span></a> can’t end fast enough. Sunday night games on ESPN are just so awful.</p>
+  - <a href="https://mastodon.social/@ryancheley/114690440643765026" target="_blank">2025-06-16</a>
   </blockquote>
 
   <blockquote>
-  <p>Sorry everyone ... I think I broke Claude</p>
-  - <a href="https://mastodon.social/@ryancheley/114617401074190548" target="_blank">2025-06-03</a>
+  <p>robot umpires can’t get here fast enough <a class="mention hashtag" href="https://mastodon.social/tags/MLB" rel="tag">#<span>MLB</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/114690424835039939" target="_blank">2025-06-16</a>
   </blockquote>
 
 
