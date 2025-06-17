@@ -66,6 +66,11 @@
 
 
   <blockquote>
+  <p>It’s happening! <a class="mention hashtag" href="https://mastodon.social/tags/LADodgers" rel="tag">#<span>LADodgers</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/MLB" rel="tag">#<span>MLB</span></a> ...</p>
+  - <a href="https://mastodon.social/@ryancheley/114696174626737385" target="_blank">2025-06-17</a>
+  </blockquote>
+
+  <blockquote>
   <p>The scariest phrase for a <a class="mention hashtag" href="https://mastodon.social/tags/Dodger" rel="tag">#<span>Dodger</span></a> fan this year, “Tanner Scott is coming in to close out the 9th” 🙈</p>
   - <a href="https://mastodon.social/@ryancheley/114690450763667557" target="_blank">2025-06-16</a>
   </blockquote>
@@ -73,11 +78,6 @@
   <blockquote>
   <p>Also, the <a class="mention hashtag" href="https://mastodon.social/tags/ESPN" rel="tag">#<span>ESPN</span></a> contract with <a class="mention hashtag" href="https://mastodon.social/tags/MLB" rel="tag">#<span>MLB</span></a> can’t end fast enough. Sunday night games on ESPN are just so awful.</p>
   - <a href="https://mastodon.social/@ryancheley/114690440643765026" target="_blank">2025-06-16</a>
-  </blockquote>
-
-  <blockquote>
-  <p>robot umpires can’t get here fast enough <a class="mention hashtag" href="https://mastodon.social/tags/MLB" rel="tag">#<span>MLB</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/114690424835039939" target="_blank">2025-06-16</a>
   </blockquote>
 
 
