@@ -51,10 +51,9 @@
 
 <ul>
 
-  <li><a href="tag:www.ryancheley.com,2025-06-15:/2025/06/15/a-new-project-at-work/" target="_blank"><p>I was added to a work email that was requesting a not-so-small new project that was going to need to be completed. The problem that needed to be solved was a bit squishy, but it had been well thought out, and it had an importance to it that was easy …</p></a> - 2025-06-15</li>
+  <li><a href="tag:www.ryancheley.com,2025-06-19:/2025/06/19/migrating-to-raindrop-io/" target="_blank"><p>With the announced <a href="https://support.mozilla.org/en-US/kb/future-of-pocket">demise of Pocket by Mozilla</a> I needed to migrate all of my saved articles to 'something else' by the end of the month. I've actually tried to migrate from Pocket a few times over the years. I landed on <a href="https://www.instapaper.com/">Instapaper</a> for a while, but it never really …</p></a> - 2025-06-19</li>
 
-  <li><a href="tag:www.ryancheley.com,2025-06-05:/2025/06/05/updated-til/" target="_blank"><p>While browsing Mastodon the other day I came across a toot that linked to this <a href="https://immich.app/cursed-knowledge/">Cursed Knowledge</a> page. I thought it was a great page, but it occurred to me that it could be helpful to apply the same sort of styling to my TIL Repo. </p>
-<p>My <a href="https://github.com/ryancheley/til">TIL</a> (Today I …</p></a> - 2025-06-05</li>
+  <li><a href="tag:www.ryancheley.com,2025-06-15:/2025/06/15/a-new-project-at-work/" target="_blank"><p>I was added to a work email that was requesting a not-so-small new project that was going to need to be completed. The problem that needed to be solved was a bit squishy, but it had been well thought out, and it had an importance to it that was easy …</p></a> - 2025-06-15</li>
 
 </ul>
 
@@ -66,6 +65,11 @@
 
 
   <blockquote>
+  <p>Migrating to Raindrop.io<br /><a href="https://www.ryancheley.com/2025/06/19/migrating-to-raindrop-io/" rel="nofollow noopener" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">ryancheley.com/2025/06/19/migr</span><span class="invisible">ating-to-raindrop-io/</span></a> ...</p>
+  - <a href="https://mastodon.social/@ryancheley/114710251354601322" target="_blank">2025-06-19</a>
+  </blockquote>
+
+  <blockquote>
   <p>It’s happening! <a class="mention hashtag" href="https://mastodon.social/tags/LADodgers" rel="tag">#<span>LADodgers</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/MLB" rel="tag">#<span>MLB</span></a> ...</p>
   - <a href="https://mastodon.social/@ryancheley/114696174626737385" target="_blank">2025-06-17</a>
   </blockquote>
@@ -73,11 +77,6 @@
   <blockquote>
   <p>The scariest phrase for a <a class="mention hashtag" href="https://mastodon.social/tags/Dodger" rel="tag">#<span>Dodger</span></a> fan this year, “Tanner Scott is coming in to close out the 9th” 🙈</p>
   - <a href="https://mastodon.social/@ryancheley/114690450763667557" target="_blank">2025-06-16</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Also, the <a class="mention hashtag" href="https://mastodon.social/tags/ESPN" rel="tag">#<span>ESPN</span></a> contract with <a class="mention hashtag" href="https://mastodon.social/tags/MLB" rel="tag">#<span>MLB</span></a> can’t end fast enough. Sunday night games on ESPN are just so awful.</p>
-  - <a href="https://mastodon.social/@ryancheley/114690440643765026" target="_blank">2025-06-16</a>
   </blockquote>
 
 
