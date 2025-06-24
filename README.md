@@ -65,6 +65,11 @@
 
 
   <blockquote>
+  <p>10/10 agree. This made me “lol” as the kids used to say. <a href="https://mastodon.social/@raiderrobert/114733610527946762" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@raiderrobert/</span><span class="invisible">114733610527946762</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/114734065411560482" target="_blank">2025-06-23</a>
+  </blockquote>
+
+  <blockquote>
   <p>Migrating to Raindrop.io<br /><a href="https://www.ryancheley.com/2025/06/19/migrating-to-raindrop-io/" rel="nofollow noopener" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">ryancheley.com/2025/06/19/migr</span><span class="invisible">ating-to-raindrop-io/</span></a> ...</p>
   - <a href="https://mastodon.social/@ryancheley/114710251354601322" target="_blank">2025-06-19</a>
   </blockquote>
@@ -72,11 +77,6 @@
   <blockquote>
   <p>It’s happening! <a class="mention hashtag" href="https://mastodon.social/tags/LADodgers" rel="tag">#<span>LADodgers</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/MLB" rel="tag">#<span>MLB</span></a> ...</p>
   - <a href="https://mastodon.social/@ryancheley/114696174626737385" target="_blank">2025-06-17</a>
-  </blockquote>
-
-  <blockquote>
-  <p>The scariest phrase for a <a class="mention hashtag" href="https://mastodon.social/tags/Dodger" rel="tag">#<span>Dodger</span></a> fan this year, “Tanner Scott is coming in to close out the 9th” 🙈</p>
-  - <a href="https://mastodon.social/@ryancheley/114690450763667557" target="_blank">2025-06-16</a>
   </blockquote>
 
 
