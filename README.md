@@ -65,8 +65,8 @@
 
 
   <blockquote>
-  <p>I don’t usually post about work because mostly, “Who else fucking cares?” … but today while on a 30 minute call we ...</p>
-  - <a href="https://mastodon.social/@ryancheley/114780877017678884" target="_blank">2025-07-02</a>
+  <p>It’s been a while since I posted about swimming, but today I had a good swim and am pretty excited about the time. The 2’22” / 100yd is a personal best, and is about 70 seconds faster than when I started almost a year ago.  ...</p>
+  - <a href="https://mastodon.social/@ryancheley/114784090490790788" target="_blank">2025-07-02</a>
   </blockquote>
 
   <blockquote>
