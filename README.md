@@ -65,6 +65,11 @@
 
 
   <blockquote>
+  <p>TIL that I mostly look at the hats of baseball players to determine what team they are on. Today, they're all wearing the same color.  ...</p>
+  - <a href="https://mastodon.social/@ryancheley/114797359325705254" target="_blank">2025-07-04</a>
+  </blockquote>
+
+  <blockquote>
   <p>It’s been a while since I posted about swimming, but today I had a good swim and am pretty excited about the time. The 2’22” / 100yd is a personal best, and is about 70 seconds faster than when I started almost a year ago.  ...</p>
   - <a href="https://mastodon.social/@ryancheley/114784090490790788" target="_blank">2025-07-02</a>
   </blockquote>
@@ -72,11 +77,6 @@
   <blockquote>
   <p>10/10 agree. This made me “lol” as the kids used to say. <a href="https://mastodon.social/@raiderrobert/114733610527946762" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@raiderrobert/</span><span class="invisible">114733610527946762</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/114734065411560482" target="_blank">2025-06-23</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Migrating to Raindrop.io<br /><a href="https://www.ryancheley.com/2025/06/19/migrating-to-raindrop-io/" rel="nofollow noopener" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">ryancheley.com/2025/06/19/migr</span><span class="invisible">ating-to-raindrop-io/</span></a> ...</p>
-  - <a href="https://mastodon.social/@ryancheley/114710251354601322" target="_blank">2025-06-19</a>
   </blockquote>
 
 
