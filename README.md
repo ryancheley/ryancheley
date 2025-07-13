@@ -65,18 +65,18 @@
 
 
   <blockquote>
-  <p>TIL that I mostly look at the hats of baseball players to determine what team they are on. Today, they're all wearing the same color.  ...</p>
-  - <a href="https://mastodon.social/@ryancheley/114797359325705254" target="_blank">2025-07-04</a>
+  <p>10/10 would do again!</p>
+  - <a href="https://mastodon.social/@ryancheley/114843131036737686" target="_blank">2025-07-13</a>
   </blockquote>
 
   <blockquote>
-  <p>It’s been a while since I posted about swimming, but today I had a good swim and am pretty excited about the time. The 2’22” / 100yd is a personal best, and is about 70 seconds faster than when I started almost a year ago.  ...</p>
-  - <a href="https://mastodon.social/@ryancheley/114784090490790788" target="_blank">2025-07-02</a>
+  <p>If I can ever get a Python or Django related conference in Palm Springs this is definitely something all attendees would encourage to do!</p>
+  - <a href="https://mastodon.social/@ryancheley/114841671860911312" target="_blank">2025-07-12</a>
   </blockquote>
 
   <blockquote>
-  <p>10/10 agree. This made me “lol” as the kids used to say. <a href="https://mastodon.social/@raiderrobert/114733610527946762" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@raiderrobert/</span><span class="invisible">114733610527946762</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/114734065411560482" target="_blank">2025-06-23</a>
+  <p>Right now it’s 100F / 38C at home so my wife and I decided to take the tram up the mountain where it’s a cool 70F / 21C. It only takes 10 mins for this tram ride. Expect pictures! ...</p>
+  - <a href="https://mastodon.social/@ryancheley/114841668233416443" target="_blank">2025-07-12</a>
   </blockquote>
 
 
