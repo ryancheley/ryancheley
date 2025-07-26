@@ -51,9 +51,13 @@
 
 <ul>
 
-  <li><a href="tag:www.ryancheley.com,2025-06-19:/2025/06/19/migrating-to-raindrop-io/" target="_blank"><p>With the announced <a href="https://support.mozilla.org/en-US/kb/future-of-pocket">demise of Pocket by Mozilla</a> I needed to migrate all of my saved articles to 'something else' by the end of the month. I've actually tried to migrate from Pocket a few times over the years. I landed on <a href="https://www.instapaper.com/">Instapaper</a> for a while, but it never really …</p></a> - 2025-06-19</li>
+  <li><a href="tag:www.ryancheley.com,2025-07-25:/2025/07/25/why-we-need-to-stop-fighting-about-ai-tools-and-start-teaching-them/" target="_blank"><p>In mid-June, Hynek tooted on Mastodon the <a href="https://mastodon.social/@hynek/114703485524249737">following toot</a>:  </p>
+<blockquote>
+<p>Watching the frustratingly fruitless fights over the USEFULNESS of LLM-based coding helpers, I've come down to 3 points that explain why ppl seem to live in different realities:</p>
+<p>Most programmers:</p>
+<p>1) Write inconsequential remixes of trivial code that has been written …</p></blockquote></a> - 2025-07-25</li>
 
-  <li><a href="tag:www.ryancheley.com,2025-06-15:/2025/06/15/a-new-project-at-work/" target="_blank"><p>I was added to a work email that was requesting a not-so-small new project that was going to need to be completed. The problem that needed to be solved was a bit squishy, but it had been well thought out, and it had an importance to it that was easy …</p></a> - 2025-06-15</li>
+  <li><a href="tag:www.ryancheley.com,2025-06-19:/2025/06/19/migrating-to-raindrop-io/" target="_blank"><p>With the announced <a href="https://support.mozilla.org/en-US/kb/future-of-pocket">demise of Pocket by Mozilla</a> I needed to migrate all of my saved articles to 'something else' by the end of the month. I've actually tried to migrate from Pocket a few times over the years. I landed on <a href="https://www.instapaper.com/">Instapaper</a> for a while, but it never really …</p></a> - 2025-06-19</li>
 
 </ul>
 
@@ -65,6 +69,11 @@
 
 
   <blockquote>
+  <p>Why We Need to Stop Fighting About AI Tools and Start Teaching Them<br /><a href="https://www.ryancheley.com/2025/07/25/why-we-need-to-stop-fighting-about-ai-tools-and-start-teaching-them/" rel="nofollow noopener" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">ryancheley.com/2025/07/25/why-</span><span class="invisible">we-need-to-stop-fighting-about-ai-tools-and-start-teaching-them/</span></a> ...</p>
+  - <a href="https://mastodon.social/@ryancheley/114914106114137564" target="_blank">2025-07-25</a>
+  </blockquote>
+
+  <blockquote>
   <p>10/10 would do again!</p>
   - <a href="https://mastodon.social/@ryancheley/114843131036737686" target="_blank">2025-07-13</a>
   </blockquote>
@@ -72,11 +81,6 @@
   <blockquote>
   <p>If I can ever get a Python or Django related conference in Palm Springs this is definitely something all attendees would encourage to do!</p>
   - <a href="https://mastodon.social/@ryancheley/114841671860911312" target="_blank">2025-07-12</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Right now it’s 100F / 38C at home so my wife and I decided to take the tram up the mountain where it’s a cool 70F / 21C. It only takes 10 mins for this tram ride. Expect pictures! ...</p>
-  - <a href="https://mastodon.social/@ryancheley/114841668233416443" target="_blank">2025-07-12</a>
   </blockquote>
 
 
