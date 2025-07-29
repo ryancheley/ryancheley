@@ -69,6 +69,11 @@
 
 
   <blockquote>
+  <p>The lemon tree is really coming in! There are, by my best guess, close to 100 lemons on this stout little tree!</p>
+  - <a href="https://mastodon.social/@ryancheley/114934090885163214" target="_blank">2025-07-29</a>
+  </blockquote>
+
+  <blockquote>
   <p>Why We Need to Stop Fighting About AI Tools and Start Teaching Them<br /><a href="https://www.ryancheley.com/2025/07/25/why-we-need-to-stop-fighting-about-ai-tools-and-start-teaching-them/" rel="nofollow noopener" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">ryancheley.com/2025/07/25/why-</span><span class="invisible">we-need-to-stop-fighting-about-ai-tools-and-start-teaching-them/</span></a> ...</p>
   - <a href="https://mastodon.social/@ryancheley/114914106114137564" target="_blank">2025-07-25</a>
   </blockquote>
@@ -76,11 +81,6 @@
   <blockquote>
   <p>10/10 would do again!</p>
   - <a href="https://mastodon.social/@ryancheley/114843131036737686" target="_blank">2025-07-13</a>
-  </blockquote>
-
-  <blockquote>
-  <p>If I can ever get a Python or Django related conference in Palm Springs this is definitely something all attendees would encourage to do!</p>
-  - <a href="https://mastodon.social/@ryancheley/114841671860911312" target="_blank">2025-07-12</a>
   </blockquote>
 
 
