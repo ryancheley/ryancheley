@@ -69,18 +69,18 @@
 
 
   <blockquote>
+  <p>Just landed and on my way to the hotel. Super excited to get <a class="mention hashtag" href="https://mastodon.social/tags/DjangoConUS" rel="tag">#<span>DjangoConUS</span></a> started 🎉</p>
+  - <a href="https://mastodon.social/@ryancheley/115159276492588678" target="_blank">2025-09-06</a>
+  </blockquote>
+
+  <blockquote>
+  <p>Let the adventure begin! ...</p>
+  - <a href="https://mastodon.social/@ryancheley/115157524585307087" target="_blank">2025-09-06</a>
+  </blockquote>
+
+  <blockquote>
   <p>I just got home from dropping off my daughter at college to start her second year. Needless to say I’m having a lot of <a class="mention hashtag" href="https://mastodon.social/tags/feelings" rel="tag">#<span>feelings</span></a> right now. They grow up pretty fast. Enjoy the good and the bad of having your kiddos at home while you can</p>
   - <a href="https://mastodon.social/@ryancheley/115080563967921666" target="_blank">2025-08-23</a>
-  </blockquote>
-
-  <blockquote>
-  <p>The lemon tree is really coming in! There are, by my best guess, close to 100 lemons on this stout little tree!</p>
-  - <a href="https://mastodon.social/@ryancheley/114934090885163214" target="_blank">2025-07-29</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Why We Need to Stop Fighting About AI Tools and Start Teaching Them<br /><a href="https://www.ryancheley.com/2025/07/25/why-we-need-to-stop-fighting-about-ai-tools-and-start-teaching-them/" rel="nofollow noopener" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">ryancheley.com/2025/07/25/why-</span><span class="invisible">we-need-to-stop-fighting-about-ai-tools-and-start-teaching-them/</span></a> ...</p>
-  - <a href="https://mastodon.social/@ryancheley/114914106114137564" target="_blank">2025-07-25</a>
   </blockquote>
 
 
