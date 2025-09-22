@@ -32,6 +32,8 @@
 
 <ul>
 
+  <li><a href="https://github.com/ryancheley/til/blob/main/just/modules.md" target="_blank">just modules</a> - 2025-09-21</li>
+
   <li><a href="youtube-dl" target="_blank">Fork of YouTube Download (youtube-dl) written in Python.</a> - 2025-06-04</li>
 
   <li><a href="https://github.com/ryancheley/til/blob/main/uv/run-remote-scripts-with-uv.md" target="_blank">Run remote scripts with uv</a> - 2025-06-04</li>
@@ -39,8 +41,6 @@
   <li><a href="https://github.com/ryancheley/til/blob/main/computing/authorized-keys-can-restrict-actions.md" target="_blank">Authorized Keys Can Restrict Actions</a> - 2025-04-28</li>
 
   <li><a href="https://github.com/ryancheley/til/blob/main/github/gfm.md" target="_blank">GitHub Flavored Markdown via the gh cli</a> - 2025-04-18</li>
-
-  <li><a href="https://github.com/ryancheley/til/blob/main/github/gha-dependabot.md" target="_blank">Dependabot to update GitHub Actions</a> - 2025-01-25</li>
 
 </ul>
 
