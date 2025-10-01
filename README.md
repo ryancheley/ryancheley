@@ -69,6 +69,11 @@
 
 
   <blockquote>
+  <p>Did I got to a Benson Boone concert tonight? Yes! ...</p>
+  - <a href="https://mastodon.social/@ryancheley/115297093571786699" target="_blank">2025-10-01</a>
+  </blockquote>
+
+  <blockquote>
   <p>Four scariest words for a <a class="mention hashtag" href="https://mastodon.social/tags/Dodgers" rel="tag">#<span>Dodgers</span></a> fan. Here comes Tanner Scott 🤦🏻‍♂️</p>
   - <a href="https://mastodon.social/@ryancheley/115274345346614676" target="_blank">2025-09-27</a>
   </blockquote>
@@ -76,11 +81,6 @@
   <blockquote>
   <p>Just landed and on my way to the hotel. Super excited to get <a class="mention hashtag" href="https://mastodon.social/tags/DjangoConUS" rel="tag">#<span>DjangoConUS</span></a> started 🎉</p>
   - <a href="https://mastodon.social/@ryancheley/115159276492588678" target="_blank">2025-09-06</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Let the adventure begin! ...</p>
-  - <a href="https://mastodon.social/@ryancheley/115157524585307087" target="_blank">2025-09-06</a>
   </blockquote>
 
 
