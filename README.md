@@ -69,6 +69,11 @@
 
 
   <blockquote>
+  <p>The <a class="mention hashtag" href="https://mastodon.social/tags/CoachelleValleyFirebirds" rel="tag">#<span>CoachelleValleyFirebirds</span></a> season starts on Friday and today was a meet the players event. Had a great time with fellow Firebirds fans and got my sweet Firebirds baseball jersey signed by a ton of players. Can’t wait for game 1 on Friday! <a class="mention hashtag" href="https://mastodon.social/tags/AHL" rel="tag">#<span>AHL</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/115336515878591649" target="_blank">2025-10-08</a>
+  </blockquote>
+
+  <blockquote>
   <p>Did I got to a Benson Boone concert tonight? Yes! ...</p>
   - <a href="https://mastodon.social/@ryancheley/115297093571786699" target="_blank">2025-10-01</a>
   </blockquote>
@@ -76,11 +81,6 @@
   <blockquote>
   <p>Four scariest words for a <a class="mention hashtag" href="https://mastodon.social/tags/Dodgers" rel="tag">#<span>Dodgers</span></a> fan. Here comes Tanner Scott 🤦🏻‍♂️</p>
   - <a href="https://mastodon.social/@ryancheley/115274345346614676" target="_blank">2025-09-27</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Just landed and on my way to the hotel. Super excited to get <a class="mention hashtag" href="https://mastodon.social/tags/DjangoConUS" rel="tag">#<span>DjangoConUS</span></a> started 🎉</p>
-  - <a href="https://mastodon.social/@ryancheley/115159276492588678" target="_blank">2025-09-06</a>
   </blockquote>
 
 
