@@ -69,6 +69,11 @@
 
 
   <blockquote>
+  <p>Ran into the <a class="mention hashtag" href="https://mastodon.social/tags/CoachelleValleyFirebirds" rel="tag">#<span>CoachelleValleyFirebirds</span></a> mascot Fuego at an event this morning. He saw my hat and got super excited!</p>
+  - <a href="https://mastodon.social/@ryancheley/115356375232420272" target="_blank">2025-10-11</a>
+  </blockquote>
+
+  <blockquote>
   <p>Narrator: it was no longer his happy place<br /><a class="mention hashtag" href="https://mastodon.social/tags/CoachelleValleyFirebirds" rel="tag">#<span>CoachelleValleyFirebirds</span></a> lose 5-0 to the <a class="mention hashtag" href="https://mastodon.social/tags/SanDiegoGulls" rel="tag">#<span>SanDiegoGulls</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/115353786488660372" target="_blank">2025-10-11</a>
   </blockquote>
@@ -76,11 +81,6 @@
   <blockquote>
   <p>Tonight starts the 2025-26 season for the <a class="mention hashtag" href="https://mastodon.social/tags/CoachelleValleyFirebirds" rel="tag">#<span>CoachelleValleyFirebirds</span></a>. I am in my happy place tonight!</p>
   - <a href="https://mastodon.social/@ryancheley/115353048667617066" target="_blank">2025-10-11</a>
-  </blockquote>
-
-  <blockquote>
-  <p>The <a class="mention hashtag" href="https://mastodon.social/tags/CoachelleValleyFirebirds" rel="tag">#<span>CoachelleValleyFirebirds</span></a> season starts on Friday and today was a meet the players event. Had a great time with fellow Firebirds fans and got my sweet Firebirds baseball jersey signed by a ton of players. Can’t wait for game 1 on Friday! <a class="mention hashtag" href="https://mastodon.social/tags/AHL" rel="tag">#<span>AHL</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/115336515878591649" target="_blank">2025-10-08</a>
   </blockquote>
 
 
