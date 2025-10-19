@@ -70,6 +70,11 @@
 
 
   <blockquote>
+  <p>Hockey<br />Home game 2. Hoping that the <a class="mention hashtag" href="https://mastodon.social/tags/CoachelleValleyFirebirds" rel="tag">#<span>CoachelleValleyFirebirds</span></a> are able to score tonight. Hopefully the narrator will have better news later tonight than last time <a class="mention hashtag" href="https://mastodon.social/tags/AHL" rel="tag">#<span>AHL</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/115398106925021885" target="_blank">2025-10-19</a>
+  </blockquote>
+
+  <blockquote>
   <p>Let’s goooo!!! <a class="mention hashtag" href="https://mastodon.social/tags/Dodgers" rel="tag">#<span>Dodgers</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/115393043082239266" target="_blank">2025-10-18</a>
   </blockquote>
@@ -77,11 +82,6 @@
   <blockquote>
   <p>Deploying n8n on Digital Ocean<br /><a href="https://www.ryancheley.com/2025/10/11/deploying-n8n-on-digital-ocean/" rel="nofollow noopener" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">ryancheley.com/2025/10/11/depl</span><span class="invisible">oying-n8n-on-digital-ocean/</span></a> ...</p>
   - <a href="https://mastodon.social/@ryancheley/115361399013290126" target="_blank">2025-10-12</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Ran into the <a class="mention hashtag" href="https://mastodon.social/tags/CoachelleValleyFirebirds" rel="tag">#<span>CoachelleValleyFirebirds</span></a> mascot Fuego at an event this morning. He saw my hat and got super excited!</p>
-  - <a href="https://mastodon.social/@ryancheley/115356375232420272" target="_blank">2025-10-11</a>
   </blockquote>
 
 
