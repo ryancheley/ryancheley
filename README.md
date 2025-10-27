@@ -70,6 +70,11 @@
 
 
   <blockquote>
+  <p>TIL that the M in <a class="mention hashtag" href="https://mastodon.social/tags/QMJHL" rel="tag">#<span>QMJHL</span></a> stands for Maritimes and not Major and now my mind is blown <a class="mention hashtag" href="https://mastodon.social/tags/Hockey" rel="tag">#<span>Hockey</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/CHL" rel="tag">#<span>CHL</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/115443258304140258" target="_blank">2025-10-27</a>
+  </blockquote>
+
+  <blockquote>
   <p>A loss is a loss, but at least this time the <a class="mention hashtag" href="https://mastodon.social/tags/CoachelleValleyFirebirds" rel="tag">#<span>CoachelleValleyFirebirds</span></a> looked like they belonged on the ice. They fall 3-1 (the last goal was an Empty Net … so I’m tellling myself it was 2-1!) to the <a class="mention hashtag" href="https://mastodon.social/tags/ColoradoEagles" rel="tag">#<span>ColoradoEagles</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/AHL" rel="tag">#<span>AHL</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/115400435106680550" target="_blank">2025-10-19</a>
   </blockquote>
@@ -77,11 +82,6 @@
   <blockquote>
   <p>Hockey<br />Home game 2. Hoping that the <a class="mention hashtag" href="https://mastodon.social/tags/CoachelleValleyFirebirds" rel="tag">#<span>CoachelleValleyFirebirds</span></a> are able to score tonight. Hopefully the narrator will have better news later tonight than last time <a class="mention hashtag" href="https://mastodon.social/tags/AHL" rel="tag">#<span>AHL</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/115398106925021885" target="_blank">2025-10-19</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Let’s goooo!!! <a class="mention hashtag" href="https://mastodon.social/tags/Dodgers" rel="tag">#<span>Dodgers</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/115393043082239266" target="_blank">2025-10-18</a>
   </blockquote>
 
 
