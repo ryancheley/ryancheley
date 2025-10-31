@@ -70,6 +70,11 @@
 
 
   <blockquote>
+  <p>I’m in <a class="mention hashtag" href="https://mastodon.social/tags/Nashville" rel="tag">#<span>Nashville</span></a> for a weekend. I went into Post Malone’s bar to listen to music and hang out … I somehow ended up at Luke Bryan’s bar instead 🤷🏼‍♂️</p>
+  - <a href="https://mastodon.social/@ryancheley/115465419928227868" target="_blank">2025-10-30</a>
+  </blockquote>
+
+  <blockquote>
   <p>It’s almost harvest season! I’m guessing I have close to 100 lemons on my mighty lemon tree right now. Also, in the background, are some palm trees. When my family and I moved into this house 16 years ago I was able to trim them, on my own, with no ladder. The tallest one is about 30ft/10m tall I’d say.</p>
   - <a href="https://mastodon.social/@ryancheley/115453444265145586" target="_blank">2025-10-28</a>
   </blockquote>
@@ -77,11 +82,6 @@
   <blockquote>
   <p>TIL that the M in <a class="mention hashtag" href="https://mastodon.social/tags/QMJHL" rel="tag">#<span>QMJHL</span></a> stands for Maritimes and not Major and now my mind is blown <a class="mention hashtag" href="https://mastodon.social/tags/Hockey" rel="tag">#<span>Hockey</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/CHL" rel="tag">#<span>CHL</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/115443258304140258" target="_blank">2025-10-27</a>
-  </blockquote>
-
-  <blockquote>
-  <p>A loss is a loss, but at least this time the <a class="mention hashtag" href="https://mastodon.social/tags/CoachelleValleyFirebirds" rel="tag">#<span>CoachelleValleyFirebirds</span></a> looked like they belonged on the ice. They fall 3-1 (the last goal was an Empty Net … so I’m tellling myself it was 2-1!) to the <a class="mention hashtag" href="https://mastodon.social/tags/ColoradoEagles" rel="tag">#<span>ColoradoEagles</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/AHL" rel="tag">#<span>AHL</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/115400435106680550" target="_blank">2025-10-19</a>
   </blockquote>
 
 
