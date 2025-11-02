@@ -70,18 +70,18 @@
 
 
   <blockquote>
+  <p>I was at an <a class="mention hashtag" href="https://mastodon.social/tags/NHL" rel="tag">#<span>NHL</span></a> game a few hours ago, and now I’m at a concert at the Ryman Auditorium to watch a <a class="mention hashtag" href="https://mastodon.social/tags/bluegrass" rel="tag">#<span>bluegrass</span></a> band. Seriously, Nashville is one of the coolest cities I’ve ever been too. I’ll likely be at an <a class="mention hashtag" href="https://mastodon.social/tags/NFL" rel="tag">#<span>NFL</span></a> game tomorrow, if the weather cooperates</p>
+  - <a href="https://mastodon.social/@ryancheley/115477268975818571" target="_blank">2025-11-02</a>
+  </blockquote>
+
+  <blockquote>
+  <p>I’m in Nashville and EVERY where seems to have a stage for live music. Even the Taco Bell!</p>
+  - <a href="https://mastodon.social/@ryancheley/115475672081915359" target="_blank">2025-11-01</a>
+  </blockquote>
+
+  <blockquote>
   <p>I’m in <a class="mention hashtag" href="https://mastodon.social/tags/Nashville" rel="tag">#<span>Nashville</span></a> for a weekend. I went into Post Malone’s bar to listen to music and hang out … I somehow ended up at Luke Bryan’s bar instead 🤷🏼‍♂️</p>
   - <a href="https://mastodon.social/@ryancheley/115465419928227868" target="_blank">2025-10-30</a>
-  </blockquote>
-
-  <blockquote>
-  <p>It’s almost harvest season! I’m guessing I have close to 100 lemons on my mighty lemon tree right now. Also, in the background, are some palm trees. When my family and I moved into this house 16 years ago I was able to trim them, on my own, with no ladder. The tallest one is about 30ft/10m tall I’d say.</p>
-  - <a href="https://mastodon.social/@ryancheley/115453444265145586" target="_blank">2025-10-28</a>
-  </blockquote>
-
-  <blockquote>
-  <p>TIL that the M in <a class="mention hashtag" href="https://mastodon.social/tags/QMJHL" rel="tag">#<span>QMJHL</span></a> stands for Maritimes and not Major and now my mind is blown <a class="mention hashtag" href="https://mastodon.social/tags/Hockey" rel="tag">#<span>Hockey</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/CHL" rel="tag">#<span>CHL</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/115443258304140258" target="_blank">2025-10-27</a>
   </blockquote>
 
 
