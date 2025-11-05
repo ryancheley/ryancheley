@@ -51,14 +51,12 @@
 
 <ul>
 
+  <li><a href="tag:www.ryancheley.com,2025-11-04:/2025/11/04/dsf-candidate-statement/" target="_blank"><p>The <a href="https://www.djangoproject.com/weblog/2025/oct/11/2026-dsf-board-nominations/">Django Software Foundation Board of Directors elections</a> are scheduled for November 2025 and I’ve decided to throw my hat into the ring. My hope specifically, if elected, is to be selected as the Treasurer. I have 4 main objectives over my two year term.</p>
+<ol>
+<li>Getting an Executive Director …</li></ol></a> - 2025-11-04</li>
+
   <li><a href="tag:www.ryancheley.com,2025-10-11:/2025/10/11/deploying-n8n-on-digital-ocean/" target="_blank"><p>This guide shows you how to deploy <a href="https://n8n.io/">n8n</a>, a workflow automation tool, on your own VPS. Self-hosting gives you full control over your data, avoids monthly subscription costs, and lets you run unlimited workflows without usage limits.</p>
 <p>I'm using <a href="https://m.do.co/c/cc5fdad15654">Digital Ocean</a><sup id="sf-deploying-n8n-on-digital-ocean-1-back"><a class="simple-footnote" href="https://ryancheley.com/feeds/all.rss.xml#sf-deploying-n8n-on-digital-ocean-1" title="Referral Link">1</a></sup> for this guide, but these steps work on …</p></a> - 2025-10-11</li>
-
-  <li><a href="tag:www.ryancheley.com,2025-07-25:/2025/07/25/why-we-need-to-stop-fighting-about-ai-tools-and-start-teaching-them/" target="_blank"><p>In mid-June, Hynek tooted on Mastodon the <a href="https://mastodon.social/@hynek/114703485524249737">following toot</a>:  </p>
-<blockquote>
-<p>Watching the frustratingly fruitless fights over the USEFULNESS of LLM-based coding helpers, I've come down to 3 points that explain why ppl seem to live in different realities:</p>
-<p>Most programmers:</p>
-<p>1) Write inconsequential remixes of trivial code that has been written …</p></blockquote></a> - 2025-07-25</li>
 
 </ul>
 
@@ -70,6 +68,11 @@
 
 
   <blockquote>
+  <p>Details on My Candidate Statement for the DSF<br /><a href="https://www.ryancheley.com/2025/11/04/dsf-candidate-statement/" rel="nofollow noopener" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">ryancheley.com/2025/11/04/dsf-</span><span class="invisible">candidate-statement/</span></a> ...</p>
+  - <a href="https://mastodon.social/@ryancheley/115491654020633266" target="_blank">2025-11-04</a>
+  </blockquote>
+
+  <blockquote>
   <p>I was at an <a class="mention hashtag" href="https://mastodon.social/tags/NHL" rel="tag">#<span>NHL</span></a> game a few hours ago, and now I’m at a concert at the Ryman Auditorium to watch a <a class="mention hashtag" href="https://mastodon.social/tags/bluegrass" rel="tag">#<span>bluegrass</span></a> band. Seriously, Nashville is one of the coolest cities I’ve ever been too. I’ll likely be at an <a class="mention hashtag" href="https://mastodon.social/tags/NFL" rel="tag">#<span>NFL</span></a> game tomorrow, if the weather cooperates</p>
   - <a href="https://mastodon.social/@ryancheley/115477268975818571" target="_blank">2025-11-02</a>
   </blockquote>
@@ -77,11 +80,6 @@
   <blockquote>
   <p>I’m in Nashville and EVERY where seems to have a stage for live music. Even the Taco Bell!</p>
   - <a href="https://mastodon.social/@ryancheley/115475672081915359" target="_blank">2025-11-01</a>
-  </blockquote>
-
-  <blockquote>
-  <p>I’m in <a class="mention hashtag" href="https://mastodon.social/tags/Nashville" rel="tag">#<span>Nashville</span></a> for a weekend. I went into Post Malone’s bar to listen to music and hang out … I somehow ended up at Luke Bryan’s bar instead 🤷🏼‍♂️</p>
-  - <a href="https://mastodon.social/@ryancheley/115465419928227868" target="_blank">2025-10-30</a>
   </blockquote>
 
 
