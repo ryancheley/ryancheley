@@ -68,6 +68,11 @@
 
 
   <blockquote>
+  <p>My talk for <a class="mention hashtag" href="https://mastodon.social/tags/DjangoConUS" rel="tag">#<span>DjangoConUS</span></a> has been posted! I really liked how this talk came out and the questions I got at the end of the talk were great!  ...</p>
+  - <a href="https://mastodon.social/@ryancheley/115516211781422328" target="_blank">2025-11-08</a>
+  </blockquote>
+
+  <blockquote>
   <p>Details on My Candidate Statement for the DSF<br /><a href="https://www.ryancheley.com/2025/11/04/dsf-candidate-statement/" rel="nofollow noopener" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">ryancheley.com/2025/11/04/dsf-</span><span class="invisible">candidate-statement/</span></a> ...</p>
   - <a href="https://mastodon.social/@ryancheley/115491654020633266" target="_blank">2025-11-04</a>
   </blockquote>
@@ -75,11 +80,6 @@
   <blockquote>
   <p>I was at an <a class="mention hashtag" href="https://mastodon.social/tags/NHL" rel="tag">#<span>NHL</span></a> game a few hours ago, and now I’m at a concert at the Ryman Auditorium to watch a <a class="mention hashtag" href="https://mastodon.social/tags/bluegrass" rel="tag">#<span>bluegrass</span></a> band. Seriously, Nashville is one of the coolest cities I’ve ever been too. I’ll likely be at an <a class="mention hashtag" href="https://mastodon.social/tags/NFL" rel="tag">#<span>NFL</span></a> game tomorrow, if the weather cooperates</p>
   - <a href="https://mastodon.social/@ryancheley/115477268975818571" target="_blank">2025-11-02</a>
-  </blockquote>
-
-  <blockquote>
-  <p>I’m in Nashville and EVERY where seems to have a stage for live music. Even the Taco Bell!</p>
-  - <a href="https://mastodon.social/@ryancheley/115475672081915359" target="_blank">2025-11-01</a>
   </blockquote>
 
 
