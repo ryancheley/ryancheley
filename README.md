@@ -68,6 +68,11 @@
 
 
   <blockquote>
+  <p>I got a haircut today. They gave me the “senior” price which is usually for patrons that are 65 and older.  ...</p>
+  - <a href="https://mastodon.social/@ryancheley/115653135066223115" target="_blank">2025-12-03</a>
+  </blockquote>
+
+  <blockquote>
   <p>Hockey<br />First home game for the <a class="mention hashtag" href="https://mastodon.social/tags/CoachelleValleyFirebirds" rel="tag">#<span>CoachelleValleyFirebirds</span></a> for me in almost a month! Been missing my <a class="mention hashtag" href="https://mastodon.social/tags/ahl" rel="tag">#<span>ahl</span></a> hockey time</p>
   - <a href="https://mastodon.social/@ryancheley/115534814331340126" target="_blank">2025-11-12</a>
   </blockquote>
@@ -75,11 +80,6 @@
   <blockquote>
   <p>I got to march in the Palm Springs Pride parade today! Lots of fun was had by all. I even got to carry the banner at the front of my contingent for work 🌈</p>
   - <a href="https://mastodon.social/@ryancheley/115521826372438184" target="_blank">2025-11-09</a>
-  </blockquote>
-
-  <blockquote>
-  <p>My talk for <a class="mention hashtag" href="https://mastodon.social/tags/DjangoConUS" rel="tag">#<span>DjangoConUS</span></a> has been posted! I really liked how this talk came out and the questions I got at the end of the talk were great!  ...</p>
-  - <a href="https://mastodon.social/@ryancheley/115516211781422328" target="_blank">2025-11-08</a>
   </blockquote>
 
 
