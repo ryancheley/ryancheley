@@ -51,11 +51,11 @@
 
 <ul>
 
-  <li><a href="tag:www.ryancheley.com,2025-11-04:/2025/11/04/dsf-candidate-statement/" target="_blank"><p>The <a href="https://www.djangoproject.com/weblog/2025/oct/11/2026-dsf-board-nominations/">Django Software Foundation Board of Directors elections</a> are scheduled for November 2025 and I’ve decided to throw my hat into the ring. My hope specifically, if elected, is to be selected as the Treasurer. I have 4 main objectives over my two year term.</p>
+  <li><a href="tag:ryancheley.com,2025-11-04:/2025/11/04/dsf-candidate-statement/" target="_blank"><p>The <a href="https://www.djangoproject.com/weblog/2025/oct/11/2026-dsf-board-nominations/">Django Software Foundation Board of Directors elections</a> are scheduled for November 2025 and I’ve decided to throw my hat into the ring. My hope specifically, if elected, is to be selected as the Treasurer. I have 4 main objectives over my two year term.</p>
 <ol>
 <li>Getting an Executive Director …</li></ol></a> - 2025-11-04</li>
 
-  <li><a href="tag:www.ryancheley.com,2025-10-11:/2025/10/11/deploying-n8n-on-digital-ocean/" target="_blank"><p>This guide shows you how to deploy <a href="https://n8n.io/">n8n</a>, a workflow automation tool, on your own VPS. Self-hosting gives you full control over your data, avoids monthly subscription costs, and lets you run unlimited workflows without usage limits.</p>
+  <li><a href="tag:ryancheley.com,2025-10-11:/2025/10/11/deploying-n8n-on-digital-ocean/" target="_blank"><p>This guide shows you how to deploy <a href="https://n8n.io/">n8n</a>, a workflow automation tool, on your own VPS. Self-hosting gives you full control over your data, avoids monthly subscription costs, and lets you run unlimited workflows without usage limits.</p>
 <p>I'm using <a href="https://m.do.co/c/cc5fdad15654">Digital Ocean</a><sup id="sf-deploying-n8n-on-digital-ocean-1-back"><a class="simple-footnote" href="https://ryancheley.com/feeds/all.rss.xml#sf-deploying-n8n-on-digital-ocean-1" title="Referral Link">1</a></sup> for this guide, but these steps work on …</p></a> - 2025-10-11</li>
 
 </ul>
@@ -68,6 +68,11 @@
 
 
   <blockquote>
+  <p>Hockey ...</p>
+  - <a href="https://mastodon.social/@ryancheley/115659156752307145" target="_blank">2025-12-04</a>
+  </blockquote>
+
+  <blockquote>
   <p>I got a haircut today. They gave me the “senior” price which is usually for patrons that are 65 and older.  ...</p>
   - <a href="https://mastodon.social/@ryancheley/115653135066223115" target="_blank">2025-12-03</a>
   </blockquote>
@@ -75,11 +80,6 @@
   <blockquote>
   <p>Hockey<br />First home game for the <a class="mention hashtag" href="https://mastodon.social/tags/CoachelleValleyFirebirds" rel="tag">#<span>CoachelleValleyFirebirds</span></a> for me in almost a month! Been missing my <a class="mention hashtag" href="https://mastodon.social/tags/ahl" rel="tag">#<span>ahl</span></a> hockey time</p>
   - <a href="https://mastodon.social/@ryancheley/115534814331340126" target="_blank">2025-11-12</a>
-  </blockquote>
-
-  <blockquote>
-  <p>I got to march in the Palm Springs Pride parade today! Lots of fun was had by all. I even got to carry the banner at the front of my contingent for work 🌈</p>
-  - <a href="https://mastodon.social/@ryancheley/115521826372438184" target="_blank">2025-11-09</a>
   </blockquote>
 
 
