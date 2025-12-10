@@ -68,6 +68,11 @@
 
 
   <blockquote>
+  <p>It might be 110F/43C here in the summer, but the winters are pretty amazing.</p>
+  - <a href="https://mastodon.social/@ryancheley/115690786192614773" target="_blank">2025-12-09</a>
+  </blockquote>
+
+  <blockquote>
   <p>Hockey ...</p>
   - <a href="https://mastodon.social/@ryancheley/115659156752307145" target="_blank">2025-12-04</a>
   </blockquote>
@@ -75,11 +80,6 @@
   <blockquote>
   <p>I got a haircut today. They gave me the “senior” price which is usually for patrons that are 65 and older.  ...</p>
   - <a href="https://mastodon.social/@ryancheley/115653135066223115" target="_blank">2025-12-03</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Hockey<br />First home game for the <a class="mention hashtag" href="https://mastodon.social/tags/CoachelleValleyFirebirds" rel="tag">#<span>CoachelleValleyFirebirds</span></a> for me in almost a month! Been missing my <a class="mention hashtag" href="https://mastodon.social/tags/ahl" rel="tag">#<span>ahl</span></a> hockey time</p>
-  - <a href="https://mastodon.social/@ryancheley/115534814331340126" target="_blank">2025-11-12</a>
   </blockquote>
 
 
