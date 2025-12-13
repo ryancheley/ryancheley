@@ -68,6 +68,11 @@
 
 
   <blockquote>
+  <p>For my last day of “staycation” this week my wife and I went on a nice hike. This is a view from roughly 700 feet above the floor of the Coachella Valley.</p>
+  - <a href="https://mastodon.social/@ryancheley/115709620919757463" target="_blank">2025-12-13</a>
+  </blockquote>
+
+  <blockquote>
   <p>It might be 110F/43C here in the summer, but the winters are pretty amazing.</p>
   - <a href="https://mastodon.social/@ryancheley/115690786192614773" target="_blank">2025-12-09</a>
   </blockquote>
@@ -75,11 +80,6 @@
   <blockquote>
   <p>Hockey ...</p>
   - <a href="https://mastodon.social/@ryancheley/115659156752307145" target="_blank">2025-12-04</a>
-  </blockquote>
-
-  <blockquote>
-  <p>I got a haircut today. They gave me the “senior” price which is usually for patrons that are 65 and older.  ...</p>
-  - <a href="https://mastodon.social/@ryancheley/115653135066223115" target="_blank">2025-12-03</a>
   </blockquote>
 
 
