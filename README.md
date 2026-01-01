@@ -51,12 +51,12 @@
 
 <ul>
 
+  <li><a href="tag:ryancheley.com,2025-12-31:/2025/12/31/year-in-review-2025/" target="_blank"><p>I was hoping to have this written and posted last week, but for Christmas this year Santa brought me a cold which knocked me on my butt for a few days.</p>
+<p>I had done a bit of prep, but wow, when I look back at 2025 it was a pretty …</p></a> - 2025-12-31</li>
+
   <li><a href="tag:ryancheley.com,2025-11-04:/2025/11/04/dsf-candidate-statement/" target="_blank"><p>The <a href="https://www.djangoproject.com/weblog/2025/oct/11/2026-dsf-board-nominations/">Django Software Foundation Board of Directors elections</a> are scheduled for November 2025 and I’ve decided to throw my hat into the ring. My hope specifically, if elected, is to be selected as the Treasurer. I have 4 main objectives over my two year term.</p>
 <ol>
 <li>Getting an Executive Director …</li></ol></a> - 2025-11-04</li>
-
-  <li><a href="tag:ryancheley.com,2025-10-11:/2025/10/11/deploying-n8n-on-digital-ocean/" target="_blank"><p>This guide shows you how to deploy <a href="https://n8n.io/">n8n</a>, a workflow automation tool, on your own VPS. Self-hosting gives you full control over your data, avoids monthly subscription costs, and lets you run unlimited workflows without usage limits.</p>
-<p>I'm using <a href="https://m.do.co/c/cc5fdad15654">Digital Ocean</a><sup id="sf-deploying-n8n-on-digital-ocean-1-back"><a class="simple-footnote" href="https://ryancheley.com/feeds/all.rss.xml#sf-deploying-n8n-on-digital-ocean-1" title="Referral Link">1</a></sup> for this guide, but these steps work on …</p></a> - 2025-10-11</li>
 
 </ul>
 
@@ -68,6 +68,11 @@
 
 
   <blockquote>
+  <p>I didn't want to feel left out, so here's my contribution 😄 ...</p>
+  - <a href="https://mastodon.social/@ryancheley/115815453982460082" target="_blank">2025-12-31</a>
+  </blockquote>
+
+  <blockquote>
   <p>Teddy Bear toss at the <a class="mention hashtag" href="https://mastodon.social/tags/CoachelleValleyFirebirds" rel="tag">#<span>CoachelleValleyFirebirds</span></a> game last night!!!  ...</p>
   - <a href="https://mastodon.social/@ryancheley/115755054160260220" target="_blank">2025-12-21</a>
   </blockquote>
@@ -75,11 +80,6 @@
   <blockquote>
   <p>To provide a bit more context, today was Ugly Sweater &amp; Hot Cocoa day at work. Neither of these was needed when it was sunny, and 75F at 1030 this morning. It was a fun event, but goodness I was a bit warmer than I thought I’d be for this time of the year</p>
   - <a href="https://mastodon.social/@ryancheley/115744084535327831" target="_blank">2025-12-19</a>
-  </blockquote>
-
-  <blockquote>
-  <p>I’m sure this is fine</p>
-  - <a href="https://mastodon.social/@ryancheley/115744079703632829" target="_blank">2025-12-19</a>
   </blockquote>
 
 
