@@ -68,6 +68,11 @@
 
 
   <blockquote>
+  <p>Achievement unlocked ...</p>
+  - <a href="https://mastodon.social/@ryancheley/115834262721355795" target="_blank">2026-01-04</a>
+  </blockquote>
+
+  <blockquote>
   <p>Am I watching a hockey while at a hockey game? Yes.  ...</p>
   - <a href="https://mastodon.social/@ryancheley/115829219179566020" target="_blank">2026-01-03</a>
   </blockquote>
@@ -75,11 +80,6 @@
   <blockquote>
   <p>I didn't want to feel left out, so here's my contribution 😄 ...</p>
   - <a href="https://mastodon.social/@ryancheley/115815453982460082" target="_blank">2025-12-31</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Teddy Bear toss at the <a class="mention hashtag" href="https://mastodon.social/tags/CoachelleValleyFirebirds" rel="tag">#<span>CoachelleValleyFirebirds</span></a> game last night!!!  ...</p>
-  - <a href="https://mastodon.social/@ryancheley/115755054160260220" target="_blank">2025-12-21</a>
   </blockquote>
 
 
