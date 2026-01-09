@@ -68,6 +68,11 @@
 
 
   <blockquote>
+  <p>I went to lunch today and realized I left my phone in my office. I almost went back for it but decided, nah. It’ll be ok.  ...</p>
+  - <a href="https://mastodon.social/@ryancheley/115861858219943879" target="_blank">2026-01-08</a>
+  </blockquote>
+
+  <blockquote>
   <p>Achievement unlocked ...</p>
   - <a href="https://mastodon.social/@ryancheley/115834262721355795" target="_blank">2026-01-04</a>
   </blockquote>
@@ -75,11 +80,6 @@
   <blockquote>
   <p>Am I watching a hockey while at a hockey game? Yes.  ...</p>
   - <a href="https://mastodon.social/@ryancheley/115829219179566020" target="_blank">2026-01-03</a>
-  </blockquote>
-
-  <blockquote>
-  <p>I didn't want to feel left out, so here's my contribution 😄 ...</p>
-  - <a href="https://mastodon.social/@ryancheley/115815453982460082" target="_blank">2025-12-31</a>
   </blockquote>
 
 
