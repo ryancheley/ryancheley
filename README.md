@@ -68,18 +68,18 @@
 
 
   <blockquote>
-  <p>I went to lunch today and realized I left my phone in my office. I almost went back for it but decided, nah. It’ll be ok.  ...</p>
-  - <a href="https://mastodon.social/@ryancheley/115861858219943879" target="_blank">2026-01-08</a>
+  <p>This is the most Chargers start to a game that’s ever Chargered 🤦🏻‍♂️ ...</p>
+  - <a href="https://mastodon.social/@ryancheley/115879577104838031" target="_blank">2026-01-12</a>
   </blockquote>
 
   <blockquote>
-  <p>Achievement unlocked ...</p>
-  - <a href="https://mastodon.social/@ryancheley/115834262721355795" target="_blank">2026-01-04</a>
+  <p>Nothing is so permanent as a temporary solution<br /><a href="https://ohai.social/@archaeohistories/115878206962115455" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="ellipsis">ohai.social/@archaeohistories/</span><span class="invisible">115878206962115455</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/115879364997952453" target="_blank">2026-01-12</a>
   </blockquote>
 
   <blockquote>
-  <p>Am I watching a hockey while at a hockey game? Yes.  ...</p>
-  - <a href="https://mastodon.social/@ryancheley/115829219179566020" target="_blank">2026-01-03</a>
+  <p>The Rosemary Lemonade is delicious so it was worth the scratch from the Lemon Tree</p>
+  - <a href="https://mastodon.social/@ryancheley/115878491247449081" target="_blank">2026-01-11</a>
   </blockquote>
 
 
