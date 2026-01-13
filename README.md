@@ -51,12 +51,11 @@
 
 <ul>
 
+  <li><a href="tag:ryancheley.com,2026-01-12:/2026/01/12/migrating-to-hetzner-with-coolify/" target="_blank"><h1>What I did</h1>
+<p>A few weeks ago, I got to watch <a href="https://mastodon.social/@webology">Jeff Triplett</a> migrate <a href="https://djangopackages.org/">DjangoPackages</a> from <a href="https://www.digitalocean.com/">DigitalOcean</a> to <a href="https://hetzner.cloud/?ref=gNVHuEvaKgAw">Hetzner</a><sup id="sf-migrating-to-hetzner-with-coolify-1-back"><a class="simple-footnote" href="https://ryancheley.com/feeds/all.rss.xml#sf-migrating-to-hetzner-with-coolify-1" title="This is an affiliate link">1</a></sup> using <a href="https://coolify.io/">Coolify</a>. The magical world of Coolify made everything look just so ... easy. Jeff mentioned that one of the driving forces for the decision to go to Hetzner was the …</p></a> - 2026-01-12</li>
+
   <li><a href="tag:ryancheley.com,2025-12-31:/2025/12/31/year-in-review-2025/" target="_blank"><p>I was hoping to have this written and posted last week, but for Christmas this year Santa brought me a cold which knocked me on my butt for a few days.</p>
 <p>I had done a bit of prep, but wow, when I look back at 2025 it was a pretty …</p></a> - 2025-12-31</li>
-
-  <li><a href="tag:ryancheley.com,2025-11-04:/2025/11/04/dsf-candidate-statement/" target="_blank"><p>The <a href="https://www.djangoproject.com/weblog/2025/oct/11/2026-dsf-board-nominations/">Django Software Foundation Board of Directors elections</a> are scheduled for November 2025 and I’ve decided to throw my hat into the ring. My hope specifically, if elected, is to be selected as the Treasurer. I have 4 main objectives over my two year term.</p>
-<ol>
-<li>Getting an Executive Director …</li></ol></a> - 2025-11-04</li>
 
 </ul>
 
@@ -68,6 +67,11 @@
 
 
   <blockquote>
+  <p>I did a thing!  ...</p>
+  - <a href="https://mastodon.social/@ryancheley/115882280602831153" target="_blank">2026-01-12</a>
+  </blockquote>
+
+  <blockquote>
   <p>This is the most Chargers start to a game that’s ever Chargered 🤦🏻‍♂️ ...</p>
   - <a href="https://mastodon.social/@ryancheley/115879577104838031" target="_blank">2026-01-12</a>
   </blockquote>
@@ -75,11 +79,6 @@
   <blockquote>
   <p>Nothing is so permanent as a temporary solution<br /><a href="https://ohai.social/@archaeohistories/115878206962115455" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="ellipsis">ohai.social/@archaeohistories/</span><span class="invisible">115878206962115455</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/115879364997952453" target="_blank">2026-01-12</a>
-  </blockquote>
-
-  <blockquote>
-  <p>The Rosemary Lemonade is delicious so it was worth the scratch from the Lemon Tree</p>
-  - <a href="https://mastodon.social/@ryancheley/115878491247449081" target="_blank">2026-01-11</a>
   </blockquote>
 
 
