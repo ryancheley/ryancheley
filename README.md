@@ -67,6 +67,11 @@
 
 
   <blockquote>
+  <p>I just got back from dropping my daughter off at her college. She’d been home for about 5 weeks for the winter break.  ...</p>
+  - <a href="https://mastodon.social/@ryancheley/115918133919051829" target="_blank">2026-01-18</a>
+  </blockquote>
+
+  <blockquote>
   <p>I did a thing!  ...</p>
   - <a href="https://mastodon.social/@ryancheley/115882280602831153" target="_blank">2026-01-12</a>
   </blockquote>
@@ -74,11 +79,6 @@
   <blockquote>
   <p>This is the most Chargers start to a game that’s ever Chargered 🤦🏻‍♂️ ...</p>
   - <a href="https://mastodon.social/@ryancheley/115879577104838031" target="_blank">2026-01-12</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Nothing is so permanent as a temporary solution<br /><a href="https://ohai.social/@archaeohistories/115878206962115455" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="ellipsis">ohai.social/@archaeohistories/</span><span class="invisible">115878206962115455</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/115879364997952453" target="_blank">2026-01-12</a>
   </blockquote>
 
 
