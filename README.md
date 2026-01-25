@@ -67,18 +67,18 @@
 
 
   <blockquote>
-  <p>I just got back from dropping my daughter off at her college. She’d been home for about 5 weeks for the winter break.  ...</p>
-  - <a href="https://mastodon.social/@ryancheley/115918133919051829" target="_blank">2026-01-18</a>
+  <p>Turns out Mr. Tumnus didn’t want the screw. I just found it!</p>
+  - <a href="https://mastodon.social/@ryancheley/115953273852320569" target="_blank">2026-01-25</a>
   </blockquote>
 
   <blockquote>
-  <p>I did a thing!  ...</p>
-  - <a href="https://mastodon.social/@ryancheley/115882280602831153" target="_blank">2026-01-12</a>
+  <p>And because this happened near a dryer, the screw is now in Narnia, along with all of my family's missing socks, never to be seen again ...</p>
+  - <a href="https://mastodon.social/@ryancheley/115952402087213947" target="_blank">2026-01-24</a>
   </blockquote>
 
   <blockquote>
-  <p>This is the most Chargers start to a game that’s ever Chargered 🤦🏻‍♂️ ...</p>
-  - <a href="https://mastodon.social/@ryancheley/115879577104838031" target="_blank">2026-01-12</a>
+  <p>As I was putting the original hook back on the door, one of the screws fell on the floor. ...</p>
+  - <a href="https://mastodon.social/@ryancheley/115952400685000783" target="_blank">2026-01-24</a>
   </blockquote>
 
 
