@@ -67,6 +67,11 @@
 
 
   <blockquote>
+  <p>In November 2023 I ordered four Kasa Smart light switches. I intended to install them over the holidays in 2023. Last weekend I installed 3 of the 4 I had purchased. Today I *finally* installed the last one. Why did I wait so long to install them? Not really sure … it was actually super straight forward. Guess I just needed to do the first one in order to finally get them all done. Anyway, peace has been reestablished in my home as everyone can use light switches as intended now 😁</p>
+  - <a href="https://mastodon.social/@ryancheley/115958129234761512" target="_blank">2026-01-25</a>
+  </blockquote>
+
+  <blockquote>
   <p>Turns out Mr. Tumnus didn’t want the screw. I just found it!</p>
   - <a href="https://mastodon.social/@ryancheley/115953273852320569" target="_blank">2026-01-25</a>
   </blockquote>
@@ -74,11 +79,6 @@
   <blockquote>
   <p>And because this happened near a dryer, the screw is now in Narnia, along with all of my family's missing socks, never to be seen again ...</p>
   - <a href="https://mastodon.social/@ryancheley/115952402087213947" target="_blank">2026-01-24</a>
-  </blockquote>
-
-  <blockquote>
-  <p>As I was putting the original hook back on the door, one of the screws fell on the floor. ...</p>
-  - <a href="https://mastodon.social/@ryancheley/115952400685000783" target="_blank">2026-01-24</a>
   </blockquote>
 
 
