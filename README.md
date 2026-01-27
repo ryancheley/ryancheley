@@ -67,18 +67,18 @@
 
 
   <blockquote>
+  <p>Turns out in addition to getting my vision tested I was also required to get a new photo. Friends, I was *not* expecting to take a government issued photo for an ID today. I’m not sure what I looked like, but I can assure you, I will not be super excited about this photo for the next 5 - 10 years I’m sure</p>
+  - <a href="https://mastodon.social/@ryancheley/115962921100350945" target="_blank">2026-01-26</a>
+  </blockquote>
+
+  <blockquote>
+  <p>Today in Adulting<br />Spending the morning at the DMV because even though the Drivers license renewal form said I could do everything online, and the DMV quite happily took my renewal fee, they apparently have no way to notify me (other than coming in) that actually I need to have an eye test done, maybe 🤷🏼‍♂️</p>
+  - <a href="https://mastodon.social/@ryancheley/115962653961806160" target="_blank">2026-01-26</a>
+  </blockquote>
+
+  <blockquote>
   <p>In November 2023 I ordered four Kasa Smart light switches. I intended to install them over the holidays in 2023. Last weekend I installed 3 of the 4 I had purchased. Today I *finally* installed the last one. Why did I wait so long to install them? Not really sure … it was actually super straight forward. Guess I just needed to do the first one in order to finally get them all done. Anyway, peace has been reestablished in my home as everyone can use light switches as intended now 😁</p>
   - <a href="https://mastodon.social/@ryancheley/115958129234761512" target="_blank">2026-01-25</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Turns out Mr. Tumnus didn’t want the screw. I just found it!</p>
-  - <a href="https://mastodon.social/@ryancheley/115953273852320569" target="_blank">2026-01-25</a>
-  </blockquote>
-
-  <blockquote>
-  <p>And because this happened near a dryer, the screw is now in Narnia, along with all of my family's missing socks, never to be seen again ...</p>
-  - <a href="https://mastodon.social/@ryancheley/115952402087213947" target="_blank">2026-01-24</a>
   </blockquote>
 
 
