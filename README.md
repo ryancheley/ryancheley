@@ -67,6 +67,11 @@
 
 
   <blockquote>
+  <p>Yep … still totally fine. Nothing to see here</p>
+  - <a href="https://mastodon.social/@ryancheley/115998738635940073" target="_blank">2026-02-02</a>
+  </blockquote>
+
+  <blockquote>
   <p>The tree has been picked almost clean. Lots of great lemons and delicious lemonade</p>
   - <a href="https://mastodon.social/@ryancheley/115975962040227628" target="_blank">2026-01-29</a>
   </blockquote>
@@ -74,11 +79,6 @@
   <blockquote>
   <p>Turns out in addition to getting my vision tested I was also required to get a new photo. Friends, I was *not* expecting to take a government issued photo for an ID today. I’m not sure what I looked like, but I can assure you, I will not be super excited about this photo for the next 5 - 10 years I’m sure</p>
   - <a href="https://mastodon.social/@ryancheley/115962921100350945" target="_blank">2026-01-26</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Today in Adulting<br />Spending the morning at the DMV because even though the Drivers license renewal form said I could do everything online, and the DMV quite happily took my renewal fee, they apparently have no way to notify me (other than coming in) that actually I need to have an eye test done, maybe 🤷🏼‍♂️</p>
-  - <a href="https://mastodon.social/@ryancheley/115962653961806160" target="_blank">2026-01-26</a>
   </blockquote>
 
 
