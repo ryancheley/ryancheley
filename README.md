@@ -67,6 +67,11 @@
 
 
   <blockquote>
+  <p><a class="mention hashtag" href="https://mastodon.social/tags/Kraken" rel="tag">#<span>Kraken</span></a> night at the <a class="mention hashtag" href="https://mastodon.social/tags/CoachellaValleyFirebirds" rel="tag">#<span>CoachellaValleyFirebirds</span></a> game tonight as they take on the <a class="mention hashtag" href="https://mastodon.social/tags/TucsonRoadRunners" rel="tag">#<span>TucsonRoadRunners</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/AHL" rel="tag">#<span>AHL</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/116066752479272322" target="_blank">2026-02-14</a>
+  </blockquote>
+
+  <blockquote>
   <p>Yep … still totally fine. Nothing to see here</p>
   - <a href="https://mastodon.social/@ryancheley/115998738635940073" target="_blank">2026-02-02</a>
   </blockquote>
@@ -74,11 +79,6 @@
   <blockquote>
   <p>The tree has been picked almost clean. Lots of great lemons and delicious lemonade</p>
   - <a href="https://mastodon.social/@ryancheley/115975962040227628" target="_blank">2026-01-29</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Turns out in addition to getting my vision tested I was also required to get a new photo. Friends, I was *not* expecting to take a government issued photo for an ID today. I’m not sure what I looked like, but I can assure you, I will not be super excited about this photo for the next 5 - 10 years I’m sure</p>
-  - <a href="https://mastodon.social/@ryancheley/115962921100350945" target="_blank">2026-01-26</a>
   </blockquote>
 
 
