@@ -67,6 +67,11 @@
 
 
   <blockquote>
+  <p>Watching <a class="mention hashtag" href="https://mastodon.social/tags/AHL" rel="tag">#<span>AHL</span></a> hockey outside with a nice warm fire <a class="mention hashtag" href="https://mastodon.social/tags/Hockey" rel="tag">#<span>Hockey</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/CoachellaValleyFirebirds" rel="tag">#<span>CoachellaValleyFirebirds</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/116112040265927030" target="_blank">2026-02-22</a>
+  </blockquote>
+
+  <blockquote>
   <p><a class="mention hashtag" href="https://mastodon.social/tags/Kraken" rel="tag">#<span>Kraken</span></a> night at the <a class="mention hashtag" href="https://mastodon.social/tags/CoachellaValleyFirebirds" rel="tag">#<span>CoachellaValleyFirebirds</span></a> game tonight as they take on the <a class="mention hashtag" href="https://mastodon.social/tags/TucsonRoadRunners" rel="tag">#<span>TucsonRoadRunners</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/AHL" rel="tag">#<span>AHL</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/116066752479272322" target="_blank">2026-02-14</a>
   </blockquote>
@@ -74,11 +79,6 @@
   <blockquote>
   <p>Yep … still totally fine. Nothing to see here</p>
   - <a href="https://mastodon.social/@ryancheley/115998738635940073" target="_blank">2026-02-02</a>
-  </blockquote>
-
-  <blockquote>
-  <p>The tree has been picked almost clean. Lots of great lemons and delicious lemonade</p>
-  - <a href="https://mastodon.social/@ryancheley/115975962040227628" target="_blank">2026-01-29</a>
   </blockquote>
 
 
