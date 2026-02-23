@@ -67,18 +67,18 @@
 
 
   <blockquote>
-  <p>Watching <a class="mention hashtag" href="https://mastodon.social/tags/AHL" rel="tag">#<span>AHL</span></a> hockey outside with a nice warm fire <a class="mention hashtag" href="https://mastodon.social/tags/Hockey" rel="tag">#<span>Hockey</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/CoachellaValleyFirebirds" rel="tag">#<span>CoachellaValleyFirebirds</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/116112040265927030" target="_blank">2026-02-22</a>
+  <p>I went and visited my daughter today at her college. I really forgot how awesome college towns are. No need for a car, beautiful old trees providing lots of shade, great food. 10/10 would do again</p>
+  - <a href="https://mastodon.social/@ryancheley/116117279410800557" target="_blank">2026-02-23</a>
   </blockquote>
 
   <blockquote>
-  <p><a class="mention hashtag" href="https://mastodon.social/tags/Kraken" rel="tag">#<span>Kraken</span></a> night at the <a class="mention hashtag" href="https://mastodon.social/tags/CoachellaValleyFirebirds" rel="tag">#<span>CoachellaValleyFirebirds</span></a> game tonight as they take on the <a class="mention hashtag" href="https://mastodon.social/tags/TucsonRoadRunners" rel="tag">#<span>TucsonRoadRunners</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/AHL" rel="tag">#<span>AHL</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/116066752479272322" target="_blank">2026-02-14</a>
+  <p>Not gonna lie ... when they started skating around with Johnny Gaudreau's #13 sweater I teared up a bit. Holy shit. What a great game!</p>
+  - <a href="https://mastodon.social/@ryancheley/116115109342200685" target="_blank">2026-02-22</a>
   </blockquote>
 
   <blockquote>
-  <p>Yep … still totally fine. Nothing to see here</p>
-  - <a href="https://mastodon.social/@ryancheley/115998738635940073" target="_blank">2026-02-02</a>
+  <p>Because of course this game MUST go into Overtime! Turns out the game IS living up to the hype!</p>
+  - <a href="https://mastodon.social/@ryancheley/116115004838248862" target="_blank">2026-02-22</a>
   </blockquote>
 
 
