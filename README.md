@@ -67,18 +67,18 @@
 
 
   <blockquote>
+  <p>Today she asked me how much I knew about apis … and I couldn’t resist the <a class="mention hashtag" href="https://mastodon.social/tags/DadJoke" rel="tag">#<span>DadJoke</span></a> so I told her I didn’t know much about Italian Bees … ...</p>
+  - <a href="https://mastodon.social/@ryancheley/116121841398921494" target="_blank">2026-02-23</a>
+  </blockquote>
+
+  <blockquote>
+  <p>One of the great joys I have in life right now is helping my daughter with <a class="mention hashtag" href="https://mastodon.social/tags/Python" rel="tag">#<span>Python</span></a> questions for a class she’s taking at school. It really is just about the best part of my day when she sends me a text and asks, “Can I talk with you about my Python homework”</p>
+  - <a href="https://mastodon.social/@ryancheley/116121833865870045" target="_blank">2026-02-23</a>
+  </blockquote>
+
+  <blockquote>
   <p>I went and visited my daughter today at her college. I really forgot how awesome college towns are. No need for a car, beautiful old trees providing lots of shade, great food. 10/10 would do again</p>
   - <a href="https://mastodon.social/@ryancheley/116117279410800557" target="_blank">2026-02-23</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Not gonna lie ... when they started skating around with Johnny Gaudreau's #13 sweater I teared up a bit. Holy shit. What a great game!</p>
-  - <a href="https://mastodon.social/@ryancheley/116115109342200685" target="_blank">2026-02-22</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Because of course this game MUST go into Overtime! Turns out the game IS living up to the hype!</p>
-  - <a href="https://mastodon.social/@ryancheley/116115004838248862" target="_blank">2026-02-22</a>
   </blockquote>
 
 
