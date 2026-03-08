@@ -67,6 +67,11 @@
 
 
   <blockquote>
+  <p>Don’t mean to brag but kind of had the best birthday ever <a class="mention hashtag" href="https://mastodon.social/tags/winning" rel="tag">#<span>winning</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/AHL" rel="tag">#<span>AHL</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/CoachelleValleyFirebirds" rel="tag">#<span>CoachelleValleyFirebirds</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/116191812848374591" target="_blank">2026-03-08</a>
+  </blockquote>
+
+  <blockquote>
   <p>On the one hand, it’s about 3am local and I’m unintentionally awake and oh my goodness is it earlier.  ...</p>
   - <a href="https://mastodon.social/@ryancheley/116164889105019379" target="_blank">2026-03-03</a>
   </blockquote>
@@ -74,11 +79,6 @@
   <blockquote>
   <p>Hockey ...</p>
   - <a href="https://mastodon.social/@ryancheley/116140367877689777" target="_blank">2026-02-27</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Today she asked me how much I knew about apis … and I couldn’t resist the <a class="mention hashtag" href="https://mastodon.social/tags/DadJoke" rel="tag">#<span>DadJoke</span></a> so I told her I didn’t know much about Italian Bees … ...</p>
-  - <a href="https://mastodon.social/@ryancheley/116121841398921494" target="_blank">2026-02-23</a>
   </blockquote>
 
 
