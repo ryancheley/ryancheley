@@ -67,6 +67,11 @@
 
 
   <blockquote>
+  <p>Ahh the fist day of spring.</p>
+  - <a href="https://mastodon.social/@ryancheley/116268030817018229" target="_blank">2026-03-21</a>
+  </blockquote>
+
+  <blockquote>
   <p class="quote-inline">RE: <a href="https://fosstodon.org/@djangochat/116210589119616128" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="ellipsis">fosstodon.org/@djangochat/1162</span><span class="invisible">10589119616128</span></a></p><p>I’m about halfway through this episode of <span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@djangochat">@<span>djangochat</span></a></span> and <span class="h-card"><a class="u-url mention" href="https://mastodon.social/@veldakiara">@<span>veldakiara</span></a></span> said the most amazing/funny thing I’ve ever heard</p><p>“I didn’t subscribe to this level of adulting”</p><p>Feeling the same over here 🤣</p><p>Go take a listen. It’s a good one!</p>
   - <a href="https://mastodon.social/@ryancheley/116210934434522183" target="_blank">2026-03-11</a>
   </blockquote>
@@ -74,11 +79,6 @@
   <blockquote>
   <p>Don’t mean to brag but kind of had the best birthday ever <a class="mention hashtag" href="https://mastodon.social/tags/winning" rel="tag">#<span>winning</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/AHL" rel="tag">#<span>AHL</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/CoachelleValleyFirebirds" rel="tag">#<span>CoachelleValleyFirebirds</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/116191812848374591" target="_blank">2026-03-08</a>
-  </blockquote>
-
-  <blockquote>
-  <p>On the one hand, it’s about 3am local and I’m unintentionally awake and oh my goodness is it earlier.  ...</p>
-  - <a href="https://mastodon.social/@ryancheley/116164889105019379" target="_blank">2026-03-03</a>
   </blockquote>
 
 
