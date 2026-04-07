@@ -51,11 +51,11 @@
 
 <ul>
 
+  <li><a href="tag:ryancheley.com,2026-04-06:/2026/04/06/a-giant-pain-in-the-ass/" target="_blank"><p>Content Warning: This is a highly personal post about a cancer diagnosis.</p>
+<p>On Feb 16, 2026 I was 'prepping' for a routine colonoscopy that was scheduled for February 17th at about 1pm. For those of you unaware what is involved in 'prepping' don't google it, but just know that your …</p></a> - 2026-04-06</li>
+
   <li><a href="tag:ryancheley.com,2026-01-12:/2026/01/12/migrating-to-hetzner-with-coolify/" target="_blank"><h1>What I did</h1>
 <p>A few weeks ago, I got to watch <a href="https://mastodon.social/@webology">Jeff Triplett</a> migrate <a href="https://djangopackages.org/">DjangoPackages</a> from <a href="https://www.digitalocean.com/">DigitalOcean</a> to <a href="https://hetzner.cloud/?ref=gNVHuEvaKgAw">Hetzner</a><sup id="sf-migrating-to-hetzner-with-coolify-1-back"><a class="simple-footnote" href="https://ryancheley.com/feeds/all.rss.xml#sf-migrating-to-hetzner-with-coolify-1" title="This is an affiliate link">1</a></sup> using <a href="https://coolify.io/">Coolify</a>. The magical world of Coolify made everything look just so ... easy. Jeff mentioned that one of the driving forces for the decision to go to Hetzner was the …</p></a> - 2026-01-12</li>
-
-  <li><a href="tag:ryancheley.com,2025-12-31:/2025/12/31/year-in-review-2025/" target="_blank"><p>I was hoping to have this written and posted last week, but for Christmas this year Santa brought me a cold which knocked me on my butt for a few days.</p>
-<p>I had done a bit of prep, but wow, when I look back at 2025 it was a pretty …</p></a> - 2025-12-31</li>
 
 </ul>
 
@@ -67,6 +67,11 @@
 
 
   <blockquote>
+  <p><strong>Content warning:</strong>This is a highly personal post about a cancer diagnosis ...</p>
+  - <a href="https://mastodon.social/@ryancheley/116357716640636140" target="_blank">2026-04-06</a>
+  </blockquote>
+
+  <blockquote>
   <p>Ahh the fist day of spring.</p>
   - <a href="https://mastodon.social/@ryancheley/116268030817018229" target="_blank">2026-03-21</a>
   </blockquote>
@@ -74,11 +79,6 @@
   <blockquote>
   <p class="quote-inline">RE: <a href="https://fosstodon.org/@djangochat/116210589119616128" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="ellipsis">fosstodon.org/@djangochat/1162</span><span class="invisible">10589119616128</span></a></p><p>I’m about halfway through this episode of <span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@djangochat">@<span>djangochat</span></a></span> and <span class="h-card"><a class="u-url mention" href="https://mastodon.social/@veldakiara">@<span>veldakiara</span></a></span> said the most amazing/funny thing I’ve ever heard</p><p>“I didn’t subscribe to this level of adulting”</p><p>Feeling the same over here 🤣</p><p>Go take a listen. It’s a good one!</p>
   - <a href="https://mastodon.social/@ryancheley/116210934434522183" target="_blank">2026-03-11</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Don’t mean to brag but kind of had the best birthday ever <a class="mention hashtag" href="https://mastodon.social/tags/winning" rel="tag">#<span>winning</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/AHL" rel="tag">#<span>AHL</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/CoachelleValleyFirebirds" rel="tag">#<span>CoachelleValleyFirebirds</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/116191812848374591" target="_blank">2026-03-08</a>
   </blockquote>
 
 
