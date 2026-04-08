@@ -68,17 +68,17 @@
 
   <blockquote>
   <p><strong>Content warning:</strong>This is a highly personal post about a cancer diagnosis ...</p>
+  - <a href="https://mastodon.social/@ryancheley/116363611263482766" target="_blank">2026-04-07</a>
+  </blockquote>
+
+  <blockquote>
+  <p><strong>Content warning:</strong>This is a highly personal post about a cancer diagnosis ...</p>
   - <a href="https://mastodon.social/@ryancheley/116357716640636140" target="_blank">2026-04-06</a>
   </blockquote>
 
   <blockquote>
   <p>Ahh the fist day of spring.</p>
   - <a href="https://mastodon.social/@ryancheley/116268030817018229" target="_blank">2026-03-21</a>
-  </blockquote>
-
-  <blockquote>
-  <p class="quote-inline">RE: <a href="https://fosstodon.org/@djangochat/116210589119616128" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="ellipsis">fosstodon.org/@djangochat/1162</span><span class="invisible">10589119616128</span></a></p><p>I’m about halfway through this episode of <span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@djangochat">@<span>djangochat</span></a></span> and <span class="h-card"><a class="u-url mention" href="https://mastodon.social/@veldakiara">@<span>veldakiara</span></a></span> said the most amazing/funny thing I’ve ever heard</p><p>“I didn’t subscribe to this level of adulting”</p><p>Feeling the same over here 🤣</p><p>Go take a listen. It’s a good one!</p>
-  - <a href="https://mastodon.social/@ryancheley/116210934434522183" target="_blank">2026-03-11</a>
   </blockquote>
 
 
