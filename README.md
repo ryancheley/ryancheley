@@ -67,18 +67,18 @@
 
 
   <blockquote>
+  <p>Just in case there’s any doubt!  ...</p>
+  - <a href="https://mastodon.social/@ryancheley/116383639887240396" target="_blank">2026-04-11</a>
+  </blockquote>
+
+  <blockquote>
+  <p>Am I watching <a class="mention hashtag" href="https://mastodon.social/tags/Coachella" rel="tag">#<span>Coachella</span></a> AND the Artemis II landing? YES! Is there a chance that one or more sporting events make it onto other screens in my house? Also yes!</p>
+  - <a href="https://mastodon.social/@ryancheley/116383407634506077" target="_blank">2026-04-11</a>
+  </blockquote>
+
+  <blockquote>
   <p><strong>Content warning:</strong>This is a highly personal post about a cancer diagnosis ...</p>
   - <a href="https://mastodon.social/@ryancheley/116363611263482766" target="_blank">2026-04-07</a>
-  </blockquote>
-
-  <blockquote>
-  <p><strong>Content warning:</strong>This is a highly personal post about a cancer diagnosis ...</p>
-  - <a href="https://mastodon.social/@ryancheley/116357716640636140" target="_blank">2026-04-06</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Ahh the fist day of spring.</p>
-  - <a href="https://mastodon.social/@ryancheley/116268030817018229" target="_blank">2026-03-21</a>
   </blockquote>
 
 
