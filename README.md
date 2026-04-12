@@ -67,18 +67,18 @@
 
 
   <blockquote>
+  <p>The <a class="mention hashtag" href="https://mastodon.social/tags/CoachelleValleyFirebirds" rel="tag">#<span>CoachelleValleyFirebirds</span></a> have one more home game but this will be my last game of the season. Hoping that regardless of the outcome that we have a good time</p>
+  - <a href="https://mastodon.social/@ryancheley/116389017978526491" target="_blank">2026-04-12</a>
+  </blockquote>
+
+  <blockquote>
+  <p>It’s <a class="mention hashtag" href="https://mastodon.social/tags/Cowboy" rel="tag">#<span>Cowboy</span></a> night at the <a class="mention hashtag" href="https://mastodon.social/tags/CoachelleValleyFirebirds" rel="tag">#<span>CoachelleValleyFirebirds</span></a> game tonight! Looking forward to not losing too badly 😬<br />Yes … this is how I smile in all of the selfies that we take pregame 🤣</p>
+  - <a href="https://mastodon.social/@ryancheley/116388988170785277" target="_blank">2026-04-12</a>
+  </blockquote>
+
+  <blockquote>
   <p>Just in case there’s any doubt!  ...</p>
   - <a href="https://mastodon.social/@ryancheley/116383639887240396" target="_blank">2026-04-11</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Am I watching <a class="mention hashtag" href="https://mastodon.social/tags/Coachella" rel="tag">#<span>Coachella</span></a> AND the Artemis II landing? YES! Is there a chance that one or more sporting events make it onto other screens in my house? Also yes!</p>
-  - <a href="https://mastodon.social/@ryancheley/116383407634506077" target="_blank">2026-04-11</a>
-  </blockquote>
-
-  <blockquote>
-  <p><strong>Content warning:</strong>This is a highly personal post about a cancer diagnosis ...</p>
-  - <a href="https://mastodon.social/@ryancheley/116363611263482766" target="_blank">2026-04-07</a>
   </blockquote>
 
 
