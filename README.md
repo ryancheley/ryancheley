@@ -67,6 +67,11 @@
 
 
   <blockquote>
+  <p>Found this gem in my journal app … on this date 13 years ago my daughter left this note in my lunch. For context, she’s just about to finish her sophomore year in college. I sent this to her and her response … “why did I sign my name Abigail?”</p>
+  - <a href="https://mastodon.social/@ryancheley/116531088927286149" target="_blank">2026-05-07</a>
+  </blockquote>
+
+  <blockquote>
   <p>As of yesterday, I'm halfway through treatment ...</p>
   - <a href="https://mastodon.social/@ryancheley/116521931271317383" target="_blank">2026-05-05</a>
   </blockquote>
@@ -74,11 +79,6 @@
   <blockquote>
   <p>after more than a week of my apple watch not notifying me of my medication reminders, it worked today!  ...</p>
   - <a href="https://mastodon.social/@ryancheley/116499532549011252" target="_blank">2026-05-01</a>
-  </blockquote>
-
-  <blockquote>
-  <p>The tree is bearing fruit again! You can’t see it on the ‘wide’ shot of the tree but I got a close up of some of the fruit … in a few more weeks (months … idfk) I’ll have more beautiful 🍋 to make more lemonade 😀</p>
-  - <a href="https://mastodon.social/@ryancheley/116485583424520462" target="_blank">2026-04-29</a>
   </blockquote>
 
 
