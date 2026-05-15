@@ -67,6 +67,11 @@
 
 
   <blockquote>
+  <p>As of yesterday I’m 3/4 of the way through my treatment. Two more sessions this week and then 5 next week. <br />Almost there.   ...</p>
+  - <a href="https://mastodon.social/@ryancheley/116573352208236842" target="_blank">2026-05-14</a>
+  </blockquote>
+
+  <blockquote>
   <p>Still fun … still infuriating ...</p>
   - <a href="https://mastodon.social/@ryancheley/116567587209673178" target="_blank">2026-05-13</a>
   </blockquote>
@@ -74,11 +79,6 @@
   <blockquote>
   <p>This is fun and infuriating at the same time 🤣<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a></p>
   - <a href="https://mastodon.social/@ryancheley/116550877527782708" target="_blank">2026-05-10</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Found this gem in my journal app … on this date 13 years ago my daughter left this note in my lunch. For context, she’s just about to finish her sophomore year in college. I sent this to her and her response … “why did I sign my name Abigail?”</p>
-  - <a href="https://mastodon.social/@ryancheley/116531088927286149" target="_blank">2026-05-07</a>
   </blockquote>
 
 
