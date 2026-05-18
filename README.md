@@ -67,6 +67,11 @@
 
 
   <blockquote>
+  <p>I’m getting better!<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/116590281251415834" target="_blank">2026-05-17</a>
+  </blockquote>
+
+  <blockquote>
   <p>As of yesterday I’m 3/4 of the way through my treatment. Two more sessions this week and then 5 next week. <br />Almost there.   ...</p>
   - <a href="https://mastodon.social/@ryancheley/116573352208236842" target="_blank">2026-05-14</a>
   </blockquote>
@@ -74,11 +79,6 @@
   <blockquote>
   <p>Still fun … still infuriating ...</p>
   - <a href="https://mastodon.social/@ryancheley/116567587209673178" target="_blank">2026-05-13</a>
-  </blockquote>
-
-  <blockquote>
-  <p>This is fun and infuriating at the same time 🤣<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/116550877527782708" target="_blank">2026-05-10</a>
   </blockquote>
 
 
