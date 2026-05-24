@@ -67,18 +67,18 @@
 
 
   <blockquote>
+  <p>🗺️ May 23, 2026<br />5/5 countries in 7/13 guesses<br />🟢🟢🟡🟢🟡<br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a><br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/116625429663316437" target="_blank">2026-05-23</a>
+  </blockquote>
+
+  <blockquote>
+  <p>As promised here is my most recent update post. I don't put these on my main blog ... partly because I wanted to keep this part of my life away from my main blog, but also (and maybe mostly) because I wanted to write my own blog engine in Django 🤷🏻‍♂️ ...</p>
+  - <a href="https://mastodon.social/@ryancheley/116624680996058998" target="_blank">2026-05-23</a>
+  </blockquote>
+
+  <blockquote>
   <p>Last ⚡️and I even got a certificate of completion! The team that treated me was amazing and I’ll miss them … but also hoping I don’t ever have to see them with that frequency again 😅 ...</p>
   - <a href="https://mastodon.social/@ryancheley/116619471645510361" target="_blank">2026-05-22</a>
-  </blockquote>
-
-  <blockquote>
-  <p class="quote-inline">RE: <a href="https://hachyderm.io/@pythonbynight/116614716101527214" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="ellipsis">hachyderm.io/@pythonbynight/11</span><span class="invisible">6614716101527214</span></a></p><p>I’ve got some real feels about this picture and it will make its way into my next update post! </p><p>It’s been a long 6 weeks but getting to see <span class="h-card"><a class="u-url mention" href="https://mastodon.social/@bmispelon">@<span>bmispelon</span></a></span> and <span class="h-card"><a class="u-url mention" href="https://hachyderm.io/@pythonbynight">@<span>pythonbynight</span></a></span> yesterday, hang out, and feel like a “normal” person for just a couple of hours was amazing. Thank you both so much for making the drive out. It really was the best! </p><p><a class="mention hashtag" href="https://mastodon.social/tags/ImNotCryingMyEyesAreSweating" rel="tag">#<span>ImNotCryingMyEyesAreSweating</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/FuckCancer" rel="tag">#<span>FuckCancer</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/PyConUS" rel="tag">#<span>PyConUS</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/PuckCancer" rel="tag">#<span>PuckCancer</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/116618204308535166" target="_blank">2026-05-22</a>
-  </blockquote>
-
-  <blockquote>
-  <p>I’m getting better!<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/116590281251415834" target="_blank">2026-05-17</a>
   </blockquote>
 
 
