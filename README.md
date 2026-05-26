@@ -67,6 +67,11 @@
 
 
   <blockquote>
+  <p>🗺️ May 25, 2026<br />4/5 countries in 12/13 guesses<br />🔵🟢🟢🔵⚪<br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a><br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a> ...</p>
+  - <a href="https://mastodon.social/@ryancheley/116635607556673854" target="_blank">2026-05-25</a>
+  </blockquote>
+
+  <blockquote>
   <p>🗺️ May 24, 2026<br />5/5 countries in 5/13 guesses<br />🟢🟢🟢🟢🟢<br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a><br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a></p>
   - <a href="https://mastodon.social/@ryancheley/116630484892267368" target="_blank">2026-05-24</a>
   </blockquote>
@@ -74,11 +79,6 @@
   <blockquote>
   <p>🗺️ May 23, 2026<br />5/5 countries in 7/13 guesses<br />🟢🟢🟡🟢🟡<br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a><br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a></p>
   - <a href="https://mastodon.social/@ryancheley/116625429663316437" target="_blank">2026-05-23</a>
-  </blockquote>
-
-  <blockquote>
-  <p>As promised here is my most recent update post. I don't put these on my main blog ... partly because I wanted to keep this part of my life away from my main blog, but also (and maybe mostly) because I wanted to write my own blog engine in Django 🤷🏻‍♂️ ...</p>
-  - <a href="https://mastodon.social/@ryancheley/116624680996058998" target="_blank">2026-05-23</a>
   </blockquote>
 
 
