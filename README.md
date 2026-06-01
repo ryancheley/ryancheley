@@ -67,18 +67,18 @@
 
 
   <blockquote>
+  <p class="quote-inline">RE: <a href="https://fosstodon.org/@djangocon/116670257627394841" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="ellipsis">fosstodon.org/@djangocon/11667</span><span class="invisible">0257627394841</span></a></p><p>I'm not going to be able to attend DjangoCon US this year BUT I did just get my online ticket. </p><p>If you can't make it, you should too! Early Bird price ends today. </p><p>What are you waiting for? Go get your tickets!</p>
+  - <a href="https://mastodon.social/@ryancheley/116670316864857750" target="_blank">2026-05-31</a>
+  </blockquote>
+
+  <blockquote>
+  <p>🗺️ May 31, 2026<br />5/5 countries in 10/13 guesses<br />🟢🟢🟢🟡🟣<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/116669501685689734" target="_blank">2026-05-31</a>
+  </blockquote>
+
+  <blockquote>
   <p>🗺️ May 30, 2026<br />5/5 countries in 9/13 guesses<br />🟢🟢🟠🟡🟡<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/116663793420820962" target="_blank">2026-05-30</a>
-  </blockquote>
-
-  <blockquote>
-  <p>🗺️ May 29, 2026<br />5/5 countries in 10/13 guesses<br />🟢🟢🟢🟡🟣<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/116658144906161098" target="_blank">2026-05-29</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Pretty proud of this one ...</p>
-  - <a href="https://mastodon.social/@ryancheley/116652496659787891" target="_blank">2026-05-28</a>
   </blockquote>
 
 
