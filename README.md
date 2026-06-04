@@ -67,18 +67,18 @@
 
 
   <blockquote>
+  <p>🗺️ June 3, 2026<br />5/5 countries in 8/13 guesses<br />🟢🟢🟢🟢🔵<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/116685933429924580" target="_blank">2026-06-03</a>
+  </blockquote>
+
+  <blockquote>
+  <p>On the one hand, I’m feeling much more like my usual self (which is awesome). On the other hand, my usual self is a guy that wakes up way too early and maybe doesn’t get enough sleep. Anyway, happy Wednesday!</p>
+  - <a href="https://mastodon.social/@ryancheley/116685913822248793" target="_blank">2026-06-03</a>
+  </blockquote>
+
+  <blockquote>
   <p>Almost perfect! Those dots in near a border region are really tricky! ...</p>
   - <a href="https://mastodon.social/@ryancheley/116680329793510010" target="_blank">2026-06-02</a>
-  </blockquote>
-
-  <blockquote>
-  <p>This morning I’m having my first cup of coffee in more than 8 days. It might be the best damn cup of coffee I’ve ever had ...</p>
-  - <a href="https://mastodon.social/@ryancheley/116680306601381704" target="_blank">2026-06-02</a>
-  </blockquote>
-
-  <blockquote>
-  <p>I think this is the best I’ve ever done! ...</p>
-  - <a href="https://mastodon.social/@ryancheley/116675202982161288" target="_blank">2026-06-01</a>
   </blockquote>
 
 
