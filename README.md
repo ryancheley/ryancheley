@@ -67,18 +67,18 @@
 
 
   <blockquote>
+  <p>To celebrate the end of my first round of treatment (and to get out of the heat of the desert!) my wife and I are in the mountains and I got to see this sunset my first night. Everything sure seems a lot more beautiful. This picture isn’t doing it justice but it sure is pretty to see IRL ...</p>
+  - <a href="https://mastodon.social/@ryancheley/116695217792326731" target="_blank">2026-06-05</a>
+  </blockquote>
+
+  <blockquote>
+  <p>🗺️ June 4, 2026<br />4/5 countries in 8/13 guesses<br />🟢🟢🟡🟢⚪<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/116691461510733051" target="_blank">2026-06-04</a>
+  </blockquote>
+
+  <blockquote>
   <p>🗺️ June 3, 2026<br />5/5 countries in 8/13 guesses<br />🟢🟢🟢🟢🔵<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/116685933429924580" target="_blank">2026-06-03</a>
-  </blockquote>
-
-  <blockquote>
-  <p>On the one hand, I’m feeling much more like my usual self (which is awesome). On the other hand, my usual self is a guy that wakes up way too early and maybe doesn’t get enough sleep. Anyway, happy Wednesday!</p>
-  - <a href="https://mastodon.social/@ryancheley/116685913822248793" target="_blank">2026-06-03</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Almost perfect! Those dots in near a border region are really tricky! ...</p>
-  - <a href="https://mastodon.social/@ryancheley/116680329793510010" target="_blank">2026-06-02</a>
   </blockquote>
 
 
