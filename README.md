@@ -67,6 +67,11 @@
 
 
   <blockquote>
+  <p>🗺️ June 9, 2026<br />5/5 countries in 7/13 guesses<br />🟢🟢🟢🟡🟡<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/116719937926432142" target="_blank">2026-06-09</a>
+  </blockquote>
+
+  <blockquote>
   <p class="quote-inline">RE: <a href="https://fosstodon.org/@djangocon/116715317656817935" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="ellipsis">fosstodon.org/@djangocon/11671</span><span class="invisible">5317656817935</span></a></p><p>Looks like an awesome lineup. Can’t wait to watch it on the livestream!</p>
   - <a href="https://mastodon.social/@ryancheley/116716059178603674" target="_blank">2026-06-08</a>
   </blockquote>
@@ -74,11 +79,6 @@
   <blockquote>
   <p>🗺️ June 8, 2026<br />5/5 countries in 6/13 guesses<br />🟢🟡🟢🟢🟢<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/116714488546108699" target="_blank">2026-06-08</a>
-  </blockquote>
-
-  <blockquote>
-  <p>🗺️ June 7, 2026<br />5/5 countries in 7/13 guesses<br />🟢🟡🟢🟡🟢<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/116708349129223784" target="_blank">2026-06-07</a>
   </blockquote>
 
 
