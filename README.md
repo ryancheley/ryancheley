@@ -67,6 +67,11 @@
 
 
   <blockquote>
+  <p>I think I know countries and then I realize I don’t. Love this game so much!  ...</p>
+  - <a href="https://mastodon.social/@ryancheley/116742780042124834" target="_blank">2026-06-13</a>
+  </blockquote>
+
+  <blockquote>
   <p>🗺️ June 12, 2026<br />5/5 countries in 6/13 guesses<br />🟢🟢🟢🟡🟢<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/116736644488636563" target="_blank">2026-06-12</a>
   </blockquote>
@@ -74,11 +79,6 @@
   <blockquote>
   <p>🗺️ June 11, 2026<br />5/5 countries in 11/13 guesses<br />🟡🟢🟢🟡🟣<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/116731595772913811" target="_blank">2026-06-11</a>
-  </blockquote>
-
-  <blockquote>
-  <p>🗺️ June 10, 2026<br />5/5 countries in 6/13 guesses<br />🟢🟢🟢🟡🟢<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/116725747105481605" target="_blank">2026-06-10</a>
   </blockquote>
 
 
