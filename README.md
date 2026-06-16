@@ -67,6 +67,11 @@
 
 
   <blockquote>
+  <p>And today I’ve been brought back to earth ...</p>
+  - <a href="https://mastodon.social/@ryancheley/116754187994590988" target="_blank">2026-06-15</a>
+  </blockquote>
+
+  <blockquote>
   <p>One thing I really appreciate about World Cup team for Netherlands is their FULL commitment to the color <a class="mention hashtag" href="https://mastodon.social/tags/orange" rel="tag">#<span>orange</span></a>. Like, head to toe kits that are nothing but orange.  ...</p>
   - <a href="https://mastodon.social/@ryancheley/116750245026868902" target="_blank">2026-06-14</a>
   </blockquote>
@@ -74,11 +79,6 @@
   <blockquote>
   <p>Finally!!! ...</p>
   - <a href="https://mastodon.social/@ryancheley/116748733662729348" target="_blank">2026-06-14</a>
-  </blockquote>
-
-  <blockquote>
-  <p>I think I know countries and then I realize I don’t. Love this game so much!  ...</p>
-  - <a href="https://mastodon.social/@ryancheley/116742780042124834" target="_blank">2026-06-13</a>
   </blockquote>
 
 
