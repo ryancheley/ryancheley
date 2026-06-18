@@ -67,6 +67,11 @@
 
 
   <blockquote>
+  <p>🗺️ June 17, 2026<br />5/5 countries in 7/13 guesses<br />🟢🟢🟢🟠🟢<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/116766303554685408" target="_blank">2026-06-17</a>
+  </blockquote>
+
+  <blockquote>
   <p>🗺️ June 16, 2026<br />4/5 countries in 5/13 guesses<br />🟢🟢🟢🟢⚪<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/116759468525175497" target="_blank">2026-06-16</a>
   </blockquote>
@@ -74,11 +79,6 @@
   <blockquote>
   <p>And today I’ve been brought back to earth ...</p>
   - <a href="https://mastodon.social/@ryancheley/116754187994590988" target="_blank">2026-06-15</a>
-  </blockquote>
-
-  <blockquote>
-  <p>One thing I really appreciate about World Cup team for Netherlands is their FULL commitment to the color <a class="mention hashtag" href="https://mastodon.social/tags/orange" rel="tag">#<span>orange</span></a>. Like, head to toe kits that are nothing but orange.  ...</p>
-  - <a href="https://mastodon.social/@ryancheley/116750245026868902" target="_blank">2026-06-14</a>
   </blockquote>
 
 
