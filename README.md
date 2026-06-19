@@ -67,18 +67,18 @@
 
 
   <blockquote>
-  <p>🗺️ June 17, 2026<br />5/5 countries in 7/13 guesses<br />🟢🟢🟢🟠🟢<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/116766303554685408" target="_blank">2026-06-17</a>
+  <p>Can’t sleep, so playing my favorite geography game! ...</p>
+  - <a href="https://mastodon.social/@ryancheley/116775734782283029" target="_blank">2026-06-19</a>
   </blockquote>
 
   <blockquote>
-  <p>🗺️ June 16, 2026<br />4/5 countries in 5/13 guesses<br />🟢🟢🟢🟢⚪<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/116759468525175497" target="_blank">2026-06-16</a>
+  <p>I've kept a ‘side' blog, mostly for me and my family to be able to keep up with my <a class="mention hashtag" href="https://mastodon.social/tags/Cancer" rel="tag">#<span>Cancer</span></a> journey. I don't post it here but I did want to give a quick update on my week. TL;DR it was a doozie.  ...</p>
+  - <a href="https://mastodon.social/@ryancheley/116772578454143440" target="_blank">2026-06-18</a>
   </blockquote>
 
   <blockquote>
-  <p>And today I’ve been brought back to earth ...</p>
-  - <a href="https://mastodon.social/@ryancheley/116754187994590988" target="_blank">2026-06-15</a>
+  <p>So close!  ...</p>
+  - <a href="https://mastodon.social/@ryancheley/116771344149721668" target="_blank">2026-06-18</a>
   </blockquote>
 
 
