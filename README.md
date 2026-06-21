@@ -67,18 +67,18 @@
 
 
   <blockquote>
+  <p>My favorite part of the <a class="mention hashtag" href="https://mastodon.social/tags/WorldCup26" rel="tag">#<span>WorldCup26</span></a> hydration break is that the players AND the Pitch have a chance to be rehydrated. It also reminds me to stay hydrated 💦</p>
+  - <a href="https://mastodon.social/@ryancheley/116784319346078545" target="_blank">2026-06-20</a>
+  </blockquote>
+
+  <blockquote>
+  <p>🗺️ June 20, 2026<br />5/5 countries in 6/13 guesses<br />🟢🟢🟡🟢🟢<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/116782326440232602" target="_blank">2026-06-20</a>
+  </blockquote>
+
+  <blockquote>
   <p>Can’t sleep, so playing my favorite geography game! ...</p>
   - <a href="https://mastodon.social/@ryancheley/116775734782283029" target="_blank">2026-06-19</a>
-  </blockquote>
-
-  <blockquote>
-  <p>I've kept a ‘side' blog, mostly for me and my family to be able to keep up with my <a class="mention hashtag" href="https://mastodon.social/tags/Cancer" rel="tag">#<span>Cancer</span></a> journey. I don't post it here but I did want to give a quick update on my week. TL;DR it was a doozie.  ...</p>
-  - <a href="https://mastodon.social/@ryancheley/116772578454143440" target="_blank">2026-06-18</a>
-  </blockquote>
-
-  <blockquote>
-  <p>So close!  ...</p>
-  - <a href="https://mastodon.social/@ryancheley/116771344149721668" target="_blank">2026-06-18</a>
   </blockquote>
 
 
