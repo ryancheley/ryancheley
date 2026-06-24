@@ -67,6 +67,11 @@
 
 
   <blockquote>
+  <p>🗺️ June 23, 2026<br />5/5 countries in 7/13 guesses<br />🟢🟢🟡🟢🟡<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/116799441249654647" target="_blank">2026-06-23</a>
+  </blockquote>
+
+  <blockquote>
   <p>Ugh … the Caribbean Islands. Having such a hard time with them but still, too much fun to not play EVERYDAY! ...</p>
   - <a href="https://mastodon.social/@ryancheley/116793801316189744" target="_blank">2026-06-22</a>
   </blockquote>
@@ -74,11 +79,6 @@
   <blockquote>
   <p>They’re opening a Buc-ee’s “near” me in Goodyear, Arizona (236 miles away) I’m not gonna lie, I seriously considered going out there until I saw that ALL of the nearby hotels are already booked AND the Arizona Department of Transporstion in conjunction with the city of Goodyear has “already released traffic plans and designated routes for drivers in the area” to accommodate the madness that will ensue. Looks like I’ll need to wait a bit longer before I can have my first Buc-ee’s experience!</p>
   - <a href="https://mastodon.social/@ryancheley/116788066146713586" target="_blank">2026-06-21</a>
-  </blockquote>
-
-  <blockquote>
-  <p>That one that looked like it could have been any of three countries! Yikes but still tons of fun 😀 ...</p>
-  - <a href="https://mastodon.social/@ryancheley/116787928558143029" target="_blank">2026-06-21</a>
   </blockquote>
 
 
