@@ -67,6 +67,11 @@
 
 
   <blockquote>
+  <p>Today was HARD (for me)! ...</p>
+  - <a href="https://mastodon.social/@ryancheley/116821724990598381" target="_blank">2026-06-27</a>
+  </blockquote>
+
+  <blockquote>
   <p>So uhh … number five was a doozie!<br />🗺️ June 26, 2026<br />5/5 countries in 6/13 guesses<br />🟢🟢🟢🟢🟡<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/116816196957224476" target="_blank">2026-06-26</a>
   </blockquote>
@@ -74,11 +79,6 @@
   <blockquote>
   <p>Can’t sleep? Play my favorite geography game! ...</p>
   - <a href="https://mastodon.social/@ryancheley/116809980017242715" target="_blank">2026-06-25</a>
-  </blockquote>
-
-  <blockquote>
-  <p class="quote-inline">RE: <a href="https://mastodon.social/@treyhunner/116807982166161727" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@treyhunner/11</span><span class="invisible">6807982166161727</span></a></p><p>TIL!</p>
-  - <a href="https://mastodon.social/@ryancheley/116808033605989848" target="_blank">2026-06-25</a>
   </blockquote>
 
 
