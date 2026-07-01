@@ -67,6 +67,11 @@
 
 
   <blockquote>
+  <p>One right on the border and one because I thought a country was MUCH bigger than it actually is.  ...</p>
+  - <a href="https://mastodon.social/@ryancheley/116838837076347620" target="_blank">2026-06-30</a>
+  </blockquote>
+
+  <blockquote>
   <p>Had take a lot of time today for this one ...</p>
   - <a href="https://mastodon.social/@ryancheley/116836319656978817" target="_blank">2026-06-30</a>
   </blockquote>
@@ -74,11 +79,6 @@
   <blockquote>
   <p>I need to study more!  ...</p>
   - <a href="https://mastodon.social/@ryancheley/116828072264454428" target="_blank">2026-06-28</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Today was HARD (for me)! ...</p>
-  - <a href="https://mastodon.social/@ryancheley/116821724990598381" target="_blank">2026-06-27</a>
   </blockquote>
 
 
