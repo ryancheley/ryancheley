@@ -67,18 +67,18 @@
 
 
   <blockquote>
-  <p>One right on the border and one because I thought a country was MUCH bigger than it actually is.  ...</p>
-  - <a href="https://mastodon.social/@ryancheley/116838837076347620" target="_blank">2026-06-30</a>
+  <p>That was the most bullshit of bullshit calls <a class="mention hashtag" href="https://mastodon.social/tags/WorldCup26" rel="tag">#<span>WorldCup26</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/116847794751882913" target="_blank">2026-07-02</a>
   </blockquote>
 
   <blockquote>
-  <p>Had take a lot of time today for this one ...</p>
-  - <a href="https://mastodon.social/@ryancheley/116836319656978817" target="_blank">2026-06-30</a>
+  <p>TIL that the chemo meds I was taking during my initial treatment can cause ‘temporary loss of finger prints’. The weird/funny thing is it’s only started to manifest in the last 2 weeks (my phase 1 treatment ended almost 6 weeks ago). Also, I’m not having issues on my 2023 MacBook Pro reading my finger print, but my Windows Work computer … yeah, not only will it not recognize my finger print, it won’t even let me add my ‘current’ finger print. 🤷🏼</p>
+  - <a href="https://mastodon.social/@ryancheley/116846996276840867" target="_blank">2026-07-01</a>
   </blockquote>
 
   <blockquote>
-  <p>I need to study more!  ...</p>
-  - <a href="https://mastodon.social/@ryancheley/116828072264454428" target="_blank">2026-06-28</a>
+  <p>Ugh … that last one. I totally forgot it was a thing and guessed EVERY country around it and then other micro-states that weren’t anywhere near it. Really thought I was on track for a perfect day!  ...</p>
+  - <a href="https://mastodon.social/@ryancheley/116844741831085741" target="_blank">2026-07-01</a>
   </blockquote>
 
 
