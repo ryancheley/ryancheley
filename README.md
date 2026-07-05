@@ -67,6 +67,11 @@
 
 
   <blockquote>
+  <p>🗺️ July 4, 2026<br />5/5 countries in 5/13 guesses<br />🟢🟢🟢🟢🟢<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/116861763171830829" target="_blank">2026-07-04</a>
+  </blockquote>
+
+  <blockquote>
   <p>I filled my bird feeders today. The last time I did this I didn't feel so good afterward. Several hours later I was undergoing an emergency thrombectomy to remove not one, but TWO large blood clots from my pulmonary artery.  ...</p>
   - <a href="https://mastodon.social/@ryancheley/116857284541958603" target="_blank">2026-07-03</a>
   </blockquote>
@@ -74,11 +79,6 @@
   <blockquote>
   <p>🗺️ July 3, 2026<br />5/5 countries in 6/13 guesses<br />🟢🟢🟢🟡🟢<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/116855998402377125" target="_blank">2026-07-03</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Oh number 4 … I was SO confident about you … and then you go and do me like this?  ...</p>
-  - <a href="https://mastodon.social/@ryancheley/116850511790456715" target="_blank">2026-07-02</a>
   </blockquote>
 
 
