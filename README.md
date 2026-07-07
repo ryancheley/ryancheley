@@ -67,18 +67,18 @@
 
 
   <blockquote>
+  <p>🗺️ July 6, 2026<br />5/5 countries in 6/13 guesses<br />🟢🟢🟡🟢🟢<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/116875316794547236" target="_blank">2026-07-06</a>
+  </blockquote>
+
+  <blockquote>
+  <p>It’s hard to believe, but the Django Commons Organization has been running for almost 3 years now. We've had an admin decide to step down, and it's bitter sweet. Thank you <span class="h-card"><a class="u-url mention" href="https://hachyderm.io/@lacey">@<span>lacey</span></a></span> for all of your hard work and dedication over these last few years. You will be missed! ...</p>
+  - <a href="https://mastodon.social/@ryancheley/116873538956054262" target="_blank">2026-07-06</a>
+  </blockquote>
+
+  <blockquote>
   <p>A little later than normal, but I've successfully 'summer-proofed‘ my back yard furniture. One of the benefits of living in a place where it's 100F / 38C by 10am is that when I rinse things off they're dry in about 30 minutes 😅</p>
   - <a href="https://mastodon.social/@ryancheley/116868377828296693" target="_blank">2026-07-05</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Some tricky ones today, but I was expecting them to be tricky so I was on guard against their trickerization! ...</p>
-  - <a href="https://mastodon.social/@ryancheley/116867291500701646" target="_blank">2026-07-05</a>
-  </blockquote>
-
-  <blockquote>
-  <p>🗺️ July 4, 2026<br />5/5 countries in 5/13 guesses<br />🟢🟢🟢🟢🟢<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/116861763171830829" target="_blank">2026-07-04</a>
   </blockquote>
 
 
