@@ -67,6 +67,11 @@
 
 
   <blockquote>
+  <p>🗺️ July 8, 2026<br />5/5 countries in 7/13 guesses<br />🟢🟢🟢🟡🟡<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/116883755843653037" target="_blank">2026-07-08</a>
+  </blockquote>
+
+  <blockquote>
   <p>I wish I could underSTANd why I was so bad today 🤣 ...</p>
   - <a href="https://mastodon.social/@ryancheley/116878682942996529" target="_blank">2026-07-07</a>
   </blockquote>
@@ -74,11 +79,6 @@
   <blockquote>
   <p>🗺️ July 6, 2026<br />5/5 countries in 6/13 guesses<br />🟢🟢🟡🟢🟢<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/116875316794547236" target="_blank">2026-07-06</a>
-  </blockquote>
-
-  <blockquote>
-  <p>It’s hard to believe, but the Django Commons Organization has been running for almost 3 years now. We've had an admin decide to step down, and it's bitter sweet. Thank you <span class="h-card"><a class="u-url mention" href="https://hachyderm.io/@lacey">@<span>lacey</span></a></span> for all of your hard work and dedication over these last few years. You will be missed! ...</p>
-  - <a href="https://mastodon.social/@ryancheley/116873538956054262" target="_blank">2026-07-06</a>
   </blockquote>
 
 
