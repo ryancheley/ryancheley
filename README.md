@@ -67,6 +67,11 @@
 
 
   <blockquote>
+  <p>🗺️ July 13, 2026<br />5/5 countries in 7/13 guesses<br />🟡🟢🟢🟢🟡<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/116914453683041531" target="_blank">2026-07-13</a>
+  </blockquote>
+
+  <blockquote>
   <p>So close on the two that I missed!  ...</p>
   - <a href="https://mastodon.social/@ryancheley/116906934524545897" target="_blank">2026-07-12</a>
   </blockquote>
@@ -74,11 +79,6 @@
   <blockquote>
   <p>Let’s just go ahead and not bother with the rest of this farce. Just give the trophy to Argentina and call it done <a class="mention hashtag" href="https://mastodon.social/tags/WorldCup26" rel="tag">#<span>WorldCup26</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/116904675169281516" target="_blank">2026-07-12</a>
-  </blockquote>
-
-  <blockquote>
-  <p>🗺️ July 11, 2026<br />5/5 countries in 8/13 guesses<br />🟢🟢🟠🟢🟡<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/116900670967859829" target="_blank">2026-07-11</a>
   </blockquote>
 
 
