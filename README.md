@@ -67,6 +67,11 @@
 
 
   <blockquote>
+  <p>🗺️ July 17, 2026<br />5/5 countries in 6/13 guesses<br />🟢🟡🟢🟢🟢<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/116935102209232440" target="_blank">2026-07-17</a>
+  </blockquote>
+
+  <blockquote>
   <p>So close! Even as I guessed country number 4 I was thinking, wait, is it the other country? ...</p>
   - <a href="https://mastodon.social/@ryancheley/116928512304833100" target="_blank">2026-07-16</a>
   </blockquote>
@@ -74,11 +79,6 @@
   <blockquote>
   <p>Ugh … pin 5 really tripped me up!<br />🗺️ July 15, 2026<br />5/5 countries in 7/13 guesses<br />🟢🟢🟢🟢🟠<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/116924010031381899" target="_blank">2026-07-15</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Happy Bastille Day to all who celebrate! ...</p>
-  - <a href="https://mastodon.social/@ryancheley/116917909428615764" target="_blank">2026-07-14</a>
   </blockquote>
 
 
