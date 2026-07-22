@@ -67,6 +67,11 @@
 
 
   <blockquote>
+  <p>Ugh … central Asia kicking my ass today ...</p>
+  - <a href="https://mastodon.social/@ryancheley/116957750188873222" target="_blank">2026-07-21</a>
+  </blockquote>
+
+  <blockquote>
   <p>🗺️ July 20, 2026<br />5/5 countries in 6/13 guesses<br />🟢🟢🟢🟡🟢<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/116952006049584362" target="_blank">2026-07-20</a>
   </blockquote>
@@ -74,11 +79,6 @@
   <blockquote>
   <p>🗺️ July 19, 2026<br />5/5 countries in 7/13 guesses<br />🟢🟢🟢🟡🟡<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/116946552692085073" target="_blank">2026-07-19</a>
-  </blockquote>
-
-  <blockquote>
-  <p>I found this to be a super interesting article about Burnout, but also about a new term I've learned with respect to Burnout, Languishing. I'm wondering how much of what we're seeing in open source, programming, development, etc is Burnout and how much might be Languishing ...</p>
-  - <a href="https://mastodon.social/@ryancheley/116941702658229025" target="_blank">2026-07-18</a>
   </blockquote>
 
 
