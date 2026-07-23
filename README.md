@@ -67,18 +67,18 @@
 
 
   <blockquote>
+  <p><strong>Content warning:</strong>This is a highly personal post about a cancer diagnosis ...</p>
+  - <a href="https://mastodon.social/@ryancheley/116966687241270064" target="_blank">2026-07-23</a>
+  </blockquote>
+
+  <blockquote>
+  <p>🗺️ July 22, 2026<br />5/5 countries in 5/13 guesses<br />🟢🟢🟢🟢🟢<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/116963347992141468" target="_blank">2026-07-22</a>
+  </blockquote>
+
+  <blockquote>
   <p>Ugh … central Asia kicking my ass today ...</p>
   - <a href="https://mastodon.social/@ryancheley/116957750188873222" target="_blank">2026-07-21</a>
-  </blockquote>
-
-  <blockquote>
-  <p>🗺️ July 20, 2026<br />5/5 countries in 6/13 guesses<br />🟢🟢🟢🟡🟢<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/116952006049584362" target="_blank">2026-07-20</a>
-  </blockquote>
-
-  <blockquote>
-  <p>🗺️ July 19, 2026<br />5/5 countries in 7/13 guesses<br />🟢🟢🟢🟡🟡<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/116946552692085073" target="_blank">2026-07-19</a>
   </blockquote>
 
 
