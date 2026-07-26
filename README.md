@@ -67,6 +67,11 @@
 
 
   <blockquote>
+  <p>Oh number 4 … that was a pretty dirty trick there!  ...</p>
+  - <a href="https://mastodon.social/@ryancheley/116980617636085968" target="_blank">2026-07-25</a>
+  </blockquote>
+
+  <blockquote>
   <p>🗺️ July 24, 2026<br />5/5 countries in 5/13 guesses<br />🟢🟢🟢🟢🟢<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/116974938793175752" target="_blank">2026-07-24</a>
   </blockquote>
@@ -74,11 +79,6 @@
   <blockquote>
   <p class="quote-inline">RE: <a href="https://musicworld.social/@fivesongsdaily/116972209380319674" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="ellipsis">musicworld.social/@fivesongsda</span><span class="invisible">ily/116972209380319674</span></a></p><p>Thinking today’s theme might be <a class="mention hashtag" href="https://mastodon.social/tags/PyOhio" rel="tag">#<span>PyOhio</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/116972223317247512" target="_blank">2026-07-24</a>
-  </blockquote>
-
-  <blockquote>
-  <p>🗺️ July 23, 2026<br />5/5 countries in 6/13 guesses<br />🟢🟢🟢🟢🟡<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/116968722628599819" target="_blank">2026-07-23</a>
   </blockquote>
 
 
