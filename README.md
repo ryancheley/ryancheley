@@ -67,6 +67,11 @@
 
 
   <blockquote>
+  <p>🗺️ July 27, 2026<br />5/5 countries in 11/13 guesses<br />🟢🟣🟢🟢🟡<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/116991600183811881" target="_blank">2026-07-27</a>
+  </blockquote>
+
+  <blockquote>
   <p>Not my best day … Yikes! ...</p>
   - <a href="https://mastodon.social/@ryancheley/116986334587403884" target="_blank">2026-07-26</a>
   </blockquote>
@@ -74,11 +79,6 @@
   <blockquote>
   <p>Oh number 4 … that was a pretty dirty trick there!  ...</p>
   - <a href="https://mastodon.social/@ryancheley/116980617636085968" target="_blank">2026-07-25</a>
-  </blockquote>
-
-  <blockquote>
-  <p>🗺️ July 24, 2026<br />5/5 countries in 5/13 guesses<br />🟢🟢🟢🟢🟢<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/116974938793175752" target="_blank">2026-07-24</a>
   </blockquote>
 
 
