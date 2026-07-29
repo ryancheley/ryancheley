@@ -67,18 +67,18 @@
 
 
   <blockquote>
+  <p>The Lemon tree is coming in really strong. I can’t wait for the lemons to be something that I can actually harvest and make both Basil Lemonade and Rosemary Lemonade 🍋 🍋 🍋</p>
+  - <a href="https://mastodon.social/@ryancheley/117000445315119251" target="_blank">2026-07-29</a>
+  </blockquote>
+
+  <blockquote>
+  <p>Only 24km off or it would have been perfect!!!! ...</p>
+  - <a href="https://mastodon.social/@ryancheley/116997586784611826" target="_blank">2026-07-28</a>
+  </blockquote>
+
+  <blockquote>
   <p>🗺️ July 27, 2026<br />5/5 countries in 11/13 guesses<br />🟢🟣🟢🟢🟡<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/116991600183811881" target="_blank">2026-07-27</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Not my best day … Yikes! ...</p>
-  - <a href="https://mastodon.social/@ryancheley/116986334587403884" target="_blank">2026-07-26</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Oh number 4 … that was a pretty dirty trick there!  ...</p>
-  - <a href="https://mastodon.social/@ryancheley/116980617636085968" target="_blank">2026-07-25</a>
   </blockquote>
 
 
