@@ -67,6 +67,11 @@
 
 
   <blockquote>
+  <p>Only 37km away from perfection!  ...</p>
+  - <a href="https://mastodon.social/@ryancheley/117010597590428162" target="_blank">2026-07-30</a>
+  </blockquote>
+
+  <blockquote>
   <p>I used to be much better about the political geography of the Balkans. I’m sure that it was replaced with something much more important (sarcasm)🤦🏻‍♂️ ...</p>
   - <a href="https://mastodon.social/@ryancheley/117003096562867596" target="_blank">2026-07-29</a>
   </blockquote>
@@ -74,11 +79,6 @@
   <blockquote>
   <p>The Lemon tree is coming in really strong. I can’t wait for the lemons to be something that I can actually harvest and make both Basil Lemonade and Rosemary Lemonade 🍋 🍋 🍋</p>
   - <a href="https://mastodon.social/@ryancheley/117000445315119251" target="_blank">2026-07-29</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Only 24km off or it would have been perfect!!!! ...</p>
-  - <a href="https://mastodon.social/@ryancheley/116997586784611826" target="_blank">2026-07-28</a>
   </blockquote>
 
 
