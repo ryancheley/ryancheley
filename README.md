@@ -67,6 +67,11 @@
 
 
   <blockquote>
+  <p>As I pushed enter for my guess on number 2 I KNEW it was wrong. Ugh … Number 3 I don’t even know what happened there. Might just be too early in the morning for me (3am local) ...</p>
+  - <a href="https://mastodon.social/@ryancheley/117014003867013340" target="_blank">2026-07-31</a>
+  </blockquote>
+
+  <blockquote>
   <p>Only 37km away from perfection!  ...</p>
   - <a href="https://mastodon.social/@ryancheley/117010597590428162" target="_blank">2026-07-30</a>
   </blockquote>
@@ -74,11 +79,6 @@
   <blockquote>
   <p>I used to be much better about the political geography of the Balkans. I’m sure that it was replaced with something much more important (sarcasm)🤦🏻‍♂️ ...</p>
   - <a href="https://mastodon.social/@ryancheley/117003096562867596" target="_blank">2026-07-29</a>
-  </blockquote>
-
-  <blockquote>
-  <p>The Lemon tree is coming in really strong. I can’t wait for the lemons to be something that I can actually harvest and make both Basil Lemonade and Rosemary Lemonade 🍋 🍋 🍋</p>
-  - <a href="https://mastodon.social/@ryancheley/117000445315119251" target="_blank">2026-07-29</a>
   </blockquote>
 
 
