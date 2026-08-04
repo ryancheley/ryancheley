@@ -67,6 +67,11 @@
 
 
   <blockquote>
+  <p>🗺️ August 3, 2026<br />5/5 countries in 9/13 guesses<br />🟢🟢🟢🟠🟠<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/117031471136629907" target="_blank">2026-08-03</a>
+  </blockquote>
+
+  <blockquote>
   <p>After seeing how lots of people did, I got super nervous. I always complicate things when others find them easy. Today I was able to just relax and name the country though 💯 ...</p>
   - <a href="https://mastodon.social/@ryancheley/117026142749437059" target="_blank">2026-08-02</a>
   </blockquote>
@@ -74,11 +79,6 @@
   <blockquote>
   <p>Wow … number 5 really kicked me in the shorts!  ...</p>
   - <a href="https://mastodon.social/@ryancheley/117020484790844460" target="_blank">2026-08-01</a>
-  </blockquote>
-
-  <blockquote>
-  <p>As I pushed enter for my guess on number 2 I KNEW it was wrong. Ugh … Number 3 I don’t even know what happened there. Might just be too early in the morning for me (3am local) ...</p>
-  - <a href="https://mastodon.social/@ryancheley/117014003867013340" target="_blank">2026-07-31</a>
   </blockquote>
 
 
