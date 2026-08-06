@@ -67,18 +67,18 @@
 
 
   <blockquote>
-  <p>Central Asia and the Balkans in the same day! I didn’t realize I set the switch HARD mode 🤣 ...</p>
-  - <a href="https://mastodon.social/@ryancheley/117036638653550918" target="_blank">2026-08-04</a>
+  <p>TIL about `uv cache size` which told me I had 30GB (🤯) of cache. BUT I was then able to use `uv cache prune` to get rid of about 27GB of unused files.  ...</p>
+  - <a href="https://mastodon.social/@ryancheley/117048148320059426" target="_blank">2026-08-06</a>
   </blockquote>
 
   <blockquote>
-  <p>🗺️ August 3, 2026<br />5/5 countries in 9/13 guesses<br />🟢🟢🟢🟠🟠<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/117031471136629907" target="_blank">2026-08-03</a>
+  <p>Woah! First perfect in a while. Lots of second guessing but super glad to see this result 🎉 ...</p>
+  - <a href="https://mastodon.social/@ryancheley/117048029002098986" target="_blank">2026-08-06</a>
   </blockquote>
 
   <blockquote>
-  <p>After seeing how lots of people did, I got super nervous. I always complicate things when others find them easy. Today I was able to just relax and name the country though 💯 ...</p>
-  - <a href="https://mastodon.social/@ryancheley/117026142749437059" target="_blank">2026-08-02</a>
+  <p>Off by 32km and 25km. Ugh! So close and yet … so far ...</p>
+  - <a href="https://mastodon.social/@ryancheley/117042600965123706" target="_blank">2026-08-05</a>
   </blockquote>
 
 
