@@ -67,6 +67,11 @@
 
 
   <blockquote>
+  <p>So close! Pretty pleased, but really should have been able to get number 3. There’s always tomorrow!  ...</p>
+  - <a href="https://mastodon.social/@ryancheley/117053746247663715" target="_blank">2026-08-07</a>
+  </blockquote>
+
+  <blockquote>
   <p>TIL about `uv cache size` which told me I had 30GB (🤯) of cache. BUT I was then able to use `uv cache prune` to get rid of about 27GB of unused files.  ...</p>
   - <a href="https://mastodon.social/@ryancheley/117048148320059426" target="_blank">2026-08-06</a>
   </blockquote>
@@ -74,11 +79,6 @@
   <blockquote>
   <p>Woah! First perfect in a while. Lots of second guessing but super glad to see this result 🎉 ...</p>
   - <a href="https://mastodon.social/@ryancheley/117048029002098986" target="_blank">2026-08-06</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Off by 32km and 25km. Ugh! So close and yet … so far ...</p>
-  - <a href="https://mastodon.social/@ryancheley/117042600965123706" target="_blank">2026-08-05</a>
   </blockquote>
 
 
