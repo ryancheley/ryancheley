@@ -67,18 +67,18 @@
 
 
   <blockquote>
+  <p class="quote-inline">RE: <a href="https://mas.to/@skeletor/117073074428348698" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="ellipsis">mas.to/@skeletor/1170730744283</span><span class="invisible">48698</span></a></p><p>This hit surprisingly hard <a class="mention hashtag" href="https://mastodon.social/tags/FuckCancer" rel="tag">#<span>FuckCancer</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/117075066587633722" target="_blank">2026-08-11</a>
+  </blockquote>
+
+  <blockquote>
+  <p>🗺️ August 10, 2026<br />5/5 countries in 6/13 guesses<br />🟢🟢🟢🟡🟢<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/117071354869936427" target="_blank">2026-08-10</a>
+  </blockquote>
+
+  <blockquote>
   <p>🗺️ August 9, 2026<br />5/5 countries in 6/13 guesses<br />🟢🟢🟢🟢🟡<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/117065463636880782" target="_blank">2026-08-09</a>
-  </blockquote>
-
-  <blockquote>
-  <p>I should have known better for number 4. Really happy that I got number 5 though, but it was only because of what I had seen a few others say on their posts. Good hints for me at least 😅 ...</p>
-  - <a href="https://mastodon.social/@ryancheley/117059793979313847" target="_blank">2026-08-08</a>
-  </blockquote>
-
-  <blockquote>
-  <p>So close! Pretty pleased, but really should have been able to get number 3. There’s always tomorrow!  ...</p>
-  - <a href="https://mastodon.social/@ryancheley/117053746247663715" target="_blank">2026-08-07</a>
   </blockquote>
 
 
