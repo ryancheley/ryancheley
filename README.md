@@ -67,6 +67,11 @@
 
 
   <blockquote>
+  <p>Still pretty impressed that I got number 5. That was one of those, wait … what country is this? Oh, wait, I think I might know this one! <br />🗺️ August 13, 2026<br />5/5 countries in 5/13 guesses<br />🟢🟢🟢🟢🟢<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/117088120723385132" target="_blank">2026-08-13</a>
+  </blockquote>
+
+  <blockquote>
   <p>Country 3 is waaay bigger than I thought it was.  ...</p>
   - <a href="https://mastodon.social/@ryancheley/117082567273007289" target="_blank">2026-08-12</a>
   </blockquote>
@@ -74,11 +79,6 @@
   <blockquote>
   <p>The Pacific Ocean is freaking HUGE. Even when I was close … I wasn’t even CLOSE!  ...</p>
   - <a href="https://mastodon.social/@ryancheley/117076917173774550" target="_blank">2026-08-11</a>
-  </blockquote>
-
-  <blockquote>
-  <p class="quote-inline">RE: <a href="https://mas.to/@skeletor/117073074428348698" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="ellipsis">mas.to/@skeletor/1170730744283</span><span class="invisible">48698</span></a></p><p>This hit surprisingly hard <a class="mention hashtag" href="https://mastodon.social/tags/FuckCancer" rel="tag">#<span>FuckCancer</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/117075066587633722" target="_blank">2026-08-11</a>
   </blockquote>
 
 
