@@ -67,18 +67,18 @@
 
 
   <blockquote>
-  <p class="quote-inline">RE: <a href="https://mas.to/@skeletor/117107797764848143" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="ellipsis">mas.to/@skeletor/1171077977648</span><span class="invisible">48143</span></a></p><p>Yes! This is what I needed on the Sunday before I start my infused chemo 😅<br /><a class="mention hashtag" href="https://mastodon.social/tags/FuckCancer" rel="tag">#<span>FuckCancer</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/117107931046469886" target="_blank">2026-08-17</a>
+  <p>Success! Five hours of being infused but session 1 is DUN! <a class="mention hashtag" href="https://mastodon.social/tags/FuckCancer" rel="tag">#<span>FuckCancer</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/117113615919738173" target="_blank">2026-08-18</a>
   </blockquote>
 
   <blockquote>
-  <p>🗺️ August 16, 2026<br />5/5 countries in 6/13 guesses<br />🟢🟢🟢🟢🟡<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/117105171492737202" target="_blank">2026-08-16</a>
+  <p>Checking on a deployment failure from coolify whilst being pumped full of cancer killing poison as one does on a Monday. So far, so good! <a class="mention hashtag" href="https://mastodon.social/tags/FuckCancer" rel="tag">#<span>FuckCancer</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/117112134307143625" target="_blank">2026-08-17</a>
   </blockquote>
 
   <blockquote>
-  <p>WooHoo! 🎉No coffee needed this morning!  ...</p>
-  - <a href="https://mastodon.social/@ryancheley/117098988205739570" target="_blank">2026-08-15</a>
+  <p>Getting ready to start infused chemo treatment 1 of 6 <a class="mention hashtag" href="https://mastodon.social/tags/FuckCancer" rel="tag">#<span>FuckCancer</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/117111747103222762" target="_blank">2026-08-17</a>
   </blockquote>
 
 
