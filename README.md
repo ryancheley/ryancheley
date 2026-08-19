@@ -51,11 +51,11 @@
 
 <ul>
 
+  <li><a href="tag:ryancheley.com,2026-08-17:/2026/08/17/what-if-maintainer-burnout-isn-t-burnout/" target="_blank"><p>Imagine you're staring at your 11th AI-generated pull request of the morning.</p>
+<p>The code looks ... fine. The description is polished. Bullet points, a clear rationale, tests, and updated docs. But when you ask the contributor a question about why they'd chosen this approach over the one used everywhere else in …</p></a> - 2026-08-17</li>
+
   <li><a href="tag:ryancheley.com,2026-04-06:/2026/04/06/a-giant-pain-in-the-ass/" target="_blank"><p>Content Warning: This is a highly personal post about a cancer diagnosis.</p>
 <p>On Feb 16, 2026 I was 'prepping' for a routine colonoscopy that was scheduled for February 17th at about 1pm. For those of you unaware what is involved in 'prepping' don't google it, but just know that your …</p></a> - 2026-04-06</li>
-
-  <li><a href="tag:ryancheley.com,2026-01-12:/2026/01/12/migrating-to-hetzner-with-coolify/" target="_blank"><h1>What I did</h1>
-<p>A few weeks ago, I got to watch <a href="https://mastodon.social/@webology">Jeff Triplett</a> migrate <a href="https://djangopackages.org/">DjangoPackages</a> from <a href="https://www.digitalocean.com/">DigitalOcean</a> to <a href="https://hetzner.cloud/?ref=gNVHuEvaKgAw">Hetzner</a><sup id="sf-migrating-to-hetzner-with-coolify-1-back"><a class="simple-footnote" href="https://ryancheley.com/feeds/all.rss.xml#sf-migrating-to-hetzner-with-coolify-1" title="This is an affiliate link">1</a></sup> using <a href="https://coolify.io/">Coolify</a>. The magical world of Coolify made everything look just so ... easy. Jeff mentioned that one of the driving forces for the decision to go to Hetzner was the …</p></a> - 2026-01-12</li>
 
 </ul>
 
@@ -67,18 +67,18 @@
 
 
   <blockquote>
+  <p>Some days I think I know what’s going on, and then some days I remember that I don’t remember any of the Pacific Island nations nearly as well as I think I do🗺️<br />August 18, 2026<br />5/5 countries in 9/13 guesses<br />🟢🟢🟢🟡🔵<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/117116604770906685" target="_blank">2026-08-18</a>
+  </blockquote>
+
+  <blockquote>
+  <p>I’ve been working on this one for a few weeks. Let me know what you think!  ...</p>
+  - <a href="https://mastodon.social/@ryancheley/117116553954346301" target="_blank">2026-08-18</a>
+  </blockquote>
+
+  <blockquote>
   <p>Success! Five hours of being infused but session 1 is DUN! <a class="mention hashtag" href="https://mastodon.social/tags/FuckCancer" rel="tag">#<span>FuckCancer</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/117113615919738173" target="_blank">2026-08-18</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Checking on a deployment failure from coolify whilst being pumped full of cancer killing poison as one does on a Monday. So far, so good! <a class="mention hashtag" href="https://mastodon.social/tags/FuckCancer" rel="tag">#<span>FuckCancer</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/117112134307143625" target="_blank">2026-08-17</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Getting ready to start infused chemo treatment 1 of 6 <a class="mention hashtag" href="https://mastodon.social/tags/FuckCancer" rel="tag">#<span>FuckCancer</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/117111747103222762" target="_blank">2026-08-17</a>
   </blockquote>
 
 
