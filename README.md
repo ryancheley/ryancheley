@@ -67,6 +67,11 @@
 
 
   <blockquote>
+  <p>Not my best day ...</p>
+  - <a href="https://mastodon.social/@ryancheley/117127884349316819" target="_blank">2026-08-20</a>
+  </blockquote>
+
+  <blockquote>
   <p>🗺️ August 19, 2026<br />5/5 countries in 7/13 guesses<br />🟢🟢🟢🟢🟠<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/117121597022967804" target="_blank">2026-08-19</a>
   </blockquote>
@@ -74,11 +79,6 @@
   <blockquote>
   <p>Some days I think I know what’s going on, and then some days I remember that I don’t remember any of the Pacific Island nations nearly as well as I think I do🗺️<br />August 18, 2026<br />5/5 countries in 9/13 guesses<br />🟢🟢🟢🟡🔵<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/117116604770906685" target="_blank">2026-08-18</a>
-  </blockquote>
-
-  <blockquote>
-  <p>I’ve been working on this one for a few weeks. Let me know what you think!  ...</p>
-  - <a href="https://mastodon.social/@ryancheley/117116553954346301" target="_blank">2026-08-18</a>
   </blockquote>
 
 
