@@ -67,18 +67,18 @@
 
 
   <blockquote>
+  <p>Clayton Kershaw calling a <a class="mention hashtag" href="https://mastodon.social/tags/dodgers" rel="tag">#<span>dodgers</span></a> game with Joe Davis is just about the best thing ever</p>
+  - <a href="https://mastodon.social/@ryancheley/117159000141834906" target="_blank">2026-08-26</a>
+  </blockquote>
+
+  <blockquote>
+  <p>🗺️ August 25, 2026<br />5/5 countries in 5/13 guesses<br />🟢🟢🟢🟢🟢<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/117156341837285630" target="_blank">2026-08-25</a>
+  </blockquote>
+
+  <blockquote>
   <p>🗺️ August 24, 2026<br />5/5 countries in 6/13 guesses<br />🟢🟢🟢🟡🟢<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/117150926391102939" target="_blank">2026-08-24</a>
-  </blockquote>
-
-  <blockquote>
-  <p>🗺️ August 23, 2026<br />5/5 countries in 6/13 guesses<br />🟢🟢🟢🟢🟡<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/117145613761093390" target="_blank">2026-08-23</a>
-  </blockquote>
-
-  <blockquote>
-  <p>I had a chance to watch “Good Luck, Have Fun, Don’t Die” and I really enjoyed it. A good, entertaining way to spend a Saturday afternoon</p>
-  - <a href="https://mastodon.social/@ryancheley/117142073096149484" target="_blank">2026-08-23</a>
   </blockquote>
 
 
