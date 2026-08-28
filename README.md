@@ -67,6 +67,11 @@
 
 
   <blockquote>
+  <p>🗺️ August 28, 2026<br />5/5 countries in 10/13 guesses<br />🟢🟢🟡🟢🟣<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/117173449756489158" target="_blank">2026-08-28</a>
+  </blockquote>
+
+  <blockquote>
   <p>🗺️ August 27, 2026<br />5/5 countries in 13/13 guesses<br />🟢🟢🔵🟠🔵<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/117167712470738563" target="_blank">2026-08-27</a>
   </blockquote>
@@ -74,11 +79,6 @@
   <blockquote>
   <p>🗺️ August 26, 2026<br />5/5 countries in 5/13 guesses<br />🟢🟢🟢🟢🟢<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/117161894680977295" target="_blank">2026-08-26</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Clayton Kershaw calling a <a class="mention hashtag" href="https://mastodon.social/tags/dodgers" rel="tag">#<span>dodgers</span></a> game with Joe Davis is just about the best thing ever</p>
-  - <a href="https://mastodon.social/@ryancheley/117159000141834906" target="_blank">2026-08-26</a>
   </blockquote>
 
 
