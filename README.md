@@ -67,6 +67,11 @@
 
 
   <blockquote>
+  <p>🗺️ September 1, 2026<br />5/5 countries in 6/13 guesses<br />🟢🟢🟢🟢🟡<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/117195858221515215" target="_blank">2026-09-01</a>
+  </blockquote>
+
+  <blockquote>
   <p>Perhaps today is the day that I know the geographic order of the Baltic sisters! ...</p>
   - <a href="https://mastodon.social/@ryancheley/117190129453105143" target="_blank">2026-08-31</a>
   </blockquote>
@@ -74,11 +79,6 @@
   <blockquote>
   <p>🗺️ August 30, 2026<br />5/5 countries in 6/13 guesses<br />🟢🟢🟢🟡🟢<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/117184452492115542" target="_blank">2026-08-30</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Oof … that last one ...</p>
-  - <a href="https://mastodon.social/@ryancheley/117178536396460786" target="_blank">2026-08-29</a>
   </blockquote>
 
 
