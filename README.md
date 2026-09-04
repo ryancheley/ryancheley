@@ -67,18 +67,18 @@
 
 
   <blockquote>
+  <p class="quote-inline">RE: <a href="https://mastodon.social/@treyhunner/117209919521837619" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@treyhunner/11</span><span class="invisible">7209919521837619</span></a></p><p>You shouldn’t sleep on this. I’ve been using it for a while now and can recommend. Very helpful!</p>
+  - <a href="https://mastodon.social/@ryancheley/117210526228905349" target="_blank">2026-09-04</a>
+  </blockquote>
+
+  <blockquote>
+  <p>Got kind of lucky today, but I’ll take it! ...</p>
+  - <a href="https://mastodon.social/@ryancheley/117207246903587598" target="_blank">2026-09-03</a>
+  </blockquote>
+
+  <blockquote>
   <p>Oy … number five ...</p>
   - <a href="https://mastodon.social/@ryancheley/117201059048491625" target="_blank">2026-09-02</a>
-  </blockquote>
-
-  <blockquote>
-  <p>🗺️ September 1, 2026<br />5/5 countries in 6/13 guesses<br />🟢🟢🟢🟢🟡<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/117195858221515215" target="_blank">2026-09-01</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Perhaps today is the day that I know the geographic order of the Baltic sisters! ...</p>
-  - <a href="https://mastodon.social/@ryancheley/117190129453105143" target="_blank">2026-08-31</a>
   </blockquote>
 
 
