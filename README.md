@@ -67,18 +67,18 @@
 
 
   <blockquote>
+  <p>🗺️ September 7, 2026<br />5/5 countries in 6/13 guesses<br />🟢🟢🟡🟢🟢<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/117229875443126355" target="_blank">2026-09-07</a>
+  </blockquote>
+
+  <blockquote>
+  <p>Back to not knowing the Balkans  … or anything else apparently  ...</p>
+  - <a href="https://mastodon.social/@ryancheley/117224275388084058" target="_blank">2026-09-06</a>
+  </blockquote>
+
+  <blockquote>
   <p>First time in a while, maybe ever, that the Balkans didn’t trip me up!  ...</p>
   - <a href="https://mastodon.social/@ryancheley/117218850377845412" target="_blank">2026-09-05</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Brutal! ...</p>
-  - <a href="https://mastodon.social/@ryancheley/117213080192542288" target="_blank">2026-09-04</a>
-  </blockquote>
-
-  <blockquote>
-  <p class="quote-inline">RE: <a href="https://mastodon.social/@treyhunner/117209919521837619" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@treyhunner/11</span><span class="invisible">7209919521837619</span></a></p><p>You shouldn’t sleep on this. I’ve been using it for a while now and can recommend. Very helpful!</p>
-  - <a href="https://mastodon.social/@ryancheley/117210526228905349" target="_blank">2026-09-04</a>
   </blockquote>
 
 
