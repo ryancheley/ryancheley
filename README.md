@@ -67,18 +67,18 @@
 
 
   <blockquote>
+  <p>🗺️ September 15, 2026<br />5/5 countries in 7/13 guesses<br />🟡🟢🟡🟢🟢<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/117274726563859572" target="_blank">2026-09-15</a>
+  </blockquote>
+
+  <blockquote>
+  <p>🗺️ September 14, 2026<br />5/5 countries in 6/13 guesses<br />🟢🟢🟡🟢🟢<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/117272216737352835" target="_blank">2026-09-15</a>
+  </blockquote>
+
+  <blockquote>
   <p>🗺️ September 13, 2026<br />5/5 countries in 5/13 guesses<br />🟢🟢🟢🟢🟢<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/117264008999961916" target="_blank">2026-09-13</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Today was tough! Baltics AND Oceania<br />🗺️ September 12, 2026<br />5/5 countries in 8/13 guesses<br />🟢🟢🟡🟡🟡<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/117258135808979304" target="_blank">2026-09-12</a>
-  </blockquote>
-
-  <blockquote>
-  <p>🗺️ September 11, 2026<br />5/5 countries in 7/13 guesses<br />🟢🟢🟢🟠🟢<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/117252483367415650" target="_blank">2026-09-11</a>
   </blockquote>
 
 
