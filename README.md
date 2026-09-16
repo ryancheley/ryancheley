@@ -67,6 +67,11 @@
 
 
   <blockquote>
+  <p>TIL that my nausea medication is to be dissolved on the top of my tongue, not taken like EVERY OTHER FUCKING pill I take (and trust me, I take a lot of fucking pills) and there is NO indication on the bottle and no medical professional told me ...</p>
+  - <a href="https://mastodon.social/@ryancheley/117277951804513404" target="_blank">2026-09-16</a>
+  </blockquote>
+
+  <blockquote>
   <p>🗺️ September 15, 2026<br />5/5 countries in 7/13 guesses<br />🟡🟢🟡🟢🟢<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/117274726563859572" target="_blank">2026-09-15</a>
   </blockquote>
@@ -74,11 +79,6 @@
   <blockquote>
   <p>🗺️ September 14, 2026<br />5/5 countries in 6/13 guesses<br />🟢🟢🟡🟢🟢<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/117272216737352835" target="_blank">2026-09-15</a>
-  </blockquote>
-
-  <blockquote>
-  <p>🗺️ September 13, 2026<br />5/5 countries in 5/13 guesses<br />🟢🟢🟢🟢🟢<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/117264008999961916" target="_blank">2026-09-13</a>
   </blockquote>
 
 
