@@ -67,18 +67,18 @@
 
 
   <blockquote>
+  <p>Some good ones today, but nothing that tripped me up. Not too shabby for no coffee at 3am local!  ...</p>
+  - <a href="https://mastodon.social/@ryancheley/117297164810957995" target="_blank">2026-09-19</a>
+  </blockquote>
+
+  <blockquote>
+  <p>🗺️ September 18, 2026<br />5/5 countries in 7/13 guesses<br />🟢🟢🟢🟢🟠<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/117292267510722211" target="_blank">2026-09-18</a>
+  </blockquote>
+
+  <blockquote>
   <p>🗺️ September 17, 2026<br />5/5 countries in 7/13 guesses<br />🟢🟢🟢🟢🟠<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/117286400975346197" target="_blank">2026-09-17</a>
-  </blockquote>
-
-  <blockquote>
-  <p>not too shabby! ...</p>
-  - <a href="https://mastodon.social/@ryancheley/117281034474386920" target="_blank">2026-09-16</a>
-  </blockquote>
-
-  <blockquote>
-  <p>TIL that my nausea medication is to be dissolved on the top of my tongue, not taken like EVERY OTHER FUCKING pill I take (and trust me, I take a lot of fucking pills) and there is NO indication on the bottle and no medical professional told me ...</p>
-  - <a href="https://mastodon.social/@ryancheley/117277951804513404" target="_blank">2026-09-16</a>
   </blockquote>
 
 
