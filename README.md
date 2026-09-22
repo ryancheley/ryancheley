@@ -67,6 +67,11 @@
 
 
   <blockquote>
+  <p>Those last ones were tough!<br />🗺️ September 22, 2026<br />5/5 countries in 8/13 guesses<br />🟢🟢🟢🟠🟡<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/117314881657027052" target="_blank">2026-09-22</a>
+  </blockquote>
+
+  <blockquote>
   <p>🗺️ September 20, 2026<br />5/5 countries in 8/13 guesses<br />🟢🟠🟢🟢🟡<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/117303352831143609" target="_blank">2026-09-20</a>
   </blockquote>
@@ -74,11 +79,6 @@
   <blockquote>
   <p class="quote-inline">RE: <a href="https://mas.to/@skeletor/117299295500092489" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="ellipsis">mas.to/@skeletor/1172992955000</span><span class="invisible">92489</span></a></p><p>On day 12 of 14 for my second round of chemo meds, this is what I need to see</p><p><a class="mention hashtag" href="https://mastodon.social/tags/FuckCancer" rel="tag">#<span>FuckCancer</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/117299321817205465" target="_blank">2026-09-19</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Some good ones today, but nothing that tripped me up. Not too shabby for no coffee at 3am local!  ...</p>
-  - <a href="https://mastodon.social/@ryancheley/117297164810957995" target="_blank">2026-09-19</a>
   </blockquote>
 
 
