@@ -67,6 +67,11 @@
 
 
   <blockquote>
+  <p>🗺️ September 26, 2026<br />5/5 countries in 9/13 guesses<br />🟢🟢🟢🟣🟢<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/117337627696792480" target="_blank">2026-09-26</a>
+  </blockquote>
+
+  <blockquote>
   <p>Ugh … I really should have had that first one. Got a bit too clever ...</p>
   - <a href="https://mastodon.social/@ryancheley/117331528396764586" target="_blank">2026-09-25</a>
   </blockquote>
@@ -74,11 +79,6 @@
   <blockquote>
   <p>Not today Oceana … not today ...</p>
   - <a href="https://mastodon.social/@ryancheley/117326353944731795" target="_blank">2026-09-24</a>
-  </blockquote>
-
-  <blockquote>
-  <p>🗺️ September 23, 2026<br />5/5 countries in 5/13 guesses<br />🟢🟢🟢🟢🟢<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/117320338927269707" target="_blank">2026-09-23</a>
   </blockquote>
 
 
