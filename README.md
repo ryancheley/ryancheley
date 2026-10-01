@@ -67,18 +67,18 @@
 
 
   <blockquote>
-  <p>No coffee needed today! ...</p>
-  - <a href="https://mastodon.social/@ryancheley/117359290277210247" target="_blank">2026-09-30</a>
+  <p class="quote-inline">RE: <a href="https://mastodon.social/@workchronicles/117365366756608289" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@workchronicle</span><span class="invisible">s/117365366756608289</span></a></p><p>If you’re ever in charge of running meetings, please don’t do this. If you’re in a position to mentor people who do run meetings, please don’t let them do this either.</p>
+  - <a href="https://mastodon.social/@ryancheley/117365670824114908" target="_blank">2026-10-01</a>
   </blockquote>
 
   <blockquote>
-  <p>🗺️ September 28, 2026<br />5/5 countries in 6/13 guesses<br />🟢🟢🟢🟢🟡<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/117349293190427878" target="_blank">2026-09-28</a>
+  <p>🗺️ October 1, 2026<br />5/5 countries in 7/13 guesses<br />🟢🟢🟢🟠🟢<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/117365135523934091" target="_blank">2026-10-01</a>
   </blockquote>
 
   <blockquote>
-  <p>🗺️ September 26, 2026<br />5/5 countries in 9/13 guesses<br />🟢🟢🟢🟣🟢<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/117337627696792480" target="_blank">2026-09-26</a>
+  <p>I just rediscovered a dumb video I made 7 years ago. I laughed, maybe you will too ...</p>
+  - <a href="https://mastodon.social/@ryancheley/117363349081437656" target="_blank">2026-10-01</a>
   </blockquote>
 
 
