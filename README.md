@@ -67,18 +67,18 @@
 
 
   <blockquote>
-  <p>First cup of coffee in a month!  ...</p>
-  - <a href="https://mastodon.social/@ryancheley/117376961238942932" target="_blank">2026-10-03</a>
+  <p>Islands are a big challenge for me. Every. Single. Time ...</p>
+  - <a href="https://mastodon.social/@ryancheley/117382682459604820" target="_blank">2026-10-04</a>
   </blockquote>
 
   <blockquote>
-  <p>Today I learned something about country at pin 2 that I did not know!  ...</p>
-  - <a href="https://mastodon.social/@ryancheley/117371225403732486" target="_blank">2026-10-02</a>
+  <p>🗺️ October 3, 2026<br />5/5 countries in 7/13 guesses<br />🟢🟡🟡🟢🟢<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/117378070661578808" target="_blank">2026-10-03</a>
   </blockquote>
 
   <blockquote>
-  <p class="quote-inline">RE: <a href="https://mastodon.social/@workchronicles/117365366756608289" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@workchronicle</span><span class="invisible">s/117365366756608289</span></a></p><p>If you’re ever in charge of running meetings, please don’t do this. If you’re in a position to mentor people who do run meetings, please don’t let them do this either.</p>
-  - <a href="https://mastodon.social/@ryancheley/117365670824114908" target="_blank">2026-10-01</a>
+  <p>The good news is that the coffee was amazing and I loved it and wouldn’t change anything and totally want a second cup. The bad news is I’m pretty sure I can smell colors now so I probably shouldn’t have any more <a class="mention hashtag" href="https://mastodon.social/tags/CoffeeSuperPowers" rel="tag">#<span>CoffeeSuperPowers</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/117377785565641736" target="_blank">2026-10-03</a>
   </blockquote>
 
 
