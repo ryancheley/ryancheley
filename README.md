@@ -67,6 +67,11 @@
 
 
   <blockquote>
+  <p>I should have known better on 2. But 5 … goodness got both countries on either side before I got it 😅 ...</p>
+  - <a href="https://mastodon.social/@ryancheley/117388636291875816" target="_blank">2026-10-05</a>
+  </blockquote>
+
+  <blockquote>
   <p>Islands are a big challenge for me. Every. Single. Time ...</p>
   - <a href="https://mastodon.social/@ryancheley/117382682459604820" target="_blank">2026-10-04</a>
   </blockquote>
@@ -74,11 +79,6 @@
   <blockquote>
   <p>🗺️ October 3, 2026<br />5/5 countries in 7/13 guesses<br />🟢🟡🟡🟢🟢<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/117378070661578808" target="_blank">2026-10-03</a>
-  </blockquote>
-
-  <blockquote>
-  <p>The good news is that the coffee was amazing and I loved it and wouldn’t change anything and totally want a second cup. The bad news is I’m pretty sure I can smell colors now so I probably shouldn’t have any more <a class="mention hashtag" href="https://mastodon.social/tags/CoffeeSuperPowers" rel="tag">#<span>CoffeeSuperPowers</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/117377785565641736" target="_blank">2026-10-03</a>
   </blockquote>
 
 
