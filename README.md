@@ -67,18 +67,18 @@
 
 
   <blockquote>
-  <p>🗺️ October 7, 2026<br />5/5 countries in 5/13 guesses<br />🟢🟢🟢🟢🟢<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/117399789450899206" target="_blank">2026-10-07</a>
+  <p>Apparently the Padres (and my rooting for them) couldn’t survive the “Brewers Buzzsaw” … It’s gonna be a repeat of the 2025 matchup between the <a class="mention hashtag" href="https://mastodon.social/tags/Dodgers" rel="tag">#<span>Dodgers</span></a> and the <a class="mention hashtag" href="https://mastodon.social/tags/Brewers" rel="tag">#<span>Brewers</span></a> in the <a class="mention hashtag" href="https://mastodon.social/tags/NLCS" rel="tag">#<span>NLCS</span></a>. Hoping for the same outcome 🤞🏻 ...</p>
+  - <a href="https://mastodon.social/@ryancheley/117405406684063258" target="_blank">2026-10-08</a>
   </blockquote>
 
   <blockquote>
-  <p>🗺️ October 6, 2026<br />5/5 countries in 7/13 guesses<br />🟢🟢🟢🟠🟢<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/117394009910754844" target="_blank">2026-10-06</a>
+  <p>🗺️ October 8, 2026<br />5/5 countries in 6/13 guesses<br />🟢🟢🟢🟡🟢<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/117405343323210199" target="_blank">2026-10-08</a>
   </blockquote>
 
   <blockquote>
-  <p>I should have known better on 2. But 5 … goodness got both countries on either side before I got it 😅 ...</p>
-  - <a href="https://mastodon.social/@ryancheley/117388636291875816" target="_blank">2026-10-05</a>
+  <p>Today I’m doing one of the hardest things I’ve ever had to do in my life …. ...</p>
+  - <a href="https://mastodon.social/@ryancheley/117403133370682604" target="_blank">2026-10-08</a>
   </blockquote>
 
 
