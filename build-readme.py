@@ -1,9 +1,9 @@
 import datetime
 import pathlib
-from platform import platform
 import re
 import ssl
 import typing
+from platform import platform
 
 import feedparser
 import httpx
@@ -43,9 +43,15 @@ def get_text_inside(text: str, opening_char: str, ending_char: str) -> str:
 
 
 def get_tils(num_items: int = 5):
-    readme_list = httpx.get(TIL_INDEX).text.split('\n')
-    start_position = [(ind, x) for ind, x in enumerate(readme_list) if x =='<!-- index starts -->'][0][0]
-    tils = [x.replace('* ', '') for x in readme_list[start_position+1: ] if x != '' and not x.startswith('##')][:-1]
+    readme_list = httpx.get(TIL_INDEX).text.split("\n")
+    start_position = next(
+        (ind, x) for ind, x in enumerate(readme_list) if x == "<!-- index starts -->"
+    )[0]
+    tils = [
+        x.replace("* ", "")
+        for x in readme_list[start_position + 1 :]
+        if x != "" and not x.startswith("##")
+    ][:-1]
     data = []
     for til in tils:
         title = get_text_inside(til, "[", "]")
@@ -56,7 +62,6 @@ def get_tils(num_items: int = 5):
     data = sorted(data, key=lambda a: a.date, reverse=True)
 
     return data[:num_items]
-
 
 
 def get_repositories():
@@ -72,7 +77,8 @@ def get_repositories():
 console = Console(record=True, width=100)
 
 tree = Tree(
-    "🙂 [link=https://www.ryancheley.com]R. Ryan Cheley", guide_style="bold bright_black"
+    "🙂 [link=https://www.ryancheley.com]R. Ryan Cheley",
+    guide_style="bold bright_black",
 )
 
 python_tree = tree.add("📦 Open Source Packages", guide_style="bright_black")
@@ -105,9 +111,7 @@ employer_tree.add(
 )
 
 certification_tree = tree.add("📜 Certifications", guide_style="bright_black")
-certification_tree.add(
-    "[bold link=]GCP Cloud Architect[/] - Feb 2023"
-)
+certification_tree.add("[bold link=]GCP Cloud Architect[/] - Feb 2023")
 
 console.print(tree)
 console.print("")
@@ -184,10 +188,10 @@ def generate_readme(content: dict[str, list[ContentPiece]]) -> None:
 
 
 if __name__ == "__main__":
-    content = dict(
-        articles=get_latest_articles(),
-        toots=get_latest_toots(),
-        lede=get_lede(),
-        tils=get_tils(),
-    )
+    content = {
+        "articles": get_latest_articles(),
+        "toots": get_latest_toots(),
+        "lede": get_lede(),
+        "tils": get_tils(),
+    }
     generate_readme(content)
