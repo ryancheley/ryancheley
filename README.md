@@ -67,18 +67,18 @@
 
 
   <blockquote>
+  <p>🗺️ October 11, 2026<br />5/5 countries in 6/13 guesses<br />🟢🟢🟢🟢🟡<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/117422589419318740" target="_blank">2026-10-11</a>
+  </blockquote>
+
+  <blockquote>
+  <p>I don't really like Musicals per se, but I get real joy when TV shows are able to incorporate a musical into an episode. My most recent experience is Strange New Worlds S2 E9. A good fun watch</p>
+  - <a href="https://mastodon.social/@ryancheley/117418197934226257" target="_blank">2026-10-10</a>
+  </blockquote>
+
+  <blockquote>
   <p>🗺️ October 10, 2026<br />5/5 countries in 6/13 guesses<br />🟢🟢🟡🟢🟢<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/117416997008931083" target="_blank">2026-10-10</a>
-  </blockquote>
-
-  <blockquote>
-  <p>First hockey game since April … probably the last one for a couple of months. I only lasted two periods before I had to leave but holy shit I didn’t realize how much I missed watching these games in person <br /><a class="mention hashtag" href="https://mastodon.social/tags/FuckCancer" rel="tag">#<span>FuckCancer</span></a> <a class="mention hashtag" href="https://mastodon.social/tags/AHL" rel="tag">#<span>AHL</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/117414709911444854" target="_blank">2026-10-10</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Ugh … islands. Am I right? <br />🗺️ October 9, 2026<br />5/5 countries in 7/13 guesses<br />🟢🟢🟢🟢🟠<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/117411073595485793" target="_blank">2026-10-09</a>
   </blockquote>
 
 
