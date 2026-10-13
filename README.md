@@ -67,6 +67,11 @@
 
 
   <blockquote>
+  <p>🗺️ October 13, 2026<br />5/5 countries in 7/13 guesses<br />🟢🟢🟢🟡🟡<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/117433786712500119" target="_blank">2026-10-13</a>
+  </blockquote>
+
+  <blockquote>
   <p>Not my best day ...</p>
   - <a href="https://mastodon.social/@ryancheley/117428467481181770" target="_blank">2026-10-12</a>
   </blockquote>
@@ -74,11 +79,6 @@
   <blockquote>
   <p>We got a little bit of rain yesterday and today. This is a retention basin that is usually about a 10ft / 3m deep hole in the ground with NO water in it. It’s about the size of any Olympic swimming pool.</p>
   - <a href="https://mastodon.social/@ryancheley/117424070957067018" target="_blank">2026-10-11</a>
-  </blockquote>
-
-  <blockquote>
-  <p>🗺️ October 11, 2026<br />5/5 countries in 6/13 guesses<br />🟢🟢🟢🟢🟡<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/117422589419318740" target="_blank">2026-10-11</a>
   </blockquote>
 
 
