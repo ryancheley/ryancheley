@@ -67,18 +67,18 @@
 
 
   <blockquote>
+  <p>Today was the day where it was NOT Oceania that tripped me up, but instead South America. I have *much* shame today 😬 ...</p>
+  - <a href="https://mastodon.social/@ryancheley/117439282498255782" target="_blank">2026-10-14</a>
+  </blockquote>
+
+  <blockquote>
+  <p>Update on the retention basin. The water level is down quite a bit … but not as much as I expected!</p>
+  - <a href="https://mastodon.social/@ryancheley/117436812195518147" target="_blank">2026-10-14</a>
+  </blockquote>
+
+  <blockquote>
   <p>🗺️ October 13, 2026<br />5/5 countries in 7/13 guesses<br />🟢🟢🟢🟡🟡<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/117433786712500119" target="_blank">2026-10-13</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Not my best day ...</p>
-  - <a href="https://mastodon.social/@ryancheley/117428467481181770" target="_blank">2026-10-12</a>
-  </blockquote>
-
-  <blockquote>
-  <p>We got a little bit of rain yesterday and today. This is a retention basin that is usually about a 10ft / 3m deep hole in the ground with NO water in it. It’s about the size of any Olympic swimming pool.</p>
-  - <a href="https://mastodon.social/@ryancheley/117424070957067018" target="_blank">2026-10-11</a>
   </blockquote>
 
 
