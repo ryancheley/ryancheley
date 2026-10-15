@@ -67,18 +67,18 @@
 
 
   <blockquote>
+  <p>At least the pattern is symmetrical <br />🗺️ October 15, 2026<br />5/5 countries in 7/13 guesses<br />🟢🟡🟢🟡🟢<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/117444720297625384" target="_blank">2026-10-15</a>
+  </blockquote>
+
+  <blockquote>
+  <p class="quote-inline">RE: <a href="https://mastodon.social/@ryancheley/117402632848725095" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@ryancheley/11</span><span class="invisible">7402632848725095</span></a></p><p>Time is running out! You’ve got a few more days to nominate someone</p>
+  - <a href="https://mastodon.social/@ryancheley/117440508838661535" target="_blank">2026-10-14</a>
+  </blockquote>
+
+  <blockquote>
   <p>Today was the day where it was NOT Oceania that tripped me up, but instead South America. I have *much* shame today 😬 ...</p>
   - <a href="https://mastodon.social/@ryancheley/117439282498255782" target="_blank">2026-10-14</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Update on the retention basin. The water level is down quite a bit … but not as much as I expected!</p>
-  - <a href="https://mastodon.social/@ryancheley/117436812195518147" target="_blank">2026-10-14</a>
-  </blockquote>
-
-  <blockquote>
-  <p>🗺️ October 13, 2026<br />5/5 countries in 7/13 guesses<br />🟢🟢🟢🟡🟡<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/117433786712500119" target="_blank">2026-10-13</a>
   </blockquote>
 
 
