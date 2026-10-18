@@ -67,6 +67,11 @@
 
 
   <blockquote>
+  <p>I don’t mean to brag, but I’ve had my windows open ALL DAY LONG for the first time in about 6 months and it. Is. Glorious!</p>
+  - <a href="https://mastodon.social/@ryancheley/117458895178986436" target="_blank">2026-10-17</a>
+  </blockquote>
+
+  <blockquote>
   <p>🗺️ October 17, 2026<br />5/5 countries in 6/13 guesses<br />🟢🟢🟡🟢🟢<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/117455988626951353" target="_blank">2026-10-17</a>
   </blockquote>
@@ -74,11 +79,6 @@
   <blockquote>
   <p>At least the pattern is symmetrical <br />🗺️ October 15, 2026<br />5/5 countries in 7/13 guesses<br />🟢🟡🟢🟡🟢<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/117444720297625384" target="_blank">2026-10-15</a>
-  </blockquote>
-
-  <blockquote>
-  <p class="quote-inline">RE: <a href="https://mastodon.social/@ryancheley/117402632848725095" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@ryancheley/11</span><span class="invisible">7402632848725095</span></a></p><p>Time is running out! You’ve got a few more days to nominate someone</p>
-  - <a href="https://mastodon.social/@ryancheley/117440508838661535" target="_blank">2026-10-14</a>
   </blockquote>
 
 
