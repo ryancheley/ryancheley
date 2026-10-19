@@ -67,18 +67,18 @@
 
 
   <blockquote>
+  <p>Ugh … rough day at the office today! ...</p>
+  - <a href="https://mastodon.social/@ryancheley/117467418799575989" target="_blank">2026-10-19</a>
+  </blockquote>
+
+  <blockquote>
+  <p>Oh number 3! I almost guessed you but then went too far north to get the wrong answer first! ...</p>
+  - <a href="https://mastodon.social/@ryancheley/117462002149080731" target="_blank">2026-10-18</a>
+  </blockquote>
+
+  <blockquote>
   <p>I don’t mean to brag, but I’ve had my windows open ALL DAY LONG for the first time in about 6 months and it. Is. Glorious!</p>
   - <a href="https://mastodon.social/@ryancheley/117458895178986436" target="_blank">2026-10-17</a>
-  </blockquote>
-
-  <blockquote>
-  <p>🗺️ October 17, 2026<br />5/5 countries in 6/13 guesses<br />🟢🟢🟡🟢🟢<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/117455988626951353" target="_blank">2026-10-17</a>
-  </blockquote>
-
-  <blockquote>
-  <p>At least the pattern is symmetrical <br />🗺️ October 15, 2026<br />5/5 countries in 7/13 guesses<br />🟢🟡🟢🟡🟢<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/117444720297625384" target="_blank">2026-10-15</a>
   </blockquote>
 
 
