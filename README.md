@@ -67,18 +67,18 @@
 
 
   <blockquote>
+  <p>Tough but fun today  ...</p>
+  - <a href="https://mastodon.social/@ryancheley/117479177530126064" target="_blank">2026-10-21</a>
+  </blockquote>
+
+  <blockquote>
+  <p>Not today Islands!  ...</p>
+  - <a href="https://mastodon.social/@ryancheley/117474525570853172" target="_blank">2026-10-20</a>
+  </blockquote>
+
+  <blockquote>
   <p>Ugh … rough day at the office today! ...</p>
   - <a href="https://mastodon.social/@ryancheley/117467418799575989" target="_blank">2026-10-19</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Oh number 3! I almost guessed you but then went too far north to get the wrong answer first! ...</p>
-  - <a href="https://mastodon.social/@ryancheley/117462002149080731" target="_blank">2026-10-18</a>
-  </blockquote>
-
-  <blockquote>
-  <p>I don’t mean to brag, but I’ve had my windows open ALL DAY LONG for the first time in about 6 months and it. Is. Glorious!</p>
-  - <a href="https://mastodon.social/@ryancheley/117458895178986436" target="_blank">2026-10-17</a>
   </blockquote>
 
 
