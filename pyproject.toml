@@ -1,0 +1,20 @@
+[project]
+name = "ryancheley"
+version = "0.1.0"
+description = "Builds README.md for the ryancheley profile"
+requires-python = ">=3.11"
+dependencies = [
+    "feedparser",
+    "httpx",
+    "jinja2",
+    "requests",
+    "rich",
+]
+
+[tool.uv]
+package = false
+
+[dependency-groups]
+dev = [
+    "ruff>=0.17.1",
+]
