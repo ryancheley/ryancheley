@@ -67,6 +67,11 @@
 
 
   <blockquote>
+  <p>I did not think that country 5 went that far south! Lucky guess on that one ...</p>
+  - <a href="https://mastodon.social/@ryancheley/117485081905168554" target="_blank">2026-10-22</a>
+  </blockquote>
+
+  <blockquote>
   <p>Tough but fun today  ...</p>
   - <a href="https://mastodon.social/@ryancheley/117479177530126064" target="_blank">2026-10-21</a>
   </blockquote>
@@ -74,11 +79,6 @@
   <blockquote>
   <p>Not today Islands!  ...</p>
   - <a href="https://mastodon.social/@ryancheley/117474525570853172" target="_blank">2026-10-20</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Ugh … rough day at the office today! ...</p>
-  - <a href="https://mastodon.social/@ryancheley/117467418799575989" target="_blank">2026-10-19</a>
   </blockquote>
 
 
