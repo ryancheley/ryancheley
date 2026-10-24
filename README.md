@@ -67,6 +67,11 @@
 
 
   <blockquote>
+  <p>🗺️ October 24, 2026<br />5/5 countries in 6/13 guesses<br />🟡🟢🟢🟢🟢<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/117495923634901671" target="_blank">2026-10-24</a>
+  </blockquote>
+
+  <blockquote>
   <p>I did not think that country 5 went that far south! Lucky guess on that one ...</p>
   - <a href="https://mastodon.social/@ryancheley/117485081905168554" target="_blank">2026-10-22</a>
   </blockquote>
@@ -74,11 +79,6 @@
   <blockquote>
   <p>Tough but fun today  ...</p>
   - <a href="https://mastodon.social/@ryancheley/117479177530126064" target="_blank">2026-10-21</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Not today Islands!  ...</p>
-  - <a href="https://mastodon.social/@ryancheley/117474525570853172" target="_blank">2026-10-20</a>
   </blockquote>
 
 
