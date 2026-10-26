@@ -51,11 +51,11 @@
 
 <ul>
 
+  <li><a href="tag:ryancheley.com,2026-10-26:/2026/10/26/have-you-heard-the-good-news-about-just/" target="_blank"><p>Because of my current cancer treatment I'm on medical leave from work. I spend a LOT of my day resting, or doing very non-active things ...  like watching TV Shows. I'm currently binging <a href="https://en.wikipedia.org/wiki/Star_Trek:_Strange_New_Worlds">Star Trek: Strange New Worlds</a> and it's really good.</p>
+<p>In order to help stave off brain rot I …</p></a> - 2026-10-26</li>
+
   <li><a href="tag:ryancheley.com,2026-08-17:/2026/08/17/what-if-maintainer-burnout-isn-t-burnout/" target="_blank"><p>Imagine you're staring at your 11th AI-generated pull request of the morning.</p>
 <p>The code looks ... fine. The description is polished. Bullet points, a clear rationale, tests, and updated docs. But when you ask the contributor a question about why they'd chosen this approach over the one used everywhere else in …</p></a> - 2026-08-17</li>
-
-  <li><a href="tag:ryancheley.com,2026-04-06:/2026/04/06/a-giant-pain-in-the-ass/" target="_blank"><p>Content Warning: This is a highly personal post about a cancer diagnosis.</p>
-<p>On Feb 16, 2026 I was 'prepping' for a routine colonoscopy that was scheduled for February 17th at about 1pm. For those of you unaware what is involved in 'prepping' don't google it, but just know that your …</p></a> - 2026-04-06</li>
 
 </ul>
 
@@ -67,18 +67,18 @@
 
 
   <blockquote>
-  <p>🗺️ October 24, 2026<br />5/5 countries in 6/13 guesses<br />🟡🟢🟢🟢🟢<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/117495923634901671" target="_blank">2026-10-24</a>
+  <p>I’m currently on medical leave from my day job so I can focus on the cancer treatment I’m going through. That being said, there’s only so much napping, TV Show / Movie / Sports watching, and reading I can do. So, I’m working through learning more about various tech that I use, or would like to use, and am writing it up as I go. I expect to post weekly(ish) but we’ll see.  ...</p>
+  - <a href="https://mastodon.social/@ryancheley/117507344461756930" target="_blank">2026-10-26</a>
   </blockquote>
 
   <blockquote>
-  <p>I did not think that country 5 went that far south! Lucky guess on that one ...</p>
-  - <a href="https://mastodon.social/@ryancheley/117485081905168554" target="_blank">2026-10-22</a>
+  <p>I have no words for today ...</p>
+  - <a href="https://mastodon.social/@ryancheley/117507178485717755" target="_blank">2026-10-26</a>
   </blockquote>
 
   <blockquote>
-  <p>Tough but fun today  ...</p>
-  - <a href="https://mastodon.social/@ryancheley/117479177530126064" target="_blank">2026-10-21</a>
+  <p>🗺️ October 25, 2026<br />5/5 countries in 9/13 guesses<br />🟢🟢🟢🟠🟠<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/117502995726698454" target="_blank">2026-10-25</a>
   </blockquote>
 
 
