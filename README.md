@@ -67,6 +67,11 @@
 
 
   <blockquote>
+  <p>Off by 2km and 28km … wow brutal border day for me! ...</p>
+  - <a href="https://mastodon.social/@ryancheley/117512735086527266" target="_blank">2026-10-27</a>
+  </blockquote>
+
+  <blockquote>
   <p>I’m currently on medical leave from my day job so I can focus on the cancer treatment I’m going through. That being said, there’s only so much napping, TV Show / Movie / Sports watching, and reading I can do. So, I’m working through learning more about various tech that I use, or would like to use, and am writing it up as I go. I expect to post weekly(ish) but we’ll see.  ...</p>
   - <a href="https://mastodon.social/@ryancheley/117507344461756930" target="_blank">2026-10-26</a>
   </blockquote>
@@ -74,11 +79,6 @@
   <blockquote>
   <p>I have no words for today ...</p>
   - <a href="https://mastodon.social/@ryancheley/117507178485717755" target="_blank">2026-10-26</a>
-  </blockquote>
-
-  <blockquote>
-  <p>🗺️ October 25, 2026<br />5/5 countries in 9/13 guesses<br />🟢🟢🟢🟠🟠<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/117502995726698454" target="_blank">2026-10-25</a>
   </blockquote>
 
 
