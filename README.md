@@ -67,18 +67,18 @@
 
 
   <blockquote>
-  <p>Off by 2km and 28km … wow brutal border day for me! ...</p>
-  - <a href="https://mastodon.social/@ryancheley/117512735086527266" target="_blank">2026-10-27</a>
+  <p>Finally!!! 🎉🎉 ...</p>
+  - <a href="https://mastodon.social/@ryancheley/117524392852988734" target="_blank">2026-10-29</a>
   </blockquote>
 
   <blockquote>
-  <p>I’m currently on medical leave from my day job so I can focus on the cancer treatment I’m going through. That being said, there’s only so much napping, TV Show / Movie / Sports watching, and reading I can do. So, I’m working through learning more about various tech that I use, or would like to use, and am writing it up as I go. I expect to post weekly(ish) but we’ll see.  ...</p>
-  - <a href="https://mastodon.social/@ryancheley/117507344461756930" target="_blank">2026-10-26</a>
+  <p>🗺️ October 28, 2026<br />5/5 countries in 6/13 guesses<br />🟢🟢🟢🟢🟡<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/117520806388842404" target="_blank">2026-10-28</a>
   </blockquote>
 
   <blockquote>
-  <p>I have no words for today ...</p>
-  - <a href="https://mastodon.social/@ryancheley/117507178485717755" target="_blank">2026-10-26</a>
+  <p>The gardener recently pruned the lemon tree. I fear he was a bit more aggressive than I would have liked … but I’m still on track for some tasty lemonade in the dead of winter in about 2 months 🍋🍋🍋</p>
+  - <a href="https://mastodon.social/@ryancheley/117520051192558028" target="_blank">2026-10-28</a>
   </blockquote>
 
 
