@@ -32,15 +32,15 @@
 
 <ul>
 
-  <li><a href="https://github.com/ryancheley/til/blob/main/just/modules.md" target="_blank">just modules</a> - 2025-09-21</li>
+  <li><a href="https://github.com/ryancheley/til/blob/main/github/adding-a-public-key-via-the-command-line.md" target="_blank">Adding a Public Key via the Command Line</a> - 2026-10-29</li>
 
-  <li><a href="youtube-dl" target="_blank">Fork of YouTube Download (youtube-dl) written in Python.</a> - 2025-06-04</li>
+  <li><a href="https://github.com/ryancheley/til/blob/main/just/parallel.md" target="_blank">Run dependencies in parallel</a> - 2026-10-29</li>
 
-  <li><a href="https://github.com/ryancheley/til/blob/main/uv/run-remote-scripts-with-uv.md" target="_blank">Run remote scripts with uv</a> - 2025-06-04</li>
+  <li><a href="https://github.com/ryancheley/til/blob/main/just/shell-expanded-strings.md" target="_blank">Shell-expanded strings</a> - 2026-10-29</li>
 
-  <li><a href="https://github.com/ryancheley/til/blob/main/computing/authorized-keys-can-restrict-actions.md" target="_blank">Authorized Keys Can Restrict Actions</a> - 2025-04-28</li>
+  <li><a href="https://github.com/ryancheley/til/blob/main/just/default-list.md" target="_blank">default-list</a> - 2026-10-29</li>
 
-  <li><a href="https://github.com/ryancheley/til/blob/main/github/gfm.md" target="_blank">GitHub Flavored Markdown via the gh cli</a> - 2025-04-18</li>
+  <li><a href="https://github.com/ryancheley/til/blob/main/just/groups.md" target="_blank">Recipe groups</a> - 2026-10-29</li>
 
 </ul>
 
@@ -51,11 +51,14 @@
 
 <ul>
 
+  <li><a href="tag:ryancheley.com,2026-10-29:/2026/10/29/atuin-the-magical-shell-tool/" target="_blank"><p>In part two of my series, "Learning on Leave" I spent some time going through the <a href="https://docs.atuin.sh/latest/">docs</a> for <a href="https://atuin.sh/">Atuin</a>. I even went down a rabbit hole of rolling my own sync server!</p>
+<h2>What is Atuin and why would I use it?</h2>
+<p>Atuin is "Shell history supercharged". Per their <a href="https://atuin.sh/">website</a>:</p>
+<blockquote>
+<p>Sync …</p></blockquote></a> - 2026-10-29</li>
+
   <li><a href="tag:ryancheley.com,2026-10-26:/2026/10/26/have-you-heard-the-good-news-about-just/" target="_blank"><p>Because of my current cancer treatment I'm on medical leave from work. I spend a LOT of my day resting, or doing very non-active things ...  like watching TV Shows. I'm currently binging <a href="https://en.wikipedia.org/wiki/Star_Trek:_Strange_New_Worlds">Star Trek: Strange New Worlds</a> and it's really good.</p>
 <p>In order to help stave off brain rot I …</p></a> - 2026-10-26</li>
-
-  <li><a href="tag:ryancheley.com,2026-08-17:/2026/08/17/what-if-maintainer-burnout-isn-t-burnout/" target="_blank"><p>Imagine you're staring at your 11th AI-generated pull request of the morning.</p>
-<p>The code looks ... fine. The description is polished. Bullet points, a clear rationale, tests, and updated docs. But when you ask the contributor a question about why they'd chosen this approach over the one used everywhere else in …</p></a> - 2026-08-17</li>
 
 </ul>
 
@@ -67,18 +70,18 @@
 
 
   <blockquote>
+  <p>Sometimes you need to go outside and touch some grass <a class="mention hashtag" href="https://mastodon.social/tags/selfcaresprint" rel="tag">#<span>selfcaresprint</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/117526246413410748" target="_blank">2026-10-29</a>
+  </blockquote>
+
+  <blockquote>
+  <p>The second post in my ‘Learnings on Leave’ series!  ...</p>
+  - <a href="https://mastodon.social/@ryancheley/117525122210783372" target="_blank">2026-10-29</a>
+  </blockquote>
+
+  <blockquote>
   <p>Finally!!! 🎉🎉 ...</p>
   - <a href="https://mastodon.social/@ryancheley/117524392852988734" target="_blank">2026-10-29</a>
-  </blockquote>
-
-  <blockquote>
-  <p>🗺️ October 28, 2026<br />5/5 countries in 6/13 guesses<br />🟢🟢🟢🟢🟡<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/117520806388842404" target="_blank">2026-10-28</a>
-  </blockquote>
-
-  <blockquote>
-  <p>The gardener recently pruned the lemon tree. I fear he was a bit more aggressive than I would have liked … but I’m still on track for some tasty lemonade in the dead of winter in about 2 months 🍋🍋🍋</p>
-  - <a href="https://mastodon.social/@ryancheley/117520051192558028" target="_blank">2026-10-28</a>
   </blockquote>
 
 
