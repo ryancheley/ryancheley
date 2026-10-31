@@ -70,6 +70,11 @@
 
 
   <blockquote>
+  <p>🗺️ October 30, 2026<br />5/5 countries in 8/13 guesses<br />🟡🟢🟢🟡🟡<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/117532220958177516" target="_blank">2026-10-30</a>
+  </blockquote>
+
+  <blockquote>
   <p>Sometimes you need to go outside and touch some grass <a class="mention hashtag" href="https://mastodon.social/tags/selfcaresprint" rel="tag">#<span>selfcaresprint</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/117526246413410748" target="_blank">2026-10-29</a>
   </blockquote>
@@ -77,11 +82,6 @@
   <blockquote>
   <p>The second post in my ‘Learnings on Leave’ series!  ...</p>
   - <a href="https://mastodon.social/@ryancheley/117525122210783372" target="_blank">2026-10-29</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Finally!!! 🎉🎉 ...</p>
-  - <a href="https://mastodon.social/@ryancheley/117524392852988734" target="_blank">2026-10-29</a>
   </blockquote>
 
 
