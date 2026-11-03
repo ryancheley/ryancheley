@@ -70,6 +70,11 @@
 
 
   <blockquote>
+  <p>D’Oh … Pin 3. I really should have known better ...</p>
+  - <a href="https://mastodon.social/@ryancheley/117552761905823848" target="_blank">2026-11-03</a>
+  </blockquote>
+
+  <blockquote>
   <p>🗺️ November 2, 2026<br />5/5 countries in 7/13 guesses<br />🟡🟢🟢🟡🟢<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/117546974287227511" target="_blank">2026-11-02</a>
   </blockquote>
@@ -77,11 +82,6 @@
   <blockquote>
   <p>Oof! I felt a little better after seeing how many other people had issues with Pin 1 … but Africa did me pretty dirty today. Off by 42km with first guess and 57km on second 😓 ...</p>
   - <a href="https://mastodon.social/@ryancheley/117544250422893319" target="_blank">2026-11-02</a>
-  </blockquote>
-
-  <blockquote>
-  <p>🗺️ October 31, 2026<br />5/5 countries in 5/13 guesses<br />🟢🟢🟢🟢🟢<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/117536525356060596" target="_blank">2026-10-31</a>
   </blockquote>
 
 
