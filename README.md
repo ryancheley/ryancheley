@@ -52,7 +52,7 @@
 <ul>
 
   <li><a href="tag:ryancheley.com,2026-10-29:/2026/10/29/atuin-the-magical-shell-tool/" target="_blank"><p>In part two of my series, "Learning on Leave" I spent some time going through the <a href="https://docs.atuin.sh/latest/">docs</a> for <a href="https://atuin.sh/">Atuin</a>. I even went down a rabbit hole of rolling my own sync server!</p>
-<h2>What is Atuin and why would I use it?</h2>
+<h2 id="what-is-atuin-and-why-would-i-use-it">What is Atuin and why would I use it?<a class="headerlink" href="https://ryancheley.com/feeds/all.rss.xml#what-is-atuin-and-why-would-i-use-it" title="Permanent link">&para;</a></h2>
 <p>Atuin is "Shell history supercharged". Per their <a href="https://atuin.sh/">website</a>:</p>
 <blockquote>
 <p>Sync …</p></blockquote></a> - 2026-10-29</li>
@@ -70,18 +70,18 @@
 
 
   <blockquote>
+  <p>🗺️ November 5, 2026<br />5/5 countries in 7/13 guesses<br />🟢🟢🟡🟢🟡<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/117564560774862646" target="_blank">2026-11-05</a>
+  </blockquote>
+
+  <blockquote>
+  <p>🗺️ November 4, 2026<br />5/5 countries in 8/13 guesses<br />🟢🟠🟢🟡🟢<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/117559148600352979" target="_blank">2026-11-04</a>
+  </blockquote>
+
+  <blockquote>
   <p>I’m still on leave because <a class="mention hashtag" href="https://mastodon.social/tags/FuckCancer" rel="tag">#<span>FuckCancer</span></a> but today is my 18th work anniversary. Not sure I would have believed when I started in late 2008 that I would get to this milestone … but here I am. It’s been a wild ride.</p>
   - <a href="https://mastodon.social/@ryancheley/117554904057715264" target="_blank">2026-11-03</a>
-  </blockquote>
-
-  <blockquote>
-  <p>D’Oh … Pin 3. I really should have known better ...</p>
-  - <a href="https://mastodon.social/@ryancheley/117552761905823848" target="_blank">2026-11-03</a>
-  </blockquote>
-
-  <blockquote>
-  <p>🗺️ November 2, 2026<br />5/5 countries in 7/13 guesses<br />🟡🟢🟢🟡🟢<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/117546974287227511" target="_blank">2026-11-02</a>
   </blockquote>
 
 
