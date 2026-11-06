@@ -70,6 +70,11 @@
 
 
   <blockquote>
+  <p>Nothing like being *really* close not once, but twice for 2 different pins! ...</p>
+  - <a href="https://mastodon.social/@ryancheley/117569933428370781" target="_blank">2026-11-06</a>
+  </blockquote>
+
+  <blockquote>
   <p>🗺️ November 5, 2026<br />5/5 countries in 7/13 guesses<br />🟢🟢🟡🟢🟡<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/117564560774862646" target="_blank">2026-11-05</a>
   </blockquote>
@@ -77,11 +82,6 @@
   <blockquote>
   <p>🗺️ November 4, 2026<br />5/5 countries in 8/13 guesses<br />🟢🟠🟢🟡🟢<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/117559148600352979" target="_blank">2026-11-04</a>
-  </blockquote>
-
-  <blockquote>
-  <p>I’m still on leave because <a class="mention hashtag" href="https://mastodon.social/tags/FuckCancer" rel="tag">#<span>FuckCancer</span></a> but today is my 18th work anniversary. Not sure I would have believed when I started in late 2008 that I would get to this milestone … but here I am. It’s been a wild ride.</p>
-  - <a href="https://mastodon.social/@ryancheley/117554904057715264" target="_blank">2026-11-03</a>
   </blockquote>
 
 
