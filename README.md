@@ -70,18 +70,18 @@
 
 
   <blockquote>
+  <p>🗺️ November 7, 2026<br />5/5 countries in 8/13 guesses<br />🟢🟡🟢🟢🟠<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/117575510397771969" target="_blank">2026-11-07</a>
+  </blockquote>
+
+  <blockquote>
+  <p class="quote-inline">RE: <a href="https://twitter.com/sound_hockey/status/2118774974387503304" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="ellipsis">twitter.com/sound_hockey/statu</span><span class="invisible">s/2118774974387503304</span></a></p><p>IYKYK!!</p>
+  - <a href="https://mastodon.social/@ryancheley/117571066925726043" target="_blank">2026-11-06</a>
+  </blockquote>
+
+  <blockquote>
   <p>Nothing like being *really* close not once, but twice for 2 different pins! ...</p>
   - <a href="https://mastodon.social/@ryancheley/117569933428370781" target="_blank">2026-11-06</a>
-  </blockquote>
-
-  <blockquote>
-  <p>🗺️ November 5, 2026<br />5/5 countries in 7/13 guesses<br />🟢🟢🟡🟢🟡<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/117564560774862646" target="_blank">2026-11-05</a>
-  </blockquote>
-
-  <blockquote>
-  <p>🗺️ November 4, 2026<br />5/5 countries in 8/13 guesses<br />🟢🟠🟢🟡🟢<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/117559148600352979" target="_blank">2026-11-04</a>
   </blockquote>
 
 
