@@ -51,14 +51,14 @@
 
 <ul>
 
+  <li><a href="tag:ryancheley.com,2026-11-09:/2026/11/09/using-opentofu-to-manage-your-infrastructure-as-code/" target="_blank"><p>In the <a href="https://github.com/django-commons">Django Commons</a> organization we use <a href="https://opentofu.org/">OpenTofu</a> to manage our Infrastructure as Code (IaC).</p>
+<p>While we have done this since the very beginning (though we initially started with <a href="https://developer.hashicorp.com/terraform">Terraform</a> instead of OpenTofu), I was always a bit unsure as to what is actually happening. I decided the best way …</p></a> - 2026-11-09</li>
+
   <li><a href="tag:ryancheley.com,2026-10-29:/2026/10/29/atuin-the-magical-shell-tool/" target="_blank"><p>In part two of my series, "Learning on Leave" I spent some time going through the <a href="https://docs.atuin.sh/latest/">docs</a> for <a href="https://atuin.sh/">Atuin</a>. I even went down a rabbit hole of rolling my own sync server!</p>
 <h2 id="what-is-atuin-and-why-would-i-use-it">What is Atuin and why would I use it?<a class="headerlink" href="https://ryancheley.com/feeds/all.rss.xml#what-is-atuin-and-why-would-i-use-it" title="Permanent link">&para;</a></h2>
 <p>Atuin is "Shell history supercharged". Per their <a href="https://atuin.sh/">website</a>:</p>
 <blockquote>
 <p>Sync …</p></blockquote></a> - 2026-10-29</li>
-
-  <li><a href="tag:ryancheley.com,2026-10-26:/2026/10/26/have-you-heard-the-good-news-about-just/" target="_blank"><p>Because of my current cancer treatment I'm on medical leave from work. I spend a LOT of my day resting, or doing very non-active things ...  like watching TV Shows. I'm currently binging <a href="https://en.wikipedia.org/wiki/Star_Trek:_Strange_New_Worlds">Star Trek: Strange New Worlds</a> and it's really good.</p>
-<p>In order to help stave off brain rot I …</p></a> - 2026-10-26</li>
 
 </ul>
 
@@ -70,18 +70,18 @@
 
 
   <blockquote>
-  <p>In case anyone was wondering what kind of bullshit was going on in Wordle Land for me today ...</p>
-  - <a href="https://mastodon.social/@ryancheley/117576064073621607" target="_blank">2026-11-07</a>
+  <p>Another week, another delay in treatment because my platelet count is still too low … 38 this week. Only 32 last week. At this rate, my platelets won’t be high enough for an infusion for 11 weeks (they need to be above 100). I sure hope my body figures this shit out soon <a class="mention hashtag" href="https://mastodon.social/tags/FuckCancer" rel="tag">#<span>FuckCancer</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/117587498688399339" target="_blank">2026-11-09</a>
   </blockquote>
 
   <blockquote>
-  <p>🗺️ November 7, 2026<br />5/5 countries in 8/13 guesses<br />🟢🟡🟢🟢🟠<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/117575510397771969" target="_blank">2026-11-07</a>
+  <p>The third post in my ‘Learnings on Leave’ series!  ...</p>
+  - <a href="https://mastodon.social/@ryancheley/117586855030096695" target="_blank">2026-11-09</a>
   </blockquote>
 
   <blockquote>
-  <p class="quote-inline">RE: <a href="https://twitter.com/sound_hockey/status/2118774974387503304" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="ellipsis">twitter.com/sound_hockey/statu</span><span class="invisible">s/2118774974387503304</span></a></p><p>IYKYK!!</p>
-  - <a href="https://mastodon.social/@ryancheley/117571066925726043" target="_blank">2026-11-06</a>
+  <p>I have no words for how poorly I did today. BUT … I still had fun ...</p>
+  - <a href="https://mastodon.social/@ryancheley/117584106180272947" target="_blank">2026-11-09</a>
   </blockquote>
 
 
