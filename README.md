@@ -70,18 +70,18 @@
 
 
   <blockquote>
+  <p>Pin 4 really got me today. EVERY country around it before I got the right answer 🤦🏻‍♂️ ...</p>
+  - <a href="https://mastodon.social/@ryancheley/117603959899151895" target="_blank">2026-11-12</a>
+  </blockquote>
+
+  <blockquote>
+  <p>🗺️ November 11, 2026<br />5/5 countries in 7/13 guesses<br />🟢🟢🟡🟢🟡<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/117601100944964947" target="_blank">2026-11-12</a>
+  </blockquote>
+
+  <blockquote>
   <p>🗺️ November 10, 2026<br />5/5 countries in 7/13 guesses<br />🟢🟢🟡🟡🟢<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/117592546498097286" target="_blank">2026-11-10</a>
-  </blockquote>
-
-  <blockquote>
-  <p>🗺️ November 9, 2026<br />5/5 countries in 8/13 guesses<br />🟢🟢🟢🟡🟠<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/117589376714761556" target="_blank">2026-11-10</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Another week, another delay in treatment because my platelet count is still too low … 38 this week. Only 32 last week. At this rate, my platelets won’t be high enough for an infusion for 11 weeks (they need to be above 100). I sure hope my body figures this shit out soon <a class="mention hashtag" href="https://mastodon.social/tags/FuckCancer" rel="tag">#<span>FuckCancer</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/117587498688399339" target="_blank">2026-11-09</a>
   </blockquote>
 
 
