@@ -70,18 +70,18 @@
 
 
   <blockquote>
+  <p>Pin 5 was tricky. i should have zoomed in a bit more but I thought, surely this must be country “X”!  ...</p>
+  - <a href="https://mastodon.social/@ryancheley/117620897176107279" target="_blank">2026-11-15</a>
+  </blockquote>
+
+  <blockquote>
+  <p>No it as good as yesterday, but still pretty OK<br />🗺️ November 14, 2026<br />5/5 countries in 8/13 guesses<br />🟢🟢🟡🟡🟡<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/117615714018839686" target="_blank">2026-11-14</a>
+  </blockquote>
+
+  <blockquote>
   <p>Been a while since I’ve gone 5 for 5! Feels pretty good 🎉 ...</p>
   - <a href="https://mastodon.social/@ryancheley/117609315649477287" target="_blank">2026-11-13</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Pin 4 really got me today. EVERY country around it before I got the right answer 🤦🏻‍♂️ ...</p>
-  - <a href="https://mastodon.social/@ryancheley/117603959899151895" target="_blank">2026-11-12</a>
-  </blockquote>
-
-  <blockquote>
-  <p>🗺️ November 11, 2026<br />5/5 countries in 7/13 guesses<br />🟢🟢🟡🟢🟡<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/117601100944964947" target="_blank">2026-11-12</a>
   </blockquote>
 
 
