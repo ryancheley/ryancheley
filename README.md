@@ -51,14 +51,11 @@
 
 <ul>
 
+  <li><a href="tag:ryancheley.com,2026-11-16:/2026/11/16/opentofu-builds-the-house-ansible-furnishes-it/" target="_blank"><p>If <a href="https://opentofu.org/">OpenTofu</a> is the thing that builds your infrastructure, <a href="https://docs.ansible.com/">Ansible</a> is the thing that configures it. While there is some overlap between the two, you should have each set of code do its own thing.</p>
+<p>I think about OpenTofu as the construction team that builds the house, while Ansible is …</p></a> - 2026-11-16</li>
+
   <li><a href="tag:ryancheley.com,2026-11-09:/2026/11/09/using-opentofu-to-manage-your-infrastructure-as-code/" target="_blank"><p>In the <a href="https://github.com/django-commons">Django Commons</a> organization we use <a href="https://opentofu.org/">OpenTofu</a> to manage our Infrastructure as Code (IaC).</p>
 <p>While we have done this since the very beginning (though we initially started with <a href="https://developer.hashicorp.com/terraform">Terraform</a> instead of OpenTofu), I was always a bit unsure as to what is actually happening. I decided the best way …</p></a> - 2026-11-09</li>
-
-  <li><a href="tag:ryancheley.com,2026-10-29:/2026/10/29/atuin-the-magical-shell-tool/" target="_blank"><p>In part two of my series, "Learning on Leave" I spent some time going through the <a href="https://docs.atuin.sh/latest/">docs</a> for <a href="https://atuin.sh/">Atuin</a>. I even went down a rabbit hole of rolling my own sync server!</p>
-<h2 id="what-is-atuin-and-why-would-i-use-it">What is Atuin and why would I use it?<a class="headerlink" href="https://ryancheley.com/feeds/all.rss.xml#what-is-atuin-and-why-would-i-use-it" title="Permanent link">&para;</a></h2>
-<p>Atuin is "Shell history supercharged". Per their <a href="https://atuin.sh/">website</a>:</p>
-<blockquote>
-<p>Sync …</p></blockquote></a> - 2026-10-29</li>
 
 </ul>
 
@@ -70,18 +67,18 @@
 
 
   <blockquote>
+  <p>The fourth post in my ‘Learnings on Leave’ series ...</p>
+  - <a href="https://mastodon.social/@ryancheley/117626521917748603" target="_blank">2026-11-16</a>
+  </blockquote>
+
+  <blockquote>
+  <p>🗺️ November 16, 2026<br />5/5 countries in 8/13 guesses<br />🟢🟢🟠🟡🟢<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/117626453773806471" target="_blank">2026-11-16</a>
+  </blockquote>
+
+  <blockquote>
   <p>Pin 5 was tricky. i should have zoomed in a bit more but I thought, surely this must be country “X”!  ...</p>
   - <a href="https://mastodon.social/@ryancheley/117620897176107279" target="_blank">2026-11-15</a>
-  </blockquote>
-
-  <blockquote>
-  <p>No it as good as yesterday, but still pretty OK<br />🗺️ November 14, 2026<br />5/5 countries in 8/13 guesses<br />🟢🟢🟡🟡🟡<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/117615714018839686" target="_blank">2026-11-14</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Been a while since I’ve gone 5 for 5! Feels pretty good 🎉 ...</p>
-  - <a href="https://mastodon.social/@ryancheley/117609315649477287" target="_blank">2026-11-13</a>
   </blockquote>
 
 
