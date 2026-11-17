@@ -21,7 +21,7 @@ jobs:
       - name: Update README.md
         run: uv run python build-readme.py
       - name: Commit changes
-        uses: stefanzweifel/git-auto-commit-action@v7.2.0
+        uses: stefanzweifel/git-auto-commit-action@v7.2.1
         with:
           commit_message: Update README.md
           file_pattern: README.md
