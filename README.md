@@ -67,6 +67,11 @@
 
 
   <blockquote>
+  <p>When you miss the first one like I did, it’s kind of not going to be a good day for country finding (at least for me). At least I almost had a symmetric pattern 🤷‍♂️ ...</p>
+  - <a href="https://mastodon.social/@ryancheley/117637929815383247" target="_blank">2026-11-18</a>
+  </blockquote>
+
+  <blockquote>
   <p>🗺️ November 17, 2026<br />5/5 countries in 6/13 guesses<br />🟢🟢🟢🟡🟢<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/117632269741606600" target="_blank">2026-11-17</a>
   </blockquote>
@@ -74,11 +79,6 @@
   <blockquote>
   <p>The fourth post in my ‘Learnings on Leave’ series ...</p>
   - <a href="https://mastodon.social/@ryancheley/117626521917748603" target="_blank">2026-11-16</a>
-  </blockquote>
-
-  <blockquote>
-  <p>🗺️ November 16, 2026<br />5/5 countries in 8/13 guesses<br />🟢🟢🟠🟡🟢<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/117626453773806471" target="_blank">2026-11-16</a>
   </blockquote>
 
 
