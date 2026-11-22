@@ -67,6 +67,11 @@
 
 
   <blockquote>
+  <p>🗺️ November 22, 2026<br />5/5 countries in 6/13 guesses<br />🟡🟢🟢🟢🟢<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/117660420500179752" target="_blank">2026-11-22</a>
+  </blockquote>
+
+  <blockquote>
   <p>I did not realize that the country for Pin 2 went that far north! ...</p>
   - <a href="https://mastodon.social/@ryancheley/117655325811415996" target="_blank">2026-11-21</a>
   </blockquote>
@@ -74,11 +79,6 @@
   <blockquote>
   <p>I think I really need to start focusing my learning on the Pacific islands ...</p>
   - <a href="https://mastodon.social/@ryancheley/117649606547523237" target="_blank">2026-11-20</a>
-  </blockquote>
-
-  <blockquote>
-  <p>🗺️ November 19, 2026<br />5/5 countries in 6/13 guesses<br />🟢🟢🟢🟢🟡<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/117643491121532977" target="_blank">2026-11-19</a>
   </blockquote>
 
 
