@@ -32,6 +32,8 @@
 
 <ul>
 
+  <li><a href="https://github.com/ryancheley/til/blob/main/macos/generate-plists.md" target="_blank">Generate plists for macOS</a> - 2026-11-22</li>
+
   <li><a href="https://github.com/ryancheley/til/blob/main/github/adding-a-public-key-via-the-command-line.md" target="_blank">Adding a Public Key via the Command Line</a> - 2026-10-29</li>
 
   <li><a href="https://github.com/ryancheley/til/blob/main/just/parallel.md" target="_blank">Run dependencies in parallel</a> - 2026-10-29</li>
@@ -39,8 +41,6 @@
   <li><a href="https://github.com/ryancheley/til/blob/main/just/shell-expanded-strings.md" target="_blank">Shell-expanded strings</a> - 2026-10-29</li>
 
   <li><a href="https://github.com/ryancheley/til/blob/main/just/default-list.md" target="_blank">default-list</a> - 2026-10-29</li>
-
-  <li><a href="https://github.com/ryancheley/til/blob/main/just/groups.md" target="_blank">Recipe groups</a> - 2026-10-29</li>
 
 </ul>
 
@@ -67,6 +67,11 @@
 
 
   <blockquote>
+  <p>🗺️ November 23, 2026<br />5/5 countries in 5/13 guesses<br />🟢🟢🟢🟢🟢<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
+  - <a href="https://mastodon.social/@ryancheley/117666414035598107" target="_blank">2026-11-23</a>
+  </blockquote>
+
+  <blockquote>
   <p>🗺️ November 22, 2026<br />5/5 countries in 6/13 guesses<br />🟡🟢🟢🟢🟢<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/117660420500179752" target="_blank">2026-11-22</a>
   </blockquote>
@@ -74,11 +79,6 @@
   <blockquote>
   <p>I did not realize that the country for Pin 2 went that far north! ...</p>
   - <a href="https://mastodon.social/@ryancheley/117655325811415996" target="_blank">2026-11-21</a>
-  </blockquote>
-
-  <blockquote>
-  <p>I think I really need to start focusing my learning on the Pacific islands ...</p>
-  - <a href="https://mastodon.social/@ryancheley/117649606547523237" target="_blank">2026-11-20</a>
   </blockquote>
 
 
