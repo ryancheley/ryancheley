@@ -67,6 +67,11 @@
 
 
   <blockquote>
+  <p>Not my best day, but that’s OK. It’s US Thanksgiving today 🦃🦃🦃 ...</p>
+  - <a href="https://mastodon.social/@ryancheley/117682847171200978" target="_blank">2026-11-26</a>
+  </blockquote>
+
+  <blockquote>
   <p>Central Asia has a way of getting me to guess 3 or 4 countries before getting the right one. Anyway, I’m sure this time is the time that it sticks in my head 🫠 ...</p>
   - <a href="https://mastodon.social/@ryancheley/117674273066993218" target="_blank">2026-11-25</a>
   </blockquote>
@@ -74,11 +79,6 @@
   <blockquote>
   <p>🗺️ November 23, 2026<br />5/5 countries in 5/13 guesses<br />🟢🟢🟢🟢🟢<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
   - <a href="https://mastodon.social/@ryancheley/117666414035598107" target="_blank">2026-11-23</a>
-  </blockquote>
-
-  <blockquote>
-  <p>🗺️ November 22, 2026<br />5/5 countries in 6/13 guesses<br />🟡🟢🟢🟢🟢<br /><a href="https://whereabouts.earth/daily/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="">whereabouts.earth/daily/</span><span class="invisible"></span></a><br /><a class="mention hashtag" href="https://mastodon.social/tags/Whereabouts" rel="tag">#<span>Whereabouts</span></a></p>
-  - <a href="https://mastodon.social/@ryancheley/117660420500179752" target="_blank">2026-11-22</a>
   </blockquote>
 
 
